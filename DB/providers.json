@@ -1,0 +1,104 @@
+[
+	{
+		"id": "nf",
+		"name": "Netflix",
+		"adult": false,
+		"icon": "/netflix_logo.jpg"
+	},
+	{
+		"id": "prime",
+		"name": "Prime Video",
+		"adult": false,
+		"icon": "/primevideo_logo.jpg"
+	},
+	{
+		"id": "hs",
+		"name": "Hotstar",
+		"adult": false,
+		"icon": "/hotstar_logo.jpg"
+	},
+	{
+		"id": "z5",
+		"name": "Zee5",
+		"adult": false,
+		"icon": "/zee5_logo.jpeg"
+	},
+	{
+		"id": "liv",
+		"name": "Sony LIV",
+		"adult": false,
+		"icon": "/sonyliv_logo.webp"
+	},
+	{
+		"id": "sunnxt",
+		"name": "SunNXT",
+		"adult": false,
+		"icon": "/sunnxt_logo.png"
+	},
+	{
+		"id": "jiocinema",
+		"name": "JioCinema",
+		"adult": false,
+		"icon": "/jiocinema_logo.png"
+	},
+	{
+		"id": "planetmarathi",
+		"name": "Planet Marathi",
+		"adult": false,
+		"icon": "/planetmarathi.webp"
+	},
+	{
+		"id": "aha",
+		"name": "Aha",
+		"adult": false,
+		"icon": "/aha_logo.png"
+	},
+	{
+		"id": "lionsgateplay",
+		"name": "Lionsgate Play",
+		"adult": false,
+		"icon": "/lionsgate_play.png"
+	},
+	{
+		"id": "mx",
+		"name": "MX Player",
+		"adult": false,
+		"icon": "/mxplayer_logo.png"
+	},
+	{
+		"id": "voot",
+		"name": "Voot",
+		"adult": false,
+		"icon": "/voot_logo.png"
+	},
+	{
+		"id": "altb",
+		"name": "ALT Balaji",
+		"adult": true,
+		"icon": "/alt_balaji_logo.png"
+	},
+	{
+		"id": "ullu",
+		"name": "ULLU",
+		"adult": true,
+		"icon": "/ullu_logo.jpg"
+	},
+	{
+		"id": "hotmx",
+		"name": "HotMX",
+		"adult": true,
+		"icon": "/hotmx_logo.webp"
+	},
+	{
+		"id": "kooku",
+		"name": "Kooku",
+		"adult": true,
+		"icon": "/kooku_logo.png"
+	},
+	{
+		"id": "feelit",
+		"name": "Feelit",
+		"adult": true,
+		"icon": "/feelit_logo.jpg"
+	}
+]
