@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "23-12-2022-11:50:12 AM",
+        "provider": "hs",
+        "tmdb": "215330",
+        "adult": false,
+        "contentId": "fall_anjali_hs",
+        "showName": "Fall",
+        "showLang": "Tamil, Hindi, Telugu, Kannada, Malayalam",
+        "showImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9477/1429477-v-4c6f37f48b10",
+        "showArt": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7868/1437868-h-6b60ce35465f",
+        "keywords": "fall web series, fall hotstar web series, hindi web series, tamil web series, telugu web series, malayalam web series, kannada web series, drama web series, mystery web series, thriller web series, anjali, s.p.b. charan, s p b charan, santhosh prathap, namita krishnamoorthy, sonia agarwal, poornima bhagyaraj, thalaivasal vijay, sastika rajendran, raj mohan, ajith koshy, nakkalites dhanam,",
+        "showGenre": "Drama, Mystery, Thriller",
+        "showStory": "A memory loss leads to the unravelling of several mysteries. None to be trusted, yet deep secrets within."
+    },
+	{
         "dateAdded": "23-12-2022-03:00:12 AM",
         "provider": "ullu",
         "tmdb": "",
