@@ -1,7 +1,7 @@
 [
 	{
       "dateAdded":"25-12-2022-09:20:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"1033878",
       "adult":false,
       "id":"taravsbilal2022",
@@ -21,7 +21,7 @@
 	},
 	{
       "dateAdded":"23-12-2022-03:20:57 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"931132",
       "adult":false,
       "id":"jayax3hey_2022",
@@ -41,7 +41,7 @@
 	},
 	{
       "dateAdded":"23-12-2022-01:20:57 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"1062902",
       "adult":false,
       "id":"shadyantra_hi",
@@ -61,7 +61,7 @@
 	},
 	{
       "dateAdded":"23-12-2022-01:12:57 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"882397",
       "adult":false,
       "id":"naaisekarreturns_2022_hi",
@@ -81,7 +81,7 @@
 	},
 	{
       "dateAdded":"23-12-2022-01:11:50 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"882397",
       "adult":false,
       "id":"naaisekarreturns_2022",
@@ -101,7 +101,7 @@
 	},
 	{
       "dateAdded":"23-12-2022-01:11:57 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"866313",
       "adult":false,
       "id":"googlekuttappan_2022",
@@ -121,7 +121,7 @@
 	},
 	{
       "dateAdded":"23-12-2022-01:10:57 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"901220",
       "adult":false,
       "id":"sivudu_2022",
@@ -141,7 +141,7 @@
 	},
 	{
       "dateAdded":"23-12-2022-11:00:57 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"413543",
       "adult":false,
       "id":"dearzindagi_hi",
@@ -161,7 +161,7 @@
 	},
 	{
       "dateAdded":"23-12-2022-03:00:57 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"726207",
       "adult":false,
       "id":"phonebhoot_hi",
@@ -181,7 +181,7 @@
 	},
 	{
       "dateAdded":"20-12-2022-09:40:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"860751",
       "adult":false,
       "id":"roy_ml_hi",
@@ -201,7 +201,7 @@
 	},
 	{
       "dateAdded":"20-12-2022-09:30:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"521714",
       "adult":false,
       "id":"yatra_te_hi",
@@ -221,7 +221,7 @@
 	},
 	{
       "dateAdded":"16-12-2022-09:30:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"1021166",
       "adult":false,
       "id":"codenametiranga_hi",
@@ -241,7 +241,7 @@
 	},
 	{
       "dateAdded":"16-12-2022-09:00:51 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"663457",
       "adult":false,
       "id":"govindanaammera_hi",
@@ -261,7 +261,7 @@
 	},
 	{
       "dateAdded":"13-12-2022-01:30:51 AM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"1033866",
       "adult":false,
       "id":"urvasivorakshasivo_te",
@@ -281,7 +281,7 @@
 	},
 	{
       "dateAdded":"13-12-2022-12:50:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"778625",
       "adult":true,
       "id":"doctorg_hi",
@@ -301,7 +301,7 @@
 	},
 	{
       "dateAdded":"12-12-2022-10:10:00 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"891010",
       "adult":false,
       "id":"macherlaniyojakavargam_te_hi",
@@ -321,7 +321,7 @@
 	},
 	{
       "dateAdded":"10-12-2022-08:11:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"1032616",
       "adult":false,
       "id":"harharmahadev_mr",
@@ -341,7 +341,7 @@
 	},
 	{
       "dateAdded":"10-12-2022-08:10:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"1032616",
       "adult":false,
       "id":"harharmahadev_hi_dubbed",
@@ -361,7 +361,7 @@
 	},
 	{
       "dateAdded":"10-12-2022-08:00:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"850837",
       "adult":true,
       "id":"blurr_hi",
@@ -381,7 +381,7 @@
 	},
 	{
       "dateAdded":"09-12-2022-10:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"1059349",
       "adult":false,
       "id":"baalbhaarti_mr",
@@ -401,7 +401,7 @@
 	},
 	{
       "dateAdded":"09-12-2022-09:20:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"881983",
       "adult":false,
       "id":"salaamvenky_hi",
@@ -421,7 +421,7 @@
 	},
 	{
       "dateAdded":"09-12-2022-09:20:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"1024350",
       "adult":false,
       "id":"daman_or",
@@ -441,7 +441,7 @@
 	},
 	{
       "dateAdded":"09-12-2022-08:40:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"783723",
       "adult":false,
       "id":"thankgod_hi",
@@ -461,7 +461,7 @@
 	},
 	{
       "dateAdded":"09-12-2022-01:40:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"858485",
       "adult":false,
       "id":"kantara_hi",
@@ -481,7 +481,7 @@
 	},
 	{
       "dateAdded":"09-12-2022-12:50:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"900222",
       "adult":false,
       "id":"yashoda2022_multi",
@@ -501,7 +501,7 @@
 	},
 	{
       "dateAdded":"09-12-2022-12:30:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"903142",
       "adult":true,
       "id":"thaggedhele_te",
@@ -521,7 +521,7 @@
 	},
 	{
       "dateAdded":"08-12-2022-11:30:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"339043",
       "adult":false,
       "id":"beebaboys_hi",
@@ -541,7 +541,7 @@
 	},
 	{
       "dateAdded":"03-12-2022-11:30:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"1026792",
       "adult":false,
       "id":"nazarandaaz_hi",
@@ -561,7 +561,7 @@
 	},
 	{
       "dateAdded":"03-12-2022-12:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"896166",
       "adult":false,
       "id":"monster_malayalam",
@@ -581,7 +581,7 @@
 	},
 	{
       "dateAdded":"03-12-2022-09:30:51 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"882826",
       "adult":false,
       "id":"anactionhero_hi",
@@ -601,7 +601,7 @@
 	},
 	{
       "dateAdded":"02-12-2022-11:20:51 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"788348",
       "adult":false,
       "id":"indialockdown_z5_hi",
@@ -621,7 +621,7 @@
 	},
 	{
       "dateAdded":"02-12-2022-11:00:51 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"1041054",
       "adult":false,
       "id":"freddy2022_hi",
@@ -641,7 +641,7 @@
 	},
 	{
       "dateAdded":"02-12-2022-10:50:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"817866",
       "adult":false,
       "id":"goodbye_hi",
@@ -661,7 +661,7 @@
 	},
 	{
       "dateAdded":"01-12-2022-09:00:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"436270",
       "adult":false,
       "id":"blackadam_multi",
@@ -681,7 +681,7 @@
 	},
 	{
       "dateAdded":"01-12-2022-08:50:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"764081",
       "adult":false,
       "id":"ramsetu_hi",
@@ -701,7 +701,7 @@
 	},
 	{
       "dateAdded":"01-12-2022-08:00:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"1054569",
       "adult":true,
       "id":"tathastuzakirkhan_hi",
@@ -721,7 +721,7 @@
 	},
 	{
       "dateAdded":"01-12-2022-05:30:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"934419",
       "adult":false,
       "id":"qala_2022_nf",
@@ -741,7 +741,7 @@
 	},
 	{
       "dateAdded":"01-12-2022-04:10:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"736526",
       "adult":false,
       "id":"troll_2022_en_hi",
@@ -761,7 +761,7 @@
 	},
 	{
       "dateAdded":"30-11-2022-08:10:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"873126",
       "adult":false,
       "id":"mynameisvendetta_en_hi",
@@ -781,7 +781,7 @@
 	},
 	{
       "dateAdded":"30-11-2022-08:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"sunny_mr",
@@ -801,7 +801,7 @@
 	},
 	{
       "dateAdded":"28-11-2022-08:50:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"693838",
       "adult":false,
       "id":"indookijawani_hi",
@@ -821,7 +821,7 @@
 	},
 	{
       "dateAdded":"28-11-2022-08:30:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"501987",
       "adult":false,
       "id":"bharatanenenu_te_hi",
@@ -841,7 +841,7 @@
 	},
 	{
       "dateAdded":"28-11-2022-08:10:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"388333",
       "adult":false,
       "id":"msdhonitheuntoldstory_hi",
@@ -861,7 +861,7 @@
 	},
 	{
       "dateAdded":"28-11-2022-07:30:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"85053",
       "adult":true,
       "id":"jannat2_2012_hi",
@@ -881,7 +881,7 @@
 	},
 	{
       "dateAdded":"28-11-2022-07:10:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"25510",
       "adult":false,
       "id":"jannat_2008_hi",
@@ -901,7 +901,7 @@
 	},
 	{
       "dateAdded":"27-11-2022-11:50:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"505642",
       "adult":false,
       "id":"blackpantherwakandaforever_2022",
@@ -921,7 +921,7 @@
 	},
 	{
       "dateAdded":"27-11-2022-10:50:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"531597",
       "adult":false,
       "id":"satyamevajayate_hi",
@@ -941,7 +941,7 @@
 	},
 	{
       "dateAdded":"27-11-2022-01:30:00 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"21502",
       "adult":false,
       "id":"satya_hi_1998",
@@ -961,7 +961,7 @@
 	},
 	{
       "dateAdded":"27-11-2022-12:20:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"1029948",
       "adult":false,
       "id":"bhirkit_mr",
@@ -981,7 +981,7 @@
 	},
 	{
       "dateAdded":"27-11-2022-11:30:00 AM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"937036",
       "adult":false,
       "id":"djtillu_te_2022",
@@ -1001,7 +1001,7 @@
 	},
 	{
       "dateAdded":"27-11-2022-11:20:51 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"757545",
       "adult":false,
       "id":"mookuthiamman_ta_hi",
@@ -1021,7 +1021,7 @@
 	},
 	{
       "dateAdded":"26-11-2022-11:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"883125",
       "adult":true,
       "id":"chup_hi",
@@ -1041,7 +1041,7 @@
 	},
 	{
       "dateAdded":"26-11-2022-11:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"799177",
       "adult":false,
       "id":"bhediya_hi",
@@ -1061,7 +1061,7 @@
 	},
 	{
       "dateAdded":"26-11-2022-10:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"1029827",
       "adult":false,
       "id":"drishyam2_hi_ajay",
@@ -1081,7 +1081,7 @@
 	},
 	{
       "dateAdded":"26-11-2022-07:30:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"821494",
       "adult":false,
       "id":"lastfilmshow_gu_hi",
@@ -1101,7 +1101,7 @@
 	},
 	{
       "dateAdded":"24-11-2022-12:10:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"1049611",
       "adult":false,
       "id":"aapdithaapdi_mr",
@@ -1121,7 +1121,7 @@
 	},
 	{
       "dateAdded":"24-11-2022-11:20:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"858485",
       "adult":false,
       "id":"kantara_multi",
@@ -1141,7 +1141,7 @@
 	},
 	{
       "dateAdded":"22-11-2022-10:30:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"579974",
       "adult":false,
       "id":"rrr_hi",
@@ -1161,7 +1161,7 @@
 	},
 	{
       "dateAdded":"22-11-2022-10:10:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"690957",
       "adult":false,
       "id":"pushpatherisehindi",
@@ -1181,7 +1181,7 @@
 	},
 	{
       "dateAdded":"22-11-2022-10:05:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"587412",
       "adult":false,
       "id":"kgf2_hi_kn",
@@ -1201,7 +1201,7 @@
 	},
 	{
       "dateAdded":"22-11-2022-10:00:00 PM",
-      "providers":"prime, voot",
+      "provider":"prime, voot",
       "tmdb":"564147",
       "adult":false,
       "id":"kgfchapter1_kn_hi",
@@ -1221,7 +1221,7 @@
 	},
 	{
       "dateAdded":"21-11-2022-10:30:51 PM",
-      "providers":"planetmarathi",
+      "provider":"planetmarathi",
       "tmdb":"1003244",
       "adult":false,
       "id":"sumi_mr",
@@ -1241,7 +1241,7 @@
 	},
 	{
       "dateAdded":"21-11-2022-10:20:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"1032627",
       "adult":false,
       "id":"lovetoday_ta_hi",
@@ -1261,7 +1261,7 @@
 	},
 	{
       "dateAdded":"21-11-2022-10:10:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"791272",
       "adult":false,
       "id":"kabadadaari_ta_hi",
@@ -1281,7 +1281,7 @@
 	},
 	{
       "dateAdded":"21-11-2022-10:00:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"835761",
       "adult":false,
       "id":"pathonpathamnoottandu_te_hi",
@@ -1301,7 +1301,7 @@
 	},
 	{
       "dateAdded":"21-11-2022-09:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"791303",
       "adult":false,
       "id":"seetimaarr_te_hi",
@@ -1321,7 +1321,7 @@
 	},
 	{
       "dateAdded":"21-11-2022-11:15:51 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"927909",
       "adult":false,
       "id":"thewarriorr_te_hi",
@@ -1341,7 +1341,7 @@
 	},
 	{
       "dateAdded":"20-11-2022-05:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"896440",
       "adult":false,
       "id":"keedam_ml_hi",
@@ -1361,7 +1361,7 @@
 	},
 	{
       "dateAdded":"19-11-2022-07:40:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"863931",
       "adult":false,
       "id":"godfather2022_hi",
@@ -1381,7 +1381,7 @@
 	},
 	{
       "dateAdded":"19-11-2022-07:20:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"1005581",
       "adult":false,
       "id":"dhokharounddcorner_hi",
@@ -1401,7 +1401,7 @@
 	},
 	{
       "dateAdded":"18-11-2022-10:10:57 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"894803",
       "adult":false,
       "id":"sitaramam_hi",
@@ -1421,7 +1421,7 @@
 	},
 	{
       "dateAdded":"16-11-2022-06:50:00 PM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"282626",
       "adult":false,
       "id":"parameshapanwala_kn",
@@ -1441,7 +1441,7 @@
 	},
 	{
       "dateAdded":"14-11-2022-10:10:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"852357",
       "adult":false,
       "id":"hero_te_hi",
@@ -1461,7 +1461,7 @@
 	},
 	{
       "dateAdded":"14-11-2022-08:50:51 PM",
-      "providers":"nf,aha",
+      "provider":"nf,aha",
       "tmdb":"891473",
       "adult":false,
       "id":"pakkacommercial_te_hi",
@@ -1481,7 +1481,7 @@
    },
 	{
       "dateAdded":"13-11-2022-11:30:10 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"323517",
       "adult":false,
       "id":"badlapur_hi",
@@ -1501,7 +1501,7 @@
 	},
 	{
       "dateAdded":"13-11-2022-01:00:10 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"thankyouvitthala_mr",
@@ -1521,7 +1521,7 @@
 	},
 	{
       "dateAdded":"13-11-2022-11:30:10 AM",
-      "providers":"voot",
+      "provider":"voot",
       "tmdb":"240614",
       "adult":false,
       "id":"rrajkumar_hi_movie",
@@ -1541,7 +1541,7 @@
 	},
 	{
       "dateAdded":"13-11-2022-11:20:00 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"439057",
       "adult":false,
       "id":"nenulocal_te_hi",
@@ -1561,7 +1561,7 @@
 	},
 	{
       "dateAdded":"12-11-2022-11:55:00 PM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"97342",
       "adult":false,
       "id":"vedam_te_hi",
@@ -1581,7 +1581,7 @@
 	},
 	{
       "dateAdded":"12-11-2022-11:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"12259",
       "adult":false,
       "id":"sholay_hi",
@@ -1601,7 +1601,7 @@
 	},
 	{
       "dateAdded":"12-11-2022-11:40:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"804005",
       "adult":false,
       "id":"silencecanyouhearit_hi",
@@ -1621,7 +1621,7 @@
 	},
 	{
       "dateAdded":"12-11-2022-08:50:51 PM",
-      "providers":"nf,appletv",
+      "provider":"nf,appletv",
       "tmdb":"102632",
       "adult":false,
       "id":"rowdyrathore_hi",
@@ -1641,7 +1641,7 @@
 	},
 	{
       "dateAdded":"12-11-2022-06:15:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"915831",
       "adult":false,
       "id":"monicaomydarling_hi",
@@ -1661,7 +1661,7 @@
 	},
 	{
       "dateAdded":"11-11-2022-02:45:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"891445",
       "adult":false,
       "id":"bimbisara_te_hi",
@@ -1681,7 +1681,7 @@
 	},
 	{
       "dateAdded":"11-11-2022-02:00:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"660046",
       "adult":false,
       "id":"ponniyinselvan_hi",
@@ -1701,7 +1701,7 @@
 	},
 	{
       "dateAdded":"10-11-2022-08:00:57 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"shivpratapgarudjhep_mr",
@@ -1721,7 +1721,7 @@
    },
    {
       "dateAdded":"09-11-2022-09:40:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"479491",
       "adult":false,
       "id":"galiguleiyan_hi",
@@ -1741,7 +1741,7 @@
    },
    {
       "dateAdded":"08-11-2022-03:00:57 PM",
-      "providers":"hs,prime,shemaroo",
+      "provider":"hs,prime,shemaroo",
       "tmdb":"19418",
       "adult":false,
       "id":"dhol_hi",
@@ -1761,7 +1761,7 @@
    },
    {
       "dateAdded":"08-11-2022-03:00:57 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"928618",
       "adult":false,
       "id":"standuprahul_te_hi",
@@ -1781,7 +1781,7 @@
    },
    {
       "dateAdded":"07-11-2022-05:50:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"804277",
       "adult":false,
       "id":"godse_te_hi",
@@ -1801,7 +1801,7 @@
    },
    {
       "dateAdded":"06-11-2022-11:59:57 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"908397",
       "adult":false,
       "id":"mili_hi",
@@ -1821,7 +1821,7 @@
    },
    {
       "dateAdded":"06-11-2022-11:55:57 PM",
-      "providers":"mojflix",
+      "provider":"mojflix",
       "tmdb":"",
       "adult":true,
       "id":"sexynight_hi_shortfilm",
@@ -1841,7 +1841,7 @@
    },
    {
       "dateAdded":"06-11-2022-11:45:57 PM",
-      "providers":"mojflix",
+      "provider":"mojflix",
       "tmdb":"",
       "adult":true,
       "id":"pagal_hi_shortfilm",
@@ -1861,7 +1861,7 @@
    },
    {
       "dateAdded":"04-11-2022-08:38:57 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"449627",
       "adult":false,
       "id":"tadka_hi",
@@ -1881,7 +1881,7 @@
    },
    {
       "dateAdded":"04-11-2022-07:25:57 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"496331",
       "adult":false,
       "id":"brahmastra_hi",
@@ -1901,7 +1901,7 @@
    },
    {
       "dateAdded":"04-11-2022-07:23:57 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"922690",
       "adult":false,
       "id":"prince_ta_hi",
@@ -1921,7 +1921,7 @@
    },
    {
       "dateAdded":"04-11-2022-07:20:57 PM",
-      "providers":"prime,lionsgateplay",
+      "provider":"prime,lionsgateplay",
       "tmdb":"586753",
       "adult":false,
       "id":"suryakantham_te_hi",
@@ -1941,7 +1941,7 @@
    },
    {
       "dateAdded":"04-11-2022-07:15:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"465099",
       "adult":false,
       "id":"ninnukori_te_hi",
@@ -1961,7 +1961,7 @@
    },
    {
       "dateAdded":"01-11-2022-09:20:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"479660",
       "adult":false,
       "id":"srivalli_te_hi",
@@ -1980,7 +1980,7 @@
    },
    {
       "dateAdded":"31-10-2022-09:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"1041319",
       "adult":false,
       "id":"gandhadagudi_kn",
@@ -1999,7 +1999,7 @@
    },
    {
       "dateAdded":"31-10-2022-07:20:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"shivarjuna_hi_dubbed",
@@ -2018,7 +2018,7 @@
    },
    {
       "dateAdded":"31-10-2022-06:15:51 PM",
-      "providers":"aha, hs",
+      "provider":"aha, hs",
       "tmdb":"811942",
       "adult":false,
       "id":"bheemlanayak_te_hi",
@@ -2037,7 +2037,7 @@
    },
    {
       "dateAdded":"30-10-2022-08:50:51 PM",
-      "providers":"feelit",
+      "provider":"feelit",
       "tmdb":"",
       "adult":true,
       "id":"bestfriend_feelit",
@@ -2057,7 +2057,7 @@
    },
    {
       "dateAdded":"29-10-2022-09:30:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"885272",
       "adult":false,
       "id":"appan_ml_hi",
@@ -2077,7 +2077,7 @@
    },
    {
       "dateAdded":"28-10-2022-09:20:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"649960",
       "adult":false,
       "id":"tholubommalata_te_hi",
@@ -2097,7 +2097,7 @@
    },
    {
       "dateAdded":"28-10-2022-09:00:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"785664",
       "adult":false,
       "id":"naanevaruvean_ta_hi",
@@ -2117,7 +2117,7 @@
    },
    {
       "dateAdded":"28-10-2022-08:30:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"660046",
       "adult":false,
       "id":"ponniyinselvan_multi",
@@ -2137,7 +2137,7 @@
    },
    {
       "dateAdded":"28-10-2022-08:20:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"663174",
       "adult":false,
       "id":"v1murdercase_ta_hi",
@@ -2157,7 +2157,7 @@
    },
    {
       "dateAdded":"28-10-2022-07:00:51 PM",
-      "providers":"vivamax",
+      "provider":"vivamax",
       "tmdb":"1029446",
       "adult":true,
       "id":"selinasgold_tagalog",
@@ -2177,7 +2177,7 @@
    },
    {
       "dateAdded":"26-10-2022-01:20:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"884909",
       "adult":false,
       "id":"pellisandad",
@@ -2197,7 +2197,7 @@
    },
    {
       "dateAdded":"24-10-2022-10:20:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"563309",
       "adult":false,
       "id":"bigil_ta_hi",
@@ -2217,7 +2217,7 @@
    },
    {
       "dateAdded":"24-10-2022-08:40:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"799676",
       "adult":false,
       "id":"shyamsingharoy_hi",
@@ -2237,7 +2237,7 @@
    },
    {
       "dateAdded":"24-10-2022-08:30:00 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"799676",
       "adult":false,
       "id":"shyamsingharoy_multi",
@@ -2257,7 +2257,7 @@
    },
    {
       "dateAdded":"23-10-2022-05:45:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"801505",
       "adult":false,
       "id":"varudukaavalenu_te_hi",
@@ -2277,7 +2277,7 @@
    },
    {
       "dateAdded":"23-10-2022-05:44:51 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"797967",
       "adult":false,
       "id":"naandhi_te_hi",
@@ -2297,7 +2297,7 @@
    },
    {
       "dateAdded":"23-10-2022-05:42:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"1037393",
       "adult":false,
       "id":"okeokajeevitham_hi",
@@ -2317,7 +2317,7 @@
    },
    {
       "dateAdded":"23-10-2022-05:41:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"888319",
       "adult":false,
       "id":"okeokajeevitham_ta_ml",
@@ -2337,7 +2337,7 @@
    },
    {
       "dateAdded":"23-10-2022-05:40:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"1037393",
       "adult":false,
       "id":"okeokajeevitham_te_kn",
@@ -2357,7 +2357,7 @@
    },
    {
       "dateAdded":"23-10-2022-05:36:51 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"1018195",
       "adult":false,
       "id":"firstdayfirstshow_te_hi",
@@ -2377,7 +2377,7 @@
    },
    {
       "dateAdded":"22-10-2022-01:10:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"999696",
       "adult":false,
       "id":"ginna_te",
@@ -2397,7 +2397,7 @@
    },
    {
       "dateAdded":"22-10-2022-10:30:51 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"999696",
       "adult":false,
       "id":"ginnabhai_hi",
@@ -2417,7 +2417,7 @@
    },
    {
       "dateAdded":"21-10-2022-01:20:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"1025472",
       "adult":false,
       "id":"boyz3_mr",
@@ -2437,7 +2437,7 @@
    },
    {
       "dateAdded":"21-10-2022-01:15:00 PM",
-      "providers":"prime,liv",
+      "provider":"prime,liv",
       "tmdb":"553979",
       "adult":false,
       "id":"boyz2_mr",
@@ -2456,7 +2456,7 @@
    },
    {
       "dateAdded":"21-10-2022-01:00:57 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"787163",
       "adult":false,
       "id":"liger_hi",
@@ -2476,7 +2476,7 @@
    },
    {
       "dateAdded":"21-10-2022-12:55:57 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"787163",
       "adult":false,
       "id":"liger_multi",
@@ -2496,7 +2496,7 @@
    },
    {
       "dateAdded":"21-10-2022-12:30:29 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"706872",
       "adult":false,
       "id":"drishyam2_ml_hi",
@@ -2515,7 +2515,7 @@
    },
    {
       "dateAdded":"20-10-2022-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"33457",
       "adult":false,
       "id":"nayaktherealhero_hi",
@@ -2535,7 +2535,7 @@
    },
    {
       "dateAdded":"19-10-2022-08:00:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"890107",
       "adult":false,
       "id":"atithidevobhava_te_hi",
@@ -2555,7 +2555,7 @@
    },
    {
       "dateAdded":"19-10-2022-07:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"968732",
       "adult":false,
       "id":"ammu_2022_multi",
@@ -2575,7 +2575,7 @@
    },
    {
       "dateAdded":"19-10-2022-05:03:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"472123",
       "adult":false,
       "id":"golmaalagain_hi",
@@ -2595,7 +2595,7 @@
    },
    {
       "dateAdded":"19-10-2022-05:02:51 PM",
-      "providers":"prime, jiocinema, erosnow",
+      "provider":"prime, jiocinema, erosnow",
       "tmdb":"44978",
       "adult":false,
       "id":"golmaal3_hi",
@@ -2615,7 +2615,7 @@
    },
    {
       "dateAdded":"19-10-2022-05:01:51 PM",
-      "providers":"prime, shemaroo",
+      "provider":"prime, shemaroo",
       "tmdb":"19670",
       "adult":false,
       "id":"golmaalreturns_hi",
@@ -2635,7 +2635,7 @@
    },
    {
       "dateAdded":"19-10-2022-05:00:51 PM",
-      "providers":"prime, shemaroo",
+      "provider":"prime, shemaroo",
       "tmdb":"19670",
       "adult":false,
       "id":"golmaalfununlimited",
@@ -2655,7 +2655,7 @@
    },
    {
       "dateAdded":"16-10-2022-11:40:51 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"673692",
       "adult":false,
       "id":"doctortamil_hi",
@@ -2675,7 +2675,7 @@
    },
    {
       "dateAdded":"16-10-2022-11:30:51 AM",
-      "providers":"nf,sunnxt",
+      "provider":"nf,sunnxt",
       "tmdb":"673692",
       "adult":false,
       "id":"doctor_ta",
@@ -2695,7 +2695,7 @@
    },
    {
       "dateAdded":"15-10-2022-12:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"796207",
       "adult":false,
       "id":"dobaaraa_hi",
@@ -2715,7 +2715,7 @@
    },
    {
       "dateAdded":"14-10-2022-04:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"950082",
       "adult":false,
       "id":"palthujanwar_ml_hi",
@@ -2735,7 +2735,7 @@
    },
    {
       "dateAdded":"11-10-2022-11:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"siimaawards2022_ta",
@@ -2755,7 +2755,7 @@
    },
    {
       "dateAdded":"11-10-2022-04:00:51 PM",
-      "providers":"jiocinema, z5, erosnow",
+      "provider":"jiocinema, z5, erosnow",
       "tmdb":"27298",
       "adult":false,
       "id":"partner_hi",
@@ -2775,7 +2775,7 @@
    },
    {
       "dateAdded":"11-10-2022-10:45:51 AM",
-      "providers":"hungamaplay",
+      "provider":"hungamaplay",
       "tmdb":"125835",
       "adult":false,
       "id":"julayi_te_hi",
@@ -2795,7 +2795,7 @@
    },
    {
       "dateAdded":"09-10-2022-09:55:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"988988",
       "adult":true,
       "id":"judaahokebhi_hi",
@@ -2815,7 +2815,7 @@
    },
    {
       "dateAdded":"08-10-2022-05:33:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"hindutva_hi",
@@ -2835,7 +2835,7 @@
    },
    {
       "dateAdded":"08-10-2022-05:33:48 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"168114",
       "adult":true,
       "id":"murder3_hi",
@@ -2855,7 +2855,7 @@
    },
    {
       "dateAdded":"08-10-2022-05:33:47 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"69775",
       "adult":true,
       "id":"murder2_hi",
@@ -2875,7 +2875,7 @@
    },
    {
       "dateAdded":"08-10-2022-05:33:46 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"20534",
       "adult":true,
       "id":"murder_hi",
@@ -2895,7 +2895,7 @@
    },
    {
       "dateAdded":"08-10-2022-05:33:45 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"517508",
       "adult":false,
       "id":"hellogurupremakosame_te_hi",
@@ -2915,7 +2915,7 @@
    },
    {
       "dateAdded":"07-10-2022-07:10:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"976783",
       "adult":false,
       "id":"dharmaveer_hi",
@@ -2935,7 +2935,7 @@
    },
    {
       "dateAdded":"07-10-2022-07:05:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"976783",
       "adult":false,
       "id":"dharmaveer_mr",
@@ -2955,7 +2955,7 @@
    },
    {
       "dateAdded":"06-10-2022-02:55:32 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"22717",
       "adult":false,
       "id":"wanted_hi",
@@ -2975,7 +2975,7 @@
    },
    {
       "dateAdded":"06-10-2022-07:45:32 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"475854",
       "adult":true,
       "id":"bapass3_hi",
@@ -2995,7 +2995,7 @@
    },
    {
       "dateAdded":"06-10-2022-07:41:32 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"475854",
       "adult":true,
       "id":"bapass2_hi",
@@ -3015,7 +3015,7 @@
    },
    {
       "dateAdded":"06-10-2022-07:40:32 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"222951",
       "adult":true,
       "id":"bapass_hi",
@@ -3035,7 +3035,7 @@
    },
    {
       "dateAdded":"06-10-2022-07:25:39 AM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"799991",
       "adult":false,
       "id":"a1express_te_hi",
@@ -3055,7 +3055,7 @@
    },
    {
       "dateAdded":"06-10-2022-06:34:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"601635",
       "adult":false,
       "id":"laalsinghchaddha_hi",
@@ -3075,7 +3075,7 @@
    },
    {
       "dateAdded":"05-10-2022-11:40:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"863931",
       "adult":false,
       "id":"godfather2022_te",
@@ -3095,7 +3095,7 @@
    },
    {
       "dateAdded":"05-10-2022-10:55:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"969797",
       "adult":false,
       "id":"majama_hi",
@@ -3115,7 +3115,7 @@
    },
    {
       "dateAdded":"05-10-2022-06:55:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"729700",
       "adult":false,
       "id":"rakshabandhan_hi",
@@ -3135,7 +3135,7 @@
    },
    {
       "dateAdded":"05-10-2022-06:05:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"894762",
       "adult":false,
       "id":"karthikeya2_ta",
@@ -3155,7 +3155,7 @@
    },
    {
       "dateAdded":"05-10-2022-06:00:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"894762",
       "adult":false,
       "id":"karthikeya2_te",
@@ -3175,7 +3175,7 @@
    },
    {
       "dateAdded":"05-10-2022-12:50:51 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"894762",
       "adult":false,
       "id":"karthikeya2_hi",
@@ -3195,7 +3195,7 @@
    },
    {
       "dateAdded":"04-10-2022-11:40:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"829675",
       "adult":false,
       "id":"eesho_2022_multi",
@@ -3215,7 +3215,7 @@
    },
    {
       "dateAdded":"04-10-2022-02:20:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"363178",
       "adult":false,
       "id":"thoongaavanam_ta_hi",
@@ -3235,7 +3235,7 @@
    },
    {
       "dateAdded":"04-10-2022-09:05:51 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"851783",
       "adult":false,
       "id":"vikramvedha_hi",
@@ -3255,7 +3255,7 @@
    },
    {
       "dateAdded":"04-10-2022-09:00:51 AM",
-      "providers":"hs, z5",
+      "provider":"hs, z5",
       "tmdb":"432139",
       "adult":false,
       "id":"vikramvedha_ta_hi",
@@ -3275,7 +3275,7 @@
    },
    {
       "dateAdded":"03-10-2022-07:20:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"934772",
       "adult":false,
       "id":"rangarangavaibhavanga_te_hi",
@@ -3295,7 +3295,7 @@
    },
    {
       "dateAdded":"03-10-2022-02:20:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"1018220",
       "adult":false,
       "id":"planaplanb_hi",
@@ -3315,7 +3315,7 @@
    },
    {
       "dateAdded":"03-10-2022-01:20:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"634120",
       "adult":false,
       "id":"777charlie_hi",
@@ -3335,7 +3335,7 @@
    },
    {
       "dateAdded":"26-09-2022-04:50:57 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"899705",
       "adult":false,
       "id":"captain2022_ta_hi",
@@ -3355,7 +3355,7 @@
    },
    {
       "dateAdded":"26-09-2022-10:18:57 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"503356",
       "adult":false,
       "id":"viswasam_ta_hi",
@@ -3375,7 +3375,7 @@
    },
    {
       "dateAdded":"25-09-2022-11:00:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"665133",
       "adult":false,
       "id":"malik_ml",
@@ -3395,7 +3395,7 @@
    },
    {
       "dateAdded":"25-09-2022-07:40:57 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"590077",
       "adult":false,
       "id":"trance_hidubbed",
@@ -3415,7 +3415,7 @@
    },
    {
       "dateAdded":"25-09-2022-05:10:57 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"680980",
       "adult":false,
       "id":"sohareyandapindaagaya_pun",
@@ -3435,7 +3435,7 @@
    },
    {
       "dateAdded":"25-09-2022-05:00:57 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"1026191",
       "adult":false,
       "id":"chhallemundiyan_pun",
@@ -3455,7 +3455,7 @@
    },
    {
       "dateAdded":"24-09-2022-02:40:57 PM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"410432",
       "adult":false,
       "id":"aandavankattalai_ta_hi",
@@ -3475,7 +3475,7 @@
    },
    {
       "dateAdded":"24-09-2022-02:23:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"111836",
       "adult":false,
       "id":"gabbarsingh_te_hi",
@@ -3495,7 +3495,7 @@
    },
    {
       "dateAdded":"24-09-2022-01:10:57 PM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"858067",
       "adult":false,
       "id":"thiruchitrambalam_ta_hi",
@@ -3515,7 +3515,7 @@
    },
    {
       "dateAdded":"23-09-2022-04:30:57 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"1002082",
       "adult":false,
       "id":"bablibouncer_multi",
@@ -3535,7 +3535,7 @@
    },
    {
       "dateAdded":"23-09-2022-03:40:57 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"826178",
       "adult":false,
       "id":"bhavai_hi",
@@ -3555,7 +3555,7 @@
    },
    {
       "dateAdded":"23-09-2022-12:09:57 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"788944",
       "adult":false,
       "id":"atithibhootobhava_hi",
@@ -3575,7 +3575,7 @@
    },
    {
       "dateAdded":"22-09-2022-11:04:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"890195",
       "adult":false,
       "id":"teesmaarkhan_hi_te",
@@ -3595,7 +3595,7 @@
    },
    {
       "dateAdded":"20-09-2022-05:00:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"609118",
       "adult":false,
       "id":"ninuveedanineedanunene_te_hi",
@@ -3615,7 +3615,7 @@
    },
    {
       "dateAdded":"18-09-2022-01:30:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"1014729",
       "adult":false,
       "id":"daagadichawl2_mr",
@@ -3635,7 +3635,7 @@
    },
    {
       "dateAdded":"18-09-2022-01:29:57 PM",
-      "providers":"hs,prime",
+      "provider":"hs,prime",
       "tmdb":"499196",
       "adult":false,
       "id":"daagdichawl_mr_hi",
@@ -3655,7 +3655,7 @@
    },
    {
       "dateAdded":"16-09-2022-05:40:57 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"1008004",
       "adult":false,
       "id":"timepass3_mr",
@@ -3675,7 +3675,7 @@
    },
    {
       "dateAdded":"16-09-2022-04:40:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"863530",
       "adult":false,
       "id":"thallumaala_multi",
@@ -3695,7 +3695,7 @@
    },
    {
       "dateAdded":"16-09-2022-04:40:57 PM",
-      "providers":"chaupaltv",
+      "provider":"chaupaltv",
       "tmdb":"1008671",
       "adult":false,
       "id":"jindmahi_pun",
@@ -3715,7 +3715,7 @@
    },
    {
       "dateAdded":"16-09-2022-04:40:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"1014386",
       "adult":false,
       "id":"jogi_hi",
@@ -3735,7 +3735,7 @@
    },
    {
       "dateAdded":"16-09-2022-04:25:57 PM",
-      "providers":"z5,hs",
+      "provider":"z5,hs",
       "tmdb":"680334",
       "adult":false,
       "id":"vikrantrona_kn_hi",
@@ -3755,7 +3755,7 @@
    },
    {
       "dateAdded":"16-09-2022-03:40:51 PM",
-      "providers":"itunes",
+      "provider":"itunes",
       "tmdb":"974713",
       "adult":true,
       "id":"nayvaranbhatloncha_mr",
@@ -3775,7 +3775,7 @@
    },
    {
       "dateAdded":"15-09-2022-09:00:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"850161",
       "adult":false,
       "id":"ramaraoonduty_multi",
@@ -3795,7 +3795,7 @@
    },
    {
       "dateAdded":"15-09-2022-04:16:57 PM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"456226",
       "adult":false,
       "id":"karuppan_ta_hi",
@@ -3815,7 +3815,7 @@
    },
    {
       "dateAdded":"14-09-2022-10:20:57 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"225886",
       "adult":true,
       "id":"sextape_en_hi",
@@ -3835,7 +3835,7 @@
    },
    {
       "dateAdded":"13-09-2022-11:55:57 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"616037",
       "adult":false,
       "id":"thorloveandthunder_en_hi",
@@ -3855,7 +3855,7 @@
    },
    {
       "dateAdded":"12-09-2022-08:41:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"681435",
       "adult":false,
       "id":"red_rapo_hindi",
@@ -3875,7 +3875,7 @@
    },
    {
       "dateAdded":"12-09-2022-07:40:57 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"412090",
       "adult":false,
       "id":"jollyllb2_hi",
@@ -3895,7 +3895,7 @@
    },
    {
       "dateAdded":"12-09-2022-07:25:57 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"177358",
       "adult":false,
       "id":"jollyllb_hi",
@@ -3915,7 +3915,7 @@
    },
    {
       "dateAdded":"12-09-2022-07:17:57 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"40777",
       "adult":false,
       "id":"ihateluvstoreys_hi",
@@ -3935,7 +3935,7 @@
    },
    {
       "dateAdded":"12-09-2022-06:56:57 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"48391",
       "adult":true,
       "id":"jism_hi",
@@ -3955,7 +3955,7 @@
    },
    {
       "dateAdded":"11-09-2022-01:56:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"373449",
       "adult":false,
       "id":"2point0_hi",
@@ -3975,7 +3975,7 @@
    },
    {
       "dateAdded":"11-09-2022-12:30:57 PM",
-      "providers":"voot, erosnow, jiocinema",
+      "provider":"voot, erosnow, jiocinema",
       "tmdb":"25867",
       "adult":false,
       "id":"dedanadan_hi",
@@ -3995,7 +3995,7 @@
    },
    {
       "dateAdded":"11-09-2022-12:20:57 PM",
-      "providers":"z5, erosnow, jiocinema",
+      "provider":"z5, erosnow, jiocinema",
       "tmdb":"56969",
       "adult":false,
       "id":"terenaam_hi",
@@ -4015,7 +4015,7 @@
    },
    {
       "dateAdded":"11-09-2022-12:16:57 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"71308",
       "adult":false,
       "id":"ghayal_hi",
@@ -4035,7 +4035,7 @@
    },
    {
       "dateAdded":"11-09-2022-12:14:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"398535",
       "adult":true,
       "id":"udtapunjab_hi",
@@ -4055,7 +4055,7 @@
    },
    {
       "dateAdded":"10-09-2022-08:00:57 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"911129",
       "adult":true,
       "id":"nolimit_en_hi",
@@ -4075,7 +4075,7 @@
    },
    {
       "dateAdded":"09-09-2022-07:01:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"894803",
       "adult":false,
       "id":"sitaramam_te",
@@ -4095,7 +4095,7 @@
    },
    {
       "dateAdded":"09-09-2022-01:25:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"682401",
       "adult":false,
       "id":"ekvillainreturns_hi",
@@ -4115,7 +4115,7 @@
    },
    {
       "dateAdded":"09-09-2022-01:20:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"276935",
       "adult":false,
       "id":"ekvillain_hi",
@@ -4135,7 +4135,7 @@
    },
    {
       "dateAdded":"05-09-2022-07:58:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"965653",
       "adult":false,
       "id":"khudahaafiz2_hi",
@@ -4155,7 +4155,7 @@
    },
    {
       "dateAdded":"05-09-2022-07:58:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"719949",
       "adult":false,
       "id":"khudahaafiz_hi",
@@ -4175,7 +4175,7 @@
    },
    {
       "dateAdded":"04-09-2022-10:17:00 AM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"412862",
       "adult":false,
       "id":"ratsasan_ta_hi",
@@ -4195,7 +4195,7 @@
    },
    {
       "dateAdded":"02-09-2022-08:44:57 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"956757",
       "adult":false,
       "id":"cuttputli_hi",
@@ -4215,7 +4215,7 @@
    },
    {
       "dateAdded":"01-09-2022-11:00:57 PM",
-      "providers":"planetmarathi",
+      "provider":"planetmarathi",
       "tmdb":"",
       "adult":false,
       "id":"tamashalive_mr",
@@ -4235,7 +4235,7 @@
    },
    {
       "dateAdded":"01-09-2022-08:15:57 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"1004074",
       "adult":false,
       "id":"ananya_mr",
@@ -4255,7 +4255,7 @@
    },
    {
       "dateAdded":"31-08-2022-03:10:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"568212",
       "adult":false,
       "id":"nextenti_te_hi",
@@ -4275,7 +4275,7 @@
    },
    {
       "dateAdded":"30-08-2022-03:10:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"872408",
       "adult":false,
       "id":"sundari_te_hi",
@@ -4294,7 +4294,7 @@
    },
    {
       "dateAdded":"30-08-2022-03:00:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"882416",
       "adult":false,
       "id":"yaanai_ta_hi",
@@ -4313,7 +4313,7 @@
    },
    {
       "dateAdded":"29-08-2022-06:10:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"752623",
       "adult":false,
       "id":"thelostcity_en_hi",
@@ -4332,7 +4332,7 @@
    },
    {
       "dateAdded":"29-08-2022-05:45:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"629176",
       "adult":false,
       "id":"samaritan_en_hi",
@@ -4352,7 +4352,7 @@
    },
    {
       "dateAdded":"28-08-2022-10:11:00 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"887109",
       "adult":false,
       "id":"hitthefirstcase_hi",
@@ -4372,7 +4372,7 @@
    },
    {
       "dateAdded":"26-08-2022-11:00:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"829560",
       "adult":true,
       "id":"thenext365days",
@@ -4392,7 +4392,7 @@
    },
    {
       "dateAdded":"25-08-2022-11:45:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"539686",
       "adult":false,
       "id":"shamshera_hi",
@@ -4412,7 +4412,7 @@
    },
    {
       "dateAdded":"18-08-2022-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"865471",
       "adult":false,
       "id":"sridevisodacenter_te_hi",
@@ -4432,7 +4432,7 @@
    },
    {
       "dateAdded":"17-08-2022-03:40:51 PM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"322173",
       "adult":false,
       "id":"mrandmrsramachari_kn_hi",
@@ -4452,7 +4452,7 @@
    },
    {
       "dateAdded":"16-08-2022-04:40:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"895033",
       "adult":false,
       "id":"don_ta_hi",
@@ -4472,7 +4472,7 @@
    },
    {
       "dateAdded":"16-08-2022-03:55:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"607313",
       "adult":false,
       "id":"sarileruneekevvaru_hi_te",
@@ -4492,7 +4492,7 @@
    },
    {
       "dateAdded":"15-08-2022-11:10:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"300214",
       "adult":false,
       "id":"karthikeya_te_hi",
@@ -4512,7 +4512,7 @@
    },
    {
       "dateAdded":"15-08-2022-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"807309",
       "adult":false,
       "id":"thewife_hi",
@@ -4532,7 +4532,7 @@
    },
    {
       "dateAdded":"15-08-2022-10:34:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"49047",
       "adult":false,
       "id":"gravity_en_hi",
@@ -4552,7 +4552,7 @@
    },
    {
       "dateAdded":"14-08-2022-01:00:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"438631",
       "adult":false,
       "id":"dune_hi_en",
@@ -4572,7 +4572,7 @@
    },
    {
       "dateAdded":"14-08-2022-12:15:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"693841",
       "adult":false,
       "id":"nikamma_hi",
@@ -4592,7 +4592,7 @@
    },
    {
       "dateAdded":"13-08-2022-11:28:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"973579",
       "adult":false,
       "id":"gargi_hi_ta",
@@ -4612,7 +4612,7 @@
    },
    {
       "dateAdded":"13-08-2022-11:28:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"667255",
       "adult":false,
       "id":"fir_hi_ta",
@@ -4632,7 +4632,7 @@
    },
    {
       "dateAdded":"13-08-2022-11:24:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"303904",
       "adult":false,
       "id":"ungli_hi",
@@ -4652,7 +4652,7 @@
    },
    {
       "dateAdded":"12-08-2022-11:06:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"1006463",
       "adult":false,
       "id":"cadaver_hi_ta",
@@ -4672,7 +4672,7 @@
    },
    {
       "dateAdded":"12-08-2022-09:00:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"lover_pun",
@@ -4692,7 +4692,7 @@
    },
    {
       "dateAdded":"12-08-2022-04:45:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"902552",
       "adult":false,
       "id":"thankyou_te",
@@ -4712,7 +4712,7 @@
    },
    {
       "dateAdded":"12-08-2022-04:01:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"764928",
       "adult":false,
       "id":"omthebattlewithin_hi",
@@ -4732,7 +4732,7 @@
    },
    {
       "dateAdded":"12-08-2022-12:43:51 PM",
-      "providers":"voot",
+      "provider":"voot",
       "tmdb":"911154",
       "adult":false,
       "id":"shabaashmithu_hi",
@@ -4752,7 +4752,7 @@
    },
    {
       "dateAdded":"12-08-2022-12:30:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"590401",
       "adult":false,
       "id":"dedepyaarde_hi",
@@ -4772,7 +4772,7 @@
    },
    {
       "dateAdded":"10-08-2022-11:01:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"383275",
       "adult":false,
       "id":"dedhakka_mr",
@@ -4792,7 +4792,7 @@
    },
    {
       "dateAdded":"09-08-2022-01:35:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"920736",
       "adult":false,
       "id":"happybirthday_2022_te",
@@ -4812,7 +4812,7 @@
    },
    {
       "dateAdded":"09-08-2022-12:35:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"19995",
       "adult":false,
       "id":"avatar_hi_en",
@@ -4832,7 +4832,7 @@
    },
    {
       "dateAdded":"07-08-2022-07:17:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"preetam_mr_hi",
@@ -4852,7 +4852,7 @@
    },
    {
       "dateAdded":"07-08-2022-06:50:51 PM",
-      "providers":"lionsgateplay",
+      "provider":"lionsgateplay",
       "tmdb":"894169",
       "adult":false,
       "id":"vendetta_multi_holly",
@@ -4872,7 +4872,7 @@
    },
    {
       "dateAdded":"07-08-2022-01:08:51 PM",
-      "providers":"prime,hs",
+      "provider":"prime,hs",
       "tmdb":"176590",
       "adult":false,
       "id":"mirchi_te",
@@ -4892,7 +4892,7 @@
    },
    {
       "dateAdded":"06-08-2022-10:40:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"801526",
       "adult":false,
       "id":"darlings_hi",
@@ -4912,7 +4912,7 @@
    },
    {
       "dateAdded":"06-08-2022-10:39:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"656999",
       "adult":false,
       "id":"oddcouple_hi",
@@ -4932,7 +4932,7 @@
    },
    {
       "dateAdded":"02-08-2022-09:21:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"725201",
       "adult":false,
       "id":"thegrayman_multi",
@@ -4952,7 +4952,7 @@
    },
    {
       "dateAdded":"02-08-2022-09:21:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"157336",
       "adult":false,
       "id":"interstellar_hi_en",
@@ -4972,7 +4972,7 @@
    },
    {
       "dateAdded":"02-08-2022-07:52:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"337167",
       "adult":true,
       "id":"fiftyshadesfreed_hi_en",
@@ -4992,7 +4992,7 @@
    },
    {
       "dateAdded":"02-08-2022-07:49:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"341174",
       "adult":true,
       "id":"fiftyshadesdarker_hi_en",
@@ -5012,7 +5012,7 @@
    },
    {
       "dateAdded":"02-08-2022-07:45:06 PM",
-      "providers":"nf,prime",
+      "provider":"nf,prime",
       "tmdb":"216015",
       "adult":true,
       "id":"fiftyshadesofgray_hi_en",
@@ -5031,7 +5031,7 @@
    },
    {
       "dateAdded":"01-08-2022-05:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"758938",
       "adult":false,
       "id":"habaddi_hi",
@@ -5051,7 +5051,7 @@
    },
    {
       "dateAdded":"01-08-2022-04:18:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"784940",
       "adult":false,
       "id":"goodluckjerry_hi",
@@ -5071,7 +5071,7 @@
    },
    {
       "dateAdded":"01-08-2022-03:30:51 PM",
-      "providers":"voot",
+      "provider":"voot",
       "tmdb":"607145",
       "adult":false,
       "id":"rocketry_2022_hi",
@@ -5091,7 +5091,7 @@
    },
    {
       "dateAdded":"26-07-2022-09:55:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"607145",
       "adult":false,
       "id":"rocketry_2022_south",
@@ -5111,7 +5111,7 @@
    },
    {
       "dateAdded":"26-07-2022-12:05:00 PM",
-      "providers":"prime, liv",
+      "provider":"prime, liv",
       "tmdb":"25801",
       "adult":false,
       "id":"aamdaniatthannikharcharupaiya_hi",
@@ -5131,7 +5131,7 @@
    },
    {
       "dateAdded":"26-07-2022-12:04:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"44425",
       "adult":false,
       "id":"dabangg_hi",
@@ -5151,7 +5151,7 @@
    },
    {
       "dateAdded":"26-07-2022-12:03:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"280690",
       "adult":false,
       "id":"kick_hi",
@@ -5171,7 +5171,7 @@
    },
    {
       "dateAdded":"26-07-2022-12:02:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"454292",
       "adult":false,
       "id":"saaho_hi",
@@ -5191,7 +5191,7 @@
    },
    {
       "dateAdded":"22-07-2022-06:16:00 PM",
-      "providers":"nf,liv",
+      "provider":"nf,liv",
       "tmdb":"802065",
       "adult":false,
       "id":"f3_multi",
@@ -5211,7 +5211,7 @@
    },
    {
       "dateAdded":"22-07-2022-10:26:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"765019",
       "adult":false,
       "id":"jugjuggjeeyo_hi",
@@ -5231,7 +5231,7 @@
    },
    {
       "dateAdded":"21-07-2022-07:34:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"821119",
       "adult":false,
       "id":"jaadugar_hi",
@@ -5251,7 +5251,7 @@
    },
    {
       "dateAdded":"15-07-2022-10:10:51 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"768466",
       "adult":false,
       "id":"janhitmeinjaari_hi",
@@ -5271,7 +5271,7 @@
    },
    {
       "dateAdded":"14-07-2022-01:01:00 PM",
-      "providers":"minitv",
+      "provider":"minitv",
       "tmdb":"942414",
       "adult":false,
       "id":"yatrikripyadhyande_hi",
@@ -5291,7 +5291,7 @@
    },
    {
       "dateAdded":"14-07-2022-12:50:00 PM",
-      "providers":"z5,jiocinema,sunnxt",
+      "provider":"z5,jiocinema,sunnxt",
       "tmdb":"253584",
       "adult":false,
       "id":"autonagarsurya_te_hi",
@@ -5311,7 +5311,7 @@
    },
    {
       "dateAdded":"13-07-2022-07:58:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"920223",
       "adult":false,
       "id":"jayanti_mr",
@@ -5331,7 +5331,7 @@
    },
    {
       "dateAdded":"13-07-2022-06:58:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"bhaybheet_mr",
@@ -5351,7 +5351,7 @@
    },
    {
       "dateAdded":"13-07-2022-06:53:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"996585",
       "adult":false,
       "id":"coffee_mr",
@@ -5371,7 +5371,7 @@
    },
    {
       "dateAdded":"11-07-2022-10:35:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"834654",
       "adult":false,
       "id":"antesundaraniki_te_hi",
@@ -5391,7 +5391,7 @@
    },
    {
       "dateAdded":"11-07-2022-12:04:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"809309",
       "adult":false,
       "id":"hurdang_hi",
@@ -5411,7 +5411,7 @@
    },
    {
       "dateAdded":"09-07-2022-08:45:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"891473",
       "adult":false,
       "id":"viraataparvam_hi",
@@ -5431,7 +5431,7 @@
    },
    {
       "dateAdded":"08-07-2022-03:25:50 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"743563",
       "adult":false,
       "id":"vikram_multi_2022",
@@ -5451,7 +5451,7 @@
    },
    {
       "dateAdded":"07-07-2022-03:25:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"957136",
       "adult":false,
       "id":"operationromeo_hi",
@@ -5471,7 +5471,7 @@
    },
    {
       "dateAdded":"06-07-2022-11:40:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"456431",
       "adult":false,
       "id":"rajathegreat_te_hi",
@@ -5491,7 +5491,7 @@
    },
    {
       "dateAdded":"03-07-2022-03:57:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"605153",
       "adult":false,
       "id":"major_hi",
@@ -5511,7 +5511,7 @@
    },
    {
       "dateAdded":"03-07-2022-03:54:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"605153",
       "adult":false,
       "id":"major_te",
@@ -5531,7 +5531,7 @@
    },
    {
       "dateAdded":"03-07-2022-03:52:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"605153",
       "adult":false,
       "id":"major_ml",
@@ -5551,7 +5551,7 @@
    },
    {
       "dateAdded":"03-07-2022-03:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"891473",
       "adult":false,
       "id":"viraataparvam_multi",
@@ -5571,7 +5571,7 @@
    },
    {
       "dateAdded":"03-07-2022-03:26:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"835280",
       "adult":false,
       "id":"karkhanisanchiwaari_mr",
@@ -5591,7 +5591,7 @@
    },
    {
       "dateAdded":"03-07-2022-03:25:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"814609",
       "adult":false,
       "id":"zombivli_mr",
@@ -5611,7 +5611,7 @@
    },
    {
       "dateAdded":"02-07-2022-05:40:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"905606",
       "adult":false,
       "id":"sammathame_te",
@@ -5631,7 +5631,7 @@
    },
    {
       "dateAdded":"01-07-2022-01:04:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"611598",
       "adult":false,
       "id":"samratprithviraj_hi",
@@ -5651,7 +5651,7 @@
    },
    {
       "dateAdded":"01-07-2022-12:47:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"712863",
       "adult":true,
       "id":"dhaakad_hi",
@@ -5671,7 +5671,7 @@
    },
    {
       "dateAdded":"01-07-2022-12:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"981848",
       "adult":false,
       "id":"doublethreat_hi_en",
@@ -5691,7 +5691,7 @@
    },
    {
       "dateAdded":"26-06-2022-10:35:00 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"888268",
       "adult":false,
       "id":"anek_hi",
@@ -5711,7 +5711,7 @@
    },
    {
       "dateAdded":"24-06-2022-10:50:00 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"915867",
       "adult":false,
       "id":"forensic_hi_2022",
@@ -5731,7 +5731,7 @@
    },
    {
       "dateAdded":"22-06-2022-08:27:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"453395",
       "adult":false,
       "id":"doctorstrange2022_multi",
@@ -5751,7 +5751,7 @@
    },
    {
       "dateAdded":"22-06-2022-05:12:51 PM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"56986",
       "adult":false,
       "id":"khaleja_te_hi",
@@ -5771,7 +5771,7 @@
    },
    {
       "dateAdded":"20-06-2022-08:52:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"865497",
       "adult":false,
       "id":"bangarraju_te_hi",
@@ -5791,7 +5791,7 @@
    },
    {
       "dateAdded":"19-06-2022-12:50:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"939411",
       "adult":false,
       "id":"pawankhind_mr",
@@ -5811,7 +5811,7 @@
    },
    {
       "dateAdded":"19-06-2022-09:40:00 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"695962",
       "adult":false,
       "id":"bhoolbhulaiyaa2_hi",
@@ -5831,7 +5831,7 @@
    },
    {
       "dateAdded":"18-06-2022-05:02:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"19025",
       "adult":false,
       "id":"bhoolbhulaiyaa_hi",
@@ -5851,7 +5851,7 @@
    },
    {
       "dateAdded":"18-06-2022-04:28:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"972646",
       "adult":false,
       "id":"o2_multi_2022",
@@ -5871,7 +5871,7 @@
    },
    {
       "dateAdded":"18-06-2022-03:38:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"957997",
       "adult":false,
       "id":"saunkansaukne_pun",
@@ -5891,7 +5891,7 @@
    },
    {
       "dateAdded":"18-06-2022-03:05:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"753637",
       "adult":false,
       "id":"laali_short_hi",
@@ -5911,7 +5911,7 @@
    },
    {
       "dateAdded":"17-05-2022-03:03:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"752943",
       "adult":false,
       "id":"kaathuvaakularendukaathal_hi",
@@ -5931,7 +5931,7 @@
    },
    {
       "dateAdded":"14-06-2022-10:42:51 PM",
-      "providers":"prime, nf",
+      "provider":"prime, nf",
       "tmdb":"961306",
       "adult":false,
       "id":"chandramukhi_mr",
@@ -5951,7 +5951,7 @@
    },
    {
       "dateAdded":"12-06-2022-11:40:51 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"784696",
       "adult":false,
       "id":"sarkaruvaaripaata_hi",
@@ -5971,7 +5971,7 @@
    },
    {
       "dateAdded":"12-06-2022-06:25:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"945324",
       "adult":false,
       "id":"ardh_hi",
@@ -5991,7 +5991,7 @@
    },
    {
       "dateAdded":"12-06-2022-05:40:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"895033",
       "adult":false,
       "id":"don_ta_multi",
@@ -6011,7 +6011,7 @@
    },
    {
       "dateAdded":"05-06-2022-05:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"587186",
       "adult":false,
       "id":"teddy_hi_ta",
@@ -6030,7 +6030,7 @@
    },
    {
       "dateAdded":"02-06-2022-09:10:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"792358",
       "adult":false,
       "id":"janaganamana_ml",
@@ -6050,7 +6050,7 @@
    },
    {
       "dateAdded":"02-06-2022-07:30:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"784696",
       "adult":false,
       "id":"sarkaruvaaripaata_te",
@@ -6070,7 +6070,7 @@
    },
    {
       "dateAdded":"01-06-2022-11:10:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"879142",
       "adult":false,
       "id":"godavari_mr",
@@ -6090,7 +6090,7 @@
    },
    {
       "dateAdded":"01-06-2022-10:10:00 PM",
-      "providers":"liv, prime",
+      "provider":"liv, prime",
       "tmdb":"114564",
       "adult":false,
       "id":"shikshanachyaaaichagho_mr",
@@ -6110,7 +6110,7 @@
    },
    {
       "dateAdded":"01-06-2022-08:55:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"945329",
       "adult":false,
       "id":"raudra_mr",
@@ -6130,7 +6130,7 @@
    },
    {
       "dateAdded":"01-06-2022-08:15:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"kaliveera_hi_dub",
@@ -6150,7 +6150,7 @@
    },
    {
       "dateAdded":"31-05-2022-11:10:00 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"828827",
       "adult":false,
       "id":"veerathepower_hi",
@@ -6170,7 +6170,7 @@
    },
    {
       "dateAdded":"29-05-2022-07:24:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"858073",
       "adult":false,
       "id":"aranmanai3_hi_ta",
@@ -6190,7 +6190,7 @@
    },
    {
       "dateAdded":"29-05-2022-12:10:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"766116",
       "adult":false,
       "id":"runway34_hi",
@@ -6210,7 +6210,7 @@
    },
    {
       "dateAdded":"29-05-2022-12:05:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"678835",
       "adult":false,
       "id":"heropanti2_hi",
@@ -6230,7 +6230,7 @@
    },
    {
       "dateAdded":"29-05-2022-12:05:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"799155",
       "adult":false,
       "id":"attackpart1_hi",
@@ -6249,7 +6249,7 @@
    },
    {
       "dateAdded":"29-05-2022-10:00:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"959834",
       "adult":false,
       "id":"shershivraj_mr",
@@ -6269,7 +6269,7 @@
    },
    {
       "dateAdded":"27-05-2022-07:30:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"752943",
       "adult":false,
       "id":"kaathuvaakularendukaathal",
@@ -6289,7 +6289,7 @@
    },
    {
       "dateAdded":"23-05-2022-12:45:00 PM",
-      "providers":"prime, liv",
+      "provider":"prime, liv",
       "tmdb":"237214",
       "adult":false,
       "id":"duniyadari_mr",
@@ -6309,7 +6309,7 @@
    },
    {
       "dateAdded":"22-05-2022-11:37:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"494152",
       "adult":false,
       "id":"mitwaa_mr",
@@ -6329,7 +6329,7 @@
    },
    {
       "dateAdded":"21-05-2022-12:10:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"679018",
       "adult":false,
       "id":"jersey_hi",
@@ -6348,7 +6348,7 @@
    },
    {
       "dateAdded":"17-05-2022-08:40:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"14072",
       "adult":false,
       "id":"rabnebanadijodi_hi",
@@ -6367,7 +6367,7 @@
    },
    {
       "dateAdded":"16-05-2022-07:00:51 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"890486",
       "adult":false,
       "id":"romantic_te_hi",
@@ -6386,7 +6386,7 @@
    },
    {
       "dateAdded":"15-05-2022-07:55:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"791366",
       "adult":false,
       "id":"basta_mr",
@@ -6406,7 +6406,7 @@
    },
    {
       "dateAdded":"15-05-2022-07:50:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"678999",
       "adult":false,
       "id":"jayeshbhaijordar_hi",
@@ -6426,7 +6426,7 @@
    },
    {
       "dateAdded":"15-05-2022-07:30:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"526896",
       "adult":false,
       "id":"morbius_en_hi",
@@ -6446,7 +6446,7 @@
    },
    {
       "dateAdded":"15-05-2022-07:05:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"391274",
       "adult":false,
       "id":"irumugan_hi_ta",
@@ -6465,7 +6465,7 @@
    },
    {
       "dateAdded":"15-05-2022-03:55:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"900783",
       "adult":false,
       "id":"thekashmirfiles",
@@ -6484,7 +6484,7 @@
    },
    {
       "dateAdded":"13-05-2022-07:07:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"800383",
       "adult":false,
       "id":"beast_hindi_tamil",
@@ -6503,7 +6503,7 @@
    },
    {
       "dateAdded":"08-05-2022-11:56:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"794961",
       "adult":false,
       "id":"akhanda_hi",
@@ -6522,7 +6522,7 @@
    },
    {
       "dateAdded":"08-05-2022-11:55:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"794961",
       "adult":false,
       "id":"akhanda_te_ta",
@@ -6541,7 +6541,7 @@
    },
    {
       "dateAdded":"08-05-2022-11:15:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"941596",
       "adult":false,
       "id":"thar_2022_nf",
@@ -6560,7 +6560,7 @@
    },
    {
       "dateAdded":"06-05-2022-06:45:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"587412",
       "adult":false,
       "id":"kgf2",
@@ -6580,7 +6580,7 @@
    },
    {
       "dateAdded":"06-05-2022-09:20:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"665685",
       "adult":false,
       "id":"jhund_hi",
@@ -6599,7 +6599,7 @@
    },
    {
       "dateAdded":"04-05-2022-08:40:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"673392",
       "adult":false,
       "id":"radheshyam_hi",
@@ -6618,7 +6618,7 @@
    },
    {
       "dateAdded":"01-05-2022-10:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"679919",
       "adult":false,
       "id":"acharya_te",
@@ -6638,7 +6638,7 @@
    },
    {
       "dateAdded":"29-04-2022-10:35:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"271200",
       "adult":false,
       "id":"heropanti_hi",
@@ -6658,7 +6658,7 @@
    },
    {
       "dateAdded":"28-04-2022-03:00:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"968704",
       "adult":false,
       "id":"luckdownbepositive_mr",
@@ -6678,7 +6678,7 @@
    },
    {
       "dateAdded":"28-04-2022-03:00:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"829557",
       "adult":true,
       "id":"365daysthisday",
@@ -6698,7 +6698,7 @@
    },
    {
       "dateAdded":"28-04-2022-02:23:05 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"664413",
       "adult":true,
       "id":"365days",
@@ -6718,7 +6718,7 @@
    },
    {
       "dateAdded":"26-04-2022-04:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"664332",
       "adult":false,
       "id":"gangubaikathiyawadi_hi",
@@ -6738,7 +6738,7 @@
    },
    {
       "dateAdded":"26-04-2022-04:49:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"664332",
       "adult":false,
       "id":"gangubaikathiyawadi_te",
@@ -6758,7 +6758,7 @@
    },
    {
       "dateAdded":"25-04-2022-02:50:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"335787",
       "adult":false,
       "id":"uncharted_2022",
@@ -6778,7 +6778,7 @@
    },
    {
       "dateAdded":"22-04-2022-09:00:00 AM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"790993",
       "adult":false,
       "id":"ghani_2022",
@@ -6798,7 +6798,7 @@
    },
    {
       "dateAdded":"22-04-2022-08:15:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"678391",
       "adult":false,
       "id":"hit_2020",
@@ -6818,7 +6818,7 @@
    },
    {
       "dateAdded":"21-04-2022-06:25:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"961248",
       "adult":false,
       "id":"ohmydog_2022",
@@ -6838,7 +6838,7 @@
    },
    {
       "dateAdded":"21-04-2022-05:35:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"828901",
       "adult":false,
       "id":"lovehostel_hi",
@@ -6858,7 +6858,7 @@
    },
    {
       "dateAdded":"15-04-2022-09:30:51 AM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"938826",
       "adult":false,
       "id":"bloodymary_te_2022",
@@ -6878,7 +6878,7 @@
    },
    {
       "dateAdded":"15-04-2022-09:28:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"715765",
       "adult":false,
       "id":"bachchanpandey_hi",
@@ -6898,7 +6898,7 @@
    },
    {
       "dateAdded":"15-04-2022-09:25:51 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"942393",
       "adult":false,
       "id":"mainviyahnahikaronaterenaal_2022",
@@ -6918,7 +6918,7 @@
    },
    {
       "dateAdded":"14-04-2022-09:30:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"888299",
       "adult":false,
       "id":"aadavallumeekujoharlu_2022",
@@ -6937,7 +6937,7 @@
    },
    {
       "dateAdded":"14-04-2022-12:05:51 AM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"683056",
       "adult":false,
       "id":"james_2022_prk",
@@ -6957,7 +6957,7 @@
    },
    {
       "dateAdded":"14-04-2022-12:00:01 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"855400",
       "adult":false,
       "id":"jaibhimhindi",
@@ -6976,7 +6976,7 @@
    },
    {
       "dateAdded":"14-04-2022-12:00:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"855400",
       "adult":false,
       "id":"jaibhimmlkn",
@@ -6995,7 +6995,7 @@
    },
    {
       "dateAdded":"10-04-2022-04:00:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"948020",
       "adult":false,
       "id":"rider_2022_hi_dubbed",
@@ -7014,7 +7014,7 @@
    },
    {
       "dateAdded":"10-04-2022-04:00:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"520393",
       "adult":false,
       "id":"supertaxi_hi_dubbed",
@@ -7033,7 +7033,7 @@
    },
    {
       "dateAdded":"08-04-2022-10:10:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"800407",
       "adult":false,
       "id":"dancingonglass_2022",
@@ -7052,7 +7052,7 @@
    },
    {
       "dateAdded":"07-04-2022-11:20:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"799713",
       "adult":false,
       "id":"dasvi_2022",
@@ -7071,7 +7071,7 @@
    },
    {
       "dateAdded":"07-04-2022-10:04:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"855397",
       "adult":false,
       "id":"et_kannada",
@@ -7090,7 +7090,7 @@
    },
    {
       "dateAdded":"07-04-2022-10:03:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"855397",
       "adult":false,
       "id":"et_malayalam",
@@ -7109,7 +7109,7 @@
    },
    {
       "dateAdded":"07-04-2022-10:02:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"855397",
       "adult":false,
       "id":"et_hindi",
@@ -7128,7 +7128,7 @@
    },
    {
       "dateAdded":"07-04-2022-10:01:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"855397",
       "adult":false,
       "id":"et_telugu",
@@ -7147,7 +7147,7 @@
    },
    {
       "dateAdded":"07-04-2022-10:00:51 PM",
-      "providers":"nf,sunnxt",
+      "provider":"nf,sunnxt",
       "tmdb":"855397",
       "adult":false,
       "id":"et_tamil",
@@ -7166,7 +7166,7 @@
    },
    {
       "dateAdded":"06-04-2022-06:50:47 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"263471",
       "adult":false,
       "id":"ai_2015_hi_ta",
@@ -7186,7 +7186,7 @@
    },
    {
       "dateAdded":"04-04-2022-05:25:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"83889",
       "adult":false,
       "id":"businessman_2012_hi_te",
@@ -7206,7 +7206,7 @@
    },
    {
       "dateAdded":"03-04-2022-08:45:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"897097",
       "adult":true,
       "id":"cobaltblue_2022_hi",
@@ -7226,7 +7226,7 @@
    },
    {
       "dateAdded":"03-04-2022-08:45:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"628577",
       "adult":false,
       "id":"jodi_hi_te_2019",
@@ -7246,7 +7246,7 @@
    },
    {
       "dateAdded":"03-04-2022-05:00:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"640484",
       "adult":false,
       "id":"valimai_hi",
@@ -7266,7 +7266,7 @@
    },
    {
       "dateAdded":"03-04-2022-03:50:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"460699",
       "adult":false,
       "id":"nenerajunenemantri_hi_te",
@@ -7286,7 +7286,7 @@
    },
    {
       "dateAdded":"03-04-2022-01:18:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"939411",
       "adult":false,
       "id":"pawankhind_hi_dubbed",
@@ -7306,7 +7306,7 @@
    },
    {
       "dateAdded":"02-04-2022-08:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"804309",
       "adult":false,
       "id":"bheeshma_parvam_2022",
@@ -7326,7 +7326,7 @@
    },
    {
       "dateAdded":"01-04-2022-11:25:51 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"946652",
       "adult":false,
       "id":"kaunpravintambe",
@@ -7345,7 +7345,7 @@
    },
    {
       "dateAdded":"01-04-2022-11:20:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"673392",
       "adult":false,
       "id":"radheshyam_ml",
@@ -7364,7 +7364,7 @@
    },
    {
       "dateAdded":"01-04-2022-11:15:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"673392",
       "adult":false,
       "id":"radheshyam_kn",
@@ -7383,7 +7383,7 @@
    },
    {
       "dateAdded":"01-04-2022-11:10:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"673392",
       "adult":false,
       "id":"radheshyam_ta",
@@ -7402,7 +7402,7 @@
    },
    {
       "dateAdded":"01-04-2022-11:05:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"673392",
       "adult":false,
       "id":"radheshyam_te",
@@ -7421,7 +7421,7 @@
    },
    {
       "dateAdded":"01-04-2022-10:25:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"lochyazalare",
@@ -7440,7 +7440,7 @@
    },
    {
       "dateAdded":"31-03-2022-11:05:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"870387",
       "adult":false,
       "id":"sharmajinamkeen_hi",
@@ -7459,7 +7459,7 @@
    },
    {
       "dateAdded":"31-03-2022-11:00:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"803736",
       "adult":false,
       "id":"hey_sinamika",
@@ -7478,7 +7478,7 @@
    },
    {
       "dateAdded":"31-03-2022-10:00:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"338065",
       "adult":false,
       "id":"dildhadaknedo",
@@ -7497,7 +7497,7 @@
    },
    {
       "dateAdded":"29-03-2022-01:00:51 PM",
-      "providers":"ullu",
+      "provider":"ullu",
       "tmdb":"",
       "adult":false,
       "id":"lappad_hi_shortfilm",
@@ -7516,7 +7516,7 @@
    },
    {
       "dateAdded":"27-03-2022-09:10:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"611594",
       "adult":false,
       "id":"missionmangal_hi",
@@ -7535,7 +7535,7 @@
    },
    {
       "dateAdded":"27-03-2022-07:20:51 PM",
-      "providers":"hoichoi",
+      "provider":"hoichoi",
       "tmdb":"821949",
       "adult":false,
       "id":"babababyo_bn",
@@ -7554,7 +7554,7 @@
    },
    {
       "dateAdded":"26-03-2022-11:50:51 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"465656",
       "adult":false,
       "id":"kedarnath_hi",
@@ -7573,7 +7573,7 @@
    },
    {
       "dateAdded":"26-03-2022-11:45:51 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"621974",
       "adult":false,
       "id":"rampaat_mr",
@@ -7592,7 +7592,7 @@
    },
    {
       "dateAdded":"24-03-2022-11:10:51 AM",
-      "providers":"aha, hs",
+      "provider":"aha, hs",
       "tmdb":"811942",
       "adult":false,
       "id":"bheemlanayak_te",
@@ -7611,7 +7611,7 @@
    },
    {
       "dateAdded":"23-03-2022-09:40:46 PM",
-      "providers":"nf, z5",
+      "provider":"nf, z5",
       "tmdb":"441875",
       "adult":false,
       "id":"toilet_hi_movie",
@@ -7630,7 +7630,7 @@
    },
    {
       "dateAdded":"21-03-2022-07:20:00 PM",
-      "providers":"nf, hs",
+      "provider":"nf, hs",
       "tmdb":"601337",
       "adult":false,
       "id":"83_multi",
@@ -7649,7 +7649,7 @@
    },
    {
       "dateAdded":"19-03-2022-01:45:00 PM",
-      "providers":"planetmarathi",
+      "provider":"planetmarathi",
       "tmdb":"950263",
       "adult":false,
       "id":"pondicherry_mr",
@@ -7669,7 +7669,7 @@
    },
    {
       "dateAdded":"19-03-2022-01:43:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"vijeta_mr",
@@ -7688,7 +7688,7 @@
    },
    {
       "dateAdded":"18-03-2022-11:50:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"794417",
       "adult":false,
       "id":"khiladi_2022_dual",
@@ -7707,7 +7707,7 @@
    },
    {
       "dateAdded":"18-03-2022-11:20:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"944410",
       "adult":false,
       "id":"jalsa_hi",
@@ -7726,7 +7726,7 @@
    },
    {
       "dateAdded":"18-03-2022-11:10:51 AM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"803666",
       "adult":false,
       "id":"salute_multi",
@@ -7745,7 +7745,7 @@
    },
    {
       "dateAdded":"16-03-2022-05:04:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"634649",
       "adult":false,
       "id":"spidermannwh_multi",
@@ -7764,7 +7764,7 @@
    },
    {
       "dateAdded":"14-03-2022-11:10:10 PM",
-      "providers":"z5, nf",
+      "provider":"z5, nf",
       "tmdb":"456287",
       "adult":false,
       "id":"mersal_hi_ta",
@@ -7784,7 +7784,7 @@
    },
    {
       "dateAdded":"14-03-2022-11:00:49 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"785354",
       "adult":false,
       "id":"alluduadhurs_hi_te",
@@ -7803,7 +7803,7 @@
    },
    {
       "dateAdded":"14-03-2021-06:40:51 PM",
-      "providers":"liv, aha",
+      "provider":"liv, aha",
       "tmdb":"795141",
       "adult":false,
       "id":"noparking_hi_te",
@@ -7822,7 +7822,7 @@
    },
    {
       "dateAdded":"12-03-2022-09:50:10 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"508947",
       "adult":false,
       "id":"turningred_multi",
@@ -7841,7 +7841,7 @@
    },
    {
       "dateAdded":"12-03-2021-06:16:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"759989",
       "adult":false,
       "id":"maaran_multi",
@@ -7860,7 +7860,7 @@
    },
    {
       "dateAdded":"12-03-2022-12:30:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"696806",
       "adult":false,
       "id":"theadamproject_multi",
@@ -7879,7 +7879,7 @@
    },
    {
       "dateAdded":"11-03-2022-01:45:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"640484",
       "adult":false,
       "id":"valimai_ta",
@@ -7898,7 +7898,7 @@
    },
    {
       "dateAdded":"11-03-2022-01:15:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"754716",
       "adult":false,
       "id":"badhaaido",
@@ -7917,7 +7917,7 @@
    },
    {
       "dateAdded":"11-03-2022-01:10:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"894755",
       "adult":false,
       "id":"rowdyboys_te",
@@ -7936,7 +7936,7 @@
    },
    {
       "dateAdded":"09-03-2022-06:30:51 PM",
-      "providers":"aaonxt",
+      "provider":"aaonxt",
       "tmdb":"",
       "adult":true,
       "id":"four_hindi_odia",
@@ -7955,7 +7955,7 @@
    },
    {
       "dateAdded":"07-03-2022-06:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"611054",
       "adult":false,
       "id":"gaddalakondaganesh_hi_te",
@@ -7974,7 +7974,7 @@
    },
    {
       "dateAdded":"07-03-2022-04:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"422592",
       "adult":false,
       "id":"ism_hi_te",
@@ -7993,7 +7993,7 @@
    },
    {
       "dateAdded":"06-03-2022-05:10:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"452403",
       "adult":false,
       "id":"haripadabandwala_bn",
@@ -8012,7 +8012,7 @@
    },
    {
       "dateAdded":"04-03-2022-12:10:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"798803",
       "adult":false,
       "id":"enemy_hi_ta",
@@ -8031,7 +8031,7 @@
    },
    {
       "dateAdded":"02-03-2022-08:45:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"836009",
       "adult":true,
       "id":"againsttheice_hi_en",
@@ -8050,7 +8050,7 @@
    },
    {
       "dateAdded":"02-03-2022-07:45:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"benawad_mr",
@@ -8069,7 +8069,7 @@
    },
    {
       "dateAdded":"01-03-2022-08:45:00 PM",
-      "providers":"voot",
+      "provider":"voot",
       "tmdb":"676223",
       "adult":false,
       "id":"badavarascal_kn",
@@ -8088,7 +8088,7 @@
    },
    {
       "dateAdded":"01-03-2022-08:00:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"383367",
       "adult":false,
       "id":"sairat_mr",
@@ -8107,7 +8107,7 @@
    },
    {
       "dateAdded":"01-03-2022-07:55:00 PM",
-      "providers":"prime, nf",
+      "provider":"prime, nf",
       "tmdb":"325892",
       "adult":true,
       "id":"hunterr_hi",
@@ -8127,7 +8127,7 @@
    },
    {
       "dateAdded":"01-03-2022-05:00:06 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"523278",
       "adult":false,
       "id":"saandkiaankh_hi",
@@ -8146,7 +8146,7 @@
    },
    {
       "dateAdded":"01-03-2022-05:00:00 PM",
-      "providers":"z5, prime",
+      "provider":"z5, prime",
       "tmdb":"392572",
       "adult":false,
       "id":"rustom_hi",
@@ -8165,7 +8165,7 @@
    },
    {
       "dateAdded":"28-02-2022-06:10:50 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"773303",
       "adult":false,
       "id":"zombiereddy_te_ta",
@@ -8184,7 +8184,7 @@
    },
    {
       "dateAdded":"28-02-2022-05:05:51 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"918004",
       "adult":false,
       "id":"sehari_te_2022",
@@ -8203,7 +8203,7 @@
    },
    {
       "dateAdded":"28-02-2022-05:00:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"611754",
       "adult":false,
       "id":"brochevarevarura_hi_te",
@@ -8222,7 +8222,7 @@
    },
    {
       "dateAdded":"27-02-2022-06:10:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"640484",
       "adult":false,
       "id":"valimai_te",
@@ -8241,7 +8241,7 @@
    },
    {
       "dateAdded":"27-02-2022-05:20:00 PM",
-      "providers":"prime, voot",
+      "provider":"prime, voot",
       "tmdb":"413882",
       "adult":false,
       "id":"okjaanu_hi",
@@ -8260,7 +8260,7 @@
    },
    {
       "dateAdded":"27-02-2022-04:50:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"572434",
       "adult":false,
       "id":"mumbaipunemumbai3_mr",
@@ -8279,7 +8279,7 @@
    },
    {
       "dateAdded":"27-02-2022-04:30:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"382960",
       "adult":false,
       "id":"mumbaipunemumbai2_mr",
@@ -8298,7 +8298,7 @@
    },
    {
       "dateAdded":"27-02-2022-04:10:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"313646",
       "adult":false,
       "id":"mumbaipunemumbai_mr",
@@ -8317,7 +8317,7 @@
    },
    {
       "dateAdded":"27-02-2022-04:00:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"572931",
       "adult":false,
       "id":"mulshipattern_mr",
@@ -8336,7 +8336,7 @@
    },
    {
       "dateAdded":"27-02-2022-03:00:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"645489",
       "adult":false,
       "id":"gunjansaxena_hi",
@@ -8355,7 +8355,7 @@
    },
    {
       "dateAdded":"27-02-2022-02:10:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"19666",
       "adult":false,
       "id":"lagaan_hi",
@@ -8374,7 +8374,7 @@
    },
    {
       "dateAdded":"26-02-2022-10:44:04 PM",
-      "providers":"jiocinema, z5",
+      "provider":"jiocinema, z5",
       "tmdb":"460508",
       "adult":false,
       "id":"munnamichael_hi_movie",
@@ -8393,7 +8393,7 @@
    },
    {
       "dateAdded":"26-02-2022-04:00:10 PM",
-      "providers":"z5, nf",
+      "provider":"z5, nf",
       "tmdb":"456287",
       "adult":false,
       "id":"mersal_ta",
@@ -8412,7 +8412,7 @@
    },
    {
       "dateAdded":"26-02-2022-01:05:11 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"616448",
       "adult":false,
       "id":"vaazhl_multi_sonyliv",
@@ -8431,7 +8431,7 @@
    },
    {
       "dateAdded":"26-02-2022-12:10:51 PM",
-      "providers":"nf, prime",
+      "provider":"nf, prime",
       "tmdb":"362140",
       "adult":false,
       "id":"shaandaar_hi",
@@ -8450,7 +8450,7 @@
    },
    {
       "dateAdded":"26-02-2022-12:10:51 PM",
-      "providers":"nf, z5",
+      "provider":"nf, z5",
       "tmdb":"62883",
       "adult":false,
       "id":"humsaathsaathhain_hi",
@@ -8469,7 +8469,7 @@
    },
    {
       "dateAdded":"26-02-2022-12:10:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"784572",
       "adult":false,
       "id":"krack_ta",
@@ -8488,7 +8488,7 @@
    },
    {
       "dateAdded":"26-02-2022-11:37:05 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"483282",
       "adult":false,
       "id":"bhikari_mr_movie",
@@ -8507,7 +8507,7 @@
    },
    {
       "dateAdded":"26-02-2022-11:23:46 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"654553",
       "adult":false,
       "id":"yuvarathna_hindi",
@@ -8526,7 +8526,7 @@
    },
    {
       "dateAdded":"24-02-2022-11:04:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"372399",
       "adult":false,
       "id":"a_aa_hi_te",
@@ -8545,7 +8545,7 @@
    },
    {
       "dateAdded":"23-02-2022-08:50:51 PM",
-      "providers":"prime, hs, mx",
+      "provider":"prime, hs, mx",
       "tmdb":"461126",
       "adult":false,
       "id":"rangasthalam_multi",
@@ -8564,7 +8564,7 @@
    },
    {
       "dateAdded":"23-02-2022-12:10:51 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"857832",
       "adult":false,
       "id":"srkalyanamandapam_te",
@@ -8583,7 +8583,7 @@
    },
    {
       "dateAdded":"23-02-2022-12:00:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"645484",
       "adult":false,
       "id":"dilbechara_hi",
@@ -8602,7 +8602,7 @@
    },
    {
       "dateAdded":"22-02-2022-09:20:51 PM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"325699",
       "adult":false,
       "id":"temper_hi_te",
@@ -8621,7 +8621,7 @@
    },
    {
       "dateAdded":"20-02-2022-11:00:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"674779",
       "adult":false,
       "id":"bheeshma2020_hindi_telugu",
@@ -8640,7 +8640,7 @@
    },
    {
       "dateAdded":"18-02-2022-12:20:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"798803",
       "adult":false,
       "id":"enemy_telugu",
@@ -8659,7 +8659,7 @@
    },
    {
       "dateAdded":"18-02-2022-12:10:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"798803",
       "adult":false,
       "id":"enemy_tamil",
@@ -8678,7 +8678,7 @@
    },
    {
       "dateAdded":"18-02-2022-11:50:51 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"865497",
       "adult":false,
       "id":"bangarraju_te",
@@ -8697,7 +8697,7 @@
    },
    {
       "dateAdded":"18-02-2022-11:45:00 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"653221",
       "adult":false,
       "id":"hridayam_ml",
@@ -8716,7 +8716,7 @@
    },
    {
       "dateAdded":"17-02-2022-06:10:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"361131",
       "adult":false,
       "id":"hatestory3_hi",
@@ -8735,7 +8735,7 @@
    },
    {
       "dateAdded":"17-02-2022-05:40:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"897525",
       "adult":false,
       "id":"athursday_hi_2022",
@@ -8754,7 +8754,7 @@
    },
    {
       "dateAdded":"16-02-2022-10:30:00 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"690565",
       "adult":false,
       "id":"colourphoto_2020_hi_te",
@@ -8773,7 +8773,7 @@
    },
    {
       "dateAdded":"14-02-2022-04:40:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"alavaikunthapurramuloo_hi_te",
@@ -8792,7 +8792,7 @@
    },
    {
       "dateAdded":"14-02-2022-04:30:00 PM",
-      "providers":"liv, aha",
+      "provider":"liv, aha",
       "tmdb":"663909",
       "adult":false,
       "id":"lovestory_hi_te",
@@ -8811,7 +8811,7 @@
    },
    {
       "dateAdded":"13-02-2022-03:40:29 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"449510",
       "adult":false,
       "id":"machine_2017_hi",
@@ -8831,7 +8831,7 @@
    },
    {
       "dateAdded":"13-02-2022-12:30:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"pandu_mr_movie",
@@ -8850,7 +8850,7 @@
    },
    {
       "dateAdded":"11-02-2022-03:50:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"911645",
       "adult":true,
       "id":"gehraiyaan_2022",
@@ -8870,7 +8870,7 @@
    },
    {
       "dateAdded":"11-02-2022-01:51:36 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"719918",
       "adult":false,
       "id":"humbhiakeletumbhiakele",
@@ -8889,7 +8889,7 @@
    },
    {
       "dateAdded":"10-02-2022-09:20:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"mahaan_malayalam_2022",
@@ -8908,7 +8908,7 @@
    },
    {
       "dateAdded":"10-02-2022-08:50:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"mahaan_telugu_2022",
@@ -8927,7 +8927,7 @@
    },
    {
       "dateAdded":"10-02-2022-06:50:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"mahaan_tamil_2022",
@@ -8946,7 +8946,7 @@
    },
    {
       "dateAdded":"08-02-2022-11:10:00 PM",
-      "providers":"shemaroo, jiocinema",
+      "provider":"shemaroo, jiocinema",
       "tmdb":"",
       "adult":false,
       "id":"khattameetha_hi",
@@ -8965,7 +8965,7 @@
    },
    {
       "dateAdded":"06-02-2022-03:50:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"ismartshankar_hi_te",
@@ -8984,7 +8984,7 @@
    },
    {
       "dateAdded":"06-02-2022-03:20:55 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"iddarammayilatho_te",
@@ -9003,7 +9003,7 @@
    },
    {
       "dateAdded":"06-02-2022-01:00:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"geethagovindam_dual",
@@ -9022,7 +9022,7 @@
    },
    {
       "dateAdded":"05-02-2022-11:00:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"ghoomketu_hi",
@@ -9041,7 +9041,7 @@
    },
    {
       "dateAdded":"05-02-2022-10:40:51 PM",
-      "providers":"nf, prime",
+      "provider":"nf, prime",
       "tmdb":"",
       "adult":false,
       "id":"chupchupke_hindi",
@@ -9060,7 +9060,7 @@
    },
    {
       "dateAdded":"04-02-2022-05:40:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"looplapeta_multi",
@@ -9080,7 +9080,7 @@
    },
    {
       "dateAdded":"03-02-2022-05:40:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"onecuttwocut_kn",
@@ -9099,7 +9099,7 @@
    },
    {
       "dateAdded":"02-02-2022-07:00:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"traintobusan_multi",
@@ -9118,7 +9118,7 @@
    },
    {
       "dateAdded":"01-02-2022-12:00:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"743382",
       "adult":false,
       "id":"seriousmen_hi",
@@ -9137,7 +9137,7 @@
    },
    {
       "dateAdded":"31-01-2022-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"shylock_ml_hi",
@@ -9156,7 +9156,7 @@
    },
    {
       "dateAdded":"31-01-2022-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"281855",
       "adult":false,
       "id":"shock_tamil_dubbed_2006",
@@ -9175,7 +9175,7 @@
    },
    {
       "dateAdded":"29-01-2022-04:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"goodlucksakhi_telugu",
@@ -9194,7 +9194,7 @@
    },
    {
       "dateAdded":"29-01-2022-04:40:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"806096",
       "adult":false,
       "id":"gamanam_te",
@@ -9213,7 +9213,7 @@
    },
    {
       "dateAdded":"28-01-2022-10:40:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"tadap_hindi_2021",
@@ -9232,7 +9232,7 @@
    },
    {
       "dateAdded":"28-01-2022-10:00:00 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"brodaddy_ml",
@@ -9251,7 +9251,7 @@
    },
    {
       "dateAdded":"28-01-2022-01:40:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"kalidas_ta_hi",
@@ -9270,7 +9270,7 @@
    },
    {
       "dateAdded":"24-01-2022-10:40:00 PM",
-      "providers":"hotx",
+      "provider":"hotx",
       "tmdb":"",
       "adult":true,
       "id":"lust_hotx",
@@ -9289,7 +9289,7 @@
    },
    {
       "dateAdded":"24-01-2022-10:30:00 PM",
-      "providers":"prime, hungamaplay",
+      "provider":"prime, hungamaplay",
       "tmdb":"",
       "adult":false,
       "id":"thehumanitybureau_dual",
@@ -9308,7 +9308,7 @@
    },
    {
       "dateAdded":"23-01-2022-11:40:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"681272",
       "adult":false,
       "id":"darbaan_hi_z5",
@@ -9327,7 +9327,7 @@
    },
    {
       "dateAdded":"23-01-2022-05:00:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"hacked_hi",
@@ -9346,7 +9346,7 @@
    },
    {
       "dateAdded":"23-01-2022-04:00:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"Half Girlfriend",
@@ -9365,7 +9365,7 @@
    },
    {
       "dateAdded":"23-01-2022-03:00:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"fatteshikast_mr",
@@ -9384,7 +9384,7 @@
    },
    {
       "dateAdded":"23-01-2022-02:36:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"suryathesoldier_hi_dubbed",
@@ -9403,7 +9403,7 @@
    },
    {
       "dateAdded":"23-01-2022-02:10:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"443635",
       "adult":false,
       "id":"duvvadajagannadham_te",
@@ -9422,7 +9422,7 @@
    },
    {
       "dateAdded":"23-01-2022-12:50:54 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"759084",
       "adult":true,
       "id":"doctordoctor_mr",
@@ -9442,7 +9442,7 @@
    },
    {
       "dateAdded":"23-01-2022-12:20:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"desiboyz_hindi",
@@ -9461,7 +9461,7 @@
    },
    {
       "dateAdded":"23-01-2022-11:30:00 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"748027",
       "adult":false,
       "id":"comedycouple",
@@ -9480,7 +9480,7 @@
    },
    {
       "dateAdded":"23-01-2022-01:10:00 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"dreamgirl_hi",
@@ -9499,7 +9499,7 @@
    },
    {
       "dateAdded":"22-01-2022-11:30:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"739812",
       "adult":false,
       "id":"atkanchatkan",
@@ -9518,7 +9518,7 @@
    },
    {
       "dateAdded":"21-01-2022-06:40:00 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"721636",
       "adult":true,
       "id":"churuli_multi",
@@ -9537,7 +9537,7 @@
    },
    {
       "dateAdded":"21-01-2022-12:00:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"904137",
       "adult":false,
       "id":"jhimma_mr",
@@ -9556,7 +9556,7 @@
    },
    {
       "dateAdded":"18-01-2022-03:02:14 PM",
-      "providers":"z5, jiocinema",
+      "provider":"z5, jiocinema",
       "tmdb":"381418",
       "adult":false,
       "id":"sanamterikasam",
@@ -9575,7 +9575,7 @@
    },
    {
       "dateAdded":"18-01-2022-07:50:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"padman_hi",
@@ -9594,7 +9594,7 @@
    },
    {
       "dateAdded":"14-01-2022-08:50:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"uchapind_punjabi",
@@ -9613,7 +9613,7 @@
    },
    {
       "dateAdded":"14-01-2022-08:50:51 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"garudagamanavrishabhavahana_kn",
@@ -9632,7 +9632,7 @@
    },
    {
       "dateAdded":"14-01-2022-08:50:51 AM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"",
       "adult":false,
       "id":"skylab_2021_south_multi",
@@ -9651,7 +9651,7 @@
    },
    {
       "dateAdded":"14-01-2022-08:50:51 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"apex_2021_multi",
@@ -9670,7 +9670,7 @@
    },
    {
       "dateAdded":"14-01-2022-08:50:51 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"eternals_2021_multi",
@@ -9689,7 +9689,7 @@
    },
    {
       "dateAdded":"13-01-2022-08:51:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"jaanetutajaanena",
@@ -9708,7 +9708,7 @@
    },
    {
       "dateAdded":"10-01-2022-08:51:51 PM",
-      "providers":"jiocinema",
+      "provider":"jiocinema",
       "tmdb":"",
       "adult":false,
       "id":"suryansh_gu",
@@ -9727,7 +9727,7 @@
    },
    {
       "dateAdded":"10-01-2022-08:51:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"check_hi_dubbed",
@@ -9746,7 +9746,7 @@
    },
    {
       "dateAdded":"10-01-2022-08:50:51 PM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"",
       "adult":false,
       "id":"udumbu_ml",
@@ -9765,7 +9765,7 @@
    },
    {
       "dateAdded":"10-01-2022-08:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"chashmebaddoor_hi",
@@ -9784,7 +9784,7 @@
    },
    {
       "dateAdded":"10-01-2022-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"bekhudi_hi",
@@ -9803,7 +9803,7 @@
    },
    {
       "dateAdded":"09-01-2022-08:50:51 PM",
-      "providers":"mx",
+      "provider":"mx",
       "tmdb":"",
       "adult":false,
       "id":"thapadya_mr_movie",
@@ -9822,7 +9822,7 @@
    },
    {
       "dateAdded":"09-01-2022-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"darling_mr_movie",
@@ -9841,7 +9841,7 @@
    },
    {
       "dateAdded":"08-01-2022-08:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"chandigarhkareaashiqui",
@@ -9860,7 +9860,7 @@
    },
    {
       "dateAdded":"07-01-2022-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"690957",
       "adult":false,
       "id":"pushpatherisekannada",
@@ -9880,7 +9880,7 @@
    },
    {
       "dateAdded":"07-01-2022-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"690957",
       "adult":false,
       "id":"pushpatherisemalayalam",
@@ -9900,7 +9900,7 @@
    },
    {
       "dateAdded":"07-01-2022-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"690957",
       "adult":false,
       "id":"pushpatherisetamil",
@@ -9920,7 +9920,7 @@
    },
    {
       "dateAdded":"07-01-2022-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"690957",
       "adult":false,
       "id":"pushpatherisetelugu",
@@ -9940,7 +9940,7 @@
    },
    {
       "dateAdded":"28-12-2021-03:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"satya_bhojpuri",
@@ -9959,7 +9959,7 @@
    },
    {
       "dateAdded":"28-12-2021-12:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"ekbiharisaupebhari",
@@ -9978,7 +9978,7 @@
    },
    {
       "dateAdded":"28-12-2021-12:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"golondaaj_bengali",
@@ -9997,7 +9997,7 @@
    },
    {
       "dateAdded":"27-12-2021-11:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"3idiots_hi",
@@ -10016,7 +10016,7 @@
    },
    {
       "dateAdded":"26-12-2021-11:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"minnalmurali_multi",
@@ -10035,7 +10035,7 @@
    },
    {
       "dateAdded":"26-12-2021-10:50:51 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"890533",
       "adult":false,
       "id":"anubhavinchuraja_te",
@@ -10054,7 +10054,7 @@
    },
    {
       "dateAdded":"26-12-2021-12:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"nirahuahindustani3",
@@ -10073,7 +10073,7 @@
    },
    {
       "dateAdded":"26-12-2021-12:50:51 PM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"",
       "adult":false,
       "id":"maandaadu_multi",
@@ -10092,7 +10092,7 @@
    },
    {
       "dateAdded":"24-12-2021-10:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"618911",
       "adult":false,
       "id":"atrangire_hi",
@@ -10111,7 +10111,7 @@
    },
    {
       "dateAdded":"24-12-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"satyamevjayate2_hindi_2021",
@@ -10130,7 +10130,7 @@
    },
    {
       "dateAdded":"24-12-2021-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"antim_hindi_2021",
@@ -10149,7 +10149,7 @@
    },
    {
       "dateAdded":"19-12-2021-10:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"shockwave2_en_hi_ta",
@@ -10168,7 +10168,7 @@
    },
    {
       "dateAdded":"19-12-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"bali_2021_mr",
@@ -10187,7 +10187,7 @@
    },
    {
       "dateAdded":"19-12-2021-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"mrandmrssadachari_mr",
@@ -10206,7 +10206,7 @@
    },
    {
       "dateAdded":"14-12-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"buntyaurbabli2",
@@ -10225,7 +10225,7 @@
    },
    {
       "dateAdded":"13-12-2021-05:59:54 PM",
-      "providers":"erosnow",
+      "provider":"erosnow",
       "tmdb":"585981",
       "adult":true,
       "id":"kuchpalpyarke_2018_hindi",
@@ -10245,7 +10245,7 @@
    },
    {
       "dateAdded":"11-12-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"617405",
       "adult":false,
       "id":"marakkar_2021",
@@ -10264,7 +10264,7 @@
    },
    {
       "dateAdded":"09-12-2021-08:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"sooryavanshi_multi",
@@ -10283,7 +10283,7 @@
    },
    {
       "dateAdded":"04-12-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"rx100_hi_movie",
@@ -10302,7 +10302,7 @@
    },
    {
       "dateAdded":"04-12-2021-08:50:51 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"",
       "adult":false,
       "id":"manchirojulochaie_telugu",
@@ -10321,7 +10321,7 @@
    },
    {
       "dateAdded":"04-12-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"kondapolam_telugu",
@@ -10340,7 +10340,7 @@
    },
    {
       "dateAdded":"02-12-2021-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"bobbiswas",
@@ -10359,7 +10359,7 @@
    },
    {
       "dateAdded":"29-11-2021-12:24:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"adbhutham_telugu",
@@ -10378,7 +10378,7 @@
    },
    {
       "dateAdded":"27-11-2021-01:20:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"chorii_hindi",
@@ -10397,7 +10397,7 @@
    },
    {
       "dateAdded":"25-11-2021-12:25:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"sardarji_pun",
@@ -10416,7 +10416,7 @@
    },
    {
       "dateAdded":"25-11-2021-12:24:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"shadaa_pun",
@@ -10435,7 +10435,7 @@
    },
    {
       "dateAdded":"25-11-2021-12:14:58 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"653457",
       "adult":false,
       "id":"mimi_2021_netflix",
@@ -10455,7 +10455,7 @@
    },
    {
       "dateAdded":"21-11-2021-10:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"qismat2_pun",
@@ -10474,7 +10474,7 @@
    },
    {
       "dateAdded":"21-11-2021-09:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"qismat_pun",
@@ -10493,7 +10493,7 @@
    },
    {
       "dateAdded":"21-11-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"chalmeraputt2_pun",
@@ -10512,7 +10512,7 @@
    },
    {
       "dateAdded":"21-11-2021-07:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"chalmeraputt_pun",
@@ -10531,7 +10531,7 @@
    },
    {
       "dateAdded":"20-11-2021-02:15:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"767377",
       "adult":false,
       "id":"dhamaka_2021",
@@ -10551,7 +10551,7 @@
    },
    {
       "dateAdded":"19-11-2021-08:50:51 PM",
-      "providers":"aha, nf",
+      "provider":"aha, nf",
       "tmdb":"716255",
       "adult":false,
       "id":"mosteligiblebachelor",
@@ -10570,7 +10570,7 @@
    },
    {
       "dateAdded":"15-11-2021-11:51:51 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"grey_mr",
@@ -10589,7 +10589,7 @@
    },
    {
       "dateAdded":"15-11-2021-10:51:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"jivansandhya_mr",
@@ -10608,7 +10608,7 @@
    },
    {
       "dateAdded":"12-11-2021-08:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"rednotice",
@@ -10627,7 +10627,7 @@
    },
    {
       "dateAdded":"12-11-2021-09:50:51 AM",
-      "providers":"liv",
+      "provider":"liv",
       "tmdb":"",
       "adult":false,
       "id":"chumbak_multi",
@@ -10646,7 +10646,7 @@
    },
    {
       "dateAdded":"12-11-2021-08:50:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"mahasamudram_te",
@@ -10665,7 +10665,7 @@
    },
    {
       "dateAdded":"06-11-2021-08:50:51 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"meenakshisundareshwar",
@@ -10684,7 +10684,7 @@
    },
    {
       "dateAdded":"29-10-2021-09:44:59 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"654553",
       "adult":false,
       "id":"yuvarathnaa",
@@ -10703,7 +10703,7 @@
    },
    {
       "dateAdded":"29-10-2021-08:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"humdohamaredo",
@@ -10722,7 +10722,7 @@
    },
    {
       "dateAdded":"29-10-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"dybbuk",
@@ -10741,7 +10741,7 @@
    },
    {
       "dateAdded":"27-10-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"loveaajkal",
@@ -10760,7 +10760,7 @@
    },
    {
       "dateAdded":"26-10-2021-01:00:00 PM",
-      "providers":"nf, prime, z5",
+      "provider":"nf, prime, z5",
       "tmdb":"260266",
       "adult":true,
       "id":"raginimms2_hi",
@@ -10780,7 +10780,7 @@
    },
    {
       "dateAdded":"25-10-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"tararumpum",
@@ -10799,7 +10799,7 @@
    },
    {
       "dateAdded":"25-10-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"803391",
       "adult":false,
       "id":"bhramamhindi",
@@ -10818,7 +10818,7 @@
    },
    {
       "dateAdded":"25-10-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"andhadhun",
@@ -10837,7 +10837,7 @@
    },
    {
       "dateAdded":"25-10-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"maestro_telugu",
@@ -10856,7 +10856,7 @@
    },
    {
       "dateAdded":"25-10-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"803391",
       "adult":false,
       "id":"bhramam_ml",
@@ -10875,7 +10875,7 @@
    },
    {
       "dateAdded":"25-10-2021-08:49:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"antimtrailer",
@@ -10894,7 +10894,7 @@
    },
    {
       "dateAdded":"24-10-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"buntyaurbabli",
@@ -10913,7 +10913,7 @@
    },
    {
       "dateAdded":"23-10-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"omshantiom",
@@ -10932,7 +10932,7 @@
    },
    {
       "dateAdded":"23-10-2021-08:50:51 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"",
       "adult":false,
       "id":"lovestory_te",
@@ -10951,7 +10951,7 @@
    },
    {
       "dateAdded":"21-10-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"aailareaailasong",
@@ -10970,7 +10970,7 @@
    },
    {
       "dateAdded":"17-10-2021-09:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"sardarudham",
@@ -10989,7 +10989,7 @@
    },
    {
       "dateAdded":"17-10-2021-08:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"sanakhindi",
@@ -11008,7 +11008,7 @@
    },
    {
       "dateAdded":"17-10-2021-12:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Evil Eye",
@@ -11027,7 +11027,7 @@
    },
    {
       "dateAdded":"16-10-2021-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"rashmirocket",
@@ -11047,7 +11047,7 @@
    },
    {
       "dateAdded":"14-10-2021-12:00:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"730428",
       "adult":false,
       "id":"classof83_hi",
@@ -11066,7 +11066,7 @@
    },
    {
       "dateAdded":"11-10-2021-12:04:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"643534",
       "adult":false,
       "id":"goodnewwz_hi",
@@ -11086,7 +11086,7 @@
    },
    {
       "dateAdded":"10-10-2021-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"443635",
       "adult":false,
       "id":"DJ (Hindi)",
@@ -11106,7 +11106,7 @@
    },
    {
       "dateAdded":"09-10-2021-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"802735",
       "adult":false,
       "id":"rajarajachora_te",
@@ -11125,7 +11125,7 @@
    },
    {
       "dateAdded":"07-10-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"kesari_mr",
@@ -11144,7 +11144,7 @@
    },
    {
       "dateAdded":"07-10-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"arya1_hindi",
@@ -11163,7 +11163,7 @@
    },
    {
       "dateAdded":"07-10-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"arya2_hindi",
@@ -11182,7 +11182,7 @@
    },
    {
       "dateAdded":"05-10-2021-08:50:51 PM",
-      "providers":"voot",
+      "provider":"voot",
       "tmdb":"",
       "adult":false,
       "id":"criminal_1995_hindi",
@@ -11201,7 +11201,7 @@
    },
    {
       "dateAdded":"05-10-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"lift_tamil",
@@ -11220,7 +11220,7 @@
    },
    {
       "dateAdded":"01-10-2021-08:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"shiddat_hi",
@@ -11239,7 +11239,7 @@
    },
    {
       "dateAdded":"01-10-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"chehre_bigb",
@@ -11258,7 +11258,7 @@
    },
    {
       "dateAdded":"28-09-2021-08:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"annabellerathore_hi",
@@ -11277,7 +11277,7 @@
    },
    {
       "dateAdded":"28-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"dumlagaiehaisha",
@@ -11296,7 +11296,7 @@
    },
    {
       "dateAdded":"25-09-2021-08:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"thalaivii_hi",
@@ -11315,7 +11315,7 @@
    },
    {
       "dateAdded":"23-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"aashiqui2_hi",
@@ -11334,7 +11334,7 @@
    },
    {
       "dateAdded":"23-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"aashiqui_hi",
@@ -11353,7 +11353,7 @@
    },
    {
       "dateAdded":"22-09-2021-03:48:08 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"844460",
       "adult":false,
       "id":"blackbud_hindi",
@@ -11372,7 +11372,7 @@
    },
    {
       "dateAdded":"22-09-2021-03:13:05 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"844710",
       "adult":false,
       "id":"collarbomb_hotstar",
@@ -11391,7 +11391,7 @@
    },
    {
       "dateAdded":"21-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"rings_dual_audio",
@@ -11410,7 +11410,7 @@
    },
    {
       "dateAdded":"19-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"ankahikahaniya_hindi",
@@ -11429,7 +11429,7 @@
    },
    {
       "dateAdded":"16-09-2021-10:42:38 AM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"sweetysatarkar_mr_movie",
@@ -11448,7 +11448,7 @@
    },
    {
       "dateAdded":"13-09-2021-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"kyamerisonamguptabewafahai",
@@ -11467,7 +11467,7 @@
    },
    {
       "dateAdded":"12-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"net_2021_zee5",
@@ -11486,7 +11486,7 @@
    },
    {
       "dateAdded":"12-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"tughlaqdarbar_ta",
@@ -11505,7 +11505,7 @@
    },
    {
       "dateAdded":"12-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"dikkiloona_ta",
@@ -11524,7 +11524,7 @@
    },
    {
       "dateAdded":"12-09-2021-12:57:54 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"befaam_marathi_zee5",
@@ -11543,7 +11543,7 @@
    },
    {
       "dateAdded":"11-09-2021-08:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"bhootpolice_hindi",
@@ -11562,7 +11562,7 @@
    },
    {
       "dateAdded":"10-09-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"tuckjagadish",
@@ -11581,7 +11581,7 @@
    },
    {
       "dateAdded":"06-09-2021-08:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"shangchi_ta_en",
@@ -11600,7 +11600,7 @@
    },
    {
       "dateAdded":"06-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"shangchi_te_en",
@@ -11619,7 +11619,7 @@
    },
    {
       "dateAdded":"06-09-2021-12:00:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"66841",
       "adult":true,
       "id":"raginimms",
@@ -11638,7 +11638,7 @@
    },
    {
       "dateAdded":"05-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"whatsuplagna_mr",
@@ -11657,7 +11657,7 @@
    },
    {
       "dateAdded":"05-09-2021-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"helmet_zee5_hi",
@@ -11676,7 +11676,7 @@
    },
    {
       "dateAdded":"01-09-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"881486",
       "adult":true,
       "id":"MAD_telugu",
@@ -11695,7 +11695,7 @@
    },
    {
       "dateAdded":"01-09-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"checkmate_telugu",
@@ -11714,7 +11714,7 @@
    },
    {
       "dateAdded":"01-09-2021-06:26:05 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"thedirtypicture_hi_movie",
@@ -11733,7 +11733,7 @@
    },
    {
       "dateAdded":"31-08-2021-08:50:51 PM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"281855",
       "adult":false,
       "id":"shock_telugu_2006",
@@ -11752,7 +11752,7 @@
    },
    {
       "dateAdded":"27-08-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"721048",
       "adult":false,
       "id":"bellbottom_hindi",
@@ -11772,7 +11772,7 @@
    },
    {
       "dateAdded":"26-08-2021-08:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"inception_multi",
@@ -11791,7 +11791,7 @@
    },
    {
       "dateAdded":"26-08-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"boomika_multi",
@@ -11810,7 +11810,7 @@
    },
    {
       "dateAdded":"15-08-2021-12:50:51 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"bhujmulti",
@@ -11829,7 +11829,7 @@
    },
    {
       "dateAdded":"14-08-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"oreybammardhi_telugu",
@@ -11848,7 +11848,7 @@
    },
    {
       "dateAdded":"14-08-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"paagal_telugu",
@@ -11867,7 +11867,7 @@
    },
    {
       "dateAdded":"13-08-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"netrikann_multi_hs",
@@ -11886,7 +11886,7 @@
    },
    {
       "dateAdded":"13-08-2021-12:50:51 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"bhujhindi",
@@ -11905,7 +11905,7 @@
    },
    {
       "dateAdded":"12-08-2021-12:50:51 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"599925",
       "adult":false,
       "id":"shershaah_hindi",
@@ -11925,7 +11925,7 @@
    },
    {
       "dateAdded":"11-08-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"insha_malayalam_movie",
@@ -11944,7 +11944,7 @@
    },
    {
       "dateAdded":"11-08-2021-08:50:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"dishoom_hindi",
@@ -11963,7 +11963,7 @@
    },
    {
       "dateAdded":"11-08-2021-08:50:51 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"thekissingbooth3_multi",
@@ -11982,7 +11982,7 @@
    },
    {
       "dateAdded":"11-08-2021-09:52:58 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"thekissingbooth2_dual",
@@ -12001,7 +12001,7 @@
    },
    {
       "dateAdded":"11-08-2021-09:51:06 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"thekissingbooth_dual",
@@ -12020,7 +12020,7 @@
    },
    {
       "dateAdded":"08-08-2021-04:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"suicidesquad_tamil_dubbed",
@@ -12039,7 +12039,7 @@
    },
    {
       "dateAdded":"06-08-2021-04:30:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":true,
       "id":"dial100_hindi",
@@ -12058,7 +12058,7 @@
    },
    {
       "dateAdded":"06-08-2021-04:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"superdeluxe_telugu_dubbed",
@@ -12077,7 +12077,7 @@
    },
    {
       "dateAdded":"31-07-2021-09:53:49 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"blackwidow_hi_dubbed",
@@ -12096,7 +12096,7 @@
    },
    {
       "dateAdded":"30-07-2021-07:39:15 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"conjuring2_multi_movie",
@@ -12115,7 +12115,7 @@
    },
    {
       "dateAdded":"30-07-2021-07:33:25 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"conjuring_multi_movie",
@@ -12134,7 +12134,7 @@
    },
    {
       "dateAdded":"30-07-2021-09:55:36 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"uppena_te_movie",
@@ -12153,7 +12153,7 @@
    },
    {
       "dateAdded":"29-07-2021-09:51:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"Extraction",
@@ -12172,7 +12172,7 @@
    },
    {
       "dateAdded":"29-07-2021-01:41:10 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"godzillakong_hi",
@@ -12191,7 +12191,7 @@
    },
    {
       "dateAdded":"29-07-2021-10:21:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"vhindi",
@@ -12210,7 +12210,7 @@
    },
    {
       "dateAdded":"28-07-2021-12:00:47 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"576928",
       "adult":false,
       "id":"asuran_ta_movie",
@@ -12229,7 +12229,7 @@
    },
    {
       "dateAdded":"27-07-2021-08:38:52 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"haseendilruba_netflix_hindi",
@@ -12249,7 +12249,7 @@
    },
    {
       "dateAdded":"27-07-2021-01:35:50 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"773303",
       "adult":false,
       "id":"zombiereddy_hi_dubbed",
@@ -12268,7 +12268,7 @@
    },
    {
       "dateAdded":"25-07-2021-12:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Dear Comrade (Hindi Dubbed)",
@@ -12287,7 +12287,7 @@
    },
    {
       "dateAdded":"24-07-2021-08:50:51 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"14phere_zee5",
@@ -12306,7 +12306,7 @@
    },
    {
       "dateAdded":"24-07-2021-10:16:09 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"796011",
       "adult":false,
       "id":"sarpattaparambarai_ta_movie",
@@ -12325,7 +12325,7 @@
    },
    {
       "dateAdded":"23-07-2021-10:45:26 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"",
       "adult":false,
       "id":"hungama2_hi_movie",
@@ -12344,7 +12344,7 @@
    },
    {
       "dateAdded":"22-07-2021-05:50:11 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"raaz3",
@@ -12363,7 +12363,7 @@
    },
    {
       "dateAdded":"22-07-2021-11:05:44 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"needa_te_movie",
@@ -12382,7 +12382,7 @@
    },
    {
       "dateAdded":"22-07-2021-10:34:25 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"hero_te_aha",
@@ -12401,7 +12401,7 @@
    },
    {
       "dateAdded":"21-07-2021-11:40:40 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"idhuenkadhalputhagam",
@@ -12420,7 +12420,7 @@
    },
    {
       "dateAdded":"21-07-2021-12:39:50 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"ismartshankar_tamil_dubbed",
@@ -12439,7 +12439,7 @@
    },
    {
       "dateAdded":"20-07-2021-11:42:37 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"666564",
       "adult":false,
       "id":"narappa_te_movie",
@@ -12458,7 +12458,7 @@
    },
    {
       "dateAdded":"19-07-2021-01:11:55 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"toofaan_hindi_prime",
@@ -12477,7 +12477,7 @@
    },
    {
       "dateAdded":"13-07-2021-10:33:51 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"tenet_en_movie",
@@ -12496,7 +12496,7 @@
    },
    {
       "dateAdded":"13-07-2021-12:00:28 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"kalhonaho_hi_movie",
@@ -12515,7 +12515,7 @@
    },
    {
       "dateAdded":"12-07-2021-04:11:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Maharshi",
@@ -12534,7 +12534,7 @@
    },
    {
       "dateAdded":"11-07-2021-02:11:38 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"",
       "adult":false,
       "id":"war_2019_hindi",
@@ -12553,7 +12553,7 @@
    },
    {
       "dateAdded":"10-07-2021-08:43:32 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"dabangg3_hi_movie",
@@ -12572,7 +12572,7 @@
    },
    {
       "dateAdded":"10-07-2021-12:34:33 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"stateofsiege_zee5_2021",
@@ -12591,7 +12591,7 @@
    },
    {
       "dateAdded":"09-07-2021-09:54:59 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"581361",
       "adult":false,
       "id":"badla_hi_movie",
@@ -12611,7 +12611,7 @@
    },
    {
       "dateAdded":"09-07-2021-01:26:32 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"vikramarkudu_telugu_aha_2021",
@@ -12630,7 +12630,7 @@
    },
    {
       "dateAdded":"08-07-2021-12:41:38 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"mrsserialkiller_hi_movie",
@@ -12649,7 +12649,7 @@
    },
    {
       "dateAdded":"07-07-2021-04:22:56 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"zindagivirat_marathi",
@@ -12668,7 +12668,7 @@
    },
    {
       "dateAdded":"07-07-2021-10:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Lalbaug Parel",
@@ -12687,7 +12687,7 @@
    },
    {
       "dateAdded":"07-07-2021-03:18:37 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"577328",
       "adult":false,
       "id":"kabirsingh",
@@ -12707,7 +12707,7 @@
    },
    {
       "dateAdded":"07-07-2021-12:00:01 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Once Upon Ay Time in Mumbai Dobaara",
@@ -12726,7 +12726,7 @@
    },
    {
       "dateAdded":"07-07-2021-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"june_planetmarathi",
@@ -12745,7 +12745,7 @@
    },
    {
       "dateAdded":"06-07-2021-10:30:51 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":true,
       "id":"thenudity_tamil",
@@ -12764,7 +12764,7 @@
    },
    {
       "dateAdded":"05-07-2021-09:31:19 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"30rojullopreminchadamela_telugu_aha",
@@ -12783,7 +12783,7 @@
    },
    {
       "dateAdded":"05-07-2021-12:54:02 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"thetomorrowwar",
@@ -12802,7 +12802,7 @@
    },
    {
       "dateAdded":"04-07-2021-03:17:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"498598",
       "adult":false,
       "id":"sonuketitukisweety",
@@ -12822,7 +12822,7 @@
    },
    {
       "dateAdded":"04-07-2021-02:55:53 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"onceuponatimeinmumbai_hi_movie",
@@ -12841,7 +12841,7 @@
    },
    {
       "dateAdded":"03-07-2021-08:48:13 PM",
-      "providers":"nf, appletv",
+      "provider":"nf, appletv",
       "tmdb":"585062",
       "adult":false,
       "id":"lukachuppi_hi_movie",
@@ -12861,7 +12861,7 @@
    },
    {
       "dateAdded":"03-07-2021-03:16:21 PM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"800046",
       "adult":false,
       "id":"chaavukaburuchallaga_te_movie",
@@ -12881,7 +12881,7 @@
    },
    {
       "dateAdded":"03-07-2021-03:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Malang",
@@ -12900,7 +12900,7 @@
    },
    {
       "dateAdded":"03-07-2021-12:30:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Sanju",
@@ -12919,7 +12919,7 @@
    },
    {
       "dateAdded":"01-07-2021-09:00:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"590350",
       "adult":false,
       "id":"patipatniaurwoh_hi_movie",
@@ -12939,7 +12939,7 @@
    },
    {
       "dateAdded":"01-07-2021-11:33:34 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"654553",
       "adult":false,
       "id":"yuvarathnaa_tamil",
@@ -12958,7 +12958,7 @@
    },
    {
       "dateAdded":"01-07-2021-11:03:34 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"838609",
       "adult":false,
       "id":"coldcase_malayalam",
@@ -12977,7 +12977,7 @@
    },
    {
       "dateAdded":"01-07-2021-12:59:56 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"784572",
       "adult":false,
       "id":"krack_hi_movie",
@@ -12996,7 +12996,7 @@
    },
    {
       "dateAdded":"29-06-2021-08:20:48 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"kaththi_tamil",
@@ -13015,7 +13015,7 @@
    },
    {
       "dateAdded":"25-06-2021-09:29:16 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"sashi_hi_dubbed",
@@ -13034,7 +13034,7 @@
    },
    {
       "dateAdded":"23-06-2021-10:33:36 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"sarkar_tamil_movie",
@@ -13053,7 +13053,7 @@
    },
    {
       "dateAdded":"23-06-2021-09:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"596650",
       "adult":false,
       "id":"Chhichhore",
@@ -13072,7 +13072,7 @@
    },
    {
       "dateAdded":"23-06-2021-08:11:31 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"694103",
       "adult":false,
       "id":"roohi_hi_movie",
@@ -13091,7 +13091,7 @@
    },
    {
       "dateAdded":"23-06-2021-12:19:06 AM",
-      "providers":"nf,prime,jiocinema",
+      "provider":"nf,prime,jiocinema",
       "tmdb":"117691",
       "adult":false,
       "id":"gangsofwasseypur_hindi",
@@ -13111,7 +13111,7 @@
    },
    {
       "dateAdded":"19-06-2021-12:44:26 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"sherni_hi_movie",
@@ -13130,7 +13130,7 @@
    },
    {
       "dateAdded":"18-06-2021-11:47:46 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"jagamethandiram_multi",
@@ -13149,7 +13149,7 @@
    },
    {
       "dateAdded":"18-06-2021-12:06:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"zacksnyderjusticeleague_hindi",
@@ -13168,7 +13168,7 @@
    },
    {
       "dateAdded":"13-06-2021-10:40:25 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"627261",
       "adult":false,
       "id":"thefamilywoman_hi_dubbed",
@@ -13187,7 +13187,7 @@
    },
    {
       "dateAdded":"13-06-2021-10:20:37 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"eeswaran_2021_tamil",
@@ -13206,7 +13206,7 @@
    },
    {
       "dateAdded":"11-06-2021-11:51:21 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"795104",
       "adult":false,
       "id":"rangde_te_movie",
@@ -13225,7 +13225,7 @@
    },
    {
       "dateAdded":"11-06-2021-10:26:41 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"sulthan_ta_movie",
@@ -13244,7 +13244,7 @@
    },
    {
       "dateAdded":"09-06-2021-12:26:28 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"armyofthedead_hi",
@@ -13263,7 +13263,7 @@
    },
    {
       "dateAdded":"06-06-2021-12:21:25 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"narthanshala_hi_dubbed",
@@ -13282,7 +13282,7 @@
    },
    {
       "dateAdded":"06-06-2021-11:27:29 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"biskut_hi_dubbed",
@@ -13301,7 +13301,7 @@
    },
    {
       "dateAdded":"06-06-2021-01:34:46 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"19636",
       "adult":false,
       "id":"garammasala_hi_movie",
@@ -13320,7 +13320,7 @@
    },
    {
       "dateAdded":"04-06-2021-11:22:20 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"aadinfinitum_hindi",
@@ -13339,7 +13339,7 @@
    },
    {
       "dateAdded":"04-06-2021-09:20:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Kesari",
@@ -13358,7 +13358,7 @@
    },
    {
       "dateAdded":"02-06-2021-10:19:06 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"652601",
       "adult":false,
       "id":"hirkani_mr_movie",
@@ -13377,7 +13377,7 @@
    },
    {
       "dateAdded":"01-06-2021-12:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Raat Akeli Hai",
@@ -13396,7 +13396,7 @@
    },
    {
       "dateAdded":"01-06-2021-11:19:23 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"jaimummydi_hi_movie",
@@ -13415,7 +13415,7 @@
    },
    {
       "dateAdded":"01-06-2021-01:26:12 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"594139",
       "adult":false,
       "id":"darbar",
@@ -13434,7 +13434,7 @@
    },
    {
       "dateAdded":"31-05-2021-01:58:30 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"wonderwoman1984_hindi",
@@ -13453,7 +13453,7 @@
    },
    {
       "dateAdded":"30-05-2021-10:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Marjaavaan",
@@ -13472,7 +13472,7 @@
    },
    {
       "dateAdded":"27-05-2021-12:27:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"friendsreunion_zee5",
@@ -13491,7 +13491,7 @@
    },
    {
       "dateAdded":"26-05-2021-10:22:40 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"595228",
       "adult":false,
       "id":"udaan_hi_dubbed",
@@ -13510,7 +13510,7 @@
    },
    {
       "dateAdded":"25-05-2021-02:17:27 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"phirherapheri",
@@ -13529,7 +13529,7 @@
    },
    {
       "dateAdded":"19-05-2021-06:24:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Sardarkagrandson",
@@ -13548,7 +13548,7 @@
    },
    {
       "dateAdded":"18-05-2021-10:24:26 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"onlinebinline_mr_movie",
@@ -13567,7 +13567,7 @@
    },
    {
       "dateAdded":"17-05-2021-07:45:57 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"672143",
       "adult":false,
       "id":"sufna_punjabi_movie",
@@ -13586,7 +13586,7 @@
    },
    {
       "dateAdded":"16-05-2021-09:24:05 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":true,
       "id":"raw_french_movie",
@@ -13605,7 +13605,7 @@
    },
    {
       "dateAdded":"16-05-2021-12:07:15 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"forensic_ml_movie",
@@ -13624,7 +13624,7 @@
    },
    {
       "dateAdded":"16-05-2021-12:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Ek Tha Tiger",
@@ -13643,7 +13643,7 @@
    },
    {
       "dateAdded":"16-05-2021-12:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"bhoot part one",
@@ -13662,7 +13662,7 @@
    },
    {
       "dateAdded":"12-05-2021-01:37:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"679844",
       "adult":false,
       "id":"radhemostwantedbhai",
@@ -13681,7 +13681,7 @@
    },
    {
       "dateAdded":"12-05-2021-10:58:25 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"picasso_mr_movie",
@@ -13700,7 +13700,7 @@
    },
    {
       "dateAdded":"12-05-2021-03:08:59 AM",
-      "providers":"hs",
+      "provider":"hs",
       "tmdb":"603673",
       "adult":false,
       "id":"laxmii_hi",
@@ -13720,7 +13720,7 @@
    },
    {
       "dateAdded":"03-05-2021-09:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Rogue",
@@ -13739,7 +13739,7 @@
    },
    {
       "dateAdded":"30-04-2021-05:56:34 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"vakeelsaab_te_movie",
@@ -13758,7 +13758,7 @@
    },
    {
       "dateAdded":"20-04-2021-01:16:35 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"hellaro_gu_movie",
@@ -13777,7 +13777,7 @@
    },
    {
       "dateAdded":"17-04-2021-10:18:50 AM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"21208",
       "adult":false,
       "id":"orphan_en_movie",
@@ -13796,7 +13796,7 @@
    },
    {
       "dateAdded":"16-04-2021-11:31:04 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"tuesdaysandfridays_hindi",
@@ -13815,7 +13815,7 @@
    },
    {
       "dateAdded":"12-04-2021-05:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"welldonebaby_mr_movie",
@@ -13834,7 +13834,7 @@
    },
    {
       "dateAdded":"12-04-2021-04:00:00 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"hellocharlie_hi_movie",
@@ -13853,7 +13853,7 @@
    },
    {
       "dateAdded":"12-04-2021-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"maska_mr_movie",
@@ -13872,7 +13872,7 @@
    },
    {
       "dateAdded":"12-04-2021-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"tujhatumajhami_mr_movie",
@@ -13891,7 +13891,7 @@
    },
    {
       "dateAdded":"11-04-2021-12:00:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"606050",
       "adult":false,
       "id":"tuhire_mr",
@@ -13911,7 +13911,7 @@
    },
    {
       "dateAdded":"03-04-2021-01:25:38 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"chalo_hi_movie",
@@ -13930,7 +13930,7 @@
    },
    {
       "dateAdded":"03-04-2021-01:20:01 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"aksar_hi_movie",
@@ -13949,7 +13949,7 @@
    },
    {
       "dateAdded":"03-04-2021-01:15:53 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"simbika_short_hindi",
@@ -13968,7 +13968,7 @@
    },
    {
       "dateAdded":"02-04-2021-01:47:27 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"godzillakong_en",
@@ -13987,7 +13987,7 @@
    },
    {
       "dateAdded":"25-03-2021-07:03:06 PM",
-      "providers":"mx",
+      "provider":"mx",
       "tmdb":"",
       "adult":false,
       "id":"khatarnakkhiladi2_hi_movie",
@@ -14006,7 +14006,7 @@
    },
    {
       "dateAdded":"22-03-2021-12:00:00 AM",
-      "providers":"voot",
+      "provider":"voot",
       "tmdb":"",
       "adult":false,
       "id":"Petta (Hindi Dubbed)",
@@ -14025,7 +14025,7 @@
    },
    {
       "dateAdded":"20-03-2021-09:18:38 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"vittalwadi_te_movie",
@@ -14044,7 +14044,7 @@
    },
    {
       "dateAdded":"11-03-2021-10:01:29 AM",
-      "providers":"voot",
+      "provider":"voot",
       "tmdb":"382959",
       "adult":false,
       "id":"balkadu_mr_movie",
@@ -14063,7 +14063,7 @@
    },
    {
       "dateAdded":"11-03-2021-09:57:50 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"arya2_te_movie",
@@ -14082,7 +14082,7 @@
    },
    {
       "dateAdded":"11-03-2021-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"667585",
       "adult":false,
       "id":"Chhalaang",
@@ -14101,7 +14101,7 @@
    },
    {
       "dateAdded":"09-03-2021-12:00:00 PM",
-      "providers":"nf",
+      "provider":"nf",
       "tmdb":"",
       "adult":false,
       "id":"avpl",
@@ -14120,7 +14120,7 @@
    },
    {
       "dateAdded":"08-03-2021-02:31:42 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"ladiesvsrickybahl_hi_movie",
@@ -14139,7 +14139,7 @@
    },
    {
       "dateAdded":"06-03-2021-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":true,
       "id":"beimaanlove_hi_movie",
@@ -14158,7 +14158,7 @@
    },
    {
       "dateAdded":"06-03-2021-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"heartattack3_hi_movie",
@@ -14177,7 +14177,7 @@
    },
    {
       "dateAdded":"01-03-2021-09:40:36 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"ramleela_hi_movie",
@@ -14196,7 +14196,7 @@
    },
    {
       "dateAdded":"27-02-2021-02:25:16 AM",
-      "providers":"aha",
+      "provider":"aha",
       "tmdb":"784572",
       "adult":false,
       "id":"krack_te_movie",
@@ -14215,7 +14215,7 @@
    },
    {
       "dateAdded":"27-02-2021-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"ddd_hi_movie",
@@ -14234,7 +14234,7 @@
    },
    {
       "dateAdded":"23-02-2021-09:50:51 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"302435",
       "adult":false,
       "id":"ashihibanwabanwi_mr",
@@ -14253,7 +14253,7 @@
    },
    {
       "dateAdded":"23-02-2021-09:49:54 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"red_te_movie",
@@ -14272,7 +14272,7 @@
    },
    {
       "dateAdded":"19-02-2021-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"xxxxandercage_dp_hi_movie",
@@ -14291,7 +14291,7 @@
    },
    {
       "dateAdded":"13-02-2021-12:53:58 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"pyarkapunchnama2_hi_movie",
@@ -14310,7 +14310,7 @@
    },
    {
       "dateAdded":"13-02-2021-12:48:09 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"aedilhaimushkil_hi_movie",
@@ -14329,7 +14329,7 @@
    },
    {
       "dateAdded":"13-02-2021-12:27:10 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"postergirl_mr_movie",
@@ -14348,7 +14348,7 @@
    },
    {
       "dateAdded":"11-02-2021-05:40:03 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"wfl_hi_movie",
@@ -14367,7 +14367,7 @@
    },
    {
       "dateAdded":"11-02-2021-05:18:01 PM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"agentsai hindi",
@@ -14386,7 +14386,7 @@
    },
    {
       "dateAdded":"23-01-2021-12:30:00 PM",
-      "providers":"z5",
+      "provider":"z5",
       "tmdb":"",
       "adult":false,
       "id":"dhurala_mr",
@@ -14406,7 +14406,7 @@
    },
    {
       "dateAdded":"15-12-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"362045",
       "adult":false,
       "id":"Bajirao Mastani",
@@ -14425,7 +14425,7 @@
    },
    {
       "dateAdded":"03-12-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Jogwa",
@@ -14444,7 +14444,7 @@
    },
    {
       "dateAdded":"29-11-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Hum Tumhare Hain Sanam",
@@ -14463,7 +14463,7 @@
    },
    {
       "dateAdded":"28-11-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Devdas",
@@ -14482,7 +14482,7 @@
    },
    {
       "dateAdded":"22-11-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"The Expendables 2 (Telugu Dubbed)",
@@ -14501,7 +14501,7 @@
    },
    {
       "dateAdded":"21-11-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"VIP 2 Lalkar (Hindi Dubbed)",
@@ -14520,7 +14520,7 @@
    },
    {
       "dateAdded":"16-11-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Indian Soldier Never On Holiday (Hindi Dubbed)",
@@ -14539,7 +14539,7 @@
    },
    {
       "dateAdded":"06-11-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"411717",
       "adult":false,
       "id":"Bhairava (Hindi Dubbed)",
@@ -14558,7 +14558,7 @@
    },
    {
       "dateAdded":"06-11-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Sketch (Hindi Dubbed)",
@@ -14577,7 +14577,7 @@
    },
    {
       "dateAdded":"06-11-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"ambala_hi",
@@ -14596,7 +14596,7 @@
    },
    {
       "dateAdded":"01-11-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Black Stallion (Hindi Dubbed)",
@@ -14615,7 +14615,7 @@
    },
    {
       "dateAdded":"30-10-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Aamdar Mazya Khishat",
@@ -14634,7 +14634,7 @@
    },
    {
       "dateAdded":"30-10-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"410331",
       "adult":false,
       "id":"Chennai Central (Hindi Dubbed)",
@@ -14653,7 +14653,7 @@
    },
    {
       "dateAdded":"30-10-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Rowdy Hero (Hindi Dubbed)",
@@ -14672,7 +14672,7 @@
    },
    {
       "dateAdded":"30-10-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"Theri (Hindi Dubbed)",
@@ -14691,7 +14691,7 @@
    },
    {
       "dateAdded":"30-10-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"",
       "adult":false,
       "id":"baywatch_hi",
@@ -14710,7 +14710,7 @@
    },
    {
       "dateAdded":"26-10-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"447458",
       "adult":false,
       "id":"dwaraka_hi",
@@ -14730,7 +14730,7 @@
    },
    {
       "dateAdded":"16-10-2020-12:00:00 AM",
-      "providers":"appletv",
+      "provider":"appletv",
       "tmdb":"363185",
       "adult":false,
       "id":"mastizaade_hi",
@@ -14750,7 +14750,7 @@
    },
    {
       "dateAdded":"15-10-2020-12:00:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"318898",
       "adult":false,
       "id":"alone_hi",
@@ -14770,7 +14770,7 @@
    },
    {
       "dateAdded":"13-10-2020-12:00:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"358985",
       "adult":false,
       "id":"kiskiskopyaarkaroon_hi",
@@ -14790,7 +14790,7 @@
    },
    {
       "dateAdded":"07-10-2020-12:00:00 AM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"537915",
       "adult":false,
       "id":"after_en",
@@ -14810,7 +14810,7 @@
    },
    {
       "dateAdded":"19-09-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"81088",
       "adult":false,
       "id":"Meri Jung One Man Army",
@@ -14830,7 +14830,7 @@
    },
    {
       "dateAdded":"19-09-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"402778",
       "adult":false,
       "id":"remo_hi",
@@ -14850,7 +14850,7 @@
    },
    {
       "dateAdded":"17-09-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"376998",
       "adult":false,
       "id":"superkhiladi3_hi",
@@ -14870,7 +14870,7 @@
    },
    {
       "dateAdded":"14-09-2020-12:00:00 AM",
-      "providers":"",
+      "provider":"",
       "tmdb":"374954",
       "adult":false,
       "id":"sarrainodu_hi",
@@ -14890,7 +14890,7 @@
    },
    {
       "dateAdded":"08-09-2020-12:00:00 PM",
-      "providers":"prime",
+      "provider":"prime",
       "tmdb":"619701",
       "adult":false,
       "id":"girlfriend_mr",
@@ -14910,7 +14910,7 @@
    },
    {
       "dateAdded":"08-09-2020-10:30:00 AM",
-      "providers":"sunnxt",
+      "provider":"sunnxt",
       "tmdb":"333876",
       "adult":false,
       "id":"sonofsatyamurthy_te",
