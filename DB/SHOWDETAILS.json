@@ -1,5 +1,65 @@
 [
 	{
+		"contentId": "duranga_z5",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbchill.com/ib2f4rqgn0nk.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
+		"contentId": "tanaav_sonyliv",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 06",
+						"epNo": 1,
+						"epUrl": "https://sbchill.com/kwopms4kef7r.html"
+					},
+					{
+						"epName": "Episode 07 - 12",
+						"epNo": 2,
+						"epUrl": "https://sbchill.com/27l3rq42saox.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
+		"contentId": "tvfpitchers",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbchill.com/hb3f1zasc3g8.html"
+					}
+				],
+				"title": "Season 2"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbchill.com/bm4cwz9shhj3.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "kathmanduconnection",
 		"seasons": [
 			{

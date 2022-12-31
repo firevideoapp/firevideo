@@ -1,5 +1,47 @@
 [
 	{
+        "dateAdded": "31-12-2022-07:20:12 AM",
+        "provider": "z5",
+        "tmdb": "208199",
+        "adult": false,
+        "contentId": "duranga_z5",
+        "showName": "Duranga",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BNTYyOTA1NWUtMGZlZC00MzAyLThmYzctZjM5MDYxZDQ3Mjk1XkEyXkFqcGdeQXVyMTI4MTk2NzMz._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://akamaividz2.zee5.com/image/upload/resources/0-6-4z5193948/list/1170x658withlogodae38b5ad8d346d8b7257b3884f128ac.jpg",
+        "keywords": "duranga web series, duranga zee5 web series, hindi web series, crime web series, thriller web series, thrilling web series, drama web series, gulshan devaiah, drashti dhami, hera mishra, rajesh khattar, divya seth shah, zakir hussain, barkha bisht sengupta, abhijit khandekar, abhijeet khandkekar, amit sadh, nivedita joshi,",
+        "showGenre": "Crime, Drama, Thriller",
+        "showStory": "It follows the story of Sammit and Ira. Ira begins investigating multiple murders by the suspected acomplice of a serial killer, and this leads her to discover some revelations about her husband's twisted past."
+    },
+	{
+        "dateAdded": "31-12-2022-07:10:12 AM",
+        "provider": "liv",
+        "tmdb": "204074",
+        "adult": false,
+        "contentId": "tanaav_sonyliv",
+        "showName": "Tanaav",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BNDI0YzMwMDktNzc1OS00N2QyLWFlNDMtZWJlODU2MjQ1YThiXkEyXkFqcGdeQXVyMTAyMTE1MDA1._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://m.media-amazon.com/images/M/MV5BMjk2YjU4ZWEtMGU4Ni00YTQzLTg2ODEtNmZkZjIyZGYyM2ZlXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg",
+        "keywords": "tanaav web series, tanaav sony liv web series, hindi web series, crime web series, action web series, drama web series, manav vij, sumit kaul, arbaaz khan, rajat kapoor, shashank arora, ekta kaul, sahiba bali, sukhmani sadana, amit gaur,",
+        "showGenre": "Action, Crime, Drama",
+        "showStory": "A special force is sent to Kashmir to keep terrorism under control. Team leader kills the leader of the terrorists.Later it was found that the terrorist leader was still alive and was planning something big to upset the peace in Kashmir."
+    },
+	{
+        "dateAdded": "31-12-2022-07:00:12 AM",
+        "provider": "z5",
+        "tmdb": "63180",
+        "adult": false,
+        "contentId": "tvfpitchers",
+        "showName": "TVF Pitchers",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BYzMyMDQ3ZWMtZjI3NS00NTEyLTk5Y2EtNDAyMjNjMjI0MmJjXkEyXkFqcGdeQXVyMTExMTIzMTA5._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-6-3348/list/1170x658withlogo3dfcb10dab3a47d69c4fe89479f88052edf27144397d4e83b97deb3ab34449f2.jpg",
+        "keywords": "tvf pitchers web series, pitchers zee5 web series, hindi web series, drama web series, comedy web series, abhay mahajan, naveen kasturia, arunabh kumar, abhishek banerjee, gopal datt, jitendra kumar, arnav bhasin, ridhi dogra, sikandar kher, ashish vidyarthi, ronjini chakraborty, anandeshwar dwivedi, akanksha thakur, maanvi gagroo, nidhi singh, rajesh sharma, sunil sinha, biswapati sarkar,",
+        "showGenre": "Comedy, Drama",
+        "showStory": "A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture."
+    },
+	{
         "dateAdded": "23-12-2022-11:50:12 AM",
         "provider": "hs",
         "tmdb": "215330",
