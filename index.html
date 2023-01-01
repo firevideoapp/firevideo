@@ -34,7 +34,7 @@
 
     <ul id="myList"></ul>
 
-    <header class="header" data-header style="display: none;">
+    <header class="header" data-header>
       <div class="container">
         <div class="overlay" data-overlay></div>
 
@@ -176,7 +176,7 @@
         - #UPCOMING
       -->
 
-        <section class="upcoming">
+        <section class="upcoming" style="display: none;">
           <div class="container">
             <div class="flex-wrapper">
               <div class="title-wrapper">
@@ -360,7 +360,7 @@
         - #SERVICE
       -->
 
-        <section class="service">
+        <section class="service" style="display: none;">
           <div class="container">
             <div class="service-banner">
               <figure>
@@ -462,8 +462,8 @@
               </li>
             </ul>
 
-            <ul class="movies-list">
-              <li>
+            <ul class="movies-list" id="movie_list">
+              <li style="display: none;">
                 <div class="movie-card">
                   <a href="./movie-details.html">
                     <figure class="card-banner">
@@ -476,7 +476,7 @@
 
                   <div class="title-wrapper">
                     <a href="./movie-details.html">
-                      <h3 class="card-title">Sonic the Hedgehog 2</h3>
+                      <h3 class="card-title" id="">Sonic the Hedgehog 2</h3>
                     </a>
 
                     <time datetime="2022">2022</time>
@@ -495,265 +495,6 @@
                       <ion-icon name="star"></ion-icon>
 
                       <data>7.8</data>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li>
-                <div class="movie-card">
-                  <a href="./movie-details.html">
-                    <figure class="card-banner">
-                      <img
-                        src="./assets/images/movie-2.png"
-                        alt="Morbius movie poster"
-                      />
-                    </figure>
-                  </a>
-
-                  <div class="title-wrapper">
-                    <a href="./movie-details.html">
-                      <h3 class="card-title">Morbius</h3>
-                    </a>
-
-                    <time datetime="2022">2022</time>
-                  </div>
-
-                  <div class="card-meta">
-                    <div class="badge badge-outline">HD</div>
-
-                    <div class="duration">
-                      <ion-icon name="time-outline"></ion-icon>
-
-                      <time datetime="PT104M">104 min</time>
-                    </div>
-
-                    <div class="rating">
-                      <ion-icon name="star"></ion-icon>
-
-                      <data>5.9</data>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li>
-                <div class="movie-card">
-                  <a href="./movie-details.html">
-                    <figure class="card-banner">
-                      <img
-                        src="./assets/images/movie-3.png"
-                        alt="The Adam Project movie poster"
-                      />
-                    </figure>
-                  </a>
-
-                  <div class="title-wrapper">
-                    <a href="./movie-details.html">
-                      <h3 class="card-title">The Adam Project</h3>
-                    </a>
-
-                    <time datetime="2022">2022</time>
-                  </div>
-
-                  <div class="card-meta">
-                    <div class="badge badge-outline">4K</div>
-
-                    <div class="duration">
-                      <ion-icon name="time-outline"></ion-icon>
-
-                      <time datetime="PT106M">106 min</time>
-                    </div>
-
-                    <div class="rating">
-                      <ion-icon name="star"></ion-icon>
-
-                      <data>7.0</data>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li>
-                <div class="movie-card">
-                  <a href="./movie-details.html">
-                    <figure class="card-banner">
-                      <img
-                        src="./assets/images/movie-4.png"
-                        alt="Free Guy movie poster"
-                      />
-                    </figure>
-                  </a>
-
-                  <div class="title-wrapper">
-                    <a href="./movie-details.html">
-                      <h3 class="card-title">Free Guy</h3>
-                    </a>
-
-                    <time datetime="2021">2021</time>
-                  </div>
-
-                  <div class="card-meta">
-                    <div class="badge badge-outline">4K</div>
-
-                    <div class="duration">
-                      <ion-icon name="time-outline"></ion-icon>
-
-                      <time datetime="PT115M">115 min</time>
-                    </div>
-
-                    <div class="rating">
-                      <ion-icon name="star"></ion-icon>
-
-                      <data>7.7</data>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li>
-                <div class="movie-card">
-                  <a href="./movie-details.html">
-                    <figure class="card-banner">
-                      <img
-                        src="./assets/images/movie-5.png"
-                        alt="The Batman movie poster"
-                      />
-                    </figure>
-                  </a>
-
-                  <div class="title-wrapper">
-                    <a href="./movie-details.html">
-                      <h3 class="card-title">The Batman</h3>
-                    </a>
-
-                    <time datetime="2022">2022</time>
-                  </div>
-
-                  <div class="card-meta">
-                    <div class="badge badge-outline">4K</div>
-
-                    <div class="duration">
-                      <ion-icon name="time-outline"></ion-icon>
-
-                      <time datetime="PT176M">176 min</time>
-                    </div>
-
-                    <div class="rating">
-                      <ion-icon name="star"></ion-icon>
-
-                      <data>7.9</data>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li>
-                <div class="movie-card">
-                  <a href="./movie-details.html">
-                    <figure class="card-banner">
-                      <img
-                        src="./assets/images/movie-6.png"
-                        alt="Uncharted movie poster"
-                      />
-                    </figure>
-                  </a>
-
-                  <div class="title-wrapper">
-                    <a href="./movie-details.html">
-                      <h3 class="card-title">Uncharted</h3>
-                    </a>
-
-                    <time datetime="2022">2022</time>
-                  </div>
-
-                  <div class="card-meta">
-                    <div class="badge badge-outline">HD</div>
-
-                    <div class="duration">
-                      <ion-icon name="time-outline"></ion-icon>
-
-                      <time datetime="PT116M">116 min</time>
-                    </div>
-
-                    <div class="rating">
-                      <ion-icon name="star"></ion-icon>
-
-                      <data>7.0</data>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li>
-                <div class="movie-card">
-                  <a href="./movie-details.html">
-                    <figure class="card-banner">
-                      <img
-                        src="./assets/images/movie-7.png"
-                        alt="Death on the Nile movie poster"
-                      />
-                    </figure>
-                  </a>
-
-                  <div class="title-wrapper">
-                    <a href="./movie-details.html">
-                      <h3 class="card-title">Death on the Nile</h3>
-                    </a>
-
-                    <time datetime="2022">2022</time>
-                  </div>
-
-                  <div class="card-meta">
-                    <div class="badge badge-outline">2K</div>
-
-                    <div class="duration">
-                      <ion-icon name="time-outline"></ion-icon>
-
-                      <time datetime="PT127M">127 min</time>
-                    </div>
-
-                    <div class="rating">
-                      <ion-icon name="star"></ion-icon>
-
-                      <data>6.5</data>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li>
-                <div class="movie-card">
-                  <a href="./movie-details.html">
-                    <figure class="card-banner">
-                      <img
-                        src="./assets/images/movie-8.png"
-                        alt="The King's Man movie poster"
-                      />
-                    </figure>
-                  </a>
-
-                  <div class="title-wrapper">
-                    <a href="./movie-details.html">
-                      <h3 class="card-title">The King's Man</h3>
-                    </a>
-
-                    <time datetime="2021">2021</time>
-                  </div>
-
-                  <div class="card-meta">
-                    <div class="badge badge-outline">HD</div>
-
-                    <div class="duration">
-                      <ion-icon name="time-outline"></ion-icon>
-
-                      <time datetime="PT131M">131 min</time>
-                    </div>
-
-                    <div class="rating">
-                      <ion-icon name="star"></ion-icon>
-
-                      <data>7.0</data>
                     </div>
                   </div>
                 </div>
@@ -1018,8 +759,6 @@
   -->
     <script src="./assets/js/script.js"></script>
     <script src="./assets/js/movies.js"></script>
-
-    getFilesAndFolders();
     <!-- 
     - ionicon link
   -->
