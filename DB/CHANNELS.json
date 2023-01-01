@@ -884,7 +884,7 @@
 		"channelLang": "Punjabi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png",
 		"channelName": "ABP Sanjha",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ABP_Sanjha",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7018.ABPSanjha.in.m3u8",
 		"contentId": "abpsanjha"
 	},
 	{
@@ -892,7 +892,7 @@
 		"channelLang": "Bengali",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
 		"channelName": "ABP Ananda",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ABP_Ananda",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7015.ABPAnanda.in.m3u8",
 		"contentId": "abpbangla"
 	},
 	{
@@ -900,7 +900,7 @@
 		"channelLang": "Gujarati",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png",
 		"channelName": "ABP Asmita",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ABP_Asmita",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7019.ABPAsmita.in.m3u8",
 		"contentId": "abpgujrati"
 	},
 	{
@@ -908,7 +908,7 @@
 		"channelLang": "Hindi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png",
 		"channelName": "ABP Ganga",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ABP_Ganga",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7017.ABPGanga.in.m3u8",
 		"contentId": "abpganga"
 	},
 	{
@@ -916,7 +916,7 @@
 		"channelLang": "Marathi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
 		"channelName": "ABP Majha",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ABP_Majha",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7016.ABPMajha.in.m3u8",
 		"contentId": "abpmarathi"
 	},
 	{
@@ -924,7 +924,7 @@
 		"channelLang": "Hindi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
 		"channelName": "ABP News",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ABP_News_India",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7014.ABPNews.in.m3u8",
 		"contentId": "abphindi"
 	},
 	{
