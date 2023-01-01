@@ -930,6 +930,14 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",
+		"channelName": "India TV",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in.m3u8",
+		"contentId": "indiatv_hi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",
 		"channelName": "Aaj Tak",
 		"channelUrl": "http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8",
