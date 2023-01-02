@@ -1,9 +1,9 @@
 [
 	{
-		"id": "nf",
-		"name": "Netflix",
+		"id": "hs",
+		"name": "Hotstar",
 		"adult": false,
-		"icon": "/netflix_logo.jpg"
+		"icon": "/hotstar_logo.jpg"
 	},
 	{
 		"id": "prime",
@@ -12,10 +12,16 @@
 		"icon": "/primevideo_logo.jpg"
 	},
 	{
-		"id": "hs",
-		"name": "Hotstar",
+		"id": "ullu",
+		"name": "ULLU",
+		"adult": true,
+		"icon": "/ullu_logo.jpg"
+	},
+	{
+		"id": "nf",
+		"name": "Netflix",
 		"adult": false,
-		"icon": "/hotstar_logo.jpg"
+		"icon": "/netflix_logo.jpg"
 	},
 	{
 		"id": "z5",
@@ -78,12 +84,6 @@
 		"icon": "/alt_balaji_logo.png"
 	},
 	{
-		"id": "ullu",
-		"name": "ULLU",
-		"adult": true,
-		"icon": "/ullu_logo.jpg"
-	},
-	{
 		"id": "hotmx",
 		"name": "HotMX",
 		"adult": true,
@@ -100,5 +100,17 @@
 		"name": "Feelit",
 		"adult": true,
 		"icon": "/feelit_logo.jpg"
+	},
+	{
+		"id": "appletv",
+		"name": "Apple TV",
+		"adult": false,
+		"icon": "/apple_tv_logo.png"
+	},
+	{
+		"id": "shemaroo",
+		"name": "Shemaroo Me",
+		"adult": false,
+		"icon": "/shemaroome.png"
 	}
 ]
