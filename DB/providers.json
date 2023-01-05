@@ -96,6 +96,12 @@
 		"icon": "/kooku_logo.png"
 	},
 	{
+		"id": "primeshots",
+		"name": "Primeshots",
+		"adult": true,
+		"icon": "/primeshots.jpg"
+	},
+	{
 		"id": "feelit",
 		"name": "Feelit",
 		"adult": true,
