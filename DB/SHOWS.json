@@ -99,7 +99,7 @@
     },
 	{
         "dateAdded": "01-01-2023-08:00:12 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "216260",
         "adult": false,
         "contentId": "halfpantsfullpants_2022",
@@ -393,7 +393,7 @@
     },
 	{
         "dateAdded": "02-12-2022-10:00:12 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "200881",
         "adult": false,
         "contentId": "vadhandhi_prime_multi",
@@ -742,7 +742,7 @@
     },
 	{
         "dateAdded": "17-11-2022-09:50:12 AM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "96421",
         "adult": false,
         "contentId": "hosteldaze_prime",
@@ -854,7 +854,7 @@
     },
 	{
         "dateAdded": "10-11-2022-03:30:12 AM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "105521",
         "adult": false,
         "contentId": "breatheintotheshadows_hi",
@@ -868,7 +868,7 @@
     },
 	{
         "dateAdded": "10-11-2022-03:10:12 AM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "76659",
         "adult": false,
         "contentId": "breathe_prime",
@@ -952,7 +952,7 @@
     },
 	{
         "dateAdded": "28-10-2022-08:10:12 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "76369",
         "adult": false,
         "contentId": "flames_hi",
@@ -1008,7 +1008,7 @@
     },
 	{
         "dateAdded": "21-10-2022-09:30:12 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "69710",
         "adult": false,
         "contentId": "tripling_hi",
@@ -1022,7 +1022,7 @@
     },
 	{
         "dateAdded": "21-10-2022-12:00:12 AM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "86165",
         "adult": false,
         "contentId": "fourmoreshotsplease_hi",
@@ -1092,7 +1092,7 @@
     },
 	{
         "dateAdded": "14-10-2022-01:40:12 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "84773",
         "adult": false,
         "contentId": "thelordsofthringsofpower_en_hi",
@@ -1771,7 +1771,7 @@
     },
 	{
         "dateAdded": "15-08-2022-10:20:12 AM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "207467",
         "adult": false,
         "contentId": "crashcourse_hi",
@@ -2219,7 +2219,7 @@
     },
 	{
         "dateAdded": "17-06-2022-01:25:12 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "200861",
         "adult": false,
         "contentId": "suzhalthevortex_hi",
@@ -2331,7 +2331,7 @@
     },
 	{
         "dateAdded": "08-06-2022-10:50:12 AM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "76479",
         "adult": false,
         "contentId": "theboys_dual",
@@ -2499,7 +2499,7 @@
     },
     {
         "dateAdded": "21-05-2022-11:50:12 AM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "101352",
         "adult": false,
         "contentId": "panchayat",
@@ -2513,7 +2513,7 @@
     },
     {
         "dateAdded": "20-05-2022-11:40:00 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "200941",
         "adult": false,
         "contentId": "modernlovemumbai_prime",
@@ -2686,7 +2686,7 @@
     },
 	{
         "dateAdded": "22-04-2022-10:50:00 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "196847",
         "adult": true,
         "contentId": "guiltyminds_2022",
@@ -3103,7 +3103,7 @@
     },
     {
         "dateAdded": "18-02-2022-12:00:12 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "",
         "adult": false,
         "contentId": "bestseller_prime",
@@ -3272,7 +3272,7 @@
     },
     {
         "dateAdded": "22-01-2022-10:50:12 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "",
         "adult": false,
         "contentId": "unpaused_nayasafar",
@@ -3493,7 +3493,7 @@
     },
     {
         "dateAdded": "04-12-2021-12:00:00 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "",
         "adult": true,
         "contentId": "insideedge_hi_show",
@@ -3740,7 +3740,7 @@
     },
     {
         "dateAdded": "20-09-2021-09:08:00 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "",
         "adult": false,
         "contentId": "mirzapur_hi_show",
@@ -3792,7 +3792,7 @@
     },
     {
         "dateAdded": "09-09-2021-12:12:12 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "",
         "adult": false,
         "contentId": "mumbaidiaries_multi",
@@ -4208,7 +4208,7 @@
     },
     {
         "dateAdded": "07-06-2021-12:57:59 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "",
         "adult": false,
         "contentId": "dom_ta_dubbed",
@@ -4221,7 +4221,7 @@
     },
     {
         "dateAdded": "05-06-2021-06:26:27 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "",
         "adult": false,
         "contentId": "dom2021_hi_show",
@@ -4247,7 +4247,7 @@
     },
     {
         "dateAdded": "04-06-2021-06:00:00 AM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "",
         "adult": false,
         "contentId": "familyman_hi_show",
@@ -4378,7 +4378,7 @@
     },
     {
         "dateAdded": "03-04-2021-05:00:00 PM",
-        "provider": "prime",
+        "provider": "primevideo",
         "tmdb": "",
         "adult": false,
         "contentId": "paatallok_hi_show",
