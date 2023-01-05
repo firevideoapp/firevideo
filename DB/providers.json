@@ -6,7 +6,7 @@
 		"icon": "/hotstar_logo.jpg"
 	},
 	{
-		"id": "prime",
+		"id": "primevideo",
 		"name": "Prime Video",
 		"adult": false,
 		"icon": "/primevideo_logo.jpg"
