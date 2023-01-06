@@ -1,5 +1,33 @@
 [
 	{
+        "dateAdded": "06-01-2023-11:20:12 AM",
+        "provider": "hs",
+        "tmdb": "203832",
+        "adult": false,
+        "contentId": "taazakhabar_bb_2023",
+        "showName": "Taaza Khabar",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BOTMwOTdlNmUtY2MzOC00MmZiLTlmNzgtOGVhMzM5NzBlOGUxXkEyXkFqcGdeQXVyMzcyNzQ3MjA@._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5001/1445001-h-afaa07019b4d",
+        "keywords": "taaza khabar bb ki vines series, bhuvan bam taaza khabar series, hotstar web series, hotstar taaza khabar, taza khabar web series, action web series, comedy web series, drama web series, shriya pilgaonkar, prathamesh parab, nitya mathur, j. d. chakravarthi, jd chakravarthi, j d chakravarthi, deven bhojani,",
+        "showGenre": "Action, Comedy, Drama",
+        "showStory": "A Sanitation worker, how he stumbles upon magical powers which leads to a riveting new ride for the man, and how it stirs his humble life."
+    },
+	{
+        "dateAdded": "06-01-2023-11:10:00 AM",
+        "provider": "liv",
+        "tmdb": "153870",
+        "adult": false,
+        "contentId": "sharktankindia",
+        "showName": "Shark Tank India",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/sharktankindia.jpg",
+        "showArt": "https://firevideo.vercel.app/images/sharktankindia_land.jpg",
+        "keywords": "shark tank show, shark tank season 2, shark tank episodes, shark tank india show, shark tank india season 2, shark tank india episodes, reality show, reality tv show, sony tv shows, sonyliv shows, tv shows, namita thapar, aman gupta, anupam mittal, ranvijay singha, ashneer grover, peyush bansal, piyush bansal, vineeta singh, ghazal alagh,",
+        "showGenre": "Reality",
+        "showStory": "The Sharks are back, and India's aspiring entrepreneurs gear up once again to pitch their ideas to the panel in hopes of persuading them to invest money in their business model."
+    },
+	{
         "dateAdded": "05-01-2023-11:30:12 AM",
         "provider": "primeshots",
         "tmdb": "",
@@ -12,20 +40,6 @@
         "keywords": "kaam purush, kaam purush primeshots web series, hot web series, bold web series, adult web series, shanaya khatri, aliya naaz, pihu,",
         "showGenre": "Drama, Fantasy, Romance, Thriller",
         "showStory": "Kaam Purush (2023) PrimeShots Free Download & Watch Online Only on FireVideo."
-    },
-	{
-        "dateAdded": "03-01-2023-01:50:12 PM",
-        "provider": "liv",
-        "tmdb": "153870",
-        "adult": false,
-        "contentId": "sharktankindia",
-        "showName": "Shark Tank India",
-        "showLang": "Hindi",
-        "showImage": "https://firevideo.vercel.app/images/sharktankindia.jpg",
-        "showArt": "https://firevideo.vercel.app/images/sharktankindia_land.jpg",
-        "keywords": "shark tank show, shark tank season 2, shark tank episodes, shark tank india show, shark tank india season 2, shark tank india episodes, reality show, reality tv show, sony tv shows, sonyliv shows, tv shows, namita thapar, aman gupta, anupam mittal, ranvijay singha, ashneer grover, peyush bansal, piyush bansal, vineeta singh, ghazal alagh,",
-        "showGenre": "Reality",
-        "showStory": "The Sharks are back, and India's aspiring entrepreneurs gear up once again to pitch their ideas to the panel in hopes of persuading them to invest money in their business model."
     },
 	{
         "dateAdded": "03-01-2023-12:10:12 PM",

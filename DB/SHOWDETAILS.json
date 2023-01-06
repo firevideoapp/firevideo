@@ -1,5 +1,45 @@
 [
 	{
+		"contentId": "taazakhabar_bb_2023",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1",
+						"epNo": 1,
+						"epUrl": "https://sbchill.com/1f8us3en43ew.html"
+					},
+					{
+						"epName": "Episode 2",
+						"epNo": 2,
+						"epUrl": "https://sbchill.com/5j0lkfn34gkz.html"
+					},
+					{
+						"epName": "Episode 3",
+						"epNo": 3,
+						"epUrl": "https://sbchill.com/pwlhmguitkpk.html"
+					},
+					{
+						"epName": "Episode 4",
+						"epNo": 4,
+						"epUrl": "https://sbchill.com/d74wyxnc1ie6.html"
+					},
+					{
+						"epName": "Episode 5",
+						"epNo": 5,
+						"epUrl": "https://sbchill.com/wypupn2olnrw.html"
+					},
+					{
+						"epName": "Episode 6",
+						"epNo": 6,
+						"epUrl": "https://sbchill.com/t5bfk73w5ldc.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "sharktankindia",
 		"seasons": [
 			{
@@ -18,6 +58,11 @@
 						"epName": "Episode 3",
 						"epNo": 3,
 						"epUrl": "https://sbchill.com/px54ybqj4avx.html"
+					},
+					{
+						"epName": "Episode 4",
+						"epNo": 4,
+						"epUrl": "https://sbchill.com/1uugmc69o2ky.html"
 					}
 				],
 				"title": "Season 2"
