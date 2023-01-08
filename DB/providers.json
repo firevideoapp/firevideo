@@ -12,6 +12,12 @@
 		"icon": "/primevideo_logo.jpg"
 	},
 	{
+		"id": "minitv",
+		"name": "Mini TV",
+		"adult": false,
+		"icon": "/minitv_logo.jpg"
+	},
+	{
 		"id": "ullu",
 		"name": "ULLU",
 		"adult": true,
