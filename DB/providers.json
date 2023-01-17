@@ -60,6 +60,12 @@
 		"icon": "/planetmarathi.webp"
 	},
 	{
+		"id": "hoichoi",
+		"name": "Hoichoi",
+		"adult": false,
+		"icon": "/hoichoi_logo.png"
+	},
+	{
 		"id": "aha",
 		"name": "Aha",
 		"adult": false,
