@@ -90,7 +90,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_tamil.jpg",
+		"channelLogo": "https://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",
 		"channelName": "Zee Tamil",
 		"channelUrl": "http://50.7.237.4:8080/ZEETAMILHD/tracks-v1a1/index.m3u8",
 		"contentId": "zeetamil_tv"
@@ -1507,7 +1507,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
-		"channelLogo": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Kannada",
+		"channelLogo": "https://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",
 		"channelName": "Zee Kannada",
 		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Kannada",
 		"contentId": "zeekannadasd"
