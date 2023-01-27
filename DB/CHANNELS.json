@@ -228,17 +228,23 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=40",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
 		"channelName": "&TV HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=And_TV_HD",
+		"channelUrl": "https://delta5tatasky.akamaized.net/out/i/21.mpd",
 		"contentId": "andtvhd"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=578",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",
 		"channelName": "&TV",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=And_TV",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd",
 		"contentId": "andtv"
 	},
 	{
@@ -476,9 +482,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=191",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",
 		"channelName": "DD National",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=DD_National",
+		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3569776.mpd",
 		"contentId": "ddnational"
 	},
 	{
@@ -1052,9 +1061,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=559",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
 		"channelName": "Sony SAB",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Sony_SAB",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd",
 		"contentId": "sonysab_sd_tv"
 	},
 	{
