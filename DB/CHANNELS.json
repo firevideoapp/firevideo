@@ -433,6 +433,28 @@
 	},
 	{
 		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=52",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
+		"channelName": "Colors HD",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd",
+		"contentId": "colorshd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=543",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png",
+		"channelName": "Colors",
+		"channelUrl": "https://delta31tatasky.akamaized.net/out/i/4074.mpd",
+		"contentId": "colorssd"
+	},
+	{
+		"channelCat": "Movies",
 		"channelLang": "Gujarati",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
 		"channelName": "Colors Gujarati Cinema",
@@ -1617,17 +1639,23 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=63",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
 		"channelName": "Zee TV HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_TV_HD",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd",
 		"contentId": "zeetvhd"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=557",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",
 		"channelName": "Zee TV",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_TV",
+		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2719036.mpd",
 		"contentId": "zeetvsd"
 	},
 	{
