@@ -53,9 +53,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=361",
 		"channelLogo": "https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg",
 		"channelName": "Gemini Life",
-		"channelUrl": "http://watchindia.net:8880/live/vvv/vvv/931.ts",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd",
 		"contentId": "geminilife"
 	},
 	{
@@ -69,9 +72,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=635",
 		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
 		"channelName": "Zee Telugu HD",
-		"channelUrl": "http://watchindia.net:8880/live/vvv/vvv/940.ts",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd",
 		"contentId": "zeetelugu_hd_channel"
 	},
 	{
