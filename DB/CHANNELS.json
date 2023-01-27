@@ -1163,9 +1163,12 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=245",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",
 		"channelName": "Star GOLD 2",
-		"channelUrl": "http://103.153.39.36:8000/play/a01q",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
 		"contentId": "stargold2"
 	},
 	{
@@ -1238,8 +1241,8 @@
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
 		"drm": true,
-		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=469",
 		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=469",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/1/1c/StarPravahLogo.jpg",
 		"channelName": "Star Pravah HD",
 		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2326439.mpd",
@@ -1248,9 +1251,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=467",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Suvarna_2020.png/revision/latest?cb=20201122185248",
 		"channelName": "Star Suvarna HD",
-		"channelUrl": "http://103.153.39.36:8000/play/a00n",
+		"channelUrl": "https://delta43tatasky.akamaized.net/out/i/17984.mpd",
 		"contentId": "starsuvarnahd"
 	},
 	{
