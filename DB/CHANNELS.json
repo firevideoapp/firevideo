@@ -1237,9 +1237,11 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
+		"drmLicense": "clearkey",
+		"drmType": "https://tsneh-auth.vercel.app/api/tsauth?id=469",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/1/1c/StarPravahLogo.jpg",
 		"channelName": "Star Pravah HD",
-		"channelUrl": "http://103.153.39.36:8000/play/a00r",
+		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2326439.mpd",
 		"contentId": "starpravahhd"
 	},
 	{
