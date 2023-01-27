@@ -1,5 +1,16 @@
 [
 	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=24",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",
+		"channelName": "Star Sports 1 Hindi HD",
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
+		"contentId": "aasthatv"
+	},
+	{
 		"channelCat": "Devotional",
 		"channelLang": "Hindi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",
@@ -1175,9 +1186,12 @@
 		"channelCat": "Movies",
 		"event": "ipl",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=245",
 		"channelLogo": "https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png",
 		"channelName": "Star GOLD HD",
-		"channelUrl": "http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
 		"contentId": "stargoldhd"
 	},
 	{
