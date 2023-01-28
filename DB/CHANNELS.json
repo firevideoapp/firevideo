@@ -13,17 +13,23 @@
 	{
 		"channelCat": "Devotional",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=38",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",
 		"channelName": "Aastha",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Aastha",
+		"channelUrl": "https://delta5tatasky.akamaized.net/out/i/3240929.mpd",
 		"contentId": "aasthatv"
 	},
 	{
 		"channelCat": "Devotional",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=283",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
 		"channelName": "Aastha Bhajan",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Aastha_Bhajan",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903719.mpd",
 		"contentId": "aasthabhajan"
 	},
 	{
