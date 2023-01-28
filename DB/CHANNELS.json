@@ -224,10 +224,24 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=515",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
 		"channelName": "Zee Talkies HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Talkies_HD",
+		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2326517.mpd",
 		"contentId": "zeetalkies_hd_channel"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=249",
+		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
+		"channelName": "Zee Talkies",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd",
+		"contentId": "zeetalkies"
 	},
 	{
 		"channelCat": "Movies",
