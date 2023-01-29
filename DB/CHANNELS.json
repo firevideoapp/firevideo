@@ -535,7 +535,7 @@
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
 		"channelName": "Colors Gujarati",
 		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/2727349.mpd",
-		"contentId": "colorsgujaraticinema"
+		"contentId": "colorsgujarati"
 	},
 	{
 		"channelCat": "Movies",
@@ -550,18 +550,18 @@
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "Hindi",
+		"channelLang": "Hindi, English, Tamil, Telugu",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=460",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+		"channelLogo": "https://origin-staticv2.sonyliv.com/videoasset_images/sony_bbchd_23oct_masthead_logo.png",
 		"channelName": "BBC Earth HD",
 		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/4134883.mpd",
 		"contentId": "bbcearthhd"
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "Hindi",
+		"channelLang": "English",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=158",
