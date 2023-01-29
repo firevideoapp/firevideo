@@ -434,41 +434,78 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=730",
 		"channelLogo": "https://vignette.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/732?cb=20200320100818",
 		"channelName": "B4U Kadak",
-		"channelUrl": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd",
 		"contentId": "b4ukadak"
 	},
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=9",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",
 		"channelName": "B4U Music",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=B4U_Music",
+		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/3127385.mpd",
 		"contentId": "b4umusic"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=7",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",
 		"channelName": "B4U Movies",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=B4U_Movies",
+		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/2985036.mpd",
 		"contentId": "b4umovies"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Bhojpuri",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=729",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
 		"channelName": "B4U Bhojpuri",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=B4U_Bhojpuri",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd",
 		"contentId": "b4ubhojpuri"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=305",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",
+		"channelName": "Colors Bangla HD",
+		"channelUrl": "https://delta32tatasky.akamaized.net/out/i/1727663.mpd",
+		"contentId": "colorsbanglahd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=26",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla.png",
+		"channelName": "Colors Bangla",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd",
+		"contentId": "colorsbanglahd"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=896",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
 		"channelName": "Colors Bangla Cinema",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Colors_Bangla_Cinema",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1305/output/manifest.mpd",
 		"contentId": "colorsbanglacinema"
 	},
 	{
