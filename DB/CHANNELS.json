@@ -756,42 +756,24 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",
-		"channelName": "History TV 18 Hindi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=History_18_Hindi",
-		"contentId": "historytv18hindi"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "English",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=616",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png/revision/latest?cb=20111013233426",
 		"channelName": "History TV 18 HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=History_HD",
-		"contentId": "historytv18englishhd"
+		"channelUrl": "https://delta43tatasky.akamaized.net/out/i/73.mpd",
+		"contentId": "historytv18hd"
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "English",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png",
-		"channelName": "History TV 18 English",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=History_TV18_SD",
-		"contentId": "historytv18englishsd"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "Telugu",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",
-		"channelName": "History TV 18 Telugu",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=History_18_Telugu",
-		"contentId": "historytv18telugu"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "Tamil",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png",
-		"channelName": "History TV 18 Tamil",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=History_18_Tamil",
-		"contentId": "historytv18tamil"
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=172",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/0/0d/History_TV18.jpg/revision/latest?cb=20171207202924",
+		"channelName": "History TV 18",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd",
+		"contentId": "historytv18"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -876,46 +858,47 @@
 	{
 		"channelCat": "Entertainment,Movies",
 		"channelLang": "Malayalam",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=25",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Kairali_TV.png?raw=true",
 		"channelName": "KairaliTV",
-		"channelUrl": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
+		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/3115492.mpd",
 		"contentId": "kairali_tv"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=200",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_588/PORTRAIT/2uHeVd1H.png?o=production",
 		"channelName": "KalaignarTV",
-		"channelUrl": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8",
-		"contentId": "kalaignar_tv",
-		"Views": 72
+		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/3117489.mpd",
+		"contentId": "kalaignar_tv"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=196",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowugg_YyY_CA4wNDMXPR_2J23caL1kpoq8g&usqp=CAU",
 		"channelName": "Kasthuri TV",
-		"channelUrl": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
-		"contentId": "kasthuritv",
-		"Views": 62
+		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/2974809.mpd",
+		"contentId": "kasthuritv"
 	},
 	{
 		"channelCat": "Music",
 		"channelLang": "Punjabi",
-		"channelLogo": "https://j2apps.s.llnwi.net/pic/8053.LifePunjabi.in/en/1x1/208x208/test_pic1609307117310.jpg",
-		"channelName": "Life Punjabi",
-		"channelUrl": "https://m-c010-j2apps.s.llnwi.net/hls/8053.LifePunjabi.in.m3u8",
-		"contentId": "lifepunjabi"
-	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Punjabi",
-		"channelLogo": "https://j2apps.s.llnwi.net/pic/0197.MH1.in/en/1x1/208x208/test_pic1544189994326.jpg",
-		"channelName": "MH1",
-		"channelUrl": "https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in.m3u8",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=399",
+		"channelLogo": "https://www.smartads.in/resources/assets/uploads/product_group/Television/MH-One-Music-Logo.png",
+		"channelName": "MH One",
+		"channelUrl": "https://delta36tatasky.akamaized.net/out/i/2819725.mpd",
 		"contentId": "mh1"
 	},
-	
 	{
 		"channelCat": "Music",
 		"channelLang": "Marathi",
@@ -927,18 +910,35 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=17",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",
 		"channelName": "Mastiii",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Mastiii",
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3158956.mpd",
 		"contentId": "mastiiimusic"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Malayalam",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/6/60/Mazhavil-Manorama.jpg",
-		"channelName": "MazhavilManorama",
-		"channelUrl": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8",
-		"contentId": "mazhavilmanorama_tv"
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=395",
+		"channelLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/08/14/Untitled-1_23.jpg?itok=WLHL1Zjk",
+		"channelName": "Mazhavil Manorama HD",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd",
+		"contentId": "mazhavilmanoramahd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Malayalam",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=31",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Mazhavil-manorama.jpg/revision/latest?cb=20171231131300",
+		"channelName": "Mazhavil Manorama",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd",
+		"contentId": "mazhavilmanoramasd"
 	},
 	{
 		"channelCat": "Music",
