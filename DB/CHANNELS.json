@@ -393,42 +393,36 @@
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",
-		"channelName": "Animal Planet Hindi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Animal_Planet_Hindi",
-		"contentId": "animalplanethindi"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "English",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png",
-		"channelName": "Animal Planet English",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Animal_Planet_English",
-		"contentId": "animalplanetenglish"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "Tamil",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png",
-		"channelName": "Animal Planet HD Tamil",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Animal_Planet_HD_Tamil",
-		"contentId": "animalplanethdtamil"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "English",
+		"channelLang": "Hindi, English, Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=287",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",
-		"channelName": "Animal Planet HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Animal_Planet_HD",
-		"contentId": "animalplanethd"
+		"channelName": "Animal Planet HD World",
+		"channelUrl": "https://delta37tatasky.akamaized.net/out/i/5485492.mpd",
+		"contentId": "animalplanethdworld"
+	},
+	{
+		"channelCat": "Infotainment",
+		"channelLang": "Hindi, English, Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=130",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet.png",
+		"channelName": "Animal Planet",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd",
+		"contentId": "animalplanetsd"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Malayalam",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=532",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Asianet_News.png?raw=true",
 		"channelName": "AsianetNews",
-		"channelUrl": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
+		"oldUrl": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"
+		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2496637.mpd",
 		"contentId": "asianetnews_ml_tv"
 	},
 	{
