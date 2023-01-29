@@ -527,20 +527,48 @@
 		"contentId": "colorssd"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Gujarati",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=107",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
+		"channelName": "Colors Gujarati",
+		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/2727349.mpd",
+		"contentId": "colorsgujaraticinema"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Gujarati",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=692",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
 		"channelName": "Colors Gujarati Cinema",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Colors_Gujarati_Cinema",
+		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2496678.mpd",
 		"contentId": "colorsgujaraticinema"
 	},
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=460",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
-		"channelName": "BBC Earth Hindi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Sony_BBC_Earth_HD",
-		"contentId": "bbcearthhindi"
+		"channelName": "BBC Earth HD",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/4134883.mpd",
+		"contentId": "bbcearthhd"
+	},
+	{
+		"channelCat": "Infotainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=158",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png",
+		"channelName": "BBC Earth",
+		"channelUrl": "https://delta34tatasky.akamaized.net/out/i/178.mpd",
+		"contentId": "bbcearthsd"
 	},
 	{
 		"channelCat": "Movies",
@@ -552,7 +580,7 @@
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "Hindi",
+		"channelLang": "Hindi, English",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=681",
@@ -563,7 +591,7 @@
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "Hindi",
+		"channelLang": "Hindi, English, Tamil, Telugu",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=238",
@@ -685,7 +713,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=633",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png",
 		"channelName": "Investigation Discovery",
 		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/4696602.mpd",
 		"contentId": "investigationdiscoveryhindi"
@@ -718,8 +746,8 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=145",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",
-		"channelName": "ETV HD",
+		"channelLogo": "https://snoidcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
+		"channelName": "ETV Telugu",
 		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd",
 		"contentId": "etvtelugusd"
 	},
