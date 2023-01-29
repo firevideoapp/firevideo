@@ -5,10 +5,21 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=24",
-		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
 		"channelName": "Star Sports 1 Hindi HD",
 		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
 		"contentId": "starsports1hindihd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=78",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7430/567430-h",
+		"channelName": "Star Sports 1 HD",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/7136433.mpd",
+		"contentId": "starsports1hd"
 	},
 	{
 		"channelCat": "Devotional",
@@ -154,6 +165,17 @@
 		"channelName": "Sun TV HD",
 		"channelUrl": "https://delta34tatasky.akamaized.net/out/i/211.mpd",
 		"contentId": "suntvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=474",
+		"channelLogo": "https://sund-images.sunnxt.com/26569/1000x1500_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg",
+		"channelName": "Sun Life",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd",
+		"contentId": "sunlife"
 	},
 	{
 		"channelCat": "Entertainment",
