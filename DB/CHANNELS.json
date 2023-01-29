@@ -61,19 +61,33 @@
 		"channelLang": "Telugu",
 		"drm": true,
 		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=355",
+		"channelLogo": "https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg",
+		"channelName": "Gemini TV HD",
+		"channelUrl": "https://delta44tatasky.akamaized.net/out/i/2031809.mpd",
+		"contentId": "geminitvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=362",
+		"channelLogo": "https://sund-images.sunnxt.com/26570/1000x1500_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg",
+		"channelName": "Gemini Movies HD",
+		"channelUrl": "https://delta36tatasky.akamaized.net/out/i/7606637.mpd",
+		"contentId": "geminitvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=361",
 		"channelLogo": "https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg",
 		"channelName": "Gemini Life",
 		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd",
 		"contentId": "geminilife"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
-		"channelLogo": "https://sund-images.sunnxt.com/9027/500x750_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg",
-		"channelName": "Gemini Comedy",
-		"channelUrl": "http://watchindia.net:8880/live/vvv/vvv/971.ts",
-		"contentId": "geminicomedy"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -85,6 +99,17 @@
 		"channelName": "Zee Telugu HD",
 		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd",
 		"contentId": "zeetelugu_hd_channel"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=250",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list_clean/1170x658withlogo913f0f8f0f344fe9acd59e7ba101b15c.png",
+		"channelName": "Zee Telugu",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd",
+		"contentId": "zeetelugusd"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -122,9 +147,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=521",
 		"channelLogo": "https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg",
 		"channelName": "Sun TV HD",
-		"channelUrl": "http://50.7.237.4:8080/SUNTVHD/tracks-v1a1/index.m3u8",
+		"channelUrl": "https://delta34tatasky.akamaized.net/out/i/211.mpd",
 		"contentId": "suntvhd"
 	},
 	{
