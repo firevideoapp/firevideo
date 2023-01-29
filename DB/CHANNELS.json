@@ -950,78 +950,84 @@
 	},
 	{
 		"channelCat": "News",
-		"channelLang": "Punjabi",
-		"channelLogo": "https://j2apps.s.llnwi.net/pic/7053.NewsOnly.in/en/1x1/208x208/test_pic1590737990207.jpg",
-		"channelName": "News Only",
-		"channelUrl": "https://m-c03-j2apps.s.llnwi.net/hls/7053.NewsOnly.in.m3u8",
-		"contentId": "newsonly"
-	},
-	{
-		"channelCat": "News",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=58",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodHW1KT5Ox0pXmRDeSJZ_kap2lneZ8soDyg&usqp=CAU",
-		"channelName": "News 18 Tamilnadu",
-		"channelUrl": "https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8",
-		"contentId": "news18tamil",
-		"Views": 24
+		"channelName": "News 18 Tamil Nadu",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/2455053.mpd",
+		"contentId": "news18tamil"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=23",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bFlW2c3t1uR6BpIcPTdMvrFenJngtyenCA&usqp=CAU",
 		"channelName": "News18Bangla",
-		"channelUrl": "https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8",
-		"contentId": "news18bangla",
-		"Views": 20
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3141844.mpd",
+		"contentId": "news18bangla"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Gujarati",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=6",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvmw9EOmq6fAkp_sfXnAHc8uAP6ajd664pIg&usqp=CAU",
 		"channelName": "News18Gujarati",
-		"channelUrl": "https://news18gujvoot.akamaized.net/i/n18gujarat_1@370955/master.m3u8?hdnts=exp=1621957303~acl=/*~hmac=c637f0a2830d19ca4caccb623620c479ad4e6be3dd25b1ad7f623a9826628749",
-		"contentId": "news18gujarati",
-		"Views": 32
+		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/77.mpd",
+		"contentId": "news18gujarati"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=106",
 		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/news-1587300049816.jpg",
-		"channelName": "News18India",
-		"channelUrl": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8",
-		"contentId": "news18india",
-		"Views": 145
+		"channelName": "News18 India",
+		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/4326688.mpd",
+		"contentId": "news18india"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=85",
 		"channelLogo": "https://v3img.voot.com/dimg2/cmsdev/include/upload/si-images/1531815470_News18-Kannada_1_1_500x500.png",
-		"channelName": "News18Kannada",
-		"channelUrl": "https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on",
-		"contentId": "news18kn_kn_tv",
-		"Views": 24
+		"channelName": "News18 Kannada",
+		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/3296932.mpd",
+		"contentId": "news18kn_kn_tv"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=140",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News18_Lokmat.png?raw=true",
-		"channelName": "News18Lokmat",
-		"channelUrl": "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8",
-		"contentId": "news18marathi_tv",
-		"Views": 137
+		"channelName": "News18 Lokmat",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/2625019.mpd",
+		"contentId": "news18marathi_tv"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=209",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News_24.png?raw=true",
 		"channelName": "News24",
-		"channelUrl": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8",
-		"contentId": "news24_tv",
-		"Views": 93
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3145150.mpd",
+		"contentId": "news24_tv"
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "Hindi",
+		"channelLang": "Hindi, Tamil, Telugu, Marathi, Kannada, Malayalam, Bengali",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=138",
@@ -1044,7 +1050,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=624",
-		"channelLogo": "https://j2apps.s.llnwi.net/pic/5366.Pitaara.in/en/1x1/208x208/test_pic1535976851878.JPG",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/6/64/Pitaara_1.jpeg/revision/latest?cb=20191219155200",
 		"channelName": "Pitaara",
 		"channelUrl": "https://delta39tatasky.akamaized.net/out/i/2817685.mpd",
 		"contentId": "pitaara_hi_channel"
