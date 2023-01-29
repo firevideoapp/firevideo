@@ -553,25 +553,45 @@
 	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",
-		"channelName": "Cartoon Network Hindi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Cartoon_Network_Hindi",
-		"contentId": "cnhindi"
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=681",
+		"channelLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/04/17/Catoon_Network_HD%2B.jpg?itok=9yEUn7va",
+		"channelName": "Cartoon Network HD+",
+		"channelUrl": "https://delta43tatasky.akamaized.net/out/i/18056.mpd",
+		"contentId": "cartoonnetworkhd"
+	},
+	{
+		"channelCat": "Kids",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=238",
+		"channelLogo": "https://e7.pngegg.com/pngimages/579/384/png-clipart-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle.png",
+		"channelName": "Cartoon Network",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd",
+		"contentId": "cartoonnetworksd"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Punjabi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=335",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png",
 		"channelName": "DD Punjabi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=DD_Punjabi",
+		"channelUrl": "https://delta32tatasky.akamaized.net/out/i/1739529.mpd",
 		"contentId": "ddpunjabi"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=314",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",
 		"channelName": "DD Bangla",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=DD_Bangla",
+		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/4450742.mpd",
 		"contentId": "ddbangla"
 	},
 	{
@@ -588,9 +608,12 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=337",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",
 		"channelName": "DD Saptagiri",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=DD_Saptagiri",
+		"channelUrl": "https://delta32tatasky.akamaized.net/out/i/1739517.mpd",
 		"contentId": "ddsaptagiri"
 	},
 	{
@@ -604,153 +627,166 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=342",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvC77ijIsH2kGghpUkxcnEPbrSKtrzNFbE_w&usqp=CAU",
-		"channelName": "Dighvijay News",
-		"channelUrl": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8",
+		"channelName": "Dighvijay 24x7 News",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903729.mpd",
 		"contentId": "dighvijaykannada"
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "Hindi",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",
-		"channelName": "Discovery Hindi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Discovery_Channel_Hindi",
-		"contentId": "discoveryhindi"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "English",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png",
-		"channelName": "Discovery English",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Discovery",
-		"contentId": "discoveryenglish"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "Telugu",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",
-		"channelName": "Discovery Telugu",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Discovery_Channel_Telugu",
-		"contentId": "discoverytelugu"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "Bengali",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",
-		"channelName": "Discovery Bengali",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Discovery_Channel_Bengali",
-		"contentId": "discoverybengali"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "English",
+		"channelLang": "Hindi, English, Tamil, Telugu, Bengali, Malayalam, Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=341",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",
-		"channelName": "Discovery HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Discovery_HD_World",
+		"channelName": "Discovery HD World",
+		"channelUrl": "https://delta38tatasky.akamaized.net/out/i/3085468.mpd",
 		"contentId": "discoveryhd"
 	},
 	{
 		"channelCat": "Infotainment",
+		"channelLang": "Hindi, English, Tamil, Telugu, Bengali, Malayalam, Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=219",
+		"channelLogo": "https://cdn.cdnlogo.com/logos/d/60/discovery-channel.png",
+		"channelName": "Discovery Channel",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd",
+		"contentId": "discoverychannel"
+	},
+	{
+		"channelCat": "Infotainment",
 		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=228",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",
 		"channelName": "Discovery Turbo",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Discovery_Turbo",
+		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3553893.mpd",
 		"contentId": "discoveryturbo"
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "English",
+		"channelLang": "Hindi, English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=113",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",
 		"channelName": "Discovery Science",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Discovery_Science",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd",
 		"contentId": "discoveryscience"
 	},
 	{
 		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
+		"channelLang": "Hindi, English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=633",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png",
 		"channelName": "Investigation Discovery",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ID",
+		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/4696602.mpd",
 		"contentId": "investigationdiscoveryhindi"
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",
-		"channelName": "Discovery Kids Hindi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Discovery_Kids_2",
-		"contentId": "discoverykidshindi"
-	},
-	{
-		"channelCat": "Kids",
-		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",
+		"channelLang": "Hindi, Tamil, Telugu, Kannada, Malayalam",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=119",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",
 		"channelName": "Discovery Kids",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Discovery_Kids_Tamil",
-		"contentId": "discoverykidstamil"
+		"channelUrl": "https://delta44tatasky.akamaized.net/out/i/19335.mpd",
+		"contentId": "discoverykids"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
-		"channelName": "ETV Telugu",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ETV_Telugu",
-		"contentId": "etvtelugu"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=359",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",
-		"channelName": "ETV Telugu HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ETV_HD",
+		"channelName": "ETV HD",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd",
 		"contentId": "etvteluguhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=145",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",
+		"channelName": "ETV HD",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd",
+		"contentId": "etvtelugusd"
 	},
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=268",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",
 		"channelName": "ETV Life",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ETV_Life",
+		"channelUrl": "https://delta35tatasky.akamaized.net/out/i/2638468.mpd",
 		"contentId": "etvlife"
 	},
 	{
 		"channelCat": "Lifestyle",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=358",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
 		"channelName": "ETV Abhiruchi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ETV_Abhiruchi",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_536/output/manifest.mpd",
 		"contentId": "etvabhiruchi"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=352",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",
 		"channelName": "ETV Plus",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ETV_Plus",
+		"channelUrl": "https://delta36tatasky.akamaized.net/out/i/2811093.mpd",
 		"contentId": "etvplus"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=146",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",
 		"channelName": "ETV Andhra Pradesh",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ETV_Andhra_pradesh",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/4779620.mpd",
 		"contentId": "etvandhrapradesh"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=83",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",
 		"channelName": "ETV Telangana",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ETV_Telangana",
+		"channelUrl": "https://delta47tatasky.akamaized.net/out/i/767.mpd",
 		"contentId": "etvtelangana"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=128",
 		"channelLogo": "https://etv-win-image.akamaized.net/etvwin/channels/channel/94232/etv-cinema-320x240.png",
 		"channelName": "ETV Cinema",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=ETV_Cinema",
+		"channelUrl": "https://delta11tatasky.akamaized.net/out/i/2696523.mpd",
 		"contentId": "etvcinema"
 	},
 	{
