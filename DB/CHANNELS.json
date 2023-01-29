@@ -642,6 +642,28 @@
 	},
 	{
 		"channelCat": "Entertainment",
+		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=308",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
+		"channelName": "Colors Marathi HD",
+		"channelUrl": "https://delta38tatasky.akamaized.net/out/i/4397887.mpd",
+		"contentId": "colorsmarathihd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=134",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi.png",
+		"channelName": "Colors Marathi",
+		"channelUrl": "https://delta44tatasky.akamaized.net/out/i/167744.mpd",
+		"contentId": "colorsmarathisd"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Gujarati",
 		"drm": true,
 		"drmType": "clearkey",
