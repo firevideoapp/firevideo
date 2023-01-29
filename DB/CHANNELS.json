@@ -421,7 +421,7 @@
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=532",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Asianet_News.png?raw=true",
 		"channelName": "AsianetNews",
-		"oldUrl": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"
+		"oldUrl": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
 		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2496637.mpd",
 		"contentId": "asianetnews_ml_tv"
 	},
