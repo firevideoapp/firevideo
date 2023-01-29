@@ -755,7 +755,7 @@
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "Hindi",
+		"channelLang": "Hindi, English, Tamil, Telugu",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=616",
@@ -766,7 +766,7 @@
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "Hindi",
+		"channelLang": "Hindi, English, Tamil, Telugu",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=172",
@@ -894,7 +894,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=399",
-		"channelLogo": "https://www.smartads.in/resources/assets/uploads/product_group/Television/MH-One-Music-Logo.png",
+		"channelLogo": "https://www.dishpromotions.com/wp-content/uploads/MH1-logo.png",
 		"channelName": "MH One",
 		"channelUrl": "https://delta36tatasky.akamaized.net/out/i/2819725.mpd",
 		"contentId": "mh1"
@@ -935,7 +935,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=31",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Mazhavil-manorama.jpg/revision/latest?cb=20171231131300",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mazhavil_Manorama_TV_Logo.jpg",
 		"channelName": "Mazhavil Manorama",
 		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd",
 		"contentId": "mazhavilmanoramasd"
