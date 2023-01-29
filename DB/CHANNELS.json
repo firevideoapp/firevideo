@@ -1022,9 +1022,12 @@
 	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=138",
 		"channelLogo": "https://yt3.ggpht.com/ytc/AKedOLSP1G34O4FAuno-lsq9_sue9sOoHHvUFjyQhVQ1=s900-c-k-c0x00ffffff-no-rj",
-		"channelName": "Nick Hindi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Nick_Hindi",
+		"channelName": "Nick",
+		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/2284303.mpd",
 		"contentId": "nickhdplus"
 	},
 	{
@@ -1033,20 +1036,22 @@
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
 		"channelName": "PTV Sports",
 		"channelUrl": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8?key=@LiveCricket_Links_Official",
-		"contentId": "ptvsports",
-		"Views": 11224
+		"contentId": "ptvsports"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Punjabi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=624",
 		"channelLogo": "https://j2apps.s.llnwi.net/pic/5366.Pitaara.in/en/1x1/208x208/test_pic1535976851878.JPG",
 		"channelName": "Pitaara",
-		"channelUrl": "https://m-c08-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8",
+		"channelUrl": "https://delta39tatasky.akamaized.net/out/i/2817685.mpd",
 		"contentId": "pitaara_hi_channel"
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "Hindi",
+		"channelLang": "Hindi, Tamil, Telugu, Marathi, Kannada, Malayalam",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=239",
@@ -1061,7 +1066,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=272",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/3/3f/Polimer-TV-Logo.png",
+		"channelLogo": "https://www.seekpng.com/png/detail/432-4329527_tamil-tv-channels-logo-polimer-tv-channel.png",
 		"channelName": "PolimerTV",
 		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2319454.mpd",
 		"contentId": "polimertv"
