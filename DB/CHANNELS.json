@@ -1047,60 +1047,56 @@
 	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi",
-		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-DUkH2cGsbIMg8nfMKQf7btCbWEO1HGgqQ&usqp=CAU",
-		"channelName": "PogoHindi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Pogo_Hindi",
-		"contentId": "pogohindi",
-		"Views": 734
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/3/34/Pogo_Rebrand/revision/latest/scale-to-width-down/340?cb=20200918174257",
+		"channelName": "Pogo",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/7418339.mpd",
+		"contentId": "pogotv"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=272",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/3/3f/Polimer-TV-Logo.png",
 		"channelName": "PolimerTV",
-		"channelUrl": "https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8",
-		"contentId": "polimertv",
-		"Views": 165
+		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2319454.mpd",
+		"contentId": "polimertv"
 	},
 	{
 		"channelCat": "Music",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=424",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg",
 		"channelName": "PublicMusic",
-		"channelUrl": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
-		"contentId": "publicmusic_kannada",
-		"Views": 29
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Punjabi",
-		"channelLogo": "https://j2apps.s.llnwi.net/pic/7070.RajMahalTV.in/en/1x1/208x208/test_pic1594051312699.jpg",
-		"channelName": "Rajmahal TV",
-		"channelUrl": "https://m-c047-j2apps.s.llnwi.net/hls/7070.RajMahalTV.in.m3u8",
-		"contentId": "rajmahaltv"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "Punjabi",
-		"channelLogo": "https://j2apps.s.llnwi.net/pic/7068.RanglaTV.in/en/1x1/208x208/test_pic1594051276231.jpg",
-		"channelName": "Rangla TV",
-		"channelUrl": "https://m-c047-j2apps.s.llnwi.net/hls/7068.RanglaTV.in.m3u8",
-		"contentId": "ranglatv"
+		"channelUrl": "https://delta39tatasky.akamaized.net/out/i/2817608.mpd",
+		"contentId": "publicmusic_kannada"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=546",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
 		"channelName": "Saam TV",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Saam_Tv",
+		"channelUrl": "https://delta39tatasky.akamaized.net/out/i/2817634.mpd",
 		"contentId": "saamtvmarathi"
 	},
 	{
 		"channelCat": "Music",
 		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=215",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",
 		"channelName": "Sangeet Bangla",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Sangeet_Bangla",
+		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2100231.mpd",
 		"contentId": "sangeetbangla"
 	},
 	{
@@ -1114,28 +1110,35 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=217",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",
 		"channelName": "Sangeet Marathi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Sangeet_Marathi",
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3145165.mpd",
 		"contentId": "sangeetmarathi"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=800",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMuqxRB6jIJjPlMZxhcD4vr4DHwlg6-zZUQ&usqp=CAU",
 		"channelName": "ShemarooMarathibana",
-		"channelUrl": "https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in.m3u8",
-		"contentId": "shemaroomarathi_tv",
-		"Views": 677
+		"channelUrl": "https://delta42tatasky.akamaized.net/out/i/238.mpd",
+		"contentId": "shemaroomarathi_tv"
 	},
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=733",
 		"channelLogo": "https://thenewsstrike.com/wp-content/uploads/2019/08/showbox_3.jpg",
 		"channelName": "ShowBox",
-		"channelUrl": "https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8",
-		"contentId": "showbox_tv",
-		"Views": 71
+		"channelUrl": "https://delta8tatasky.akamaized.net/out/i/2648337.mpd",
+		"contentId": "showbox_tv"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1148,10 +1151,24 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=15",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
 		"channelName": "Sony HD + 1",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Sony_HD",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd",
 		"contentId": "sony_hd_tv1"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=556",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
+		"channelName": "SET",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd",
+		"contentId": "set_sd"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1261,14 +1278,6 @@
 		"contentId": "sonyten3_hd_tv"
 	},
 	{
-		"channelCat": "Sports",
-		"channelLang": "Tamil",
-		"channelLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png",
-		"channelName": "Sony Sports 4 HD",
-		"channelUrl": "https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8",
-		"contentId": "sonyten4_hd_tv"
-	},
-	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
@@ -1287,11 +1296,13 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=477",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Sri_Sankara_Kannada.jpeg/revision/latest/scale-to-width-down/250?cb=20191227124657",
 		"channelName": "SriSankaraKannada",
-		"channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1098",
-		"contentId": "srisankarakannada",
-		"hideControls": true
+		"channelUrl": "https://delta42tatasky.akamaized.net/out/i/130.mpd",
+		"contentId": "srisankarakannada"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1299,7 +1310,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=244",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310",
 		"channelName": "Star Bharat HD",
 		"channelUrl": "https://delta39tatasky.akamaized.net/out/i/4242467.mpd",
 		"contentId": "starbharathd"
@@ -1307,12 +1318,9 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=245",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",
 		"channelName": "Star GOLD 2",
-		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
+		"channelUrl": "http://180.178.188.152:8000/play/a01q",
 		"contentId": "stargold2"
 	},
 	{
@@ -1326,14 +1334,6 @@
 		"channelName": "Star GOLD HD",
 		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
 		"contentId": "stargoldhd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"channelLogo": "https://tvscheduleindia.com/assets/brand/channels/ku9iqRjb.png",
-		"channelName": "Star GOLD Select HD",
-		"channelUrl": "http://103.153.39.36:8000/play/a029",
-		"contentId": "stargoldselecthd"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1356,31 +1356,6 @@
 		"channelName": "Star Jalsha Movies HD",
 		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/5784252.mpd",
 		"contentId": "starjalshamovieshd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "English",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg",
-		"channelName": "Star Movies HD",
-		"channelUrl": "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8",
-		"contentId": "starmovieshd_hd_channel",
-		"Views": 177
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "English",
-		"channelLogo": "https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg",
-		"channelName": "Star Movies HD",
-		"channelUrl": "http://103.153.39.36:8000/play/a003",
-		"contentId": "starmovieshd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "English",
-		"channelLogo": "https://www.adgully.com/img/800/202003/star-movies-select-hd.png.jpg",
-		"channelName": "Star Movies Select HD",
-		"channelUrl": "http://103.153.39.36:8000/play/a005",
-		"contentId": "starmoviesselecthd"
 	},
 	{
 		"channelCat": "Entertainment",
