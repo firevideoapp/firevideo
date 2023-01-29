@@ -619,7 +619,7 @@
 		"contentId": "mtvbeatssd"
 	},
 	{
-		"channelCat": "Movies",
+		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
 		"drm": true,
 		"drmType": "clearkey",
@@ -630,7 +630,7 @@
 		"contentId": "colorshd"
 	},
 	{
-		"channelCat": "Movies",
+		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
 		"drm": true,
 		"drmType": "clearkey",
