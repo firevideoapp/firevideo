@@ -152,33 +152,45 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=708",
 		"channelLogo": "http://jayatvnetwork.com/upload/programme/thumb/Sonthangal_small.jpg",
 		"channelName": "Jaya TV HD",
-		"channelUrl": "http://50.7.237.4:8080/JAYATVHD/tracks-v1a1/index.m3u8",
+		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/2984980.mpd",
 		"contentId": "jayatvhd"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=380",
 		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
 		"channelName": "KTV HD",
-		"channelUrl": "http://50.7.237.4:8080/KTVHD/tracks-v1a1/index.m3u8",
+		"channelUrl": "https://delta6tatasky.akamaized.net/out/i/5755140.mpd",
 		"contentId": "ktvhd"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=439",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552",
 		"channelName": "Raj TV",
-		"channelUrl": "http://50.7.237.4:8080/RAJTV/tracks-v1a1/index.m3u8",
+		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/4183362.mpd",
 		"contentId": "rajtv"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=426",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635",
 		"channelName": "Raj Digital Plus",
-		"channelUrl": "http://50.7.237.4:8080/RAJDIGITALPLUS/tracks-v1a1/index.m3u8",
+		"channelUrl": "https://delta3tatasky.akamaized.net/out/i/2227027.mpd",
 		"contentId": "rajdigitalplus"
 	},
 	{
@@ -216,7 +228,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"channelLogo": "",
+		"channelLogo": "https://firevideo.vercel.app/images/tamilstartv.jpg",
 		"channelName": "Tamil Star TV",
 		"channelUrl": "http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8",
 		"contentId": "tamilstartv"
@@ -300,7 +312,7 @@
 		"channelLang": "Hindi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",
 		"channelName": "9X Jalwa",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=9X_Jalwa",
+		"channelUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8",
 		"contentId": "9xjalwa"
 	},
 	{
@@ -322,57 +334,78 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Punjabi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=958",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png",
 		"channelName": "ABP Sanjha",
-		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7018.ABPSanjha.in.m3u8",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1784/output/manifest.mpd",
 		"contentId": "abpsanjha"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=102",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
 		"channelName": "ABP Ananda",
-		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7015.ABPAnanda.in.m3u8",
+		"channelUrl": "https://delta6tatasky.akamaized.net/out/i/5596484.mpd",
 		"contentId": "abpbangla"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Gujarati",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=73",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png",
 		"channelName": "ABP Asmita",
-		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7019.ABPAsmita.in.m3u8",
+		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/2284231.mpd",
 		"contentId": "abpgujrati"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=709",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png",
 		"channelName": "ABP Ganga",
-		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7017.ABPGanga.in.m3u8",
+		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/3394372.mpd",
 		"contentId": "abpganga"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=155",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
 		"channelName": "ABP Majha",
-		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7016.ABPMajha.in.m3u8",
+		"channelUrl": "https://delta11tatasky.akamaized.net/out/i/2696550.mpd",
 		"contentId": "abpmarathi"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=177",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
 		"channelName": "ABP News",
-		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7014.ABPNews.in.m3u8",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/2455131.mpd",
 		"contentId": "abphindi"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=104",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",
 		"channelName": "India TV",
-		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in.m3u8",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd",
 		"contentId": "indiatv_hi"
 	},
 	{
