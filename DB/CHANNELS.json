@@ -1418,11 +1418,13 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=555",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Suvarna_News.png?raw=true",
 		"channelName": "SuvarnaNews",
-		"channelUrl": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8",
-		"contentId": "suvarnanews_tv",
-		"Views": 31
+		"channelUrl": "https://delta8tatasky.akamaized.net/out/i/3808171.mpd",
+		"contentId": "suvarnanews_tv"
 	},
 	{
 		"channelCat": "News",
@@ -1430,8 +1432,7 @@
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLDbayqkcznZC4IHlWaI6LQsLrmraP3plNwg&usqp=CAU",
 		"channelName": "SwarajExpress",
 		"channelUrl": "https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8",
-		"contentId": "swarajexpress_hi_news",
-		"Views": 10
+		"contentId": "swarajexpress_hi_news"
 	},
 	{
 		"channelCat": "Infotainment",
@@ -1444,101 +1445,123 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=629",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-227/list/1170x658_1957432816.jpg",
 		"channelName": "TV5Kannada",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=TV_5_Kannada",
+		"channelUrl": "https://delta35tatasky.akamaized.net/out/i/3114960.mpd",
 		"contentId": "tv5kannada"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=320",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png/revision/latest?cb=20190307135451",
 		"channelName": "TV5Telugu",
-		"channelUrl": "https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_802/output/manifest.mpd",
 		"contentId": "tv5telugu"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=152",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l8hV-xjtwcZdTAHGA3a5gsFWIMzpr9Ctww&usqp=CAU",
 		"channelName": "TV9 Kannada",
-		"channelUrl": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3145105.mpd",
 		"contentId": "tv9kannada"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=706",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",
 		"channelName": "TV9 Bharatvarsh",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=TV9_Bharatvarsh",
+		"channelUrl": "https://delta42tatasky.akamaized.net/out/i/200.mpd",
 		"contentId": "tv9bharatvarsh"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=97",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
 		"channelName": "TV9 Marathi",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=TV9_Maharashtra",
+		"channelUrl": "https://delta5tatasky.akamaized.net/out/i/3240976.mpd",
 		"contentId": "tv9marathi"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=11",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",
 		"channelName": "TV9 Telugu",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=TV9_Telugu_News",
+		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/54.mpd",
 		"contentId": "tv9telugu"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=873",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png",
 		"channelName": "TV9 Bangla",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=TV9_Bangla",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd",
 		"contentId": "tv9bangla"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Gujarati",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=489",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png",
 		"channelName": "TV9 Gujarati",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Tv_9_Gujarat",
+		"channelUrl": "https://delta35tatasky.akamaized.net/out/i/2642975.mpd",
 		"contentId": "tv9gujarati"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=524",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Thanthi_TV.png?raw=true",
 		"channelName": "Thanthi TV",
-		"channelUrl": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8",
+		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2496608.mpd",
 		"contentId": "thanthitv_tv"
 	},
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=484",
+		"channelLogo": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",
+		"channelName": "TravelXP HD",
+		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2496622.mpd",
+		"contentId": "travelxphd"
+	},
+	{
+		"channelCat": "Infotainment",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=55",
 		"channelLogo": "https://i.imgur.com/6V48LwT.jpg",
 		"channelName": "TravelXP",
-		"channelUrl": "http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7696.ts",
-		"contentId": "travelxp",
-		"Views": 27
-	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Tamil",
-		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Tunes_6.png?raw=true",
-		"channelName": "Tunes6",
-		"channelUrl": "https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8",
-		"contentId": "tunes6_tv",
-		"Views": 152
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Malayalam",
-		"channelLogo": "https://i.imgur.com/eS2fVDh.png",
-		"channelName": "TwentyFourNews",
-		"channelUrl": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8",
-		"contentId": "24news_ml",
-		"Views": 17
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd",
+		"contentId": "travelxp"
 	},
 	{
 		"channelCat": "News",
@@ -1546,24 +1569,7 @@
 		"channelLogo": "https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Velicham.png/revision/latest?cb=20191225182426",
 		"channelName": "Velicham",
 		"channelUrl": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
-		"contentId": "velicham_tv",
-		"Views": 14
-	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Punjabi",
-		"channelLogo": "https://j2apps.s.llnwi.net/pic/6492.WahPunjabi.in/en/1x1/208x208/test_pic1552999207034.jpg",
-		"channelName": "Wah Punjabi",
-		"channelUrl": "https://m-c03-j2apps.s.llnwi.net/hls/6492.WahPunjabi.in.m3u8",
-		"contentId": "wahpunjabi"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "Punjabi",
-		"channelLogo": "https://j2apps.s.llnwi.net/pic/7067.WorldPunjabi.in/en/1x1/208x208/test_pic1594303274561.jpg",
-		"channelName": "World Punjabi",
-		"channelUrl": "https://m-c047-j2apps.s.llnwi.net/hls/7067.WorldPunjabi.in.m3u8",
-		"contentId": "worldpunjabi"
+		"contentId": "velicham_tv"
 	},
 	{
 		"channelCat": "Movies",
@@ -1689,7 +1695,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=636",
-		"channelLogo": "",
+		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
 		"channelName": "Zee Cinemalu HD",
 		"channelUrl": "https://delta37tatasky.akamaized.net/out/i/2644013.mpd",
 		"contentId": "zeecinemaluhd"
