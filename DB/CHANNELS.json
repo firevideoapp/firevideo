@@ -246,17 +246,23 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=267",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
 		"channelName": "&Pictures HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=And_Pictures_HD",
+		"channelUrl": "https://delta37tatasky.akamaized.net/out/i/2644033.mpd",
 		"contentId": "andpictureshd"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=148",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",
 		"channelName": "&Pictures",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=And_Pictures",
+		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3569786.mpd",
 		"contentId": "andpictures"
 	},
 	{
@@ -475,6 +481,28 @@
 		"channelName": "UTV Bindass",
 		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3553587.mpd",
 		"contentId": "utvbindass"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=405",
+		"channelLogo": "http://v3img.voot.com/v3Storage/assets/mtvb-16x9-1645343074697.png",
+		"channelName": "MTV Beats HD",
+		"channelUrl": "https://delta43tatasky.akamaized.net/out/i/1197.mpd",
+		"contentId": "mtvbeatshd"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=236",
+		"channelLogo": "https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07191941/MTVBeats.png",
+		"channelName": "MTV Beats",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd",
+		"contentId": "mtvbeatssd"
 	},
 	{
 		"channelCat": "Movies",
@@ -1540,33 +1568,45 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=100",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",
 		"channelName": "Zee Action",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Action",
+		"channelUrl": "https://delta6tatasky.akamaized.net/out/i/2122476.mpd",
 		"contentId": "zeeaction"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=523",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",
 		"channelName": "Zee Anmol",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Anmol",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd",
 		"contentId": "zeeanmol"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=64",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
 		"channelName": "Zee Anmol Cinema",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Anmol_Cinema",
+		"channelUrl": "https://delta11tatasky.akamaized.net/out/i/2700571.mpd",
 		"contentId": "zeeanmolcinema"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=522",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
 		"channelName": "Zee Bangla HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Bangla_HD",
+		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2496587.mpd",
 		"contentId": "zeebanglahd"
 	},
 	{
@@ -1580,81 +1620,133 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=254",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
 		"channelName": "Zee Bangla Cinema",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Bangla_Cinema",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2834224.mpd",
 		"contentId": "zeebanglacinema"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=20",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png",
 		"channelName": "Zee Bihar Jharkhand",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Purvaiya",
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3141834.mpd",
 		"contentId": "zeebiharjharkhand"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=175",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",
 		"channelName": "Zee Bollywood",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Classic",
+		"channelUrl": "https://delta5tatasky.akamaized.net/out/i/3253299.mpd",
 		"contentId": "zeebollywood"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=260",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",
 		"channelName": "Zee Business",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Business",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903708.mpd",
 		"contentId": "zeebusiness"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",
-		"channelName": "Zee Cinema",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Cinema",
-		"contentId": "zeecinema"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=503",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
 		"channelName": "Zee Cinema HD",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Cinema_HD",
+		"channelUrl": "https://delta38tatasky.akamaized.net/out/i/2051464.mpd",
 		"contentId": "zeecinemahd"
 	},
 	{
 		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=123",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",
+		"channelName": "Zee Cinema",
+		"channelUrl": "https://delta8tatasky.akamaized.net/out/i/2648345.mpd",
+		"contentId": "zeecinema"
+	},
+	{
+		"channelCat": "Movies",
 		"channelLang": "Telugu",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png?o=production",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=636",
+		"channelLogo": "",
+		"channelName": "Zee Cinemalu HD",
+		"channelUrl": "https://delta37tatasky.akamaized.net/out/i/2644013.mpd",
+		"contentId": "zeecinemaluhd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=252",
+		"channelLogo": "https://yt3.googleusercontent.com/ytc/AL5GRJU5ErI9wT_loUeginp1WMVJq7AwIvD1pWHTHbNpWA=s900-c-k-c0x00ffffff-no-rj",
 		"channelName": "Zee Cinemalu",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Cinemalu",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd",
 		"contentId": "zeecinemalu"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=514",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-zeehindustan/channel_list/09zeehindustanzeehindustan.png",
 		"channelName": "Zee Hindustan",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_SANGAM",
+		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2973727.mpd",
 		"contentId": "zeehindustan"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=675",
+		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1018/PORTRAIT/TDi6cwLv.png",
+		"channelName": "Zee Kannada HD",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/manifest.mpd",
+		"contentId": "zeekannadahd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=256",
 		"channelLogo": "https://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",
 		"channelName": "Zee Kannada",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Kannada",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903682.mpd",
 		"contentId": "zeekannadasd"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=512",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png",
 		"channelName": "Zee MPCG",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_News_MP_Chattisgarh",
+		"channelUrl": "https://delta32tatasky.akamaized.net/out/i/1734524.mpd",
 		"contentId": "zeempcg"
 	},
 	{
@@ -1682,9 +1774,12 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=259",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",
 		"channelName": "Zee News",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_News",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd",
 		"contentId": "zeenews_tv"
 	},
 	{
@@ -1712,25 +1807,34 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=248",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
 		"channelName": "Zee Yuva",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_Yuva",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903671.mpd",
 		"contentId": "zeeyuva_tv"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=261",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
 		"channelName": "Zee 24 Taas",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zee_24_Taas",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903711.mpd",
 		"contentId": "zee24taas_tv"
 	},
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://tsneh-auth.vercel.app/api/tsauth?id=517",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",
 		"channelName": "Zing",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zing",
+		"channelUrl": "https://delta43tatasky.akamaized.net/out/i/18145.mpd",
 		"contentId": "zing_music"
 	},
 	{
