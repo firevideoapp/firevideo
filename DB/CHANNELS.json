@@ -2009,6 +2009,28 @@
 	},
 	{
 		"channelCat": "Entertainment",
+		"channelLang": "Punjabi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=796",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-215/list_clean/1170x658withlog1133594939.png",
+		"channelName": "Zee Punjabi",
+		"channelUrl": "https://delta15tatasky.akamaized.net/out/i/2554667.mpd",
+		"contentId": "zeepunjabi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Punjabi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=580",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeepunjabharyanahima/list/1170x658withlog_1111951312.jpg",
+		"channelName": "Zee Punjab Haryana Himachal Pradesh",
+		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2326442.mpd",
+		"contentId": "zeepunjabhhp"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
 		"drm": true,
 		"drmType": "clearkey",
