@@ -200,6 +200,17 @@
 		"contentId": "zeetamil_tv"
 	},
 	{
+		"channelCat": "Movies",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=797",
+		"channelLogo": "https://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png",
+		"channelName": "Zee Thirai",
+		"channelUrl": "https://delta8tatasky.akamaized.net/out/i/2648363.mpd",
+		"contentId": "zeethirai"
+	},
+	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
 		"drm": true,
@@ -1810,6 +1821,17 @@
 		"contentId": "zeebangla"
 	},
 	{
+		"channelCat": "News",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=258",
+		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_431/LANDSCAPE_43/OrhmAikO.png",
+		"channelName": "Zee 24 Ghanta",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903691.mpd",
+		"contentId": "zee24ghanta"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Bengali",
 		"drm": true,
@@ -1830,6 +1852,17 @@
 		"channelName": "Zee Bihar Jharkhand",
 		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3141834.mpd",
 		"contentId": "zeebiharjharkhand"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Gujarati",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=507",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zee24kalak/list/1170x658withlog_1335796285.jpg",
+		"channelName": "Zee 24 Kalak",
+		"channelUrl": "https://delta37tatasky.akamaized.net/out/i/2631043.mpd",
+		"contentId": "zee24kalak"
 	},
 	{
 		"channelCat": "Movies",
@@ -1986,6 +2019,28 @@
 		"contentId": "zeempcg"
 	},
 	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=583",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeerajasthannews/list/zeerajasthan1170d5d0aec6665f4b50ac9838385316c141.jpg",
+		"channelName": "Zee Rajasthan News",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_831/output/manifest.mpd",
+		"contentId": "zeerajasthannews"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=518",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeesalaam/channel_list/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2.png",
+		"channelName": "Zee Salaam",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/manifest.mpd",
+		"contentId": "zeesalaam"
+	},
+	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
 		"drm": true,
@@ -2052,6 +2107,17 @@
 		"contentId": "zeedelhincrharyana"
 	},
 	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=637",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-channel_265145625/list_clean/zeeupuk1170c7272725348c4a5983894e6453f419b4.png",
+		"channelName": "Zee Uttar Pradesh Uttarakhand",
+		"channelUrl": "https://delta43tatasky.akamaized.net/out/i/18086.mpd",
+		"contentId": "zeeupuk"
+	},
+	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
 		"drm": true,
@@ -2072,6 +2138,17 @@
 		"channelName": "Zee TV",
 		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2719036.mpd",
 		"contentId": "zeetvsd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Odia",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=597",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-sarthaktv/list_clean/1170x658withlogo945516266.png",
+		"channelName": "Zee Sarthak",
+		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/2734062.mpd",
+		"contentId": "zeesarthak"
 	},
 	{
 		"channelCat": "Entertainment",
