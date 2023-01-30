@@ -1910,6 +1910,28 @@
 	},
 	{
 		"channelCat": "Entertainment",
+		"channelLang": "Malayalam",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=694",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-129/list_clean/1170x658withlog1211675212.png",
+		"channelName": "Zee Keralam HD",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd",
+		"contentId": "zeekeralamhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Malayalam",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=684",
+		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1019/PORTRAIT/POKmgmgq.png",
+		"channelName": "Zee Keralam",
+		"channelUrl": "https://delta35tatasky.akamaized.net/out/i/2643036.mpd",
+		"contentId": "zeekeralamsd"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
 		"drm": true,
 		"drmType": "clearkey",
