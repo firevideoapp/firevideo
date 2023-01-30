@@ -22,6 +22,39 @@
 		"contentId": "starsports1hd"
 	},
 	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=235",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h",
+		"channelName": "Star Sports 2 HD",
+		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/2285199.mpd",
+		"contentId": "starsports2hd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=246",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h",
+		"channelName": "Star Sports Select 1 HD",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/4779611.mpd",
+		"contentId": "starsportsselect1hd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=463",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h",
+		"channelName": "Star Sports Select 2 HD",
+		"channelUrl": "https://delta43tatasky.akamaized.net/out/i/18038.mpd",
+		"contentId": "starsportsselect2hd"
+	},
+	{
 		"channelCat": "Devotional",
 		"channelLang": "Hindi",
 		"drm": true,
@@ -143,6 +176,17 @@
 		"channelName": "Star Maa Movies HD",
 		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2319471.mpd",
 		"contentId": "starmaamovieshd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=388",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7408/567408-h",
+		"channelName": "Star Maa Gold",
+		"channelUrl": "https://delta42tatasky.akamaized.net/out/i/92.mpd",
+		"contentId": "starmaagold"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1592,6 +1636,17 @@
 	},
 	{
 		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=551",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7407/567407-h",
+		"channelName": "Star Utsav",
+		"channelUrl": "https://delta31tatasky.akamaized.net/out/i/4101.mpd",
+		"contentId": "starutsav"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
 		"drm": true,
 		"drmType": "clearkey",
@@ -1611,6 +1666,17 @@
 		"channelName": "Star Suvarna HD",
 		"channelUrl": "https://delta43tatasky.akamaized.net/out/i/17984.mpd",
 		"contentId": "starsuvarnahd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=540",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7399/567399-h",
+		"channelName": "Star Suvarna Plus",
+		"channelUrl": "https://delta35tatasky.akamaized.net/out/i/4452817.mpd",
+		"contentId": "starsuvarnaplus"
 	},
 	{
 		"channelCat": "News",
