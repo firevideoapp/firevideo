@@ -1843,6 +1843,17 @@
 		"contentId": "zeebollywood"
 	},
 	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=727",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-176/list/1170x658withlogo_673971588.jpg",
+		"channelName": "Zee Classic",
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3771185.mpd",
+		"contentId": "zeeclassic"
+	},
+	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
 		"drm": true,
@@ -2030,6 +2041,17 @@
 		"contentId": "zeepunjabhhp"
 	},
 	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=262",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeekalinganews/list_clean/zeedelhiharyana1170x65862b0e281ffaf4db583e22c3e2ced1e03.png",
+		"channelName": "Zee Delhi NCR Haryana",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903716.mpd",
+		"contentId": "zeedelhincrharyana"
+	},
+	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
 		"drm": true,
@@ -2050,6 +2072,28 @@
 		"channelName": "Zee TV",
 		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2719036.mpd",
 		"contentId": "zeetvsd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bhojpuri",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=12",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658394457247.png",
+		"channelName": "Zee Ganga",
+		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/3115483.mpd",
+		"contentId": "zeeganga"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Bhojpuri",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=814",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-216/list/1170x658withlogo_20909261.jpg",
+		"channelName": "Zee Biskope",
+		"channelUrl": "https://delta11tatasky.akamaized.net/out/i/2852946.mpd",
+		"contentId": "zeebiskope"
 	},
 	{
 		"channelCat": "Entertainment",
