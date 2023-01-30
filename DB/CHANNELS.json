@@ -1931,6 +1931,17 @@
 		"contentId": "zeekannadasd"
 	},
 	{
+		"channelCat": "Movies",
+		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=810",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-241/channel_list/1170x658withlog_1692640342.png",
+		"channelName": "Zee Picchar",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/2721311.mpd",
+		"contentId": "zeepicchar"
+	},
+	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
 		"drm": true,
