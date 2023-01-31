@@ -172,7 +172,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=516",
-		"channelLogo": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66705-kuqnqhwg-v1/imageContent-66705-kuqnqhwg-m1.png",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7418/567418-h",
 		"channelName": "Star Maa HD",
 		"channelUrl": "https://delta32tatasky.akamaized.net/out/i/1734527.mpd",
 		"contentId": "starmaahd"
@@ -183,7 +183,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=387",
-		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7421/567421-h",
 		"channelName": "Star Maa Movies HD",
 		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2319471.mpd",
 		"contentId": "starmaamovieshd"
@@ -205,7 +205,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=496",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7409/567409-h",
 		"channelName": "Star Vijay HD",
 		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3562165.mpd",
 		"contentId": "starvijayhd"
@@ -1607,7 +1607,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=245",
-		"channelLogo": "https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
 		"channelName": "Star GOLD HD",
 		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
 		"contentId": "stargoldhd"
@@ -1662,7 +1662,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=469",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/1/1c/StarPravahLogo.jpg",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5868/595868-h",
 		"channelName": "Star Pravah HD",
 		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2326439.mpd",
 		"contentId": "starpravahhd"
