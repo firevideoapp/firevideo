@@ -1,5 +1,16 @@
 [
 	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth.vercel.app/api/tsauth?id=823",
+		"channelLogo": "https://firevideo.vercel.app/images/goldmines.jpg",
+		"channelName": "Goldmines",
+		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/5025603.mpd",
+		"contentId": "goldminestv"
+	},
+	{
 		"channelCat": "Sports",
 		"channelLang": "Hindi",
 		"drm": true,
