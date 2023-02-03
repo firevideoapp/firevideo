@@ -1,5 +1,30 @@
 [
 	{
+		"contentId": "farebiyaars1p1",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Part (Hindi)",
+						"epNo": 1,
+						"epUrl": "https://sbhight.com/ntrs5wcbs6vt.html"
+					},
+					{
+						"epName": "Complete Part (Tamil)",
+						"epNo": 2,
+						"epUrl": "https://sbhight.com/ldzncdm0amv6.html"
+					},
+					{
+						"epName": "Complete Part (Telugu)",
+						"epNo": 3,
+						"epUrl": "https://sbhight.com/dc6ch8vz41t3.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "watchmans1p1",
 		"seasons": [
 			{
