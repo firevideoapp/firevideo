@@ -15,7 +15,7 @@
 		"channelLang": "Hindi",
 		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=24",
+		"drmLicense": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDYzNTgyNTE4IiwiaXNlIjp0cnVlLCJqdGkiOiI4NzU5OWZhNC1mZGM2LTQ5MWEtYTExMC00ZTcwOTU4ZjZlMjEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjc1NjAxMDMxLCJuYW1lIjoiQW1vbCBWYWRuZXJlIiwiaWF0IjoxNjc1NTE0NjMxLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxMDg3In1dLCJpc3MiOiJ0cG1hX3dlYiJ9.hGs9Hfsemj6Xjiacec0qQlG6eckQGwhlo_n_kL8SiVA|Content-Type=application/octet-stream|R{SSM}|",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
 		"channelName": "Star Sports 1 Hindi HD",
 		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
