@@ -119,7 +119,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=355",
 		"channelLogo": "https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg",
 		"channelName": "Gemini TV HD",
-		"channelUrl": "https://delta44tatasky.akamaized.net/out/i/2031809.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/928.ts",
 		"contentId": "geminitvhd"
 	},
 	{
@@ -152,7 +152,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=635",
 		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
 		"channelName": "Zee Telugu HD",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/940.ts",
 		"contentId": "zeetelugu_hd_channel"
 	},
 	{
@@ -185,7 +185,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=387",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7421/567421-h",
 		"channelName": "Star Maa Movies HD",
-		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2319471.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/934.ts",
 		"contentId": "starmaamovieshd"
 	},
 	{
@@ -368,7 +368,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=515",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
 		"channelName": "Zee Talkies HD",
-		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2326517.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/914.ts",
 		"contentId": "zeetalkies_hd_channel"
 	},
 	{
@@ -725,7 +725,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=308",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
 		"channelName": "Colors Marathi HD",
-		"channelUrl": "https://delta38tatasky.akamaized.net/out/i/4397887.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/912.ts",
 		"contentId": "colorsmarathihd"
 	},
 	{
@@ -972,7 +972,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=268",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",
 		"channelName": "ETV Life",
-		"channelUrl": "https://delta35tatasky.akamaized.net/out/i/2638468.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/938.ts",
 		"contentId": "etvlife"
 	},
 	{
@@ -994,7 +994,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=352",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",
 		"channelName": "ETV Plus",
-		"channelUrl": "https://delta36tatasky.akamaized.net/out/i/2811093.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/937.ts",
 		"contentId": "etvplus"
 	},
 	{
@@ -1373,7 +1373,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=546",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
 		"channelName": "Saam TV",
-		"channelUrl": "https://delta39tatasky.akamaized.net/out/i/2817634.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/921.ts",
 		"contentId": "saamtvmarathi"
 	},
 	{
@@ -1675,7 +1675,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=469",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5868/595868-h",
 		"channelName": "Star Pravah HD",
-		"channelUrl": "https://delta40tatasky.akamaized.net/out/i/2326439.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/918.ts",
 		"contentId": "starpravahhd"
 	},
 	{
@@ -1779,7 +1779,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=97",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
 		"channelName": "TV9 Marathi",
-		"channelUrl": "https://delta5tatasky.akamaized.net/out/i/3240976.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/917.ts",
 		"contentId": "tv9marathi"
 	},
 	{
@@ -1790,7 +1790,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=11",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",
 		"channelName": "TV9 Telugu",
-		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/54.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/945.ts",
 		"contentId": "tv9telugu"
 	},
 	{
@@ -1823,7 +1823,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=524",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Thanthi_TV.png?raw=true",
 		"channelName": "Thanthi TV",
-		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2496608.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/947.ts",
 		"contentId": "thanthitv_tv"
 	},
 	{
@@ -2136,7 +2136,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=501",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
 		"channelName": "Zee Marathi HD",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/manifest.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/913.ts",
 		"contentId": "zeemarathi_hd"
 	},
 	{
