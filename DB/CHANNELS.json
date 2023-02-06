@@ -213,12 +213,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
 		"channelLogo": "https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg",
 		"channelName": "Sun TV HD",
-		"channelUrl": "https://delta34tatasky.akamaized.net/out/i/211.mpd",
+		"channelUrl": "http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-MExjg3THpNHzWRDYXT2f78KVtzSdfYEKDb7cwhCeiElMJ7YhrD75a4B8sPUxZ4AV4kpAGoLv8o-bmvVDEHJk99P0?ext=.ts",
 		"contentId": "suntvhd"
 	},
 	{
