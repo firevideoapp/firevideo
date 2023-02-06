@@ -1782,14 +1782,6 @@
 	},
 	{
 		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",
-		"channelName": "Star GOLD 2",
-		"channelUrl": "http://180.178.188.152:8000/play/a01q",
-		"contentId": "stargold2"
-	},
-	{
-		"channelCat": "Movies",
 		"event": "ipl",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -1799,6 +1791,22 @@
 		"channelName": "Star GOLD HD",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/785.ts",
 		"contentId": "stargoldhd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",
+		"channelName": "Star GOLD 2",
+		"channelUrl": "http://180.178.188.152:8000/play/a01q",
+		"contentId": "stargold2"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"channelLogo": "https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M_400x400.jpg",
+		"channelName": "Star GOLD Select HD",
+		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=48108",
+		"contentId": "stargoldselecthd"
 	},
 	{
 		"channelCat": "Entertainment",
