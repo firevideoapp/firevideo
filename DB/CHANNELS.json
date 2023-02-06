@@ -2,7 +2,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=823",
 		"channelLogo": "https://firevideo.vercel.app/images/goldmines.jpg",
@@ -13,7 +13,7 @@
 	{
 		"channelCat": "Sports",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "widevine",
 		"drmLicense": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDYzNTgyNTE4IiwiaXNlIjp0cnVlLCJqdGkiOiI4NzU5OWZhNC1mZGM2LTQ5MWEtYTExMC00ZTcwOTU4ZjZlMjEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjc1NjAxMDMxLCJuYW1lIjoiQW1vbCBWYWRuZXJlIiwiaWF0IjoxNjc1NTE0NjMxLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxMDg3In1dLCJpc3MiOiJ0cG1hX3dlYiJ9.hGs9Hfsemj6Xjiacec0qQlG6eckQGwhlo_n_kL8SiVA",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
@@ -24,7 +24,7 @@
 	{
 		"channelCat": "Sports",
 		"channelLang": "English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=78",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7430/567430-h",
@@ -35,7 +35,7 @@
 	{
 		"channelCat": "Sports",
 		"channelLang": "English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=235",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h",
@@ -46,7 +46,7 @@
 	{
 		"channelCat": "Sports",
 		"channelLang": "English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=246",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h",
@@ -57,7 +57,7 @@
 	{
 		"channelCat": "Sports",
 		"channelLang": "English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=463",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h",
@@ -68,7 +68,7 @@
 	{
 		"channelCat": "Devotional",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=38",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",
@@ -79,7 +79,7 @@
 	{
 		"channelCat": "Devotional",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=283",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
@@ -114,7 +114,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=355",
 		"channelLogo": "https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg",
@@ -125,29 +125,29 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=362",
 		"channelLogo": "https://sund-images.sunnxt.com/26570/1000x1500_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg",
 		"channelName": "Gemini Movies HD",
-		"channelUrl": "https://delta36tatasky.akamaized.net/out/i/7606637.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/930.ts",
 		"contentId": "geminimovieshd"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=361",
 		"channelLogo": "https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg",
 		"channelName": "Gemini Life",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/931.ts",
 		"contentId": "geminilife"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=635",
 		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
@@ -158,7 +158,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=250",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list_clean/1170x658withlogo913f0f8f0f344fe9acd59e7ba101b15c.png",
@@ -169,18 +169,18 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=516",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7418/567418-h",
 		"channelName": "Star Maa HD",
-		"channelUrl": "https://delta32tatasky.akamaized.net/out/i/1734527.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2168.ts",
 		"contentId": "starmaahd"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=387",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7421/567421-h",
@@ -191,18 +191,18 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=388",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7408/567408-h",
 		"channelName": "Star Maa Gold",
-		"channelUrl": "https://delta42tatasky.akamaized.net/out/i/92.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/935.ts",
 		"contentId": "starmaagold"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=496",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7409/567409-h",
@@ -235,7 +235,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=474",
 		"channelLogo": "https://sund-images.sunnxt.com/26569/1000x1500_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg",
@@ -246,7 +246,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=608",
 		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",
@@ -257,7 +257,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=257",
 		"channelLogo": "https://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",
@@ -268,7 +268,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=797",
 		"channelLogo": "https://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png",
@@ -279,7 +279,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=708",
 		"channelLogo": "http://jayatvnetwork.com/upload/programme/thumb/Sonthangal_small.jpg",
@@ -290,7 +290,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=380",
 		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
@@ -301,7 +301,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=439",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552",
@@ -312,7 +312,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=426",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635",
@@ -363,7 +363,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=515",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
@@ -374,7 +374,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=249",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_427/PORTRAIT/TqtHUlxj.png?o=production",
@@ -385,7 +385,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=267",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
@@ -396,7 +396,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=148",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",
@@ -407,7 +407,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=40",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
@@ -418,7 +418,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=578",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",
@@ -461,7 +461,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Punjabi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=958",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png",
@@ -472,7 +472,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=102",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
@@ -483,7 +483,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Gujarati",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=73",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png",
@@ -494,7 +494,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=709",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png",
@@ -505,7 +505,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=155",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
@@ -516,7 +516,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=177",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
@@ -527,7 +527,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=104",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",
@@ -554,7 +554,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi, English, Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=287",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",
@@ -565,7 +565,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi, English, Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=130",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet.png",
@@ -576,7 +576,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Malayalam",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=532",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Asianet_News.png?raw=true",
@@ -588,7 +588,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=730",
 		"channelLogo": "https://www.medianews4u.com/wp-content/uploads/2019/05/20190530_183654.jpg",
@@ -599,7 +599,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=9",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",
@@ -610,7 +610,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=7",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",
@@ -621,7 +621,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Bhojpuri",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=729",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
@@ -632,7 +632,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=305",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",
@@ -643,7 +643,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=26",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla.png",
@@ -654,7 +654,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=896",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
@@ -665,7 +665,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=142",
 		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png",
@@ -676,7 +676,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=405",
 		"channelLogo": "http://v3img.voot.com/v3Storage/assets/mtvb-16x9-1645343074697.png",
@@ -687,7 +687,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=236",
 		"channelLogo": "https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07191941/MTVBeats.png",
@@ -698,7 +698,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=52",
 		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
@@ -709,7 +709,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
 		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png",
@@ -720,7 +720,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=308",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
@@ -731,7 +731,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=134",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi.png",
@@ -742,7 +742,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Gujarati",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=107",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
@@ -753,7 +753,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Gujarati",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=692",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
@@ -764,7 +764,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi, English, Tamil, Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=460",
 		"channelLogo": "https://origin-staticv2.sonyliv.com/videoasset_images/sony_bbchd_23oct_masthead_logo.png",
@@ -775,7 +775,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=158",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png",
@@ -794,7 +794,7 @@
 	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi, English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=681",
 		"channelLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/04/17/Catoon_Network_HD%2B.jpg?itok=9yEUn7va",
@@ -805,7 +805,7 @@
 	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi, English, Tamil, Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=238",
 		"channelLogo": "https://e7.pngegg.com/pngimages/579/384/png-clipart-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle.png",
@@ -816,7 +816,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Punjabi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=335",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png",
@@ -827,7 +827,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=314",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",
@@ -838,7 +838,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=191",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",
@@ -849,7 +849,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=337",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",
@@ -868,7 +868,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=342",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvC77ijIsH2kGghpUkxcnEPbrSKtrzNFbE_w&usqp=CAU",
@@ -879,7 +879,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi, English, Tamil, Telugu, Bengali, Malayalam, Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=341",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",
@@ -890,7 +890,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi, English, Tamil, Telugu, Bengali, Malayalam, Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=219",
 		"channelLogo": "https://cdn.cdnlogo.com/logos/d/60/discovery-channel.png",
@@ -901,7 +901,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=228",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",
@@ -912,7 +912,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi, English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=113",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",
@@ -923,7 +923,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi, English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=633",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png",
@@ -934,7 +934,7 @@
 	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi, Tamil, Telugu, Kannada, Malayalam",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=119",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",
@@ -945,7 +945,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=359",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",
@@ -956,7 +956,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=145",
 		"channelLogo": "https://snoidcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
@@ -967,7 +967,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=268",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",
@@ -978,7 +978,7 @@
 	{
 		"channelCat": "Lifestyle",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=358",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
@@ -989,7 +989,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=352",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",
@@ -1000,7 +1000,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=146",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",
@@ -1011,7 +1011,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=83",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",
@@ -1022,7 +1022,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=128",
 		"channelLogo": "https://etv-win-image.akamaized.net/etvwin/channels/channel/94232/etv-cinema-320x240.png",
@@ -1033,7 +1033,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi, English, Tamil, Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=616",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png/revision/latest?cb=20111013233426",
@@ -1044,7 +1044,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi, English, Tamil, Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=172",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/0/0d/History_TV18.jpg/revision/latest?cb=20171207202924",
@@ -1135,7 +1135,7 @@
 	{
 		"channelCat": "Entertainment,Movies",
 		"channelLang": "Malayalam",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=25",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Kairali_TV.png?raw=true",
@@ -1146,7 +1146,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=200",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_588/PORTRAIT/2uHeVd1H.png?o=production",
@@ -1157,7 +1157,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=196",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowugg_YyY_CA4wNDMXPR_2J23caL1kpoq8g&usqp=CAU",
@@ -1168,7 +1168,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Punjabi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=399",
 		"channelLogo": "https://www.dishpromotions.com/wp-content/uploads/MH1-logo.png",
@@ -1187,7 +1187,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=17",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",
@@ -1198,7 +1198,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Malayalam",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=395",
 		"channelLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/08/14/Untitled-1_23.jpg?itok=WLHL1Zjk",
@@ -1209,7 +1209,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Malayalam",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=31",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mazhavil_Manorama_TV_Logo.jpg",
@@ -1228,7 +1228,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=58",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodHW1KT5Ox0pXmRDeSJZ_kap2lneZ8soDyg&usqp=CAU",
@@ -1239,7 +1239,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=23",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bFlW2c3t1uR6BpIcPTdMvrFenJngtyenCA&usqp=CAU",
@@ -1250,7 +1250,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Gujarati",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=6",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvmw9EOmq6fAkp_sfXnAHc8uAP6ajd664pIg&usqp=CAU",
@@ -1261,7 +1261,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=106",
 		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/news-1587300049816.jpg",
@@ -1272,7 +1272,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=85",
 		"channelLogo": "https://v3img.voot.com/dimg2/cmsdev/include/upload/si-images/1531815470_News18-Kannada_1_1_500x500.png",
@@ -1283,7 +1283,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=140",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News18_Lokmat.png?raw=true",
@@ -1294,7 +1294,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=209",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News_24.png?raw=true",
@@ -1305,7 +1305,7 @@
 	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi, Tamil, Telugu, Marathi, Kannada, Malayalam, Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=138",
 		"channelLogo": "https://yt3.ggpht.com/ytc/AKedOLSP1G34O4FAuno-lsq9_sue9sOoHHvUFjyQhVQ1=s900-c-k-c0x00ffffff-no-rj",
@@ -1324,7 +1324,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Punjabi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=624",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/6/64/Pitaara_1.jpeg/revision/latest?cb=20191219155200",
@@ -1335,7 +1335,7 @@
 	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi, Tamil, Telugu, Marathi, Kannada, Malayalam",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/3/34/Pogo_Rebrand/revision/latest/scale-to-width-down/340?cb=20200918174257",
@@ -1346,7 +1346,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=272",
 		"channelLogo": "https://www.seekpng.com/png/detail/432-4329527_tamil-tv-channels-logo-polimer-tv-channel.png",
@@ -1357,7 +1357,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=424",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg",
@@ -1368,7 +1368,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=546",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
@@ -1379,7 +1379,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=215",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",
@@ -1398,7 +1398,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=217",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",
@@ -1409,7 +1409,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=800",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMuqxRB6jIJjPlMZxhcD4vr4DHwlg6-zZUQ&usqp=CAU",
@@ -1420,7 +1420,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=733",
 		"channelLogo": "https://thenewsstrike.com/wp-content/uploads/2019/08/showbox_3.jpg",
@@ -1439,7 +1439,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=15",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
@@ -1450,7 +1450,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=556",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
@@ -1461,7 +1461,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=559",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
@@ -1584,7 +1584,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=477",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Sri_Sankara_Kannada.jpeg/revision/latest/scale-to-width-down/250?cb=20191227124657",
@@ -1595,7 +1595,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=244",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310",
@@ -1615,7 +1615,7 @@
 		"channelCat": "Movies",
 		"event": "ipl",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=245",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
@@ -1626,7 +1626,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=468",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h",
@@ -1637,7 +1637,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=537",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7404/567404-h",
@@ -1648,7 +1648,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=8",
 		"channelLogo": "https://yt3.ggpht.com/ytc/AKedOLQrjMuRVX9DRXurDqT_E9bHnH7qn1anSlIM5rSlqAg=s900-c-k-c0x00ffffff-no-rj",
@@ -1659,7 +1659,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=551",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7407/567407-h",
@@ -1670,7 +1670,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=469",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5868/595868-h",
@@ -1681,7 +1681,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=467",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Suvarna_2020.png/revision/latest?cb=20201122185248",
@@ -1692,7 +1692,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=540",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7399/567399-h",
@@ -1703,7 +1703,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=555",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Suvarna_News.png?raw=true",
@@ -1730,7 +1730,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=629",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-227/list/1170x658_1957432816.jpg",
@@ -1741,7 +1741,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=320",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png/revision/latest?cb=20190307135451",
@@ -1752,7 +1752,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=152",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l8hV-xjtwcZdTAHGA3a5gsFWIMzpr9Ctww&usqp=CAU",
@@ -1763,7 +1763,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=706",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",
@@ -1774,7 +1774,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=97",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
@@ -1785,7 +1785,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=11",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",
@@ -1796,7 +1796,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=873",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png",
@@ -1807,7 +1807,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Gujarati",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=489",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png",
@@ -1818,7 +1818,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=524",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Thanthi_TV.png?raw=true",
@@ -1829,7 +1829,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=484",
 		"channelLogo": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",
@@ -1840,7 +1840,7 @@
 	{
 		"channelCat": "Infotainment",
 		"channelLang": "English",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=55",
 		"channelLogo": "https://i.imgur.com/6V48LwT.jpg",
@@ -1859,7 +1859,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=100",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",
@@ -1870,7 +1870,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=523",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",
@@ -1881,7 +1881,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=64",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
@@ -1892,7 +1892,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=522",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
@@ -1911,7 +1911,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=258",
 		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_431/LANDSCAPE_43/OrhmAikO.png",
@@ -1922,7 +1922,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Bengali",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=254",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
@@ -1933,7 +1933,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=20",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png",
@@ -1944,7 +1944,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Gujarati",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=507",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zee24kalak/list/1170x658withlog_1335796285.jpg",
@@ -1955,7 +1955,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=175",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",
@@ -1966,7 +1966,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=727",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-176/list/1170x658withlogo_673971588.jpg",
@@ -1977,7 +1977,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=260",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",
@@ -1999,7 +1999,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=123",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",
@@ -2021,7 +2021,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=252",
 		"channelLogo": "https://yt3.googleusercontent.com/ytc/AL5GRJU5ErI9wT_loUeginp1WMVJq7AwIvD1pWHTHbNpWA=s900-c-k-c0x00ffffff-no-rj",
@@ -2032,7 +2032,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=514",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-zeehindustan/channel_list/09zeehindustanzeehindustan.png",
@@ -2043,7 +2043,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Malayalam",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=694",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-129/list_clean/1170x658withlog1211675212.png",
@@ -2054,7 +2054,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Malayalam",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=684",
 		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1019/PORTRAIT/POKmgmgq.png",
@@ -2065,7 +2065,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=675",
 		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1018/PORTRAIT/TDi6cwLv.png",
@@ -2076,7 +2076,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=256",
 		"channelLogo": "https://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",
@@ -2087,7 +2087,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Kannada",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=810",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-241/channel_list/1170x658withlog_1692640342.png",
@@ -2098,7 +2098,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=512",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png",
@@ -2109,7 +2109,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=583",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeerajasthannews/list/zeerajasthan1170d5d0aec6665f4b50ac9838385316c141.jpg",
@@ -2120,7 +2120,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=518",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeesalaam/channel_list/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2.png",
@@ -2131,7 +2131,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=501",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
@@ -2142,7 +2142,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=251",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",
@@ -2153,7 +2153,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=259",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",
@@ -2164,7 +2164,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Punjabi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=796",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-215/list_clean/1170x658withlog1133594939.png",
@@ -2175,7 +2175,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Punjabi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=580",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeepunjabharyanahima/list/1170x658withlog_1111951312.jpg",
@@ -2186,7 +2186,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=262",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeekalinganews/list_clean/zeedelhiharyana1170x65862b0e281ffaf4db583e22c3e2ced1e03.png",
@@ -2197,7 +2197,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=637",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-channel_265145625/list_clean/zeeupuk1170c7272725348c4a5983894e6453f419b4.png",
@@ -2208,7 +2208,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=63",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
@@ -2219,7 +2219,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=557",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",
@@ -2230,7 +2230,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Odia",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=597",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-sarthaktv/list_clean/1170x658withlogo945516266.png",
@@ -2241,7 +2241,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bhojpuri",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=12",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658394457247.png",
@@ -2252,7 +2252,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Bhojpuri",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=814",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-216/list/1170x658withlogo_20909261.jpg",
@@ -2263,7 +2263,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=248",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
@@ -2274,7 +2274,7 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=261",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
@@ -2285,7 +2285,7 @@
 	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=517",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",
