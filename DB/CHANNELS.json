@@ -207,7 +207,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=496",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7409/567409-h",
 		"channelName": "Star Vijay HD",
-		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3562165.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/846.ts",
 		"contentId": "starvijayhd"
 	},
 	{
@@ -240,7 +240,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=474",
 		"channelLogo": "https://sund-images.sunnxt.com/26569/1000x1500_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg",
 		"channelName": "Sun Life",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/847.ts",
 		"contentId": "sunlife"
 	},
 	{
@@ -284,7 +284,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=708",
 		"channelLogo": "http://jayatvnetwork.com/upload/programme/thumb/Sonthangal_small.jpg",
 		"channelName": "Jaya TV HD",
-		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/2984980.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/851.ts",
 		"contentId": "jayatvhd"
 	},
 	{
@@ -295,7 +295,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=380",
 		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
 		"channelName": "KTV HD",
-		"channelUrl": "https://delta6tatasky.akamaized.net/out/i/5755140.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/845.ts",
 		"contentId": "ktvhd"
 	},
 	{
@@ -306,7 +306,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=439",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552",
 		"channelName": "Raj TV",
-		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/4183362.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/854.ts",
 		"contentId": "rajtv"
 	},
 	{
@@ -317,7 +317,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=426",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635",
 		"channelName": "Raj Digital Plus",
-		"channelUrl": "https://delta3tatasky.akamaized.net/out/i/2227027.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/857.ts",
 		"contentId": "rajdigitalplus"
 	},
 	{
@@ -895,7 +895,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=219",
 		"channelLogo": "https://cdn.cdnlogo.com/logos/d/60/discovery-channel.png",
 		"channelName": "Discovery Channel",
-		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/841.ts",
 		"contentId": "discoverychannel"
 	},
 	{
@@ -2298,7 +2298,7 @@
 		"channelLang": "Hindi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",
 		"channelName": "Zoom",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Zoom",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/842.ts",
 		"contentId": "zoom_music"
 	}
 ]
