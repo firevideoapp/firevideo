@@ -222,6 +222,17 @@
 		"contentId": "suntvhd"
 	},
 	{
+		"channelCat": "Music",
+		"channelLang": "Tamil",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
+		"channelLogo": "https://sund-images.sunnxt.com/9013/250x375_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg",
+		"channelName": "Sun Music HD",
+		"channelUrl": "http://uk1.zecast.com:1935/star-live/smusic/index.m3u8",
+		"contentId": "sunmusichd"
+	},
+	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
 		"drm": true,
@@ -1977,12 +1988,12 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=503",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
 		"channelName": "Zee Cinema HD",
-		"channelUrl": "https://delta38tatasky.akamaized.net/out/i/2051464.mpd",
+		"channelUrl": "http://varun-iptv.online/Zee5/api.php?c=0-9-zeetamil",
 		"contentId": "zeecinemahd"
 	},
 	{
