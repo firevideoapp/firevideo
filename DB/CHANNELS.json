@@ -745,7 +745,7 @@
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_HD.png",
+		"channelLogo": "http://v3img.voot.com/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",
 		"channelName": "Colors Cineplex HD",
 		"channelUrl": "http://iam-ranapk.tk/VOOT/vot.php?id=Colors_Cineplex_voot_MOB",
 		"contentId": "colorscineplexhd"
@@ -2312,7 +2312,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=501",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
 		"channelName": "Zee Marathi HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/913.ts",
+		"channelUrl": "http://iam-ranapk.tk/ZEE5z/z5RanaPk.php?c=0-9-zeemarathi",
 		"contentId": "zeemarathi_hd"
 	},
 	{
