@@ -2010,12 +2010,12 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Telugu",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=636",
 		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
 		"channelName": "Zee Cinemalu HD",
-		"channelUrl": "https://delta37tatasky.akamaized.net/out/i/2644013.mpd",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/941.ts",
 		"contentId": "zeecinemaluhd"
 	},
 	{
