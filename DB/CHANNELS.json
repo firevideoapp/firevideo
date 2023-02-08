@@ -11,6 +11,17 @@
 		"contentId": "filamchibhojpuri"
 	},
 	{
+		"channelCat": "Music",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=733",
+		"channelLogo": "https://firevideo.vercel.app/images/showbox_epicon.png",
+		"channelName": "Showbox",
+		"channelUrl": "https://epiconvh.s.llnwi.net/showbox/master.m3u8",
+		"contentId": "showbox_epicon"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -1604,17 +1615,6 @@
 		"channelName": "Shemaroo Marathibana",
 		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=51174",
 		"contentId": "shemaroomarathi_tv"
-	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=733",
-		"channelLogo": "https://thenewsstrike.com/wp-content/uploads/2019/08/showbox_3.jpg",
-		"channelName": "ShowBox",
-		"channelUrl": "https://delta8tatasky.akamaized.net/out/i/2648337.mpd",
-		"contentId": "showbox_tv"
 	},
 	{
 		"channelCat": "Entertainment",
