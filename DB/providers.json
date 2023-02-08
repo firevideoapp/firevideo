@@ -42,6 +42,12 @@
 		"icon": "/sonyliv_logo.webp"
 	},
 	{
+		"id": "epicon",
+		"name": "Epic On",
+		"adult": false,
+		"icon": "/epicon.png"
+	},
+	{
 		"id": "sunnxt",
 		"name": "SunNXT",
 		"adult": false,
