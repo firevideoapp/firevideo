@@ -1,6 +1,17 @@
 [
 	{
 		"channelCat": "Movies",
+		"channelLang": "Bhojpuri",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=823",
+		"channelLogo": "https://firevideo.vercel.app/images/filamchibhojpuri.jpg",
+		"channelName": "Filamchi Bhojpuri",
+		"channelUrl": "https://epiconvh.s.llnwi.net/filamchi/master.m3u8",
+		"contentId": "filamchibhojpuri"
+	},
+	{
+		"channelCat": "Movies",
 		"channelLang": "Hindi",
 		"drm": false,
 		"drmType": "clearkey",
