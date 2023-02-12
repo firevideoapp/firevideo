@@ -95,7 +95,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=38",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",
 		"channelName": "Aastha",
-		"channelUrl": "https://delta5tatasky.akamaized.net/out/i/3240929.mpd",
+		"channelUrl": "dplus:https://www.aasthatv.tv/channel/live/aastha",
 		"contentId": "aasthatv"
 	},
 	{
