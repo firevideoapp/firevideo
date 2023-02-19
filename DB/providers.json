@@ -3,102 +3,119 @@
 		"id": "hs",
 		"name": "Hotstar",
 		"adult": false,
+		"web": "https://hotstar.com",
 		"icon": "/hotstar_logo.jpg"
 	},
 	{
 		"id": "primevideo",
 		"name": "Prime Video",
 		"adult": false,
+		"web": "https://primevideo.com",
 		"icon": "/primevideo_logo.jpg"
 	},
 	{
 		"id": "minitv",
 		"name": "Mini TV",
 		"adult": false,
+		"web": "https://amazon.in/minitv/",
 		"icon": "/minitv_logo.jpg"
 	},
 	{
 		"id": "ullu",
 		"name": "ULLU",
 		"adult": true,
+		"web": "https://ullu.app",
 		"icon": "/ullu_logo.jpg"
 	},
 	{
 		"id": "nf",
 		"name": "Netflix",
 		"adult": false,
+		"web": "https://netflix,com",
 		"icon": "/netflix_logo.jpg"
 	},
 	{
 		"id": "z5",
 		"name": "Zee5",
 		"adult": false,
+		"web": "https://zee5.com",
 		"icon": "/zee5_logo.jpeg"
 	},
 	{
 		"id": "liv",
 		"name": "Sony LIV",
 		"adult": false,
+		"web": "https://sonyliv.com",
 		"icon": "/sonyliv_logo.webp"
 	},
 	{
 		"id": "epicon",
 		"name": "Epic On",
 		"adult": false,
+		"web": "https://epicon.in/",
 		"icon": "/epicon.png"
 	},
 	{
 		"id": "sunnxt",
 		"name": "SunNXT",
 		"adult": false,
+		"web": "https://sunnxt.com",
 		"icon": "/sunnxt_logo.png"
 	},
 	{
 		"id": "jiocinema",
 		"name": "JioCinema",
 		"adult": false,
+		"web": "https://jiocinema.com",
 		"icon": "/jiocinema_logo.png"
 	},
 	{
 		"id": "planetmarathi",
 		"name": "Planet Marathi",
 		"adult": false,
+		"web": "https://planetmarathi.com",
 		"icon": "/planetmarathi.webp"
 	},
 	{
 		"id": "hoichoi",
 		"name": "Hoichoi",
 		"adult": false,
+		"web": "https://hoichoi.tv",
 		"icon": "/hoichoi_logo.png"
 	},
 	{
 		"id": "aha",
 		"name": "Aha",
 		"adult": false,
+		"web": "https://aha.video",
 		"icon": "/aha_logo.png"
 	},
 	{
 		"id": "lionsgateplay",
 		"name": "Lionsgate Play",
 		"adult": false,
+		"web": "https://lionsgateplay.com",
 		"icon": "/lionsgate_play.png"
 	},
 	{
 		"id": "mx",
 		"name": "MX Player",
 		"adult": false,
+		"web": "https://mxplayer.in",
 		"icon": "/mxplayer_logo.png"
 	},
 	{
 		"id": "voot",
 		"name": "Voot",
 		"adult": false,
+		"web": "https://voot.com",
 		"icon": "/voot_logo.png"
 	},
 	{
 		"id": "altb",
 		"name": "ALT Balaji",
 		"adult": true,
+		"web": "https://altbalaji.com",
 		"icon": "/alt_balaji_logo.png"
 	},
 	{
