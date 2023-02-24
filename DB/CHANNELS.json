@@ -1,5 +1,16 @@
 [
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bangla",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=823",
+		"channelLogo": "https://sund-images.sunnxt.com/75117/640x360_917db336-23b6-408c-a836-54b1e5b91455.jpg",
+		"channelName": "Sun Bangla",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2290.ts",
+		"contentId": "sunbangla"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Bhojpuri",
 		"drm": false,
@@ -73,7 +84,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=246",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h",
 		"channelName": "Star Sports Select 1 HD",
-		"channelUrl": "https://72n5.short.gy/Star_sports_select1hd.m3u8",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2292.ts",
 		"contentId": "starsportsselect1hd"
 	},
 	{
@@ -385,28 +396,6 @@
 	},
 	{
 		"channelCat": "Movies",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=515",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
-		"channelName": "Zee Talkies HD",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-zeetalkies",
-		"contentId": "zeetalkies_hd_channel"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=249",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_427/PORTRAIT/TqtHUlxj.png?o=production",
-		"channelName": "Zee Talkies",
-		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd",
-		"contentId": "zeetalkies"
-	},
-	{
-		"channelCat": "Movies",
 		"channelLang": "Hindi",
 		"drm": false,
 		"drmType": "clearkey",
@@ -467,14 +456,6 @@
 	},
 	{
 		"channelCat": "Music",
-		"channelLang": "Marathi",
-		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/9x_Jhakaas.png?raw=true",
-		"channelName": "9X Jhakaas",
-		"channelUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJhakaas/9XJhakaas.isml/index.m3u8",
-		"contentId": "9xjhakaas_tv"
-	},
-	{
-		"channelCat": "Music",
 		"channelLang": "Hindi",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/9XM.png?raw=true",
 		"channelName": "9XM",
@@ -500,7 +481,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=102",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
 		"channelName": "ABP Ananda",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-402",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2285.ts",
 		"contentId": "abpbangla"
 	},
 	{
@@ -524,17 +505,6 @@
 		"channelName": "ABP Ganga",
 		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-399",
 		"contentId": "abpganga"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=155",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
-		"channelName": "ABP Majha",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-400",
-		"contentId": "abpmarathi"
 	},
 	{
 		"channelCat": "News",
@@ -660,7 +630,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=305",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",
 		"channelName": "Colors Bangla HD",
-		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=47905",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2284.ts",
 		"contentId": "colorsbanglahd"
 	},
 	{
@@ -805,28 +775,6 @@
 		"channelName": "Rishtey Cineplex",
 		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=14036",
 		"contentId": "rishteycineplex"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=308",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
-		"channelName": "Colors Marathi HD",
-		"channelUrl": "https://72n5.short.gy/Colors_HD_MARATHI.m3u8",
-		"contentId": "colorsmarathihd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=134",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi.png",
-		"channelName": "Colors Marathi",
-		"channelUrl": "http://iam-ranapk.tk/VOOT/vot.php?id=Colors_Marathi_voot_MOB",
-		"contentId": "colorsmarathisd"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1299,17 +1247,6 @@
 		"contentId": "jiokidshindi"
 	},
 	{
-		"channelCat": "Entertainment,Movies",
-		"channelLang": "Malayalam",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=25",
-		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Kairali_TV.png?raw=true",
-		"channelName": "KairaliTV",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2205.ts",
-		"contentId": "kairali_tv"
-	},
-	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
 		"drm": false,
@@ -1360,28 +1297,6 @@
 		"channelName": "Mastiii",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/826.ts",
 		"contentId": "mastiiimusic"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Malayalam",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=395",
-		"channelLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/08/14/Untitled-1_23.jpg?itok=WLHL1Zjk",
-		"channelName": "Mazhavil Manorama HD",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd",
-		"contentId": "mazhavilmanoramahd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Malayalam",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=31",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mazhavil_Manorama_TV_Logo.jpg",
-		"channelName": "Mazhavil Manorama",
-		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd",
-		"contentId": "mazhavilmanoramasd"
 	},
 	{
 		"channelCat": "Music",
@@ -1445,17 +1360,6 @@
 		"channelName": "News18 Kannada",
 		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/3296932.mpd",
 		"contentId": "news18kn_kn_tv"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=140",
-		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News18_Lokmat.png?raw=true",
-		"channelName": "News18 Lokmat",
-		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/2625019.mpd",
-		"contentId": "news18marathi_tv"
 	},
 	{
 		"channelCat": "News",
@@ -1565,17 +1469,6 @@
 		"contentId": "publicmusic_kannada"
 	},
 	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=546",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
-		"channelName": "Saam TV",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/921.ts",
-		"contentId": "saamtvmarathi"
-	},
-	{
 		"channelCat": "Music",
 		"channelLang": "Bengali",
 		"drm": false,
@@ -1595,6 +1488,80 @@
 		"contentId": "sangeetbhojpuri"
 	},
 	{
+		"channelCat": "Movies",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=800",
+		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMuqxRB6jIJjPlMZxhcD4vr4DHwlg6-zZUQ&usqp=CAU",
+		"channelName": "Shemaroo Marathibana",
+		"channelUrl": "https://rana-pk.xyz/STARZ/app/play.m3u8?id=51174",
+		"contentId": "shemaroomarathi_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=155",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
+		"channelName": "ABP Majha",
+		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-400",
+		"contentId": "abpmarathi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=140",
+		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News18_Lokmat.png?raw=true",
+		"channelName": "News18 Lokmat",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/2625019.mpd",
+		"contentId": "news18marathi_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=261",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
+		"channelName": "Zee 24 Taas",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/916.ts",
+		"contentId": "zee24taas_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=546",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
+		"channelName": "Saam TV",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/921.ts",
+		"contentId": "saamtvmarathi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=97",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
+		"channelName": "TV9 Marathi",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/917.ts",
+		"contentId": "tv9marathi"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Marathi",
+		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/9x_Jhakaas.png?raw=true",
+		"channelName": "9X Jhakaas",
+		"channelUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJhakaas/9XJhakaas.isml/index.m3u8",
+		"contentId": "9xjhakaas_tv"
+	},
+	{
 		"channelCat": "Music",
 		"channelLang": "Marathi",
 		"drm": false,
@@ -1604,17 +1571,6 @@
 		"channelName": "Sangeet Marathi",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/920.ts",
 		"contentId": "sangeetmarathi"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=800",
-		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMuqxRB6jIJjPlMZxhcD4vr4DHwlg6-zZUQ&usqp=CAU",
-		"channelName": "Shemaroo Marathibana",
-		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=51174",
-		"contentId": "shemaroomarathi_tv"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1680,14 +1636,6 @@
 		"channelName": "Sony MAX 2",
 		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
 		"contentId": "sonymax2_tv"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Marathi",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
-		"channelName": "Sony Marathi",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8?HjFreeTV=MARATHI",
-		"contentId": "sonymarathi_tv"
 	},
 	{
 		"channelCat": "Movies",
@@ -1876,6 +1824,234 @@
 	},
 	{
 		"channelCat": "Entertainment",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=501",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
+		"channelName": "Zee Marathi HD",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/913.ts",
+		"contentId": "zeemarathi_hd"
+	},
+		{
+		"channelCat": "Entertainment",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=308",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
+		"channelName": "Colors Marathi HD",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/912.ts",
+		"contentId": "colorsmarathihd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=248",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
+		"channelName": "Zee Yuva",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/915.ts",
+		"contentId": "zeeyuva_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Marathi",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+		"channelName": "Sony Marathi",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8?HjFreeTV=MARATHI",
+		"contentId": "sonymarathi_tv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=515",
+		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
+		"channelName": "Zee Talkies HD",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/914.ts",
+		"contentId": "zeetalkies_hd_channel"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=823",
+		"channelLogo": "https://i0.wp.com/dthhelper.com/wp-content/uploads/2021/06/Fakt-Marathi-channel-number.jpg?fit=700%2C400&ssl=1",
+		"channelName": "Fakt Marathi",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/924.ts",
+		"contentId": "faktmarathi"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=467",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7420/567420-h",
+		"channelName": "Asianet HD",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/276.ts",
+		"contentId": "asianethd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=694",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-129/list_clean/1170x658withlog1211675212.png",
+		"channelName": "Zee Keralam HD",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/287.ts",
+		"contentId": "zeekeralamhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=467",
+		"channelLogo": "https://sund-images.sunnxt.com/9018/1000x1500_SuryaTV_9018_c8f09032-8b77-4cb7-98e6-6ecd2ed61aa1.jpg",
+		"channelName": "Surya HD",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/279.ts",
+		"contentId": "suryatvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=467",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7424/567424-h",
+		"channelName": "Asianet Plus",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/277.ts",
+		"contentId": "asianetplus"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=395",
+		"channelLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/08/14/Untitled-1_23.jpg?itok=WLHL1Zjk",
+		"channelName": "Mazhavil Manorama HD",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/280.ts",
+		"contentId": "mazhavilmanoramahd"
+	},
+	{
+		"channelCat": "Entertainment,Movies",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=25",
+		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Kairali_TV.png?raw=true",
+		"channelName": "Kairali TV",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2205.ts",
+		"contentId": "kairali_tv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=467",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7400/567400-h",
+		"channelName": "Asianet Movies",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/278.ts",
+		"contentId": "asianetmovies"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=467",
+		"channelLogo": "https://sund-images.sunnxt.com/9019/640x360_396f835c-c9e9-4629-a8ea-e77934262a38.jpg",
+		"channelName": "Surya Movies",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/298.ts",
+		"contentId": "suryamovies"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=467",
+		"channelLogo": "https://sund-images.sunnxt.com/30835/640x360_d226106f-239d-4b51-a362-ac1f55a2ff4c.jpg",
+		"channelName": "Surya Comedy",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/299.ts",
+		"contentId": "suryacomedy"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=395",
+		"channelLogo": "https://sund-images.sunnxt.com/26575/250x375_SuryaMusic_26575_cc1fcfcf-7931-4b87-9ef7-1f74e60d00f7.jpg",
+		"channelName": "Surya Music",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/285.ts",
+		"contentId": "suryamusic"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=395",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/6/65/Manorama_News_3D.jpg/revision/latest/scale-to-width-down/250?cb=20181211073340",
+		"channelName": "Manorama News",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/281.ts",
+		"contentId": "manoramanews"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=58",
+		"channelLogo": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/news-18-kerala-logo-300x300.jpg",
+		"channelName": "News 18 Malayalam",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/301.ts",
+		"contentId": "news18malayalam"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=58",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115",
+		"channelName": "Kairali News",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/308.ts",
+		"contentId": "kairalinews"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=58",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/7/74/Mathrubhumi_News.jpg/revision/latest/scale-to-width-down/220?cb=20181211094022",
+		"channelName": "Mathrubhumi News",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/304.ts",
+		"contentId": "mathrubhuminews"
+	},
+	{
+		"channelCat": "Kids",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=395",
+		"channelLogo": "https://sund-images.sunnxt.com/26573/640x360_811a4c91-d2c4-41f6-afc3-bd0519431207.jpg",
+		"channelName": "Kochu TV",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/290.ts",
+		"contentId": "kochutv"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
 		"drm": false,
 		"drmType": "clearkey",
@@ -1966,17 +2142,6 @@
 		"channelName": "TV9 Bharatvarsh",
 		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-251",
 		"contentId": "tv9bharatvarsh"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=97",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
-		"channelName": "TV9 Marathi",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-257",
-		"contentId": "tv9marathi"
 	},
 	{
 		"channelCat": "News",
@@ -2093,7 +2258,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=522",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
 		"channelName": "Zee Bangla HD",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-zeebangla",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2283.ts",
 		"contentId": "zeebanglahd"
 	},
 	{
@@ -2123,7 +2288,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=254",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
 		"channelName": "Zee Bangla Cinema",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-zeebanglacinema",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2287.ts",
 		"contentId": "zeebanglacinema"
 	},
 	{
@@ -2241,17 +2406,6 @@
 		"channelLang": "Malayalam",
 		"drm": false,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=694",
-		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-129/list_clean/1170x658withlog1211675212.png",
-		"channelName": "Zee Keralam HD",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-129",
-		"contentId": "zeekeralamhd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Malayalam",
-		"drm": false,
-		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=684",
 		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1019/PORTRAIT/POKmgmgq.png",
 		"channelName": "Zee Keralam",
@@ -2323,29 +2477,6 @@
 		"channelName": "Zee Salaam",
 		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-zeesalaam",
 		"contentId": "zeesalaam"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=501",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
-		"channelName": "Zee Marathi HD",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-zeemarathi",
-		"contentId": "zeemarathi_hd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Marathi",
-		"visible": false,
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=251",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",
-		"channelName": "Zee Marathi",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_424/output/manifest.mpd",
-		"contentId": "zeemarathi"
 	},
 	{
 		"channelCat": "News",
@@ -2456,28 +2587,6 @@
 		"channelName": "Zee Biskope",
 		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-216",
 		"contentId": "zeebiskope"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=248",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
-		"channelName": "Zee Yuva",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-zeeyuva",
-		"contentId": "zeeyuva_tv"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=261",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
-		"channelName": "Zee 24 Taas",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-zee24taas",
-		"contentId": "zee24taas_tv"
 	},
 	{
 		"channelCat": "Music",
