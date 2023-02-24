@@ -1488,91 +1488,6 @@
 		"contentId": "sangeetbhojpuri"
 	},
 	{
-		"channelCat": "Movies",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=800",
-		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMuqxRB6jIJjPlMZxhcD4vr4DHwlg6-zZUQ&usqp=CAU",
-		"channelName": "Shemaroo Marathibana",
-		"channelUrl": "https://rana-pk.xyz/STARZ/app/play.m3u8?id=51174",
-		"contentId": "shemaroomarathi_tv"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=155",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
-		"channelName": "ABP Majha",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-400",
-		"contentId": "abpmarathi"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=140",
-		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News18_Lokmat.png?raw=true",
-		"channelName": "News18 Lokmat",
-		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/2625019.mpd",
-		"contentId": "news18marathi_tv"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=261",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
-		"channelName": "Zee 24 Taas",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/916.ts",
-		"contentId": "zee24taas_tv"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=546",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
-		"channelName": "Saam TV",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/921.ts",
-		"contentId": "saamtvmarathi"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=97",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
-		"channelName": "TV9 Marathi",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/917.ts",
-		"contentId": "tv9marathi"
-	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Marathi",
-		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/9x_Jhakaas.png?raw=true",
-		"channelName": "9X Jhakaas",
-		"channelUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJhakaas/9XJhakaas.isml/index.m3u8",
-		"contentId": "9xjhakaas_tv"
-	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Marathi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=217",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",
-		"channelName": "Sangeet Marathi",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/920.ts",
-		"contentId": "sangeetmarathi"
-	},
-	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
 		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
@@ -1884,6 +1799,91 @@
 		"channelName": "Fakt Marathi",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/924.ts",
 		"contentId": "faktmarathi"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=800",
+		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMuqxRB6jIJjPlMZxhcD4vr4DHwlg6-zZUQ&usqp=CAU",
+		"channelName": "Shemaroo Marathibana",
+		"channelUrl": "https://rana-pk.xyz/STARZ/app/play.m3u8?id=51174",
+		"contentId": "shemaroomarathi_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=155",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
+		"channelName": "ABP Majha",
+		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-400",
+		"contentId": "abpmarathi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=140",
+		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News18_Lokmat.png?raw=true",
+		"channelName": "News18 Lokmat",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/2625019.mpd",
+		"contentId": "news18marathi_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=261",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
+		"channelName": "Zee 24 Taas",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/916.ts",
+		"contentId": "zee24taas_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=546",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
+		"channelName": "Saam TV",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/921.ts",
+		"contentId": "saamtvmarathi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=97",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
+		"channelName": "TV9 Marathi",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/917.ts",
+		"contentId": "tv9marathi"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Marathi",
+		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/9x_Jhakaas.png?raw=true",
+		"channelName": "9X Jhakaas",
+		"channelUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJhakaas/9XJhakaas.isml/index.m3u8",
+		"contentId": "9xjhakaas_tv"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=217",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",
+		"channelName": "Sangeet Marathi",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/920.ts",
+		"contentId": "sangeetmarathi"
 	},
 	{
 		"channelCat": "Entertainment",
