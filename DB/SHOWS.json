@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "24-02-2023-11:40:12 AM",
+        "provider": "liv",
+        "tmdb": "132987",
+        "adult": false,
+        "contentId": "potluck_hi_liv",
+        "showName": "Potluck",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BZDUwMTVlN2YtZjE0Zi00ZTMwLTk3YTUtNmZlMzY2ZTUxNDJjXkEyXkFqcGdeQXVyOTIxMzQ0NzU@._V1_FMjpg_UX1000_.jpg",
+        "showArt": "https://images.ottplay.com/images/potluck-s2-76.jpg?impolicy=ottplay-20210210&width=1920&height=1080",
+		"keywords": "potluck web series, potluck season 1, potluck season 2, potluck sony liv web series, comedy web series, 2021 web series, 2023 web series, ira dubey, kitu gidwani, cyrus sahukar, harman singha, shikha talsania,",
+        "showGenre": "Comedy",
+        "showStory": "Potluck at the base is about a father trying to build a happy long-lasting relationship with his kids and their families, focusing the issues with nuclear families."
+    },
+	{
         "dateAdded": "24-02-2023-12:10:12 AM",
         "provider": "ullu",
         "tmdb": "",
@@ -4197,19 +4211,6 @@
         "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9_lUGFkw-tEKiPC_BPXMnZIkbIyl85MieQ&usqp=CAU",
         "showGenre": "Crime, Mystery",
         "showStory": "Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective."
-    },
-    {
-        "dateAdded": "14-09-2021-12:12:12 PM",
-        "provider": "liv",
-        "tmdb": "",
-        "adult": false,
-        "contentId": "potluck_hi_liv",
-        "showName": "Potluck",
-        "showLang": "Hindi",
-        "showImage": "https://bingeddata.s3.amazonaws.com/uploads/2021/09/Potluck-SonyLiv-Review.jpg",
-        "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ft8lyteWKcT1idZD3_Af1HaH6CH2FGLjRw&usqp=CAU",
-        "showGenre": "Comedy",
-        "showStory": "Potluck at the base is about a father trying to build a happy long-lasting relationship with his kids and their families, focusing the issues with nuclear families."
     },
     {
         "dateAdded": "09-09-2021-12:12:12 PM",
