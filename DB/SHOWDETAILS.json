@@ -1,5 +1,30 @@
 [
 	{
+		"contentId": "lovegurus2p2",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Part (Hindi)",
+						"epNo": 1,
+						"epUrl": "https://sbbrisk.com/m7w07alguvmc.html"
+					},
+					{
+						"epName": "Complete Part (Tamil)",
+						"epNo": 2,
+						"epUrl": "https://sbbrisk.com/hrci43l5ixjh.html"
+					},
+					{
+						"epName": "Complete Part (Telugu)",
+						"epNo": 3,
+						"epUrl": "https://sbbrisk.com/vqr668hbd4ya.html"
+					}
+				],
+				"title": "Season 2"
+			}
+		]
+	},
+	{
 		"contentId": "pulimeka_2023_te",
 		"seasons": [
 			{
@@ -150,7 +175,7 @@
 						"epUrl": "https://sbbrisk.com/8zm9bsfuydof.html"
 					}
 				],
-				"title": "Season 1"
+				"title": "Season 2"
 			}
 		]
 	},
