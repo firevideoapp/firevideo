@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/movies/category', (req, res) => {
-    fetch('/DB/MOVIES.json')
+    fetch('./DB/MOVIES.json')
         .then(response => {
             res.contentType = "application/json";
             res.send(response);
