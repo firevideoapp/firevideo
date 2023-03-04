@@ -525,7 +525,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=104",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",
 		"channelName": "India TV",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in_480p/index.m3u8",
 		"contentId": "indiatv_hi"
 	},
 	{
