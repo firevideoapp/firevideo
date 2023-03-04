@@ -20,6 +20,24 @@ app.get('/DB/MOVIES.json', (req, res) => {
     res.send(json);
 });
 
+app.get('/DB/SHOWS.json', (req, res) => {
+    res.contentType = "application/json";
+    var json = require('./DB/SHOWS.json')
+    res.send(json);
+});
+
+app.get('/DB/SHOWDETAILS.json', (req, res) => {
+    res.contentType = "application/json";
+    var json = require('./DB/SHOWDETAILS.json')
+    res.send(json);
+});
+
+app.get('/DB/CHANNELS.json', (req, res) => {
+    res.contentType = "application/json";
+    var json = require('./DB/CHANNELS.json')
+    res.send(json);
+});
+
 async function getMovies() {
     const response = await fetch('https://firevideo.vercel.app/DB/MOVIES.json')
     return response;
