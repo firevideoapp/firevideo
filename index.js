@@ -14,7 +14,11 @@ app.get('/movies/category', (req, res) => {
     res.send();
 });
 
-app.get('/DB/MOVIES.json', 'DB/MOVIES.json');
+app.get('/DB/MOVIES.json', (req, res) => {
+    res.contentType = "application/json";
+    var json = require('./DB/MOVIES.json')
+    res.send(json);
+});
 
 async function getMovies() {
     const response = await fetch('https://firevideo.vercel.app/DB/MOVIES.json')
