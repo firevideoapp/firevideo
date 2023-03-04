@@ -9,6 +9,16 @@ app.get('/', (req, res) => {
     });
 });
 
+app.get('/movies/category', (req, res) => {
+    res.contentType = "application/json";
+    res.send(getMovies());
+});
+
+async function getMovies() {
+    const response = await fetch('https://firevideo.vercel.app/DB/MOVIES.json')
+    return response;
+}
+
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`);
 });
