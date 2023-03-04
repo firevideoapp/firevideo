@@ -1,0 +1,23 @@
+{
+  "name": "firevideo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firevideoapp/firevideo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firevideoapp/firevideo/issues"
+  },
+  "homepage": "https://github.com/firevideoapp/firevideo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.8.0"
+  }
+}
