@@ -1,7 +1,7 @@
 [
 	{
 		"channelCat": "Entertainment",
-		"channelLang": "Bangla",
+		"channelLang": "Bengali",
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=823",
