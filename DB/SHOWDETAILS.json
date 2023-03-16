@@ -5,9 +5,19 @@
 			{
 				"Episodes": [
 					{
-						"epName": "Complete Part",
+						"epName": "Complete Part (Hindi)",
 						"epNo": 1,
 						"epUrl": "https://sbbrisk.com/j6db3ysy46xf.html"
+					},
+					{
+						"epName": "Complete Part (Tamil)",
+						"epNo": 2,
+						"epUrl": "https://sbbrisk.com/ruj9bd6n0hsb.html"
+					},
+					{
+						"epName": "Complete Part (Telugu)",
+						"epNo": 3,
+						"epUrl": ""
 					}
 				],
 				"title": "Season 1"
