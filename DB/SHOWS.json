@@ -3,7 +3,7 @@
         "dateAdded": "19-03-2023-10:40:12 PM",
         "provider": "",
         "tmdb": "102823",
-        "adult": false,
+        "adult": true,
         "contentId": "mastram_2020_hi",
         "showName": "Mastram",
         "showLang": "Hindi",
