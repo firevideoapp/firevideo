@@ -1,6 +1,20 @@
 [
     {
-        "dateAdded": "19-03-2023-07:20:12 AM",
+        "dateAdded": "19-03-2023-10:40:12 PM",
+        "provider": "",
+        "tmdb": "102823",
+        "adult": false,
+        "contentId": "mastram_2020_hi",
+        "showName": "Mastram",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BYTYwMDQ2ZTktN2ZjMS00NjNmLWJhZWEtMWM1N2M3YjU2ZDIwXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_.jpg",
+        "showArt": "https://qqcdnpictest.mxplay.com/pic/a825dc18cb9923faee7dcd8c53e6c5d5/en/16x9/1920x1080/test_pic1627298705720.webp",
+        "keywords": "mastram web series, hindi web series, comedy web series, fantasy web series, bold web series, adult web series, sexy web series, 2020 web series, kenisha awasthi, anshuman jha, tara alisha berry, isha chhabra, snower sania vasudev, amrita dasgupta, aakash dabhade, jagat rawat, rani chatterjee, vipin sharma, nehal vadoliya, harshita kushwaha, shikha sinha, abha paul, ashmita jaggi, kamalika chanda, garima jain,",
+        "showGenre": "Comedy, Fantasy",
+        "showStory": "Meet Mastram, the quintessential writer of the 80s who spoke the lingo of the Hindi heartland - literally. The 10 episodes feature stories of passion intertwined with turbulent day-to-day scenarios from Mastram's real life."
+    },
+    {
+        "dateAdded": "19-03-2023-07:20:12 PM",
         "provider": "hs",
         "tmdb": "222231",
         "adult": false,
