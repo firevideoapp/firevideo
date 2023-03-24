@@ -21,6 +21,26 @@
 					}
 				],
 				"title": "Season 1"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbface.com/b2r202z1uo8p.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://sbface.com/bpwpj6k17dq3.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://sbface.com/nfpo94scbmdc.html"
+					}
+				],
+				"title": "Season 1 (Tamil)"
 			}
 		]
 	},
