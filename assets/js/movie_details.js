@@ -20,6 +20,7 @@ async function getMovieData(id) {
         if (movie.id === id) {
             document.getElementById('movie_image').src = movie.banner;
             document.getElementById('movie_title').textContent = movie.name;
+            document.title = movie.name;
             // document.getElementById('movie_thumb').style.background = "linear-gradient(to left, transparent 10%, black 60%),url(" + movie.thumbnail + ") no-repeat";
             // document.getElementById('movie_thumb').style.backgroundSize = 'cover';
             genreLabel.innerHTML = movie.genre;
@@ -44,14 +45,14 @@ function watchButtonClick() {
     iframe.allowFullscreen = true;
     iframe.frameBorder = 0;
     iframe.style.position = 'absolute';
-    // iframe.style.top = 0;
-    // iframe.style.bottom = 0;
-    // iframe.style.right = 0;
-    // iframe.style.left = 0;
-    iframe.width = 640;
-    iframe.height = 360;
+    iframe.style.top = 0;
+    iframe.style.bottom = 0;
+    iframe.style.right = 0;
+    iframe.style.left = 0;
+    iframe.width = "100%";
+    iframe.height = "100%";
     document.body.appendChild(iframe);
-    // document.getElementById('header').style.display = "none";
+    document.getElementById('header').style.display = "none";
     playerShowing = true;
     // document.location.href = streamUrl;
 }
