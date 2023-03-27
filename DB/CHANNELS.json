@@ -1,16 +1,5 @@
 [
 	{
-		"channelCat": "Sports",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=823",
-		"channelLogo": "https://ullu2-files.ullu.app/media-metadata/641d7cd20be60f0bdcefdc2c",
-		"channelName": "SIPL (Atrangi)",
-		"channelUrl": "https://live-ul2.ullu.app/SportsTV/hls/playlist.m3u8",
-		"contentId": "sipl_atrangi"
-	},
-	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
 		"drm": false,
