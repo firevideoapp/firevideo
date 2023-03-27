@@ -1,5 +1,30 @@
 [
 	{
+		"contentId": "chaska_2023_primeshots",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbface.com/kzzpkp0bzdog.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://sbface.com/pr26rrrj2ssn.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://sbface.com/x51gcmaukjo4.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "hunter_2023_minitv_hi",
 		"seasons": [
 			{
