@@ -1,5 +1,35 @@
 [
 	{
+		"contentId": "badan_s1p2_ullu",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 05",
+						"epNo": 5,
+						"epUrl": "https://sbface.com/9eo3q9qjtsl0.html"
+					},
+					{
+						"epName": "Episode 06",
+						"epNo": 6,
+						"epUrl": "https://sbface.com/vzwh4sp8x93k.html"
+					},
+					{
+						"epName": "Episode 07",
+						"epNo": 7,
+						"epUrl": "https://sbface.com/i3yinzujkl1a.html"
+					},
+					{
+						"epName": "Episode 08",
+						"epNo": 8,
+						"epUrl": "https://sbface.com/gl8mryce457y.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "chaska_2023_primeshots",
 		"seasons": [
 			{
