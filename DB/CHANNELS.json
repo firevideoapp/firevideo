@@ -1,5 +1,27 @@
 [
 	{
+		"channelCat": "Kids",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/800px-Hungama_TV.svg.png",
+		"channelName": "Hungama",
+		"channelUrl": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/KUjJj3U_yfYLE8OF7Q36xYtumPP50OuyUFnVYT3EEh6pchGuwMhD2dA1z-XJu-Hi4aQd_Opw31-d3MaEr5FIqQ/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
+		"contentId": "hungamatv"
+	},
+	{
+		"channelCat": "Kids",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png",
+		"channelName": "Super Hungama",
+		"channelUrl": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/No2CYANN2rmdSaBozDoA0C2nYfWQ33RFSDAvfgGcUCijPSn3ffoaD-yIL2yGvNz3wCtFZWJrqAcG6i9drPXFmg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
+		"contentId": "hungamasuper"
+	},
+	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
 		"drm": false,
@@ -1656,7 +1678,6 @@
 	},
 	{
 		"channelCat": "Movies",
-		"event": "ipl",
 		"channelLang": "Hindi",
 		"drm": false,
 		"drmType": "clearkey",
@@ -1665,6 +1686,17 @@
 		"channelName": "Star GOLD HD",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/785.ts",
 		"contentId": "stargoldhd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=245",
+		"channelLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh18y8k4_K4HtdfE4IGKHLmr5NzdkBOs0PLxN6KAikl758cfPWNym6T7VC3XEmS_4HuQ8FE5Xzkdy4p56eyTNsyLXvnP5PXCsVOeEZF3wBowXmUl8nySKkL_YuDq6qQ-6feghgSXae4e9vEI2Pa5Ta87RVocHLWhoOWbC9w9KlRC_GQOyVX4ti9vMNT/w640-h360/star-gold-thrills-tv-channel-coming-soon-on-dd-freedish-know-channel-number.jpg",
+		"channelName": "Star GOLD Thrills",
+		"channelUrl": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/vBkPbOr-S_e-0rVxGzFPnl3ZZ7zXcGTase_TwG2GB4RiAe4yNC9EO3ifxYBwsW5EFpsROAdbg6BCqDV81YxDOA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
+		"contentId": "stargoldthrills"
 	},
 	{
 		"channelCat": "Movies",
@@ -1690,7 +1722,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=468",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h",
 		"channelName": "Star Jalsha HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2281.ts",
+		"channelUrl": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/eiNpbn52KgPAQLVtJ2bWisZDbNqxcJxeVq3nzRU_ubbLAWRWJRGG_ENrLXdvrSSZ-2vEP-Bky6IRIPrP6bHy0A/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
 		"contentId": "starjalshahd"
 	},
 	{
