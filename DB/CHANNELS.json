@@ -69,7 +69,7 @@
 		"channelCat": "Sports",
 		"channelLang": "Hindi",
 		"drm": true,
-		"drmType": "widevine",
+		"drmType": "clearkey",
 		"drmLicense": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDYzNTgyNTE4IiwiaXNlIjp0cnVlLCJqdGkiOiI5NTAzNjNiYS02ZjQ1LTQyYmUtYjc5ZS0zYmQ5NjA3NGM2NDgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjgwMzMzODUxLCJuYW1lIjoiQW1vbCBWYWRuZXJlIiwiaWF0IjoxNjgwMjQ3NDUxLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMzg0In1dLCJpc3MiOiJ0cG1hX3dlYiJ9.Db2IJ8S5XqdcZ-6mveb2diauvXpt2MahRRilWnJrKfs",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
 		"channelName": "Star Sports 1 Hindi HD",
