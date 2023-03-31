@@ -1,7 +1,7 @@
 [
 	{
             "contentId": "ipl",
-            "image": "https://v3img.voot.com/resizeMedium,w_1920,h_1080/v3Storage/assets/1%20-%20ipl-1679384033703.jpg",
+            "image": "https://v3img.voot.com/resizeMedium,w_1280,h_720/v3Storage/assets/1%20-%20ipl-1679384033703.jpg",
             "title": "TATA IPL 2023",
             "description": "Watch Everyday LIVE",
             "type": "",
@@ -10,7 +10,7 @@
 	},
 	{
             "contentId": "gaslight_2023_hi",
-            "image": "https://img1.hotstarext.com/image/upload/f_auto,q_100,w_640/sources/r1/cms/prod/4969/1494969-i-58a953c8f194",
+            "image": "https://img1.hotstarext.com/image/upload/f_auto,q_80,w_1280/sources/r1/cms/prod/4969/1494969-i-58a953c8f194",
             "title": "Gaslight",
             "description": "Watch now",
             "type": "Movie",
@@ -19,7 +19,7 @@
 	},
 	{
             "contentId": "nanidasara_2023_hi",
-            "image": "https://m.media-amazon.com/images/M/MV5BZmMxODMwMjMtYTQ2Yi00OGM3LTlmNmQtMmFjMGIyZDYxOWU1XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V_SX640_.jpg",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmMxODMwMjMtYTQ2Yi00OGM3LTlmNmQtMmFjMGIyZDYxOWU1XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V_SX1280_.jpg",
             "title": "Nani's Dasara",
             "description": "Watch now",
             "type": "Movie",
@@ -28,7 +28,7 @@
 	},
 	{
             "contentId": "bholaa_2023_hi",
-            "image": "https://m.media-amazon.com/images/M/MV5BOWY0Mjk0NjktNjYwYy00MDczLTljZmQtZmI1OWQxYzFhMTQ2XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V_SX1920_.jpg",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWY0Mjk0NjktNjYwYy00MDczLTljZmQtZmI1OWQxYzFhMTQ2XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V_SX1280_.jpg",
             "title": "Bhola",
             "description": "Watch now",
             "type": "Movie",
