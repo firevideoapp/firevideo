@@ -1,62 +1,65 @@
-[
-	{
-		"id": "hin",
-		"title": "Hindi",
-		"url": "https://prod-sports-hin.jiocinema.com/hls/live/2099765/hd_akamai_ctv_avc_hin_ipl01/master.m3u8"
-	},
-	{
-		"id": "eng",
-		"title": "English",
-		"url": "https://prod-sports-eng.jiocinema.com/hls/live/2099764/hd_akamai_ctv_avc_insider_ipl01/master.m3u8"
-	},
-	{
-		"id": "tam",
-		"title": "Tamil",
-		"url": "https://prod-sports-south.jiocinema.com/hls/live/2099791/hd_akamai_ctv_avc_tam_ipl01/master.m3u8"
-	},
-	{
-		"id": "tel",
-		"title": "Telugu",
-		"url": "https://prod-sports-south.jiocinema.com/hls/live/2099790/hd_akamai_ctv_avc_tel_ipl01/master.m3u8"
-	},
-	{
-		"id": "mar",
-		"title": "Marathi",
-		"url": "https://prod-sports-north.jiocinema.com/hls/live/2099772/hd_akamai_ctv_avc_mar_ipl01/master.m3u8"
-	},
-	{
-		"id": "mal",
-		"title": "Malayalam",
-		"url": "https://prod-sports-south.jiocinema.com/hls/live/2099796/hd_akamai_ctv_avc_mal_ipl01/master.m3u8"
-	},
-	{
-		"id": "kan",
-		"title": "Kannada",
-		"url": "https://prod-sports-south.jiocinema.com/hls/live/2099786/hd_akamai_ctv_avc_kan_ipl01/master.m3u8"
-	},
-	{
-		"id": "ben",
-		"title": "Bengali",
-		"url": "https://prod-sports-north.jiocinema.com/hls/live/2099771/hd_akamai_ctv_avc_ben_ipl01/master.m3u8"
-	},
-	{
-		"id": "guj",
-		"title": "Gujarati",
-		"url": "https://prod-sports-north.jiocinema.com/hls/live/2099784/hd_akamai_ctv_avc_guj_ipl01/master.m3u8"
-	},
-	{
-		"id": "odia",
-		"title": "Odia",
-		"url": "https://prod-sports-south.jiocinema.com/hls/live/2099797/hd_akamai_ctv_avc_odia_ipl01/master.m3u8"
-	},
-	{
-		"id": "bhoj",
-		"title": "Bhojpuri",
-		"url": "https://prod-sports-north.jiocinema.com/hls/live/2099778/hd_akamai_ctv_avc_bhoj_ipl01/master.m3u8"
-	},
-	{
-		"id": "pun",
-		"title": "Punjabi",
-		"url": "https://prod-sports-north.jiocinema.com/hls/live/2099779/hd_akamai_ctv_avc_punj_ipl01/master.m3u8"
-	}
-]
+{
+	"web": "https://www.jiocinema.com/sports/lsg-vs-dc/3715222",
+	"streams": [
+		{
+			"id": "hin",
+			"title": "Hindi",
+			"url": "https://prod-sports-hin.jiocinema.com/hls/live/2099765/hd_akamai_ctv_avc_hin_ipl01/master.m3u8"
+		},
+		{
+			"id": "eng",
+			"title": "English",
+			"url": "https://prod-sports-eng.jiocinema.com/hls/live/2099764/hd_akamai_ctv_avc_insider_ipl01/master.m3u8"
+		},
+		{
+			"id": "tam",
+			"title": "Tamil",
+			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099791/hd_akamai_ctv_avc_tam_ipl01/master.m3u8"
+		},
+		{
+			"id": "tel",
+			"title": "Telugu",
+			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099790/hd_akamai_ctv_avc_tel_ipl01/master.m3u8"
+		},
+		{
+			"id": "mar",
+			"title": "Marathi",
+			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099772/hd_akamai_ctv_avc_mar_ipl01/master.m3u8"
+		},
+		{
+			"id": "mal",
+			"title": "Malayalam",
+			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099796/hd_akamai_ctv_avc_mal_ipl01/master.m3u8"
+		},
+		{
+			"id": "kan",
+			"title": "Kannada",
+			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099786/hd_akamai_ctv_avc_kan_ipl01/master.m3u8"
+		},
+		{
+			"id": "ben",
+			"title": "Bengali",
+			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099771/hd_akamai_ctv_avc_ben_ipl01/master.m3u8"
+		},
+		{
+			"id": "guj",
+			"title": "Gujarati",
+			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099784/hd_akamai_ctv_avc_guj_ipl01/master.m3u8"
+		},
+		{
+			"id": "odia",
+			"title": "Odia",
+			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099797/hd_akamai_ctv_avc_odia_ipl01/master.m3u8"
+		},
+		{
+			"id": "bhoj",
+			"title": "Bhojpuri",
+			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099778/hd_akamai_ctv_avc_bhoj_ipl01/master.m3u8"
+		},
+		{
+			"id": "pun",
+			"title": "Punjabi",
+			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099779/hd_akamai_ctv_avc_punj_ipl01/master.m3u8"
+		}
+	]
+}
