@@ -1,5 +1,33 @@
 [
 	{
+        "dateAdded": "01-04-2023-07:55:12 PM",
+        "provider": "primeshots",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "chaska_2023_primeshots",
+        "showName": "Chaska",
+        "showLang": "Hindi, Tamil, Telugu",
+        "showImage": "https://firevideo.vercel.app/images/chaska_primeshots.jpg",
+        "showArt": "https://firevideo.vercel.app/images/chaska_primeshots_land.jpg",
+        "keywords": "chaska web series, chaska primeshots hindi web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, poonam, aliya naaz,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Primeshots Web Series."
+    },
+	{
+        "dateAdded": "01-04-2023-07:50:12 PM",
+        "provider": "primevideo",
+        "tmdb": "221566",
+        "adult": false,
+        "contentId": "happyfamilyconditionsapply_2023_hi",
+        "showName": "Happy Family, Conditions Apply",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BYjAzYTFmMWQtMWQ0MS00NzUwLWFkNjEtYTZlNDg3OTg5ODE5XkEyXkFqcGdeQXVyMTYzMDMwODk1._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9c4d3161c6c4772d9dd7eb650e2ae5a013c90079d880686929189110105616e4._V_SX1920_.jpg",
+        "keywords": "happy family web series, hindi web series, 2023 web series, comedy web series, family web series, raj babbar, ratna pathak, atul kulkarni, paresh ganatra, atul kumar, neha julka, nitish kapoor, ayesha jhulka,",
+        "showGenre": "Comedy",
+        "showStory": "The Dholakia family's household have four generations living under one roof and navigate the many ups and downs of their lives together."
+    },
+	{
         "dateAdded": "31-03-2023-12:20:12 AM",
         "provider": "ullu",
         "tmdb": "",
@@ -69,20 +97,6 @@
         "showGenre": "Drama, Romance",
         "showStory": "Ashwin is a hopelessly romantic guy. His life turns upside down when he falls in love with Nikki, only to realise later that she is happily married. Nikki becomes violently obsessive with Ashwin when he decides to leave her, leaving Ashwin in a fix where all roads leads to disaster and misfortune!"
     },
-	{
-        "dateAdded": "27-03-2023-10:30:12 PM",
-        "provider": "primeshots",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "chaska_2023_primeshots",
-        "showName": "Chaska",
-        "showLang": "Hindi, Tamil, Telugu",
-        "showImage": "https://firevideo.vercel.app/images/chaska_primeshots.jpg",
-        "showArt": "https://firevideo.vercel.app/images/chaska_primeshots_land.jpg",
-        "keywords": "chaska web series, chaska primeshots hindi web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, poonam, aliya naaz,",
-        "showGenre": "Drama, Romance",
-        "showStory": "Primeshots Web Series."
-    },
     {
         "dateAdded": "25-03-2023-07:50:12 PM",
         "provider": "minitv",
@@ -96,20 +110,6 @@
         "keywords": "hunter tootega nahi todega web series, hunter minitv web series, hunter 2023 web series, 2023 web series, action web series, crime web series, thriller web series, thrilling web series, suniel shetty, esha deol, chahat tewani, teena singh, rahul dev, barkha bisht, mir sarwar,",
         "showGenre": "Action, Crime, Thriller",
         "showStory": "Hunter is an action thriller web series that follows Suniel Shetty as ACP Vikram in his journey to the dark alleys of Mumbai's crime world. A mission to find a missing woman leads him juggling between his past and future."
-    },
-    {
-        "dateAdded": "24-03-2023-05:30:12 PM",
-        "provider": "primevideo",
-        "tmdb": "221566",
-        "adult": false,
-        "contentId": "happyfamilyconditionsapply_2023_hi",
-        "showName": "Happy Family, Conditions Apply",
-        "showLang": "Hindi",
-        "showImage": "https://m.media-amazon.com/images/M/MV5BYjAzYTFmMWQtMWQ0MS00NzUwLWFkNjEtYTZlNDg3OTg5ODE5XkEyXkFqcGdeQXVyMTYzMDMwODk1._UY500_UX667_RI_V_TTW_.jpg",
-        "showArt": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9c4d3161c6c4772d9dd7eb650e2ae5a013c90079d880686929189110105616e4._V_SX1920_.jpg",
-        "keywords": "happy family web series, hindi web series, 2023 web series, comedy web series, family web series, raj babbar, ratna pathak, atul kulkarni, paresh ganatra, atul kumar, neha julka, nitish kapoor, ayesha jhulka,",
-        "showGenre": "Comedy",
-        "showStory": "The Dholakia family's household have four generations living under one roof and navigate the many ups and downs of their lives together."
     },
     {
         "dateAdded": "22-03-2023-02:00:12 PM",
