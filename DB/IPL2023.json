@@ -4,12 +4,12 @@
 		{
 			"id": "hin",
 			"title": "Hindi",
-			"url": "https://prod-sports-hin.jiocinema.com/hls/live/2099820/hd_akamai_iosmob_avc_hin_ipl03/master.m3u8"
+			"url": "{\"id\":\"hi\",\"label\":\"हिन्दी\"}"
 		},
 		{
 			"id": "eng",
 			"title": "English",
-			"url": "https://prod-sports-eng.jiocinema.com/hls/live/2099816/hd_akamai_iosmob_avc_eng_ipl03/master.m3u8"
+			"url": "{\"id\":\"hi\",\"label\":\"हिन्दी\"}"
 		},
 		{
 			"id": "tam",
