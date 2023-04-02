@@ -4,62 +4,62 @@
 		{
 			"id": "hin",
 			"title": "Hindi",
-			"url": "{\"id\":\"hi\",\"label\":\"हिन्दी\"}"
+			"value": "{\"id\":\"hi\",\"label\":\"Hindi\"}"
 		},
 		{
 			"id": "eng",
 			"title": "English",
-			"url": "{\"id\":\"hi\",\"label\":\"हिन्दी\"}"
+			"value": "{\"id\":\"en\",\"label\":\"English\"}"
 		},
 		{
 			"id": "tam",
 			"title": "Tamil",
-			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_tam_ipl03/master.m3u8"
+			"value": "{\"id\":\"ta\",\"label\":\"Tamil\"}"
 		},
 		{
 			"id": "tel",
 			"title": "Telugu",
-			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099905/hd_akamai_iosmob_avc_tel_ipl03/master.m3u8"
+			"value": "{\"id\":\"te\",\"label\":\"Telugu\"}"
 		},
 		{
 			"id": "mar",
 			"title": "Marathi",
-			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099854/hd_akamai_iosmob_avc_mar_ipl03/master.m3u8"
+			"value": "{\"id\":\"mr\",\"label\":\"Marathi\"}"
 		},
 		{
 			"id": "mal",
 			"title": "Malayalam",
-			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099919/hd_akamai_iosmob_avc_mal_ipl03/master.m3u8"
+			"value": "{\"id\":\"ml\",\"label\":\"Malayalam\"}"
 		},
 		{
 			"id": "kan",
 			"title": "Kannada",
-			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099894/hd_akamai_iosmob_avc_kan_ipl03/master.m3u8"
+			"value": "{\"id\":\"kn\",\"label\":\"Kannada\"}"
 		},
 		{
 			"id": "ben",
 			"title": "Bengali",
-			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099848/hd_akamai_iosmob_avc_ben_ipl03/master.m3u8"
+			"value": "{\"id\":\"bn\",\"label\":\"Bengali\"}"
 		},
 		{
 			"id": "guj",
 			"title": "Gujarati",
-			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099883/hd_akamai_iosmob_avc_guj_ipl03/master.m3u8"
+			"value": "{\"id\":\"gu\",\"label\":\"Gujarati\"}"
 		},
 		{
 			"id": "odia",
 			"title": "Odia",
-			"url": "https://prod-sports-south.jiocinema.com/hls/live/2099930/hd_akamai_iosmob_avc_odia_ipl03/master.m3u8"
+			"value": "{\"id\":\"or\",\"label\":\"Odia\"}"
 		},
 		{
 			"id": "bhoj",
 			"title": "Bhojpuri",
-			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099862/hd_akamai_iosmob_avc_bhoj_ipl03/master.m3u8"
+			"value": "{\"id\":\"bho\",\"label\":\"Bhojpuri\"}"
 		},
 		{
 			"id": "pun",
 			"title": "Punjabi",
-			"url": "https://prod-sports-north.jiocinema.com/hls/live/2099872/hd_akamai_iosmob_avc_punj_ipl03/master.m3u8"
+			"value": "{\"id\":\"pa\",\"label\":\"Punjabi\"}"
 		}
 	]
 }
