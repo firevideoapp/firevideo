@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "05-04-2023-07:30:12 PM",
+        "provider": "minitv",
+        "tmdb": "223952",
+        "adult": false,
+        "contentId": "gutargu_2023",
+        "showName": "Gutar Gu",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BZTVjMTExOWYtYjIyMC00ODc5LWJjMDYtMzEzZjJjODEzZTdkXkEyXkFqcGdeQXVyMTUzOTk5MjA0._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://m.media-amazon.com/images/S/pv-target-images/499c2dd0ba1bf2e331da624681f012ed99f078cf7b7ea38a0e6b579acb1f3eab.__SX1920_.jpg",
+        "keywords": "gutar gu web series, gutar gu minitv web series, romance web series, 2023 web series, ",
+        "showGenre": "Romance",
+        "showStory": "Ritu and Anuj as they navigate through their newly budding romance."
+    },
+	{
         "dateAdded": "04-04-2023-12:00:12 AM",
         "provider": "ullu",
         "tmdb": "",
