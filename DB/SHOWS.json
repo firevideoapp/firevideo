@@ -1,6 +1,20 @@
 [
 	{
         "dateAdded": "05-04-2023-07:30:12 PM",
+        "provider": "primeshots",
+        "tmdb": "",
+        "adult": false,
+        "contentId": "chupanchupai_2023_primeshots",
+        "showName": "Chupan Chupai",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/chupanchupai_primeshots.jpg",
+        "showArt": "https://firevideo.vercel.app/images/chupanchupai_primeshots_land.jpg",
+        "keywords": "chupan chupai web series, chupan chupai primeshots web series, 2023 web series, adult web series, bold web series, hot web series, sexy web series, hiral radadiya,",
+        "showGenre": "Drama, Fantasy, Romance, Thriller",
+        "showStory": "Chupan Chupai (2023) Primeshots Web Series."
+    },
+	{
+        "dateAdded": "05-04-2023-07:30:12 PM",
         "provider": "minitv",
         "tmdb": "223952",
         "adult": false,
