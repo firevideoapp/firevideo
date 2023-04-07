@@ -9,6 +9,15 @@
             "videoUrl": ""
 	},
 	{
+            "contentId": "pushpatherule_teaser",
+            "image": "https://firevideo.vercel.app/images/pushpatheruleannouncement.jpg",
+            "title": "Pushpa 2 Announcement Teaser",
+            "description": "Multi-Audio Teaser Out Now",
+            "type": "",
+            "url": "",
+            "videoUrl": ""
+	},
+	{
             "contentId": "gaslight_2023_hi",
             "image": "https://img1.hotstarext.com/image/upload/f_auto,q_80,w_1280/sources/r1/cms/prod/4969/1494969-i-58a953c8f194",
             "title": "Gaslight",
