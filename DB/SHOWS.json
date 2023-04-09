@@ -1,6 +1,20 @@
 [
 	{
-        "dateAdded": "09-04-2023-10:30:12 PM",
+        "dateAdded": "09-04-2023-05:30:12 PM",
+        "provider": "primeshots",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "sreeragam_2023_ml",
+        "showName": "Sreeragam",
+        "showLang": "Malayalam",
+        "showImage": "https://firevideo.vercel.app/images/sreeragam_yessma.png",
+        "showArt": "https://firevideo.vercel.app/images/sreeragam_yessma_land.png",
+        "keywords": "sreeragam web series, sreeragam yessma web series, 2023 web series, malayalam web series, adult web series, bold web series, hot web series, sexy web series,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Sreeragam (2023) Yessma Web Series."
+    },
+	{
+        "dateAdded": "09-04-2023-10:30:12 AM",
         "provider": "primeshots",
         "tmdb": "",
         "adult": true,
