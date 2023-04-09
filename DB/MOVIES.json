@@ -20,8 +20,28 @@
       "fhdServer":""
 	},
 	{
+      "dateAdded":"07-04-2023-05:40:00 PM",
+      "provider":"",
+      "tmdb":"974025",
+      "adult":false,
+      "id":"gumraah_2023_hi",
+      "name":"Gumraah",
+      "language":"Hindi",
+      "banner":"https://m.media-amazon.com/images/M/MV5BZjFjYzk2YTAtNTY4My00NjYxLWI0OGUtMThhYWZhNTllYWMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+      "thumbnail":"https://firevideo.vercel.app/images/gumraah_land.jpg",
+      "genre":"Action, Crime, Drama",
+      "keywords":"gumraah hindi movie, 2023 hindi movies, action movies, crime movies, drama movies, aditya roy kapur, mrunal thakur, ronit roy, vedika pinto,",
+      "description":"The murder investigation of a young man takes an unexpected turn when the cops discover that the prime suspect has a lookalike.",
+      "stream":"https://lvturbo.com/sc0rkzoneu0g.html",
+      "downloadUrl":"",
+      "drmLicense":"",
+      "sdServer":"",
+      "hdServer":"",
+      "fhdServer":""
+	},
+	{
       "dateAdded":"07-04-2023-05:30:00 PM",
-      "provider":"primevideo",
+      "provider":"primevideo, z5",
       "tmdb":"679919",
       "adult":false,
       "id":"acharya_te",
@@ -38,7 +58,7 @@
       "sdServer":"",
       "hdServer":"",
       "fhdServer":""
-   },
+	},
 	{
       "dateAdded":"07-04-2023-12:10:00 PM",
       "provider":"hs",
