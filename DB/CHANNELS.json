@@ -230,7 +230,7 @@
 		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
 		"channelName": "Zee Telugu HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/940.ts",
-		"contentId": "zeetelugu_hd_channel"
+		"contentId": "zeetelugu_hd1"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -318,7 +318,7 @@
 		"channelLogo": "https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg",
 		"channelName": "Sun TV HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/843.ts",
-		"contentId": "suntvhd"
+		"contentId": "suntvhd1"
 	},
 	{
 		"channelCat": "Music",
@@ -1844,7 +1844,7 @@
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
 		"channelName": "Zee Yuva +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/915.ts",
-		"contentId": "zeeyuva_tv"
+		"contentId": "zeeyuva1"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1874,7 +1874,7 @@
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
 		"channelName": "Zee Talkies HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/914.ts",
-		"contentId": "zeetalkies_hd_channel"
+		"contentId": "zeetalkieshd1"
 	},
 	{
 		"channelCat": "Movies",
@@ -1951,7 +1951,7 @@
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
 		"channelName": "Saam TV +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/921.ts",
-		"contentId": "saamtvmarathi"
+		"contentId": "saamtvmarathi1"
 	},
 	{
 		"channelCat": "News",
@@ -1973,7 +1973,7 @@
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
 		"channelName": "TV9 Marathi +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/917.ts",
-		"contentId": "tv9marathi"
+		"contentId": "tv9marathi1"
 	},
 	{
 		"channelCat": "Music",
@@ -2025,7 +2025,7 @@
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-129/list_clean/1170x658withlog1211675212.png",
 		"channelName": "Zee Keralam HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/287.ts",
-		"contentId": "zeekeralamhd"
+		"contentId": "zeekeralamhd1"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -2486,7 +2486,7 @@
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
 		"channelName": "Zee Bangla Cinema +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2287.ts",
-		"contentId": "zeebanglacinema"
+		"contentId": "zeebanglacinema1"
 	},
 	{
 		"channelCat": "News",
@@ -2585,7 +2585,7 @@
 		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
 		"channelName": "Zee Cinemalu HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/941.ts",
-		"contentId": "zeecinemaluhd"
+		"contentId": "zeecinemaluhd1"
 	},
 	{
 		"channelCat": "Movies",
