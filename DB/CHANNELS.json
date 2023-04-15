@@ -218,6 +218,17 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=635",
 		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
 		"channelName": "Zee Telugu HD",
+		"channelUrl": "https://zii.vishami3.repl.co/?c=0-9-zeetelugu",
+		"contentId": "zeetelugu_hd_channel"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=635",
+		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
+		"channelName": "Zee Telugu HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/940.ts",
 		"contentId": "zeetelugu_hd_channel"
 	},
@@ -295,6 +306,17 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
 		"channelLogo": "https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg",
 		"channelName": "Sun TV HD",
+		"channelUrl": "http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-MExjg3THpNHzWRDYXT2f78KVtzSdfYEKDb7cwhCeiElMJ7YhrD75a4B8sPUxZ4AV4kpAGoLv8o-bmvVDEHJk99P0?ext=.ts",
+		"contentId": "suntvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
+		"channelLogo": "https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg",
+		"channelName": "Sun TV HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/843.ts",
 		"contentId": "suntvhd"
 	},
@@ -1726,6 +1748,17 @@
 		"contentId": "starjalshahd"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=468",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h",
+		"channelName": "Star Jalsha",
+		"channelUrl": "http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8",
+		"contentId": "starjalsha"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Bengali",
 		"drm": false,
@@ -1799,6 +1832,17 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=248",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
 		"channelName": "Zee Yuva",
+		"channelUrl": "https://zii.vishami3.repl.co/?c=0-9-zeeyuva",
+		"contentId": "zeeyuva_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=248",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
+		"channelName": "Zee Yuva +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/915.ts",
 		"contentId": "zeeyuva_tv"
 	},
@@ -1818,6 +1862,17 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=515",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
 		"channelName": "Zee Talkies HD",
+		"channelUrl": "https://zii.vishami3.repl.co/?c=0-9-zeetalkies",
+		"contentId": "zeetalkies_hd_channel"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=515",
+		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
+		"channelName": "Zee Talkies HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/914.ts",
 		"contentId": "zeetalkies_hd_channel"
 	},
@@ -1884,6 +1939,17 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=546",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
 		"channelName": "Saam TV",
+		"channelUrl": "https://epg.pw/stream/789ae0fe06b1733aea707c432e5d820458aa95cb185cf6c615e8e1f7bcac70c6.m3u8",
+		"contentId": "saamtvmarathi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=546",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
+		"channelName": "Saam TV +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/921.ts",
 		"contentId": "saamtvmarathi"
 	},
@@ -1895,6 +1961,17 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=97",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
 		"channelName": "TV9 Marathi",
+		"channelUrl": "https://epg.pw/stream/aa25c3ef9e3688bc979d5f478923f60364084da350e469ddfd2567bbaf583558.m3u8",
+		"contentId": "tv9marathi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=97",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
+		"channelName": "TV9 Marathi +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/917.ts",
 		"contentId": "tv9marathi"
 	},
@@ -1936,6 +2013,17 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=694",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-129/list_clean/1170x658withlog1211675212.png",
 		"channelName": "Zee Keralam HD",
+		"channelUrl": "https://zii.vishami3.repl.co/?c=0-9-129",
+		"contentId": "zeekeralamhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=694",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-129/list_clean/1170x658withlog1211675212.png",
+		"channelName": "Zee Keralam HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/287.ts",
 		"contentId": "zeekeralamhd"
 	},
@@ -2386,6 +2474,17 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=254",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
 		"channelName": "Zee Bangla Cinema",
+		"channelUrl": "https://zii.vishami3.repl.co/?c=0-9-zeebanglacinema",
+		"contentId": "zeebanglacinema"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Bengali",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=254",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
+		"channelName": "Zee Bangla Cinema +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2287.ts",
 		"contentId": "zeebanglacinema"
 	},
@@ -2474,6 +2573,17 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=636",
 		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
 		"channelName": "Zee Cinemalu HD",
+		"channelUrl": "https://zii.vishami3.repl.co/?c=0-9-zeecinemalu",
+		"contentId": "zeecinemaluhd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Telugu",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=636",
+		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
+		"channelName": "Zee Cinemalu HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/941.ts",
 		"contentId": "zeecinemaluhd"
 	},
