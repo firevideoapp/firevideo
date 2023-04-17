@@ -1,6 +1,20 @@
 [
 	{
         "dateAdded": "16-04-2023-11:50:12 PM",
+        "provider": "hungamaplay",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "romancetraininginstitute_2023_hi",
+        "showName": "RTI: Romance Training Institute",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/rti_hunplay.jpg",
+        "showArt": "https://firevideo.vercel.app/images/rti_hunplay_land.jpg",
+        "keywords": "romance training institute web series, rti romance training institute, romance training institute hungama hindi web series, 2023 web series, hindi web series, comedy web series, arvind dhanu, palak singh, ajay padhye,",
+        "showGenre": "Comedy",
+        "showStory": "Dr. Kamdev Kumar is a Sex Therapist & Counselor. He opens the institute named \"Romance Training Institute\" where he solves people's problems related to sex and relationship. A girl named Mishti has been hired who brings her boyfriend as a trainer. Soon four couples comes with their sexual problems."
+    },
+	{
+        "dateAdded": "16-04-2023-11:50:12 PM",
         "provider": "primevideo",
         "tmdb": "222922",
         "adult": true,
