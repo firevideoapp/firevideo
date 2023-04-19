@@ -1,5 +1,35 @@
 [
 	{
+		"contentId": "jalwa_flizmovies",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://lvturbo.com/1p7tdwr9t9iz.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://lvturbo.com/9xz7iu8fqbx1.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://lvturbo.com/8lfityvw3zzs.html"
+					},
+					{
+						"epName": "Episode 04",
+						"epNo": 4,
+						"epUrl": "https://lvturbo.com/hjplg3nx9pfl.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "rikshawala_s1p2_ullu",
 		"seasons": [
 			{

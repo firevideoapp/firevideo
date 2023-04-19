@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "19-04-2023-04:00:12 PM",
+        "provider": "flizmovies",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "jalwa_flizmovies",
+        "showName": "Jalwa",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/jalwa_flizmovies.jpeg",
+        "showArt": "https://firevideo.vercel.app/images/jalwa_flizmovies_land.jpeg",
+        "keywords": "jalwa web series, jalwa flizmovies hindi web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, nancy, sneha,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Watch Nandita Datta in different avatar in every episodes of Jalwa. Uncut will also be the added attraction"
+    },
+	{
         "dateAdded": "18-04-2023-12:00:12 PM",
         "provider": "ullu",
         "tmdb": "",
