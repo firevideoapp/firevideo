@@ -1,5 +1,30 @@
 [
 	{
+		"contentId": "rainbasera_s1p2_ullu",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 07",
+						"epNo": 7,
+						"epUrl": "https://lvturbo.com/xfzxmt6s3tvg.html"
+					},
+					{
+						"epName": "Episode 08",
+						"epNo": 8,
+						"epUrl": "https://lvturbo.com/a6s20nh0ernp.html"
+					},
+					{
+						"epName": "Episode 09",
+						"epNo": 9,
+						"epUrl": "https://lvturbo.com/rmiokrnp09q2.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "jalwa_flizmovies",
 		"seasons": [
 			{
