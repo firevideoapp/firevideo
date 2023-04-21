@@ -9,39 +9,30 @@
             "videoUrl": ""
 	},
 	{
-            "contentId": "mrsundercover_2023_hi",
-            "image": "https://akamaividz2.zee5.com/image/upload/resources/0-0-1z5334341/list/1170x658withlogo2342a0fa34504f799849386824fd2a83.jpg",
-            "title": "Mrs Undercover",
-            "description": "ZEE5 Original Movie",
+            "contentId": "toothpari_2023_hi",
+            "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUJgKhEocmT74xhdgYXyYLjdquTovigY8bFQwX2DHSXyWM_fvMPNfS-s46u-Ftc0IDq81yE3QuB2A3soLZawLlTJuYfIognGxWqn.jpg?r=6a1",
+            "title": "Tooth Pari: When Love Bites",
+            "description": "Netflix Series",
+            "type": "Show",
+            "url": "",
+            "videoUrl": ""
+	},
+	{
+            "contentId": "shehzada_2023_hi",
+            "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/shehzada-et00312198-1676356974.jpg",
+            "title": "Shehzada",
+            "description": "Ala Vaikunthapurramuloo Hindi Remake",
             "type": "Movie",
             "url": "",
             "videoUrl": ""
 	},
 	{
-            "contentId": "gaslight_2023_hi",
-            "image": "https://img1.hotstarext.com/image/upload/f_auto,q_80,w_1280/sources/r1/cms/prod/4969/1494969-i-58a953c8f194",
-            "title": "Gaslight",
-            "description": "Hotstar Movie - Now Streaming",
+            "contentId": "selfiee_2023_hi",
+            "image": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7631/1507631-h-983a87df4bcd",
+            "title": "Selfiee",
+            "description": "Akshay and Emraan Clash",
             "type": "Movie",
             "url": "",
             "videoUrl": ""
 	},
-	{
-            "contentId": "nanidasara_2023_hi",
-            "image": "https://m.media-amazon.com/images/M/MV5BZmMxODMwMjMtYTQ2Yi00OGM3LTlmNmQtMmFjMGIyZDYxOWU1XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V_SX1280_.jpg",
-            "title": "Nani's Dasara",
-            "description": "Nani's High Voltage Performance",
-            "type": "Movie",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "bholaa_2023_hi",
-            "image": "https://m.media-amazon.com/images/M/MV5BOWY0Mjk0NjktNjYwYy00MDczLTljZmQtZmI1OWQxYzFhMTQ2XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V_SX1280_.jpg",
-            "title": "Bhola",
-            "description": "Hindi Remake of Kaithi",
-            "type": "Movie",
-            "url": "",
-            "videoUrl": ""
-	}
 ]
