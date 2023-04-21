@@ -1,5 +1,25 @@
 [
 	{
+		"contentId": "garmi_2023_hi",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 05",
+						"epNo": 1,
+						"epUrl": "https://lvturbo.com/bwvksfe03m6f.html"
+					},
+					{
+						"epName": "Episode 06 - 09",
+						"epNo": 6,
+						"epUrl": "https://lvturbo.com/ucvot9pp09yt.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "rainbasera_s1p3_ullu",
 		"seasons": [
 			{
