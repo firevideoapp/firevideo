@@ -9,28 +9,37 @@
             "videoUrl": ""
 	},
 	{
-            "contentId": "toothpari_2023_hi",
-            "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUJgKhEocmT74xhdgYXyYLjdquTovigY8bFQwX2DHSXyWM_fvMPNfS-s46u-Ftc0IDq81yE3QuB2A3soLZawLlTJuYfIognGxWqn.jpg?r=6a1",
-            "title": "Tooth Pari: When Love Bites",
-            "description": "Netflix Series",
+            "contentId": "citadel_2023_en",
+            "image": "https://m.media-amazon.com/images/S/pv-target-images/dfa539717409b2ec7800839cf0a0265a9376378eff070f3f60e765c9ea8f2c64._V_SX1280_.png",
+            "title": "Citadel",
+            "description": "Amazon Original",
             "type": "Show",
             "url": "",
             "videoUrl": ""
 	},
 	{
-            "contentId": "shehzada_2023_hi",
-            "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/shehzada-et00312198-1676356974.jpg",
-            "title": "Shehzada",
-            "description": "Ala Vaikunthapurramuloo Hindi Remake",
+            "contentId": "ved_2022_mr",
+            "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ved-et00343245-1672121623.jpg",
+            "title": "Ved",
+            "description": "In Marathi and Hindi",
             "type": "Movie",
             "url": "",
             "videoUrl": ""
 	},
 	{
-            "contentId": "selfiee_2023_hi",
-            "image": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7631/1507631-h-983a87df4bcd",
-            "title": "Selfiee",
-            "description": "Akshay and Emraan Clash",
+            "contentId": "uturn_2023_hi",
+            "image": "https://akamaividz2.zee5.com/image/upload/resources/0-0-1z5343289/list/1170x658withlogo94df58afcaa24eaca45b8678bb8212fb.jpg",
+            "title": "U Turn",
+            "description": "Remake of U Turn (Kannada)",
+            "type": "Movie",
+            "url": "",
+            "videoUrl": ""
+	},
+	{
+            "contentId": "dasara_2023_te",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmMxODMwMjMtYTQ2Yi00OGM3LTlmNmQtMmFjMGIyZDYxOWU1XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V_SX1280_.jpg",
+            "title": "Dasara",
+            "description": "Watch Nani's Super Performance",
             "type": "Movie",
             "url": "",
             "videoUrl": ""
