@@ -2540,7 +2540,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=260",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",
 		"channelName": "Zee Business",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-zeebusiness",
+		"channelUrl": "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8",
 		"contentId": "zeebusiness"
 	},
 	{
@@ -2694,7 +2694,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=259",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",
 		"channelName": "Zee News",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/832.ts",
+		"channelUrl": "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8",
 		"contentId": "zeenews_tv"
 	},
 	{
