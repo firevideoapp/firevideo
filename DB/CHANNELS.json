@@ -290,12 +290,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=496",
+		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7409/567409-h",
 		"channelName": "Star Vijay HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/846.ts",
+		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd",
 		"contentId": "starvijayhd"
 	},
 	{
@@ -334,34 +334,34 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=474",
+		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089",
 		"channelLogo": "https://sund-images.sunnxt.com/26569/1000x1500_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg",
 		"channelName": "Sun Life",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/847.ts",
+		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd",
 		"contentId": "sunlife"
 	},
 	{
 		"channelCat": "News",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=474",
+		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/5087",
 		"channelLogo": "https://sund-images.sunnxt.com/38926/1000x1500_SunNews_38926_d9234353-be56-4e69-8bbd-c3b15378e7cb.jpg",
 		"channelName": "Sun News",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/869.ts",
+		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd",
 		"contentId": "sunnews"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=608",
+		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311",
 		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",
 		"channelName": "Zee Tamil HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/887.ts",
+		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd",
 		"contentId": "zeetamilhd"
 	},
 	{
@@ -401,12 +401,12 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=380",
+		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088",
 		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
 		"channelName": "KTV HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/845.ts",
+		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd",
 		"contentId": "ktvhd"
 	},
 	{
@@ -779,12 +779,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=52",
+		"drmLicense": "https://aqfadtv.xyz/clearkey/dash-ck/linear/2611/",
 		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
 		"channelName": "Colors HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/801.ts",
+		"channelUrl": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd",
 		"contentId": "colorshd"
 	},
 	{
@@ -878,12 +878,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=692",
+		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",
 		"channelName": "Colors Tamil HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2083.ts",
+		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd",
 		"contentId": "colorstamilhd"
 	},
 	{
