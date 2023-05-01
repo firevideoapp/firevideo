@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "02-05-2023-12:30:12 AM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "desikissejaanchpadtaal_s1p1_ullu",
+        "showName": "Desi Kisse (Jaanch Padtaal) Part 1",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/644d480b1f6f490bbd951cc4",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/644d4806f1c4b80be034acaa",
+        "keywords": "desi kisse jaanch padtaal web series, desi kisse jaanch padtaal ullu hindi web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, mukti bose, samita paul, birendra singh, anish roshan,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Living in a small town, Kamla is an ambitious girl, who wants to explore all aspects of her sexuality. The problem arises when she unlearns that she has to go through a ritual, proving her virginity to her husband to live a prosperous married life. How will Kamla hide her promiscuity from her orthodox in-laws?"
+    },
+	{
         "dateAdded": "01-05-2023-06:30:12 PM",
         "provider": "jiocinema",
         "tmdb": "",
@@ -3426,11 +3440,11 @@
         "provider": "primevideo",
         "tmdb": "200861",
         "adult": false,
-        "contentId": "suzhalthevortex_hi",
-        "showName": "Suzhal - The Vortex (Hindi)",
-        "showLang": "Hindi",
-        "showImage": "https://movies4u.mom/wp-content/uploads/2022/06/Suzhal_The_Vortex_poster.jpg",
-        "showArt": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9e8c9c35003f21e09652386448f4446f3cb582b9decb1b569e3f6d57b56ffc9a._V_SX1080_.jpg",
+        "contentId": "suzhalthevortex_2022_ta",
+        "showName": "Suzhal - The Vortex",
+        "showLang": "Tamil, Hindi, Telugu, Malayalam, Kannada, English",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BMzc5YTZkMzUtMDhjZS00YTUwLTg3YWMtNThmZDliODQ3ZmNjXkEyXkFqcGdeQXVyMTMyODUxMzgz._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9e8c9c35003f21e09652386448f4446f3cb582b9decb1b569e3f6d57b56ffc9a._V_SX1920_.jpg",
 		"keywords": "suzhal prime video web series, prime video web series, hindi web series, bold web series,hot web series,",
         "showGenre": "Crime, Mystery",
         "showStory": "When a crime hits a small town in India. Set against the backdrop of an unique micro-festival, ancient myths collide with the troubling present as we are drawn into the eye of the storm."

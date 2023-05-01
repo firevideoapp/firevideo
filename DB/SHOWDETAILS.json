@@ -1,5 +1,30 @@
 [
 	{
+		"contentId": "desikissejaanchpadtaal_s1p1_ullu",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Part (Hindi)",
+						"epNo": 1,
+						"epUrl": "https://lvturbo.com/1cfmns63f632.html"
+					},
+					{
+						"epName": "Complete Part (Tamil)",
+						"epNo": 2,
+						"epUrl": "https://lvturbo.com/drebmk1qxo4x.html"
+					},
+					{
+						"epName": "Complete Part (Telugu)",
+						"epNo": 3,
+						"epUrl": "https://lvturbo.com/dhcimznudw9f.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "filmfare_2023",
 		"seasons": [
 			{
@@ -5646,19 +5671,49 @@
 		]
 	},
 	{
-		"contentId": "suzhalthevortex_hi",
+		"contentId": "suzhalthevortex_2022_ta",
 		"seasons": [
 			{
 				"Episodes": [
 					{
-						"epName": "Episode 01 - 04",
+						"epName": "Episode 01",
 						"epNo": 1,
-						"epUrl": "https://lvturbo.com/x3jamx1jd9lb.html"
+						"epUrl": "https://lvturbo.com/6nelq50l34mv.html"
 					},
 					{
-						"epName": "Episode 05 - 08",
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://lvturbo.com/eb6b8fab8jmw.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://lvturbo.com/0j27df9b283b.html"
+					},
+					{
+						"epName": "Episode 04",
+						"epNo": 4,
+						"epUrl": "https://lvturbo.com/axzh5e43tzxr.html"
+					},
+					{
+						"epName": "Episode 05",
 						"epNo": 5,
-						"epUrl": "https://lvturbo.com/lwt3wee79mkk.html"
+						"epUrl": "https://lvturbo.com/j76wnbq22f3r.html"
+					},
+					{
+						"epName": "Episode 06",
+						"epNo": 6,
+						"epUrl": "https://lvturbo.com/arc0bk4r13lw.html"
+					},
+					{
+						"epName": "Episode 07",
+						"epNo": 7,
+						"epUrl": "https://lvturbo.com/181ylw8varvn.html"
+					},
+					{
+						"epName": "Episode 08",
+						"epNo": 8,
+						"epUrl": "https://lvturbo.com/8jbyejrpvmcp.html"
 					}
 				],
 				"title": "Season 1"
