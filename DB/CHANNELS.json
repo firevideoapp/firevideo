@@ -301,12 +301,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
+		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310",
 		"channelLogo": "https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg",
 		"channelName": "Sun TV HD",
-		"channelUrl": "http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-MExjg3THpNHzWRDYXT2f78KVtzSdfYEKDb7cwhCeiElMJ7YhrD75a4B8sPUxZ4AV4kpAGoLv8o-bmvVDEHJk99P0?ext=.ts",
+		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd",
 		"contentId": "suntvhd"
 	},
 	{
