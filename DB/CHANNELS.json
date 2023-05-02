@@ -1810,7 +1810,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=501",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
 		"channelName": "Zee Marathi HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/913.ts",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/30bfd698af924d4abce147906278419c/index.m3u8",
 		"contentId": "zeemarathi_hd"
 	},
 		{
@@ -1862,7 +1862,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=515",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
 		"channelName": "Zee Talkies HD",
-		"channelUrl": "https://zii.vishami3.repl.co/?c=0-9-zeetalkies",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/92cec2c345644d68ad29dcb209923619/Zee_Talkies_HD/index.m3u8",
 		"contentId": "zeetalkies_hd_channel"
 	},
 	{
@@ -1928,7 +1928,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=261",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
 		"channelName": "Zee 24 Taas",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/916.ts",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/915deae3b9024babbe4e35748e296d34/index.m3u8",
 		"contentId": "zee24taas_tv"
 	},
 	{
@@ -2013,7 +2013,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=694",
 		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-129/list_clean/1170x658withlog1211675212.png",
 		"channelName": "Zee Keralam HD",
-		"channelUrl": "https://zii.vishami3.repl.co/?c=0-9-129",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/d9e79357d05745dc995e916b1e69f93d/Zee_Keralam_HD/index.m3u8",
 		"contentId": "zeekeralamhd"
 	},
 	{
@@ -2411,7 +2411,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=100",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",
 		"channelName": "Zee Action",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/821.ts",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/0eff84294c404cba82110513b979a2d7/Zee_Action/index.m3u8",
 		"contentId": "zeeaction"
 	},
 	{
@@ -2422,7 +2422,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=523",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",
 		"channelName": "Zee Anmol",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/813.ts",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8",
 		"contentId": "zeeanmol"
 	},
 	{
@@ -2433,7 +2433,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=64",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
 		"channelName": "Zee Anmol Cinema",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/820.ts",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/46a7f027efbf430d982259b5f19cef4c/Zee_Anmol_Cinema/index.m3u8",
 		"contentId": "zeeanmolcinema"
 	},
 	{
@@ -2444,7 +2444,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=522",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
 		"channelName": "Zee Bangla HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2283.ts",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/9616200b22e049a8947aae755487d289/index.m3u8",
 		"contentId": "zeebanglahd"
 	},
 	{
