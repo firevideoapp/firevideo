@@ -1,46 +1,19 @@
 [
 	{
-            "contentId": "ipl",
-            "image": "https://v3img.voot.com/resizeMedium,w_1280,h_720/v3Storage/assets/1%20-%20ipl-1679384033703.jpg",
-            "title": "TATA IPL 2023",
-            "description": "Watch Everyday LIVE",
+            "contentId": "",
+            "image": "https://images.news18.com/ibnlive/uploads/2021/08/telegram-163049415616x9.jpg",
+            "title": "MOVIES and Webseries Shut Down!!!",
+            "description": "Telegram: @firevideoofficial",
             "type": "",
             "url": "",
             "videoUrl": ""
 	},
 	{
-            "contentId": "citadel_2023_en",
-            "image": "https://m.media-amazon.com/images/S/pv-target-images/dfa539717409b2ec7800839cf0a0265a9376378eff070f3f60e765c9ea8f2c64._V_SX1280_.png",
-            "title": "Citadel",
-            "description": "Amazon Original",
-            "type": "Show",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "ved_2022_mr",
-            "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ved-et00343245-1672121623.jpg",
-            "title": "Ved",
-            "description": "In Marathi and Hindi",
-            "type": "Movie",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "uturn_2023_hi",
-            "image": "https://akamaividz2.zee5.com/image/upload/resources/0-0-1z5343289/list/1170x658withlogo94df58afcaa24eaca45b8678bb8212fb.jpg",
-            "title": "U Turn",
-            "description": "Remake of U Turn (Kannada)",
-            "type": "Movie",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "dasara_2023_te",
-            "image": "https://m.media-amazon.com/images/M/MV5BZmMxODMwMjMtYTQ2Yi00OGM3LTlmNmQtMmFjMGIyZDYxOWU1XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V_SX1280_.jpg",
-            "title": "Dasara",
-            "description": "Watch Nani's Super Performance",
-            "type": "Movie",
+            "contentId": "ipl",
+            "image": "https://v3img.voot.com/resizeMedium,w_1280,h_720/v3Storage/assets/1%20-%20ipl-1679384033703.jpg",
+            "title": "TATA IPL 2023",
+            "description": "Watch Everyday LIVE",
+            "type": "",
             "url": "",
             "videoUrl": ""
 	}
