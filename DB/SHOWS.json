@@ -3,7 +3,7 @@
         "dateAdded": "02-05-2023-12:30:12 AM",
         "provider": "",
         "tmdb": "",
-        "adult": true,
+        "adult": false,
         "contentId": "shutdown",
         "showName": "Shut Down",
         "showLang": "Not Needed",
