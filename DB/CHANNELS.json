@@ -2551,7 +2551,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=503",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
 		"channelName": "Zee Cinema HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/787.ts",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8",
 		"contentId": "zeecinemahd"
 	},
 	{
