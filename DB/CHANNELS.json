@@ -1,5 +1,137 @@
 [
 	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "HINDI",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Hin_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplhindi"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "ENGLISH",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplenglish"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Marathi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "MARATHI",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Mar_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplmar"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Tamil",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "TAMIL",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tam_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "ipltam"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Telugu",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "TELUGU",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "ipltel"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Kannada",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "KANNADA",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Kan_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplkan"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Malayalam",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "MALAYALAM",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Mal_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplmal"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Bengali",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "BENGALI",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Ben_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplben"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Gujarati",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "GUJARATI",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Guj_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplguj"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Gujarati",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "BHOJPURI",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Bhoj_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplbhoj"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Odia",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "ODIA",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Odia_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplodia"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Punjabi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"channelLogo": "https://www.jiocinema.com/sports/lsg-vs-csk/3739333",
+		"channelName": "PUNJABI",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Punj_HD_IDC_AND/Fallback/index.m3u8",
+		"contentId": "iplpunjabi"
+	},
+	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi",
 		"drm": false,
