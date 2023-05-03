@@ -444,12 +444,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
+		"drmLicense": "{\"keys\":[ {\"kty\":\"oct\",\"k\":\"WebJPU/kM1OzSnHrhxhaqg\",\"kid\":\"9BXBJKB8WVuXxDzJqW3tMA\"}]}",
 		"channelLogo": "https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg",
 		"channelName": "Sun TV HD +1",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/843.ts",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd",
 		"contentId": "suntvhd1"
 	},
 	{
