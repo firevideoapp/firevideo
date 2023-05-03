@@ -1,5 +1,25 @@
 [
 	{
+		"contentId": "nadaan_2023_primeplay",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 03",
+						"epNo": 1,
+						"epUrl": "https://lvturbo.com/z0jsqwbwgba0.html"
+					},
+					{
+						"epName": "Episode 04 - 07",
+						"epNo": 2,
+						"epUrl": "https://lvturbo.com/u8mgbd9wymgw.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "desikissejaanchpadtaal_s1p1_ullu",
 		"seasons": [
 			{
