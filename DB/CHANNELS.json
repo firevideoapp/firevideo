@@ -424,10 +424,10 @@
 		"channelLang": "Tamil",
 		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707",
+		"drmLicense": "{\"keys\":[ {\"kty\":\"oct\",\"k\":\"zZtGB09S+HT4+NpGeg8rwQ\",\"kid\":\"bCuwvQEZQNySDcDi2vf4GA\"}]}",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7409/567409-h",
 		"channelName": "Star Vijay HD",
-		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd",
+		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3562165.mpd",
 		"contentId": "starvijayhd"
 	},
 	{
