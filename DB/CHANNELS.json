@@ -400,34 +400,34 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=516",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"SaSP0x5J1zUje8cht81Y7w\",\"kid\":\"sunyHzaHXqe8XSguU//cIg\"}]}",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7418/567418-h",
 		"channelName": "Star Maa HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2168.ts",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd",
 		"contentId": "starmaahd"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Telugu",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=387",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"VVMKKaXlXoj9Or7UTXZ9KA\",\"kid\":\"nzps+7J0Ud2fKBZmyOYtgQ\"}]}",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7421/567421-h",
 		"channelName": "Star Maa Movies HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/934.ts",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd",
 		"contentId": "starmaamovieshd"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Telugu",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=388",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"kc/x+dFo9fkiB3VzKd0qPw\",\"kid\":\"305xkBlsXzi1Q85dRHswHw\"}]}",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7408/567408-h",
 		"channelName": "Star Maa Gold",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/935.ts",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd",
 		"contentId": "starmaagold"
 	},
 	{
@@ -510,13 +510,24 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311",
 		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",
 		"channelName": "Zee Tamil HD",
-		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/2898f6cf42a0438eb0d09f8eac959790/index.m3u8",
 		"contentId": "zeetamilhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",
+		"channelName": "Zee Tamil HD +1",
+		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd",
+		"contentId": "zeetamilhd1"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -525,9 +536,9 @@
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=257",
-		"channelLogo": "https://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",
 		"channelName": "Zee Tamil",
-		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=48032",
+		"channelUrl": "https://madplay.live/jiotv/app/live/628/null/index.m3u8",
 		"contentId": "zeetamil_tv"
 	},
 	{
@@ -536,9 +547,9 @@
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=797",
-		"channelLogo": "https://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png",
 		"channelName": "Zee Thirai",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2142.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/2256/null/index.m3u8",
 		"contentId": "zeethirai"
 	},
 	{
