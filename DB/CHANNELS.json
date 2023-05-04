@@ -566,7 +566,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"4MoO6duqwpQnU9kouSgkxQ\",\"kid\":\"upv+dQpWUU6cY8RW+tHkKA\"}]}",
 		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
