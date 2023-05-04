@@ -156,12 +156,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=823",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"GSL7seutSnug88d8Z7NPiQ\",\"kid\":\"VJvRNHwlXBWv+kTgYHqcBQ\"}]}",
 		"channelLogo": "https://sund-images.sunnxt.com/75117/640x360_917db336-23b6-408c-a836-54b1e5b91455.jpg",
 		"channelName": "Sun Bangla",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2290.ts",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Sun_Bangla_MOB/WDVLive/index.mpd",
 		"contentId": "sunbangla"
 	},
 	{
@@ -927,7 +927,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=896",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
 		"channelName": "Colors Bangla Cinema",
-		"channelUrl": "http://iam-ranapk.tk/VOOT/vot.php?id=Colors_Bangla_Cinema_voot_MOB",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1657/null/index.m3u8",
 		"contentId": "colorsbanglacinema"
 	},
 	{
@@ -949,7 +949,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=405",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
 		"channelName": "MTV Beats HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/786.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/753/null/index.m3u8",
 		"contentId": "mtvbeatshd"
 	},
 	{
@@ -960,7 +960,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=236",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",
 		"channelName": "MTV Beats",
-		"channelUrl": "https://72n5.short.gy/MTV_BTECH.m3u8",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1400/null/index.m3u8",
 		"contentId": "mtvbeatssd"
 	},
 	{
@@ -971,8 +971,19 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=236",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
 		"channelName": "MTV HD+",
-		"channelUrl": "https://72n5.short.gy/MTV+_BJTECH.m3u8",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1145/null/index.m3u8",
 		"contentId": "mtvhdplus"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://aqfadtv.xyz/clearkey/dash-ck/linear/2611/",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
+		"channelName": "Colors HD",
+		"channelUrl": "https://madplay.live/jiotv/app/live/144/null/index.m3u8",
+		"contentId": "colorshd"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -981,9 +992,9 @@
 		"drmType": "clearkey",
 		"drmLicense": "https://aqfadtv.xyz/clearkey/dash-ck/linear/2611/",
 		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
-		"channelName": "Colors HD",
+		"channelName": "Colors HD +1",
 		"channelUrl": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd",
-		"contentId": "colorshd"
+		"contentId": "colorshd1"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -993,7 +1004,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
 		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png",
 		"channelName": "Colors",
-		"channelUrl": "https://72n5.short.gy/COLORS_HD.m3u8",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1368/null/index.m3u8",
 		"contentId": "colorssd"
 	},
 	{
@@ -1004,7 +1015,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",
 		"channelName": "Rishtey",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/830.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/279/null/index.m3u8",
 		"contentId": "colorsrishtey"
 	},
 	{
@@ -1015,7 +1026,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
 		"channelLogo": "http://v3img.voot.com/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",
 		"channelName": "Colors Cineplex HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/803.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1477/null/index.m3u8",
 		"contentId": "colorscineplexhd"
 	},
 	{
@@ -1026,7 +1037,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
 		"channelName": "Colors Cineplex",
-		"channelUrl": "https://72n5.short.gy/COLORS_CINEPLEX_HD_BJTECH.m3u8",
+		"channelUrl": "https://madplay.live/jiotv/app/live/482/null/index.m3u8",
 		"contentId": "colorscineplexsd"
 	},
 	{
@@ -1037,7 +1048,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
 		"channelName": "Colors Cineplex Bollywood",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/800.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1763/null/index.m3u8",
 		"contentId": "colorscineplexbolly"
 	},
 	{
@@ -1048,7 +1059,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
 		"channelName": "Rishtey Cineplex",
-		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=14036",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1450/null/index.m3u8",
 		"contentId": "rishteycineplex"
 	},
 	{
@@ -1059,7 +1070,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=107",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
 		"channelName": "Colors Gujarati",
-		"channelUrl": "http://iam-ranapk.tk/VOOT/vot.php?id=Colors_Gujarati_voot_MOB",
+		"channelUrl": "https://madplay.live/jiotv/app/live/196/null/index.m3u8",
 		"contentId": "colorsgujarati"
 	},
 	{
@@ -1070,7 +1081,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=692",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
 		"channelName": "Colors Gujarati Cinema",
-		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=47942",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1324/null/index.m3u8",
 		"contentId": "colorsgujaraticinema"
 	},
 	{
@@ -1081,7 +1092,7 @@
 		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",
 		"channelName": "Colors Tamil HD",
-		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd",
+		"channelUrl": "https://madplay.live/jiotv/app/live/429/null/index.m3u8",
 		"contentId": "colorstamilhd"
 	},
 	{
@@ -1092,7 +1103,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=692",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png",
 		"channelName": "Colors Tamil",
-		"channelUrl": "http://iam-ranapk.tk/VOOT/vot.php?id=Colors_Tamil_voot_MOB",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1371/null/index.m3u8",
 		"contentId": "colorstamil"
 	},
 	{
@@ -1103,7 +1114,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=692",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada.png",
 		"channelName": "Colors Kannada",
-		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=47840",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1632/null/index.m3u8",
 		"contentId": "colorskannada"
 	},
 	{
@@ -1114,7 +1125,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=692",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",
 		"channelName": "Colors Oriya",
-		"channelUrl": "http://iam-ranapk.tk/VOOT/vot.php?id=Colors_Oriya_voot_MOB",
+		"channelUrl": "https://madplay.live/jiotv/app/live/198/null/index.m3u8",
 		"contentId": "colorsoriya"
 	},
 	{
@@ -1888,13 +1899,24 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=244",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"fTRuPQklz2gzsSlhzXTKgA\",\"kid\":\"u7w2pFx6XsSHjgTEN4U7CQ\"}]}",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310",
 		"channelName": "Star Bharat HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/780.ts",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd",
 		"contentId": "starbharathd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"86s9DyvPSvwJk0JJXdWL1Q\",\"kid\":\"Sz1NqJAvT3yuTHdPvfQgKQ\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
+		"channelName": "Star GOLD HD",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
+		"contentId": "stargoldhd"
 	},
 	{
 		"channelCat": "Movies",
@@ -1903,9 +1925,9 @@
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=245",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
-		"channelName": "Star GOLD HD",
+		"channelName": "Star GOLD HD +1",
 		"channelUrl": "http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test",
-		"contentId": "stargoldhd"
+		"contentId": "stargoldhd1"
 	},
 	{
 		"channelCat": "Movies",
@@ -1937,12 +1959,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=468",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"8fvgSbOPXzcqgRkkUVtXGg\",\"kid\":\"UuSQhPTnU0O5CD2wE8DUBA\"}]}",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h",
 		"channelName": "Star Jalsha HD",
-		"channelUrl": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/eiNpbn52KgPAQLVtJ2bWisZDbNqxcJxeVq3nzRU_ubbLAWRWJRGG_ENrLXdvrSSZ-2vEP-Bky6IRIPrP6bHy0A/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd",
 		"contentId": "starjalshahd"
 	},
 	{
@@ -1970,7 +1992,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"BiTNLoAjrsXatKgrICCq9w\",\"kid\":\"HL4pP9w4XayMDVArBPM45A\"}]}",
 		"channelLogo": "https://yt3.ggpht.com/ytc/AKedOLQrjMuRVX9DRXurDqT_E9bHnH7qn1anSlIM5rSlqAg=s900-c-k-c0x00ffffff-no-rj",
@@ -1981,23 +2003,23 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=551",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"R48SzfC1ADlLZhIBJKWRgQ\",\"kid\":\"Lskd73XwXbm7Op+Psv4NYQ\"}]}",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7407/567407-h",
 		"channelName": "Star Utsav",
-		"channelUrl": "https://delta31tatasky.akamaized.net/out/i/4101.mpd",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd",
 		"contentId": "starutsav"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=469",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"6bGHVKGZ1iGHQwCHvEjF+g\",\"kid\":\"ft4NcnUEU5a9O7ZUBwHL9Q\"}]}",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5868/595868-h",
 		"channelName": "Star Pravah HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/918.ts",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd",
 		"contentId": "starpravahhd"
 	},
 	{
