@@ -821,7 +821,7 @@
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "Hindi, English, Tamil",
+		"channelLang": "English, Tamil",
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=287",
@@ -832,13 +832,13 @@
 	},
 	{
 		"channelCat": "Infotainment",
-		"channelLang": "Hindi, English, Tamil",
+		"channelLang": "Hindi",
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=130",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet.png",
 		"channelName": "Animal Planet",
-		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd",
+		"channelUrl": "https://madplay.live/jiotv/app/live/566/null/index.m3u8",
 		"contentId": "animalplanetsd"
 	},
 	{
@@ -900,12 +900,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=305",
+		"drmLicense": "fae9f9c9394f544b8529461a76ed5cbc:cb5e719fbdd9daf79ddbca28a4a17185",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",
 		"channelName": "Colors Bangla HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2284.ts",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Bangla_HD_voot_MOB/output/index.mpd",
 		"contentId": "colorsbanglahd"
 	},
 	{
@@ -916,7 +916,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=26",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla.png",
 		"channelName": "Colors Bangla",
-		"channelUrl": "http://iam-ranapk.tk/VOOT/vot.php?id=Colors_Bangla_voot_MOB",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1369/null/index.m3u8",
 		"contentId": "colorsbanglasd"
 	},
 	{
