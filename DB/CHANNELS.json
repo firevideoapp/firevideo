@@ -287,11 +287,11 @@
 	},
 	{
 		"channelCat": "Devotional",
-		"channelLang": "Tamil",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
-		"channelName": "Aastha Tamil",
+		"channelLang": "Gujarati",
+		"channelLogo": "https://tmlogosave.s3.ap-south-1.amazonaws.com/5537724.jpeg",
+		"channelName": "Aastha Gujarati",
 		"channelUrl": "https://madplay.live/jiotv/app/live/1255/null/index.m3u8",
-		"contentId": "aasthatamil"
+		"contentId": "aasthagujarati"
 	},
 	{
 		"channelCat": "Devotional",
@@ -306,7 +306,7 @@
 		"channelLang": "Kannada",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png",
 		"channelName": "Aastha Kannada",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=Aastha_Kannada",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1256/null/index.m3u8",
 		"contentId": "aasthakannada"
 	},
 	{
@@ -339,7 +339,7 @@
 		"drmLicense": "",
 		"channelLogo": "https://sund-images.sunnxt.com/9027/1000x1500_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg",
 		"channelName": "Gemini Comedy",
-		"channelUrl": "",
+		"channelUrl": "https://google.com",
 		"contentId": "geminicomedy"
 	},
 	{
