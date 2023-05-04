@@ -1,5 +1,35 @@
 [
 	{
+		"contentId": "ooyokand_2023_moodx",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://lvturbo.com/iy0te1g6xspe.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://lvturbo.com/lnlno78g7uk0.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://lvturbo.com/phwbr2am7v5f.html"
+					},
+					{
+						"epName": "Episode 04",
+						"epNo": 4,
+						"epUrl": "https://lvturbo.com/wps2brcxa1pe.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "thetailor_2023_en",
 		"seasons": [
 			{
