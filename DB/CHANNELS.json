@@ -560,8 +560,19 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=708",
 		"channelLogo": "http://jayatvnetwork.com/upload/programme/thumb/Sonthangal_small.jpg",
 		"channelName": "Jaya TV HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/851.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/419/null/index.m3u8",
 		"contentId": "jayatvhd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Tamil",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"4MoO6duqwpQnU9kouSgkxQ\",\"kid\":\"upv+dQpWUU6cY8RW+tHkKA\"}]}",
+		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
+		"channelName": "KTV HD",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/KTV_HD_MOB/WDVLive/index.mpd",
+		"contentId": "ktvhd"
 	},
 	{
 		"channelCat": "Movies",
@@ -570,9 +581,9 @@
 		"drmType": "clearkey",
 		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088",
 		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
-		"channelName": "KTV HD",
+		"channelName": "KTV HD +1",
 		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd",
-		"contentId": "ktvhd"
+		"contentId": "ktvhd1"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -582,7 +593,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=439",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552",
 		"channelName": "Raj TV",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/854.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/707/null/index.m3u8",
 		"contentId": "rajtv"
 	},
 	{
@@ -593,7 +604,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=426",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635",
 		"channelName": "Raj Digital Plus",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/857.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/683/null/index.m3u8",
 		"contentId": "rajdigitalplus"
 	},
 	{
@@ -623,7 +634,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
-		"channelLogo": "https://yt3.ggpht.com/Ew1w2oIW1VXo0YSOLFgjSf9os3eqJRSWrn1rVwl010ukn6pshd1Kd1-O8970nKG9nCrmnxpj=s900-c-k-c0x00ffffff-no-rj",
+		"channelLogo": "https://firevideo.vercel.app/images/vaanavilplus.jpg",
 		"channelName": "Vaanavil Plus",
 		"channelUrl": "https://server.iptelevision.in/hls/vanaviltv.m3u8",
 		"contentId": "vaanavilplus"
@@ -644,8 +655,19 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=267",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
 		"channelName": "&Pictures HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/818.ts",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8",
 		"contentId": "andpictureshd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=267",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
+		"channelName": "&Pictures HD +1",
+		"channelUrl": "https://madplay.live/jiotv/app/live/185/null/index.m3u8",
+		"contentId": "andpictureshd1"
 	},
 	{
 		"channelCat": "Movies",
@@ -655,7 +677,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=148",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",
 		"channelName": "&Pictures",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-pictures",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1839/null/index.m3u8",
 		"contentId": "andpictures"
 	},
 	{
@@ -666,8 +688,19 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=40",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
 		"channelName": "&TV HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/782.ts",
+		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8",
 		"contentId": "andtvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=40",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
+		"channelName": "&TV HD +1",
+		"channelUrl": "https://madplay.live/jiotv/app/live/472/null/index.m3u8",
+		"contentId": "andtvhd1"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -677,7 +710,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=578",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",
 		"channelName": "&TV",
-		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd",
+		"channelUrl": "https://madplay.live/jiotv/app/live/2024/null/index.m3u8",
 		"contentId": "andtv"
 	},
 	{
@@ -685,7 +718,7 @@
 		"channelLang": "Punjabi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",
 		"channelName": "9X Tashan",
-		"channelUrl": "https://tv.googledrivelinks.com/autoq.php?c=9X_Tashan",
+		"channelUrl": "https://madplay.live/jiotv/app/live/732/null/index.m3u8",
 		"contentId": "9xtashan"
 	},
 	{
@@ -712,7 +745,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=958",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png",
 		"channelName": "ABP Sanjha",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-404",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1291/null/index.m3u8",
 		"contentId": "abpsanjha"
 	},
 	{
@@ -723,7 +756,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=102",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
 		"channelName": "ABP Ananda",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2285.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/672/null/index.m3u8",
 		"contentId": "abpbangla"
 	},
 	{
@@ -734,7 +767,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=73",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png",
 		"channelName": "ABP Asmita",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-403",
+		"channelUrl": "https://madplay.live/jiotv/app/live/641/null/index.m3u8",
 		"contentId": "abpgujrati"
 	},
 	{
@@ -745,7 +778,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=709",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png",
 		"channelName": "ABP Ganga",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-399",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1205/null/index.m3u8",
 		"contentId": "abpganga"
 	},
 	{
@@ -756,7 +789,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=177",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
 		"channelName": "ABP News",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/833.ts",
+		"channelUrl": "https://madplay.live/jiotv/app/live/177/null/index.m3u8",
 		"contentId": "abphindi"
 	},
 	{
@@ -794,7 +827,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=287",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",
 		"channelName": "Animal Planet HD World",
-		"channelUrl": "https://delta37tatasky.akamaized.net/out/i/5485492.mpd",
+		"channelUrl": "https://madplay.live/jiotv/app/live/286/null/index.m3u8",
 		"contentId": "animalplanethdworld"
 	},
 	{
@@ -815,9 +848,9 @@
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=532",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Asianet_News.png?raw=true",
-		"channelName": "AsianetNews",
+		"channelName": "Asianet News",
 		"oldUrl": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
-		"channelUrl": "https://delta33tatasky.akamaized.net/out/i/2496637.mpd",
+		"channelUrl": "https://madplay.live/jiotv/app/live/180/null/index.m3u8",
 		"contentId": "asianetnews_ml_tv"
 	},
 	{
@@ -828,7 +861,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=730",
 		"channelLogo": "https://www.medianews4u.com/wp-content/uploads/2019/05/20190530_183654.jpg",
 		"channelName": "B4U Kadak",
-		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1295/null/index.m3u8",
 		"contentId": "b4ukadak"
 	},
 	{
@@ -839,7 +872,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=9",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",
 		"channelName": "B4U Music",
-		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/3127385.mpd",
+		"channelUrl": "https://madplay.live/jiotv/app/live/183/null/index.m3u8",
 		"contentId": "b4umusic"
 	},
 	{
@@ -850,7 +883,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=7",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",
 		"channelName": "B4U Movies",
-		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=48125",
+		"channelUrl": "https://madplay.live/jiotv/app/live/182/null/index.m3u8",
 		"contentId": "b4umovies"
 	},
 	{
@@ -861,7 +894,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=729",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
 		"channelName": "B4U Bhojpuri",
-		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1296/null/index.m3u8",
 		"contentId": "b4ubhojpuri"
 	},
 	{
