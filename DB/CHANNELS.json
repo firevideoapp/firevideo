@@ -189,9 +189,9 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=823",
+		"drm": true,
+		"drmType": "widevine",
+		"drmLicense": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000935&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDYzNTgyNTE4IiwiaXNlIjp0cnVlLCJqdGkiOiI5NDUxNjk1MS01ZDMwLTQ5YjctYmU0Mi00NDhjNDcxYmJmNzMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjgzNDcyMzM2LCJuYW1lIjoiQW1vbCBWYWRuZXJlIiwiaWF0IjoxNjgzMzg1OTM2LCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxMzY4In1dLCJjc21vIjp7Im1hcyI6IjYiLCJkdCI6InRwbWEiLCJtYXNkIjoiMiJ9LCJpc3MiOiJ0cG1hX3dlYiJ9.ZIj7Iu3CIoESbgKyBx5SCbIcJIqAvJsMwnzpd_cfaOQ",
 		"channelLogo": "https://firevideo.vercel.app/images/goldmines.jpg",
 		"channelName": "Goldmines",
 		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/5025603.mpd",
