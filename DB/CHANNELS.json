@@ -1762,12 +1762,12 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=559",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"oDPOg1OnE7nc35NpbFtS4Q\",\"kid\":\"/PkBJwRfXtq8XZSpMvXG/g\"}]}",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
 		"channelName": "Sony SAB",
-		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=2958",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd",
 		"contentId": "sonysab_sd_tv"
 	},
 	{
