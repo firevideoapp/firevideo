@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "06-05-2023-11:30:12 AM",
+        "provider": "hs",
+        "tmdb": "224654",
+        "adult": true,
+        "contentId": "saasbahuaurflamingo_2023",
+        "showName": "Saas, Bahu Aur Flamingo",
+        "showLang": "Hindi, Tamil, Telugu, Malayalam, Kannada",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BOWEwZTYwMDgtNzE1OC00M2ViLTgwMDAtOTM5NzU5MGU4NjYyXkEyXkFqcGdeQXVyODE5NzE3OTE@._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/6195/1516195-h-3b4dc079b26c",
+        "keywords": "hotstar web series, action web series, drama web series, ",
+        "showGenre": "Action, Drama",
+        "showStory": "Explores the power dynamics between a \"unapologetically hardcore\" mother-in-law and strong and tenacious younger women."
+    },
+	{
         "dateAdded": "05-05-2023-12:50:12 PM",
         "provider": "primevideo",
         "tmdb": "114922",
