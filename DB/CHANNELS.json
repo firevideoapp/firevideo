@@ -1679,13 +1679,13 @@
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "Hindi, Tamil, Telugu, Marathi, Kannada, Malayalam",
+		"channelLang": "Hindi",
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
 		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/3/34/Pogo_Rebrand/revision/latest/scale-to-width-down/340?cb=20200918174257",
 		"channelName": "Pogo",
-		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/7418339.mpd",
+		"channelUrl": "https://madplay.live/jiotv/app/live/559/null/index.m3u8",
 		"contentId": "pogotv"
 	},
 	{
