@@ -1,3 +1,26 @@
+import { initializeApp } from 'firebase/app';
+import { getFirestore, collection, getDocs } from 'firebase/firestore/lite';
+import { getAnalytics } from "firebase/analytics";
+
+const firebaseConfig = {
+    apiKey: "AIzaSyBuWWsvM6Qaq-v8u0XNIRw7VgRx6mgsldU",
+    authDomain: "fir-b876b.firebaseapp.com",
+    databaseURL: "https://fir-b876b.firebaseio.com",
+    projectId: "fir-b876b",
+    storageBucket: "fir-b876b.appspot.com",
+    messagingSenderId: "308033461874",
+    appId: "1:308033461874:web:1b5041d1441256630b6ceb",
+    measurementId: "G-TE12Z4W4LB"
+};
+
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
+async function getIPLLinks(db) {
+    const citiesCol = collection(db, 'JIO_IPL');
+    const 
+}
+
 const api_url = "https://firevideo.vercel.app/DB/MOVIES.json";
 async function getFilesAndFolders() {
     const response = await fetch(api_url);
