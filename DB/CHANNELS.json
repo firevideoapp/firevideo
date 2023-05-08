@@ -139,7 +139,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/800px-Hungama_TV.svg.png",
 		"channelName": "Hungama",
-		"channelUrl": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/KUjJj3U_yfYLE8OF7Q36xYtumPP50OuyUFnVYT3EEh6pchGuwMhD2dA1z-XJu-Hi4aQd_Opw31-d3MaEr5FIqQ/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
+		"channelUrl": "https://extratvteam.ml.jiotv.shop/1/master.m3u8/?ts=aHR0cDovL2tyZXRhMTAzNi5kZWRpY2F0ZWRwYW5lbC5jb20vc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwP3R5cGU9aXR2JmFjdGlvbj1jcmVhdGVfbGluayZjbWQ9ZmZtcGVnJTIwaHR0cDovL2xvY2FsaG9zdC9jaC8yMjE3NSZKc0h0dHBSZXF1ZXN0PTEteG1s&replay=00:1A:79:69:02:CE",
 		"contentId": "hungamatv"
 	},
 	{
