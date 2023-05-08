@@ -144,7 +144,7 @@
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "Hindi",
+		"channelLang": "Hindi, English, Tamil, Telugu",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mZpwTtbC6n/gY/ZZGVLh0g\",\"kid\":\"ULbMSBf5U4yRbOLhGSKBYA\"}]}",
