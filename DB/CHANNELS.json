@@ -145,12 +145,12 @@
 	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=239",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mZpwTtbC6n/gY/ZZGVLh0g\",\"kid\":\"ULbMSBf5U4yRbOLhGSKBYA\"}]}",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png",
 		"channelName": "Super Hungama",
-		"channelUrl": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/No2CYANN2rmdSaBozDoA0C2nYfWQ33RFSDAvfgGcUCijPSn3ffoaD-yIL2yGvNz3wCtFZWJrqAcG6i9drPXFmg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd",
 		"contentId": "hungamasuper"
 	},
 	{
