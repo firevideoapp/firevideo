@@ -1160,13 +1160,13 @@
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "Hindi, English",
+		"channelLang": "English",
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=681",
 		"channelLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/04/17/Catoon_Network_HD%2B.jpg?itok=9yEUn7va",
 		"channelName": "Cartoon Network HD+",
-		"channelUrl": "https://delta43tatasky.akamaized.net/out/i/18056.mpd",
+		"channelUrl": "https://extratvteam.ml.jiotv.shop/1/master.m3u8/?ts=aHR0cDovL2tyZXRhMTAzNi5kZWRpY2F0ZWRwYW5lbC5jb20vc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwP3R5cGU9aXR2JmFjdGlvbj1jcmVhdGVfbGluayZjbWQ9ZmZtcGVnJTIwaHR0cDovL2xvY2FsaG9zdC9jaC8yMjE3OSZKc0h0dHBSZXF1ZXN0PTEteG1s&replay=00:1A:79:69:02:CE",
 		"contentId": "cartoonnetworkhd"
 	},
 	{
