@@ -971,7 +971,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=236",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",
 		"channelName": "MTV Beats",
-		"channelUrl": "https://madplay.live/jiotv/app/live/1400/null/index.m3u8",
+		"channelUrl": "https://gamingtechnical.xyz/AnZio/app/live/816/MTV_Beats_SD/index.m3u8",
 		"contentId": "mtvbeatssd"
 	},
 	{
@@ -1171,13 +1171,13 @@
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "Hindi, English, Tamil, Telugu",
+		"channelLang": "Hindi",
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=238",
 		"channelLogo": "https://e7.pngegg.com/pngimages/579/384/png-clipart-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle.png",
 		"channelName": "Cartoon Network",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd",
+		"channelUrl": "https://gamingtechnical.xyz/AnZio/app/live/816/Cartoon_Network_Hindi/index.m3u8",
 		"contentId": "cartoonnetworksd"
 	},
 	{
