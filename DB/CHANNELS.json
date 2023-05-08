@@ -199,6 +199,17 @@
 	},
 	{
 		"channelCat": "Sports",
+		"channelLang": "Tamil",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"C+Kqg5UGcTf6ukJSMHajyw\",\"kid\":\"8gHUnzF7SwmRj4n1YYx/6Q\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/7017/597017-h",
+		"channelName": "Star Sports Tamil HD",
+		"channelUrl": "https://extratvteam.ml.jiotv.shop/1/master.m3u8/?ts=aHR0cDovL2tyZXRhMTAzNi5kZWRpY2F0ZWRwYW5lbC5jb20vc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwP3R5cGU9aXR2JmFjdGlvbj1jcmVhdGVfbGluayZjbWQ9ZmZtcGVnJTIwaHR0cDovL2xvY2FsaG9zdC9jaC8xNTg4NyZKc0h0dHBSZXF1ZXN0PTEteG1s&replay=00:1A:79:69:02:CE",
+		"contentId": "starsportstamilhd"
+	},
+	{
+		"channelCat": "Sports",
 		"channelLang": "Hindi",
 		"drm": true,
 		"drmType": "clearkey",
