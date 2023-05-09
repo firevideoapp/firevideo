@@ -1,0 +1,65 @@
+{
+	"web": "https://www.jiocinema.com/sports/srh-vs-rr/3715217",
+	"streams": [
+		{
+			"id": "hin",
+			"title": "Hindi",
+			"value": "{\"id\":\"hi\",\"label\":\"Hindi\"}"
+		},
+		{
+			"id": "eng",
+			"title": "English",
+			"value": "{\"id\":\"en\",\"label\":\"English\"}"
+		},
+		{
+			"id": "tam",
+			"title": "Tamil",
+			"value": "{\"id\":\"ta\",\"label\":\"Tamil\"}"
+		},
+		{
+			"id": "tel",
+			"title": "Telugu",
+			"value": "{\"id\":\"te\",\"label\":\"Telugu\"}"
+		},
+		{
+			"id": "mar",
+			"title": "Marathi",
+			"value": "{\"id\":\"mr\",\"label\":\"Marathi\"}"
+		},
+		{
+			"id": "mal",
+			"title": "Malayalam",
+			"value": "{\"id\":\"ml\",\"label\":\"Malayalam\"}"
+		},
+		{
+			"id": "kan",
+			"title": "Kannada",
+			"value": "{\"id\":\"kn\",\"label\":\"Kannada\"}"
+		},
+		{
+			"id": "ben",
+			"title": "Bengali",
+			"value": "{\"id\":\"bn\",\"label\":\"Bengali\"}"
+		},
+		{
+			"id": "guj",
+			"title": "Gujarati",
+			"value": "{\"id\":\"gu\",\"label\":\"Gujarati\"}"
+		},
+		{
+			"id": "odia",
+			"title": "Odia",
+			"value": "{\"id\":\"or\",\"label\":\"Odia\"}"
+		},
+		{
+			"id": "bhoj",
+			"title": "Bhojpuri",
+			"value": "{\"id\":\"bho\",\"label\":\"Bhojpuri\"}"
+		},
+		{
+			"id": "pun",
+			"title": "Punjabi",
+			"value": "{\"id\":\"pa\",\"label\":\"Punjabi\"}"
+		}
+	]
+}

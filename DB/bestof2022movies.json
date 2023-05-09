@@ -1,0 +1,72 @@
+[
+	{
+		"contentId": "rrr_hi",
+		"movieName": "RRR",
+		"movieLang": "Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 1
+	},
+	{
+		"contentId": "thekashmirfiles",
+		"movieName": "The Kashmir Files",
+		"movieLang": "Hindi, Tamil, Telugu, Kannada",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BZjI0YmMzNDctZGFkZi00NmIyLTk5NWEtMTU1MGRmMDQwNWU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 2
+	},
+	{
+		"contentId": "kgf2",
+		"movieName": "KGF Chapter 2",
+		"movieLang": "Hindi, Kannada, Tamil, Telugu, Malayalam",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BNzY1NTRhZDgtZGQyMi00OTQ1LWFhMmMtMmJhMTZhMjZhNDQ0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 3
+	},
+	{
+		"contentId": "vikram_multi_2022",
+		"movieName": "Vikram",
+		"movieLang": "Tamil, Telugu, Hindi, Malayalam, Kannada",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BMmJhYTYxMGEtNjQ5NS00MWZiLWEwN2ItYjJmMWE2YTU1YWYxXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 4
+	},
+	{
+		"contentId": "kantara_hi",
+		"movieName": "Kantara",
+		"movieLang": "Kannada, Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BNjQyNGI5OWEtZjI1Yy00NDVjLWE4MTAtMzRlNzU1NzM2OGVkXkEyXkFqcGdeQXVyMTA1NzEzOTU1._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 5
+	},
+	{
+		"contentId": "rocketry_2022_hi",
+		"movieName": "Rocketry",
+		"movieLang": "Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BNTk2MjUxMjEtZDU5OC00MzYxLTkwMWYtMGM5YWQ0MWMyN2I1XkEyXkFqcGdeQXVyMTE0MzY0NjE1._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 6
+	},
+	{
+		"contentId": "major_te",
+		"movieName": "Major",
+		"movieLang": "Telugu",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BYWI2ODNjMDktZjcxNS00YThkLTljMDUtMGIyOTg3ZjY2MjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 7
+	},
+	{
+		"contentId": "sitaramam_te",
+		"movieName": "Sita Ramam",
+		"movieLang": "Telugu",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BYTIyMWJjMDMtMTI5ZS00MWZiLTg4NDktMDFhODU3NWMyOTk4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 8
+	},
+	{
+		"contentId": "ponniyinselvan_multi",
+		"movieName": "Ponniyin Selvan Part 1",
+		"movieLang": "Tamil, Telugu, Malayalam, Kannada",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BMTBjZWExOTEtMmI0ZS00ZjMyLTg2YTUtMzZkZjMwNzQ0ZTkwXkEyXkFqcGdeQXVyOTY5MTE4MjA@._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 9
+	},
+	{
+		"contentId": "777charlie_hi",
+		"movieName": "777 Charlie",
+		"movieLang": "Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BMDhhMjBlMWYtMDVlMy00ZjM3LTg3MTUtZDg0NjA0YzcxOGY4XkEyXkFqcGdeQXVyMTE0MzY0NjE1._UY500_UX667_RI_V_TTW_.jpg",
+		"index": 10
+	}
+]
