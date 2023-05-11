@@ -1,5 +1,35 @@
 [
 	{
+		"contentId": "palangtodgaonkigarmi3p1",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://lvturbo.com/4bd4jb19sig3.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://lvturbo.com/6f6ju77tjmcb.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://lvturbo.com/gipmgeidxyv4.html"
+					},
+					{
+						"epName": "Episode 04",
+						"epNo": 4,
+						"epUrl": "https://lvturbo.com/2itv360b7jk7.html"
+					}
+				],
+				"title": "Season 3"
+			}
+		]
+	},
+	{
 		"contentId": "spiritrangers_2022_en",
 		"seasons": [
 			{
