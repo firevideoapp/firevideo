@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "15-05-2023-09:10:12 PM",
+        "provider": "primeshots",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "naukri_2023_primeshots",
+        "showName": "Naukri",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/naukri_primeshots.png",
+        "showArt": "https://firevideo.vercel.app/images/naukri_primeshots_land.jpg",
+        "keywords": "naukri web series, naukri primeshots web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, shayna khatri, aliya naaz,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Naukri (2023) PrimeShots"
+    },
+	{
         "dateAdded": "15-05-2023-02:55:12 PM",
         "provider": "primevideo",
         "tmdb": "95558",
