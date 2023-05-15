@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "naukri_2023_primeshots",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://lvturbo.com/8frrb6nor971.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "thepower_2023_en",
 		"seasons": [
 			{
