@@ -1,5 +1,25 @@
 [
 	{
+		"contentId": "thepower_2023_en",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 04",
+						"epNo": 1,
+						"epUrl": "https://lvturbo.com/meohe1c8yt2d.html"
+					},
+					{
+						"epName": "Episode 05 - 09",
+						"epNo": 2,
+						"epUrl": "https://lvturbo.com/jzeib53avwb9.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "dahaad_2023_hi",
 		"seasons": [
 			{

@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "15-05-2023-02:55:12 PM",
+        "provider": "primevideo",
+        "tmdb": "95558",
+        "adult": true,
+        "contentId": "thepower_2023_en",
+        "showName": "The Power",
+        "showLang": "English, Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BZGQzODIyNWItZTVmZS00OWJjLThkOTItNjMzNmI4MDU1ZTkzXkEyXkFqcGdeQXVyMTQzNTA5MzYz._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://m.media-amazon.com/images/S/pv-target-images/4b5e9d04f88b959df87f70fb9551a6b37bae4e09b3c051bf6dd3aa9a892bcaaf._V_SX1920_.png",
+		"keywords": "2023 web series, Toni Collette, Halle Bush, Ria Zmitrowicz, Auli'i Cravalho, Toheeb Jimoh, John Leguizamo",
+        "showGenre": "Drama, Fantasy",
+        "showStory": "Based on the New York Times bestseller, The Power is our world, but for one twist of nature. Suddenly, women develop a mysterious new ability to electrocute at will, leading to an extraordinary global reversal of the power balance"
+    },
+	{
         "dateAdded": "12-05-2023-12:05:12 PM",
         "provider": "z5",
         "tmdb": "220977",
