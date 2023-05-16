@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "16-05-2023-07:30:12 PM",
+        "provider": "primeshots",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "naukri_2023_primeshots",
+        "showName": "Naukri",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/naukri_primeshots.png",
+        "showArt": "https://firevideo.vercel.app/images/naukri_primeshots_land.jpg",
+        "keywords": "naukri web series, naukri primeshots web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, shayna khatri, aliya naaz,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Naukri (2023) PrimeShots"
+    },
+	{
         "dateAdded": "16-05-2023-12:20:12 AM",
         "provider": "ullu",
         "tmdb": "",
@@ -12,20 +26,6 @@
         "keywords": "dream girl web series, dream girl ullu web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, pooja poddar, bharti jha, himanshu sharma, farhan ansari,",
         "showGenre": "Drama, Romance",
         "showStory": "Rani, a young, happy go lucky girl finds herself in the middle of an adventure, when she stumbles upon a magical book, where every night upon reading it, Rani fantasies about different person each night sexually. Rani, now finds herself on crossroads, wheather to destroy or cherish the book that fulfills her fantasies!"
-    },
-	{
-        "dateAdded": "15-05-2023-09:10:12 PM",
-        "provider": "primeshots",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "naukri_2023_primeshots",
-        "showName": "Naukri",
-        "showLang": "Hindi",
-        "showImage": "https://firevideo.vercel.app/images/naukri_primeshots.png",
-        "showArt": "https://firevideo.vercel.app/images/naukri_primeshots_land.jpg",
-        "keywords": "naukri web series, naukri primeshots web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, shayna khatri, aliya naaz,",
-        "showGenre": "Drama, Romance",
-        "showStory": "Naukri (2023) PrimeShots"
     },
 	{
         "dateAdded": "15-05-2023-02:55:12 PM",
