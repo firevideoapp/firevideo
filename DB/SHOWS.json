@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "17-05-2023-11:20:12 PM",
+        "provider": "primeshots",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "naukri_2023_primeshots",
+        "showName": "Naukri",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/naukri_primeshots.png",
+        "showArt": "https://firevideo.vercel.app/images/naukri_primeshots_land.jpg",
+        "keywords": "naukri web series, naukri primeshots web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, shayna khatri, aliya naaz,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Naukri (2023) PrimeShots"
+    },
+	{
         "dateAdded": "17-05-2023-12:00:12 AM",
         "provider": "moodx",
         "tmdb": "",
@@ -12,20 +26,6 @@
         "keywords": "dalal x web series, dalal x moodx web series, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, shakespeare, alkaraj,",
         "showGenre": "Drama, Romance",
         "showStory": "Dalal X (2023) MoodX Web Series."
-    },
-	{
-        "dateAdded": "16-05-2023-07:30:12 PM",
-        "provider": "primeshots",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "naukri_2023_primeshots",
-        "showName": "Naukri",
-        "showLang": "Hindi",
-        "showImage": "https://firevideo.vercel.app/images/naukri_primeshots.png",
-        "showArt": "https://firevideo.vercel.app/images/naukri_primeshots_land.jpg",
-        "keywords": "naukri web series, naukri primeshots web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, shayna khatri, aliya naaz,",
-        "showGenre": "Drama, Romance",
-        "showStory": "Naukri (2023) PrimeShots"
     },
 	{
         "dateAdded": "16-05-2023-12:20:12 AM",
