@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "20-05-2023-07:40:12 PM",
+        "provider": "jiocinema, paramountplus",
+        "tmdb": "153312",
+        "adult": false,
+        "contentId": "tulsaking_2023_en",
+        "showName": "Tulsa King",
+        "showLang": "English, Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BYmI3N2EzOWQtZjFiMi00MjgwLTgzN2UtZGI0ZGY1ZDQyOTRiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://v3img.voot.com/v3Storage/assets/tillsaking_show_ivy-hindi_16x9-carousel--1683918041793.jpg",
+        "keywords": "tulsa king paramount, tulsa king hindi, 2023 web series, ",
+        "showGenre": "Crime, Drama",
+        "showStory": "Following his release from prison, Mafia capo Dwight \"The General\" Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters."
+    },
+	{
         "dateAdded": "19-05-2023-05:00:12 PM",
         "provider": "primevideo",
         "tmdb": "114922",

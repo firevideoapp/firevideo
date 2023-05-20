@@ -1,5 +1,60 @@
 [
 	{
+		"contentId": "tulsaking_2023_en",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/n2sq00hnjkbf.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://sbrapid.com/tev73wyi507j.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://sbrapid.com/z7tftdmtbzyo.html"
+					},
+					{
+						"epName": "Episode 04",
+						"epNo": 4,
+						"epUrl": "https://sbrapid.com/lzk3zfa9j7ri.html"
+					},
+					{
+						"epName": "Episode 05",
+						"epNo": 5,
+						"epUrl": "https://sbrapid.com/dvkcayybblxt.html"
+					},
+					{
+						"epName": "Episode 06",
+						"epNo": 6,
+						"epUrl": "https://sbrapid.com/cb257f8kq2ti.html"
+					},
+					{
+						"epName": "Episode 07",
+						"epNo": 7,
+						"epUrl": "https://sbrapid.com/6ua9fb3fw3p6.html"
+					},
+					{
+						"epName": "Episode 08",
+						"epNo": 8,
+						"epUrl": "https://sbrapid.com/2cmttncfnaqd.html"
+					},
+					{
+						"epName": "Episode 09",
+						"epNo": 9,
+						"epUrl": "https://sbrapid.com/zd6y40ua4r72.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "palangtodgaonkigarmi3p2",
 		"seasons": [
 			{
