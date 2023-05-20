@@ -41,26 +41,6 @@
 					}
 				],
 				"title": "Season 2"
-			},
-			{
-				"Episodes": [
-					{
-						"epName": "Episode 01",
-						"epNo": 1,
-						"epUrl": "https://sbrapid.com/tm594ej39o71.html"
-					},
-					{
-						"epName": "Episode 02",
-						"epNo": 2,
-						"epUrl": "https://sbrapid.com/s56gwv6f61t5.html"
-					},
-					{
-						"epName": "Episode 03",
-						"epNo": 3,
-						"epUrl": "https://sbrapid.com/pd10jfbd56h0.html"
-					}
-				],
-				"title": "Season 1"
 			}
 		]
 	},
