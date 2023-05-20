@@ -1,5 +1,70 @@
 [
 	{
+		"contentId": "kulta_moodx",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/5mt7torbdbn3.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://sbrapid.com/tjbqdy4kv5bw.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://sbrapid.com/xioonrp7v8cp.html"
+					}
+				],
+				"title": "Season 3"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/tend6en0lpax.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://sbrapid.com/djimkc4b59mf.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://sbrapid.com/1r4gubq3p2ic.html"
+					}
+				],
+				"title": "Season 2"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/tm594ej39o71.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://sbrapid.com/s56gwv6f61t5.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://sbrapid.com/pd10jfbd56h0.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "kodaikanal_2023_ml",
 		"seasons": [
 			{
