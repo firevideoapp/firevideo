@@ -1,6 +1,21 @@
 [
   {
     "dateAdded": "19-05-2023-05:40:57 PM",
+    "provider": "",
+    "tmdb": "385687",
+    "adult": false,
+    "id": "fastx_2023_en",
+    "name": "Fast X",
+    "language": "English, Hindi",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._UY500_UX667_RI_V_TTW_.jpg",
+    "thumbnail": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/fast-x-et00122562-1683110461.jpg",
+    "genre": "Action, Adventure, Crime",
+    "keywords": "fast x, fast x hindi, vin diesel, Michelle Rodriguez, Tyrese Gibson, Ludacris, Jason Momoa, Nathalie Emmanuel, Jordana Brewster, John Cena, Jason Statham,",
+    "description": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+    "stream": "https://sbrapid.com/vzu109u37aha.html"
+  },
+  {
+    "dateAdded": "19-05-2023-05:40:57 PM",
     "provider": "nf",
     "tmdb": "946025",
     "adult": false,
