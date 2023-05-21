@@ -1,10 +1,10 @@
 [
 	{
-		"id": "hs",
-		"name": "Hotstar",
+		"id": "jiocinema",
+		"name": "JioCinema",
 		"adult": false,
-		"web": "https://hotstar.com",
-		"icon": "/hotstar_logo.jpg"
+		"web": "https://jiocinema.com",
+		"icon": "/jiocinema_logo.png"
 	},
 	{
 		"id": "primevideo",
@@ -14,11 +14,11 @@
 		"icon": "/primevideo_logo.jpg"
 	},
 	{
-		"id": "minitv",
-		"name": "Mini TV",
+		"id": "hs",
+		"name": "Hotstar",
 		"adult": false,
-		"web": "https://amazon.in/minitv/",
-		"icon": "/minitv_logo.jpg"
+		"web": "https://hotstar.com",
+		"icon": "/hotstar_logo.jpg"
 	},
 	{
 		"id": "ullu",
@@ -26,6 +26,20 @@
 		"adult": true,
 		"web": "https://ullu.app",
 		"icon": "/ullu_logo.jpg"
+	},
+	{
+		"id": "moodx",
+		"name": "MoodX",
+		"adult": true,
+		"web": "https://ullu.app",
+		"icon": "/moodx_logo.jpg"
+	},
+	{
+		"id": "minitv",
+		"name": "Mini TV",
+		"adult": false,
+		"web": "https://amazon.in/minitv/",
+		"icon": "/minitv_logo.jpg"
 	},
 	{
 		"id": "nf",
@@ -61,13 +75,6 @@
 		"adult": false,
 		"web": "https://sunnxt.com",
 		"icon": "/sunnxt_logo.png"
-	},
-	{
-		"id": "jiocinema",
-		"name": "JioCinema",
-		"adult": false,
-		"web": "https://jiocinema.com",
-		"icon": "/jiocinema_logo.png"
 	},
 	{
 		"id": "planetmarathi",
