@@ -18,6 +18,15 @@
             "videoUrl": ""
 	},
 	{
+            "contentId": "virupaksha_2023_te",
+            "image": "https://occ-0-2368-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUo4OFXkjEKKAZq4A3dbXr0qvHlEgEJfsNRMg8kACMb_4qdJRNiGQXIFx7Wwu1cLD6AWUCSdJ25AoRGZVmsrOeaG5MrN2UstGw5w.jpg?r=e46",
+            "title": "Virupaksha",
+            "description": "Original Telugu and Hindi Cleaned",
+            "type": "Movie",
+            "url": "",
+            "videoUrl": ""
+	},
+	{
             "contentId": "kaccheylimbu_2023_hi",
             "image": "https://v3img.voot.com/resizeMedium,w_1280,h_720/v3Storage/assets/kacche-nimbu-carousel-16x9-1684391030592.jpg",
             "title": "Kacchey Limbu",
@@ -40,15 +49,6 @@
             "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ved-et00343245-1672121623.jpg",
             "title": "Ved",
             "description": "In Marathi and Hindi",
-            "type": "Movie",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "uturn_2023_hi",
-            "image": "https://akamaividz2.zee5.com/image/upload/resources/0-0-1z5343289/list/1170x658withlogo94df58afcaa24eaca45b8678bb8212fb.jpg",
-            "title": "U Turn",
-            "description": "Remake of U Turn (Kannada)",
             "type": "Movie",
             "url": "",
             "videoUrl": ""
