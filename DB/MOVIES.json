@@ -1696,7 +1696,7 @@
   },
   {
     "dateAdded": "21-03-2023-09:35:57 PM",
-    "provider": "nf, primevideo, jiocinema, appletv",
+    "provider": "jiocinema, nf, primevideo, appletv",
     "tmdb": "126400",
     "adult": true,
     "id": "gangsofwasseypur2_2012_hi",
@@ -1711,7 +1711,7 @@
   },
   {
     "dateAdded": "21-03-2023-09:30:57 PM",
-    "provider": "nf, primevideo, jiocinema, epicon, voot, appletv",
+    "provider": "jiocinema, nf, primevideo, epicon, voot, appletv",
     "tmdb": "117691",
     "adult": true,
     "id": "gangsofwasseypur_hindi",
@@ -4904,7 +4904,7 @@
   },
   {
     "dateAdded": "13-11-2022-11:30:10 AM",
-    "provider": "voot",
+    "provider": "jiocinema",
     "tmdb": "240614",
     "adult": false,
     "id": "rrajkumar_hi_movie",
