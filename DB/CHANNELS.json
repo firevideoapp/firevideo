@@ -1,6 +1,72 @@
 [
 	{
 		"channelCat": "Sports",
+		"channelLang": "Tamil",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"C+Kqg5UGcTf6ukJSMHajyw\",\"kid\":\"8gHUnzF7SwmRj4n1YYx/6Q\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/7017/597017-h",
+		"channelName": "Star Sports Tamil HD",
+		"channelUrl": "https://extratvteam.ml.jiotv.shop/1/master.m3u8/?ts=aHR0cDovL2tyZXRhMTAzNi5kZWRpY2F0ZWRwYW5lbC5jb20vc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwP3R5cGU9aXR2JmFjdGlvbj1jcmVhdGVfbGluayZjbWQ9ZmZtcGVnJTIwaHR0cDovL2xvY2FsaG9zdC9jaC8xNTg4NyZKc0h0dHBSZXF1ZXN0PTEteG1s&replay=00:1A:79:69:02:CE",
+		"contentId": "starsportstamilhd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "widevine",
+		"drmLicense": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDYzNTgyNTE4IiwiaXNlIjp0cnVlLCJqdGkiOiJmM2U4ZGI2MS02YmJkLTRiMDgtODliMC1hNWViMDgwYTJmYmUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjg0OTM0MzQ3LCJuYW1lIjoiQW1vbCBWYWRuZXJlIiwiaWF0IjoxNjg0ODQ3OTQ3LCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMzg0In1dLCJjc21vIjp7Im1hcyI6IjYiLCJkdCI6InRwbWEiLCJtYXNkIjoiMiJ9LCJpc3MiOiJ0cG1hX3dlYiJ9.U0MfNKbBm5SfhmbNHCVdmze7fYnp1CHfDlFQHVZ-BFc",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
+		"channelName": "Star Sports 1 Hindi HD",
+		"channelUrl": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
+		"contentId": "starsports1hindihd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zk+ci04xkEhXCJw3hYwsKg\",\"kid\":\"SY80+aH+SuOrGZAwkGdaGw\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7430/567430-h",
+		"channelName": "Star Sports 1 HD",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/7136433.mpd",
+		"contentId": "starsports1hd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"irftTo7bNtDGHziHeh4AAQ\",\"kid\":\"7yT9UZcVSCuLj0QkK8jXIA\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h",
+		"channelName": "Star Sports 2 HD",
+		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/2285199.mpd",
+		"contentId": "starsports2hd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"AGc3kP+XbOEb0tNwGqhHmw\",\"kid\":\"6+K/gWMMT1WxPOLV3lAafg\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h",
+		"channelName": "Star Sports Select 1 HD",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/4779611.mpd",
+		"contentId": "starsportsselect1hd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"FdfWW+sm8HW+TsW2LY6fpQ\",\"kid\":\"sR3SW2KRWYaLd9XLTN2BKQ\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h",
+		"channelName": "Star Sports Select 2 HD",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd",
+		"contentId": "starsportsselect2hd"
+	},
+	{
+		"channelCat": "Sports",
 		"channelLang": "Hindi",
 		"drm": false,
 		"drmType": "clearkey",
@@ -196,72 +262,6 @@
 		"channelName": "Goldmines",
 		"channelUrl": "https://extratvteam.ml.jiotv.shop/1/master.m3u8/?ts=aHR0cDovL2tyZXRhMTAzNi5kZWRpY2F0ZWRwYW5lbC5jb20vc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwP3R5cGU9aXR2JmFjdGlvbj1jcmVhdGVfbGluayZjbWQ9ZmZtcGVnJTIwaHR0cDovL2xvY2FsaG9zdC9jaC8xNDgzNSZKc0h0dHBSZXF1ZXN0PTEteG1s&replay=00:1A:79:69:02:CE",
 		"contentId": "goldminestv"
-	},
-	{
-		"channelCat": "Sports",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"C+Kqg5UGcTf6ukJSMHajyw\",\"kid\":\"8gHUnzF7SwmRj4n1YYx/6Q\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/7017/597017-h",
-		"channelName": "Star Sports Tamil HD",
-		"channelUrl": "https://extratvteam.ml.jiotv.shop/1/master.m3u8/?ts=aHR0cDovL2tyZXRhMTAzNi5kZWRpY2F0ZWRwYW5lbC5jb20vc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwP3R5cGU9aXR2JmFjdGlvbj1jcmVhdGVfbGluayZjbWQ9ZmZtcGVnJTIwaHR0cDovL2xvY2FsaG9zdC9jaC8xNTg4NyZKc0h0dHBSZXF1ZXN0PTEteG1s&replay=00:1A:79:69:02:CE",
-		"contentId": "starsportstamilhd"
-	},
-	{
-		"channelCat": "Sports",
-		"channelLang": "Hindi",
-		"drm": true,
-		"drmType": "widevine",
-		"drmLicense": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDYzNTgyNTE4IiwiaXNlIjp0cnVlLCJqdGkiOiJmM2U4ZGI2MS02YmJkLTRiMDgtODliMC1hNWViMDgwYTJmYmUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjg0OTM0MzQ3LCJuYW1lIjoiQW1vbCBWYWRuZXJlIiwiaWF0IjoxNjg0ODQ3OTQ3LCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMzg0In1dLCJjc21vIjp7Im1hcyI6IjYiLCJkdCI6InRwbWEiLCJtYXNkIjoiMiJ9LCJpc3MiOiJ0cG1hX3dlYiJ9.U0MfNKbBm5SfhmbNHCVdmze7fYnp1CHfDlFQHVZ-BFc",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
-		"channelName": "Star Sports 1 Hindi HD",
-		"channelUrl": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
-		"contentId": "starsports1hindihd"
-	},
-	{
-		"channelCat": "Sports",
-		"channelLang": "English",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zk+ci04xkEhXCJw3hYwsKg\",\"kid\":\"SY80+aH+SuOrGZAwkGdaGw\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7430/567430-h",
-		"channelName": "Star Sports 1 HD",
-		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/7136433.mpd",
-		"contentId": "starsports1hd"
-	},
-	{
-		"channelCat": "Sports",
-		"channelLang": "English",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"irftTo7bNtDGHziHeh4AAQ\",\"kid\":\"7yT9UZcVSCuLj0QkK8jXIA\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h",
-		"channelName": "Star Sports 2 HD",
-		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/2285199.mpd",
-		"contentId": "starsports2hd"
-	},
-	{
-		"channelCat": "Sports",
-		"channelLang": "English",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"AGc3kP+XbOEb0tNwGqhHmw\",\"kid\":\"6+K/gWMMT1WxPOLV3lAafg\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h",
-		"channelName": "Star Sports Select 1 HD",
-		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/4779611.mpd",
-		"contentId": "starsportsselect1hd"
-	},
-	{
-		"channelCat": "Sports",
-		"channelLang": "English",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"FdfWW+sm8HW+TsW2LY6fpQ\",\"kid\":\"sR3SW2KRWYaLd9XLTN2BKQ\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h",
-		"channelName": "Star Sports Select 2 HD",
-		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd",
-		"contentId": "starsportsselect2hd"
 	},
 	{
 		"channelCat": "Devotional",
