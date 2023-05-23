@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "harami_2023_primeshots",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/8yzxwrbtwz2j.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "charmsukhflat69_ullu",
 		"seasons": [
 			{
@@ -268,6 +283,11 @@
 						"epName": "Episode 02",
 						"epNo": 2,
 						"epUrl": "https://lvturbo.com/twsx1nujsv7i.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://sbrapid.com/tdprkzsoul2y.html"
 					}
 				],
 				"title": "Season 1"
