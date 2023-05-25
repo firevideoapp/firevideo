@@ -1,5 +1,25 @@
 [
 	{
+		"contentId": "crackdown_2020_jio",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/e5ejtwda4vkd.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://sbrapid.com/eczpvcqeexd2.html"
+					}
+				],
+				"title": "Season 2"
+			}
+		]
+	},
+	{
 		"contentId": "ipl23eliminator",
 		"seasons": [
 			{
