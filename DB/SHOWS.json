@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "25-05-2023-08:00:12 AM",
+        "provider": "jiocinema",
+        "tmdb": "",
+        "adult": false,
+        "contentId": "ipl23eliminator",
+        "showName": "Qualifier 1: GT vs CSK",
+        "showLang": "Hindi, English",
+        "showImage": "https://firevideo.vercel.app/images/eliminator_lsgvsmi_23.jpg",
+        "showArt": "https://v3img.voot.com/resizeMedium,w_1920,h_1080/jioimage/newcpp/646e518caf8289f872846d65/646e518caf8289f872846d65_1684951445741_aa.jpg?imformat=chrome",
+        "keywords": "ipl 2023, tata ipl 2023, ",
+        "showGenre": "Sports",
+        "showStory": "TATA IPL 2023 Eliminator Match Highlights"
+    },
+	{
         "dateAdded": "24-05-2023-05:10:54 PM",
         "provider": "ullu",
         "tmdb": "",

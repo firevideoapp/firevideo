@@ -1,5 +1,25 @@
 [
 	{
+		"contentId": "ipl23eliminator",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Hindi",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/m6van58z8l5f.html"
+					},
+					{
+						"epName": "English",
+						"epNo": 2,
+						"epUrl": "https://sbrapid.com/hr5eo4kv5inw.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "ipl23qualifier1",
 		"seasons": [
 			{
