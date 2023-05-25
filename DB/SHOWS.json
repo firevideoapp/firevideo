@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "25-05-2023-10:20:12 PM",
+        "provider": "voovi",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "pyaaridharudhar_voovi",
+        "showName": "Pyaar Idhar Udhar",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/pyaaridharudhar_voovi.png",
+        "showArt": "https://firevideo.vercel.app/images/pyaaridharudhar_voovi_land.jpeg",
+        "keywords": "pyaar idhar udhar web series, pyaar idhar udhar voovi web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Pyaar Idhar Udhar Voovi Originals Web Series"
+    },
+	{
         "dateAdded": "25-05-2023-07:20:12 PM",
         "provider": "ullu",
         "tmdb": "",
