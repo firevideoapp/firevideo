@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "khalish_ullu",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Trailer",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/9177v91ecb2q.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "crackdown_2020_jio",
 		"seasons": [
 			{
