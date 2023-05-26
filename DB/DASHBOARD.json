@@ -27,6 +27,15 @@
             "videoUrl": ""
 	},
 	{
+            "contentId": "dasara_2023_te",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmMxODMwMjMtYTQ2Yi00OGM3LTlmNmQtMmFjMGIyZDYxOWU1XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V_SX1280_.jpg",
+            "title": "Dasara",
+            "description": "Watch Nani's Super Performance",
+            "type": "Movie",
+            "url": "",
+            "videoUrl": ""
+	}
+	{
             "contentId": "thekeralastory_2023",
             "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/the-kerala-story-et00343918-1683025350.jpg",
             "title": "The Kerala Story",
@@ -53,13 +62,4 @@
             "url": "",
             "videoUrl": ""
 	},
-	{
-            "contentId": "dasara_2023_te",
-            "image": "https://m.media-amazon.com/images/M/MV5BZmMxODMwMjMtYTQ2Yi00OGM3LTlmNmQtMmFjMGIyZDYxOWU1XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V_SX1280_.jpg",
-            "title": "Dasara",
-            "description": "Watch Nani's Super Performance",
-            "type": "Movie",
-            "url": "",
-            "videoUrl": ""
-	}
 ]
