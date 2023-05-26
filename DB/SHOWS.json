@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "26-05-2023-06:20:12 PM",
+        "provider": "hs",
+        "tmdb": "89080",
+        "adult": true,
+        "contentId": "cityofdreams_hi",
+        "showName": "City of Dreams",
+        "showLang": "Hindi",
+        "showImage": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/8866/1528866-v-a3f1e7437289",
+        "showArt": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/8868/1528868-i-56fe6093c152",
+        "showGenre": "Crime, Mystery, Thriller",
+        "showStory": "Following the death of Ashish, the promised heir to the Gaikwad political legacy, it is Ameya Rao Gaikwad's rebel daughter Poornima who's at the helm of affairs as the interim chief minister of Maharashtra."
+    },
+	{
         "dateAdded": "26-05-2023-04:50:12 PM",
         "provider": "primevideo",
         "tmdb": "114922",
@@ -5493,19 +5506,6 @@
         "showArt": "https://github.com/Gaurav-V7/FireVideo/raw/main/Swarajyarjsoham%20thumb.jpg",
         "showGenre": "Historical",
         "showStory": ""
-    },
-    {
-        "dateAdded": "12-08-2021-12:12:12 PM",
-        "provider": "hs",
-        "tmdb": "",
-        "adult": false,
-        "contentId": "cityofdreamshindi",
-        "showName": "City of Dreams",
-        "showLang": "Hindi",
-        "showImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Hbme6_rYd6B10Frl8lhyeZJuJHNnMNcFrg&usqp=CAU",
-        "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnxF0rUz6BuEuDcKd_1Vs6ga_762UrJ6afaQ&usqp=CAU",
-        "showGenre": "Mystery",
-        "showStory": "Multiple lives intersect after an assassination attempt on Mumbai's most polarising political figure.A single stone thrown in a seemingly placid lake sets off a series of ripples that affect everyone and hurt many. 'City of Dreams' is the story of the feud within the Gaikwad family, which erupts after an assassination attempt on a polarizing political figure. Blurring the lines between moral and immoral, in a struggle for power forms the core of this transfixing narrative."
     },
     {
         "dateAdded": "11-08-2021-12:12:12 PM",
