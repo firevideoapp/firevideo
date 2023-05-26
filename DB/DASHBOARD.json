@@ -1,10 +1,28 @@
 [
 	{
             "contentId": "ipl",
-            "image": "https://v3img.voot.com/resizeHigh,w_1280,h_720/v3Storage/assets/lsg_vs_mi_eliminator_carousel_tray-1684930818245.jpg?imformat=chrome",
-            "title": "Eliminator: LSG vs MI",
+            "image": "https://v3img.voot.com/resizeHigh,w_1280,h_720/v3Storage/assets/gt_vs_mi_qualifier_2_carousel_final-1685102360924.jpg?imformat=chrome",
+            "title": "Qualifier 2: GT vs MI",
             "description": "Tap on IPL Button Below or Live TV Section",
             "type": "",
+            "url": "",
+            "videoUrl": ""
+	},
+	{
+            "contentId": "cityofdreams_hi",
+            "image": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/8868/1528868-i-56fe6093c152",
+            "title": "City of Dreams Season 3",
+            "description": "New Season - Hotstar Specials",
+            "type": "Show",
+            "url": "",
+            "videoUrl": ""
+	},
+	{
+            "contentId": "bhediya_hi",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDdjYTFiZGEtYmU5MC00MzY2LTg3NDEtY2JkZTgzOGE2YzA0XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V_SX1280_.jpg",
+            "title": "Bhediya",
+            "description": "World Digital Premiere",
+            "type": "Movie",
             "url": "",
             "videoUrl": ""
 	},
@@ -27,29 +45,11 @@
             "videoUrl": ""
 	},
 	{
-            "contentId": "kaccheylimbu_2023_hi",
-            "image": "https://v3img.voot.com/resizeMedium,w_1280,h_720/v3Storage/assets/kacche-nimbu-carousel-16x9-1684391030592.jpg",
-            "title": "Kacchey Limbu",
-            "description": "Exclusive World Premiere",
-            "type": "Movie",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
             "contentId": "citadel_2023_en",
             "image": "https://m.media-amazon.com/images/S/pv-target-images/dfa539717409b2ec7800839cf0a0265a9376378eff070f3f60e765c9ea8f2c64._V_SX1280_.png",
             "title": "Citadel",
             "description": "Amazon Original",
             "type": "Show",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "ved_2022_mr",
-            "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ved-et00343245-1672121623.jpg",
-            "title": "Ved",
-            "description": "In Marathi and Hindi",
-            "type": "Movie",
             "url": "",
             "videoUrl": ""
 	},
