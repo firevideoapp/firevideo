@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "27-05-2023-06:00:12 AM",
+        "provider": "jiocinema",
+        "tmdb": "",
+        "adult": false,
+        "contentId": "ipl23qualifier2",
+        "showName": "Qualifier 2: GT vs MI",
+        "showLang": "Hindi, English",
+        "showImage": "https://firevideo.vercel.app/images/qualifier2_gtvsmi_23.jpg",
+        "showArt": "https://v3img.voot.com/resizeHigh,w_1920,h_1080/jioimage/newcpp/6470fda38dc6bbe60d2f99c6/6470fda38dc6bbe60d2f99c6_1685126579213_aa.jpg?imformat=chrome",
+        "keywords": "ipl 2023, tata ipl 2023,",
+        "showGenre": "Sports",
+        "showStory": "TATA IPL 2023 Qualifier 2 Match Highlights"
+    },
+	{
         "dateAdded": "26-05-2023-06:20:12 PM",
         "provider": "hs",
         "tmdb": "89080",
