@@ -1,6 +1,6 @@
 [
   {
-    "dateAdded": "25-05-2023-11:45:51 PM",
+    "dateAdded": "27-05-2023-07:00:51 AM",
     "provider": "primeshots",
     "tmdb": "",
     "adult": true,
@@ -13,6 +13,21 @@
     "keywords": "surprise movie, surprise primeshots,",
     "description": "Surprise Primeshots Movie",
     "stream": "https://sbrapid.com/dbfg7npl84mc.html"
+  },
+  {
+    "dateAdded": "27-05-2023-06:50:51 AM",
+    "provider": "primeshots",
+    "tmdb": "",
+    "adult": true,
+    "id": "tapatap_primeshots",
+    "name": "Tapa Tap",
+    "language": "Hindi",
+    "banner": "https://firevideo.vercel.app/images/tapatap_primeshots.jpeg",
+    "thumbnail": "https://firevideo.vercel.app/images/tapatap_primeshots_land.png",
+    "genre": "Drama, Romance",
+    "keywords": "tapa tap movie, tapa tap primeshots,",
+    "description": "Tapa Tap Primeshots Movie",
+    "stream": "https://sbrapid.com/plod40farxop.html"
   },
   {
     "dateAdded": "25-05-2023-11:40:51 PM",
