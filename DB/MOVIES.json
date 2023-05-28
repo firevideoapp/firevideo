@@ -1,5 +1,24 @@
 [
   {
+      "dateAdded":"28-05-2023-11:40:00 AM",
+      "provider":"primevideo",
+      "tmdb":"814268",
+      "adult":false,
+      "id":"welldonebaby_mr_movie",
+      "name":"Well Done Baby",
+      "language":"Marathi",
+      "banner":"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9b34eae6fdb1901413ec3fc11610726026ccaee428ae064ea177f6d743485493._UY500_UX667_RI_V_TTW_.jpg",
+      "thumbnail":"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/efaa53b4cb1de1a0180aab8cae84c7de683be7141122a291b216ced92dae5c34._VX1920_.jpg",
+      "genre":"Drama",
+      "description":"Well Done Baby is about how a modern young couple of today fails to find purpose in their relationship till destiny decides to give them one.",
+      "stream":"https://sbrapid.com/z45ue4fu8zqs.html",
+      "downloadUrl":"",
+      "drmLicense":"",
+      "sdServer":"",
+      "hdServer":"",
+      "fhdServer":""
+   },
+  {
     "dateAdded": "28-05-2023-11:30:51 AM",
     "provider": "appletv",
     "tmdb": "263828",
@@ -59,6 +78,26 @@
     "description": "Tapa Tap Primeshots Movie",
     "stream": "https://sbrapid.com/plod40farxop.html"
   },
+  {
+      "dateAdded": "27-05-2023-06:40:51 AM",
+      "provider":"nf",
+      "tmdb":"655459",
+      "adult":false,
+      "id":"jaimummydi_hi_movie",
+      "name":"Jai Mummy Di",
+      "language":"Hindi",
+      "banner":"https://m.media-amazon.com/images/M/MV5BMmI3NWRkYjgtNzVmYy00ZmY5LWExN2YtOWE0YTFlYWI4OTFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "thumbnail":"https://occ-0-2368-2164.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQaaArqWRx1B5wbhfzVk5M4I0g3FvWNEziseUOXT0qwH4aiYZ-IPuetRl4tGg3RzEyp7-WGKvwRzdcNh4xErdkzL4r6wX8TYOyq7.jpg?r=453",
+      "genre":"Comedy, Drama, Romance",
+	  "keywords": "jai mummy di, 2020 hindi movies, sunny singh nijjar, sonnalli seygall, supriya pathak, sharat saxena, nushrratt bharuccha,",
+      "description":"A lovestruck couple decides to take their relationship to the next level and get married. However, they hit a bumpy road when they learn that their mothers do not like each other.",
+      "stream":"https://sbrapid.com/lpw0349g2zgy.html",
+      "downloadUrl":"",
+      "drmLicense":"",
+      "sdServer":"",
+      "hdServer":"",
+      "fhdServer":""
+   },
   {
     "dateAdded": "27-05-2023-07:40:51 PM",
     "provider": "",
