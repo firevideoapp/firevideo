@@ -1,9 +1,24 @@
 [
   {
+    "dateAdded": "28-05-2023-11:30:51 AM",
+    "provider": "appletv",
+    "tmdb": "263828",
+    "adult": false,
+    "id": "youngistaan_2014_hi",
+    "name": "Youngistaan",
+    "language": "Hindi",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNDMwMTE2MjctZGJiZS00YTE2LTkzMzgtMjk1MTUxMjRhZTU0XkEyXkFqcGdeQXVyODE5NzE3OTE@._UY500_UX667_RI_V_TTW_.jpg",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/484047fc391384e6936e5616d268b1f8813db6fff46052df81a192cd3199222d._VX1920_.jpg",
+    "genre": "Drama, Romance",
+    "keywords": "youngistaan, 2014 hindi movie, boman irani, jacky bhagnani, neha sharma, brijendra kala,",
+    "description": "Follow the highs and lows in the life of Abhimanyu who is forced to join Indian politics after his father, the Prime Minister of India, suddenly passes away.",
+    "stream": "https://sbrapid.com/dmtkgedmzwg3.html"
+  },
+  {
     "dateAdded": "27-05-2023-11:00:51 PM",
     "provider": "",
     "tmdb": "866440",
-    "adult": true,
+    "adult": false,
     "id": "2018movie_2023_ml",
     "name": "2018: The Movie",
     "language": "Malayalam, Hindi",
