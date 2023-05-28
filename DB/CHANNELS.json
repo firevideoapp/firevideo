@@ -2039,7 +2039,7 @@
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=501",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",
 		"channelName": "Zee Marathi",
 		"channelUrl": "https://highrisk.select/jiotv/app/live/445/jio_tv/index.m3u8",
 		"contentId": "zeemarathisd"
