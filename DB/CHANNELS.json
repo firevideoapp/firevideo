@@ -14,11 +14,11 @@
 		"channelCat": "Sports",
 		"channelLang": "Hindi",
 		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"C+Kqg5UGcTf6ukJSMHajyw\",\"kid\":\"8gHUnzF7SwmRj4n1YYx/6Q\"}]}",
+		"drmType": "widevine",
+		"drmLicense": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDYzNTgyNTE4IiwiaXNlIjp0cnVlLCJqdGkiOiI0YTE3NmI2OC05NWY2LTRiN2YtYWEzOS0wM2VkMmQwYmE0MDgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjg1NDU2Nzk4LCJuYW1lIjoiQW1vbCBWYWRuZXJlIiwiaWF0IjoxNjg1MzcwMzk4LCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMzg0In1dLCJjc21vIjp7Im1hcyI6IjYiLCJkdCI6InRwbWEiLCJtYXNkIjoiMiJ9LCJpc3MiOiJ0cG1hX3dlYiJ9.NEWlRcLK2HjWWCpKnxGAIcxYnJ-NPNGOCg3dBDif0jE",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
 		"channelName": "Star Sports 1 Hindi HD",
-		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
+		"channelUrl": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
 		"contentId": "starsports1hindihd"
 	},
 	{
