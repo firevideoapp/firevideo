@@ -1,5 +1,30 @@
 [
 	{
+		"contentId": "ipl23final",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Hindi",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/swnyasuyd7kl.html"
+					},
+					{
+						"epName": "English",
+						"epNo": 2,
+						"epUrl": "https://sbrapid.com/1ru25veg1e8e.html"
+					},
+					{
+						"epName": "CSK Trophy Celebration",
+						"epNo": 3,
+						"epUrl": "https://sbrapid.com/azxwtr4yq2bg.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "meresapnokirani_woworgs",
 		"seasons": [
 			{
