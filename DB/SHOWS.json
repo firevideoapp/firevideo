@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "31-05-2023-03:30:12 PM",
+        "provider": "jiocinema",
+        "tmdb": "",
+        "adult": false,
+        "contentId": "asur_hi_show",
+        "showName": "Asur",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BZWJiMDZmNTAtZDg5YS00NDgyLThkMzctYTczZjllNzU0YWY5XkEyXkFqcGdeQXVyMTAwMDI3ODEw._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://v3img.voot.com/kimg/kimg/2a981881bec543eea2433261a50cc6ec_1280X720.jpg",
+        "showGenre": "Crime, Drama, Mystery",
+        "showStory": "A unique crime thriller that pits two opposing worlds against each other. The less explored, intricate world of forensic science and the deep mysticism of ancient Indian Mythology."
+    },
+	{
         "dateAdded": "30-05-2023-09:30:12 AM",
         "provider": "ullu",
         "tmdb": "",
@@ -5785,19 +5798,6 @@
         "showArt": "https://akamaividz2.zee5.com/image/upload/w_1280,h_720,c_scale,f_webp,q_auto:eco/resources/0-6-3284/list/1170x658withlog_1011398358.jpg",
         "showGenre": "Crime, Comedy, Adult",
         "showStory": "When Mr. Kapoor of Sunflower society is found dead, the cops arrive and interrogate the neighbours. In a society full of quirky characters, who must have killed Kapoor and why?"
-    },
-    {
-        "dateAdded": "09-06-2021-12:00:00 PM",
-        "provider": "voot",
-        "tmdb": "",
-        "adult": false,
-        "contentId": "asur_hi_show",
-        "showName": "Asur",
-        "showLang": "Hindi",
-        "showImage": "https://m.media-amazon.com/images/M/MV5BZWJiMDZmNTAtZDg5YS00NDgyLThkMzctYTczZjllNzU0YWY5XkEyXkFqcGdeQXVyMTAwMDI3ODEw._V1_.jpg",
-        "showArt": "https://i.ytimg.com/vi/LDirQBvwx7g/maxresdefault.jpg",
-        "showGenre": "Thriller",
-        "showStory": "A unique crime thriller that pits two opposing worlds against each other. The less explored, intricate world of forensic science and the deep mysticism of ancient Indian Mythology."
     },
     {
         "dateAdded": "09-06-2021-09:51:16 AM",
