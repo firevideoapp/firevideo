@@ -1,5 +1,14 @@
 [
 	{
+            "contentId": "mumbaikar_2023_hi",
+            "image": "https://occ-0-2368-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUo4OFXkjEKKAZq4A3dbXr0qvHlEgEJfsNRMg8kACMb_4qdJRNiGQXIFx7Wwu1cLD6AWUCSdJ25AoRGZVmsrOeaG5MrN2UstGw5w.jpg?r=e46",
+            "title": "Mumbaikar",
+            "description": "Exclusive World Premiere",
+            "type": "Movie",
+            "url": "https://sbrapid.com/i71dop3q5hpl.html",
+            "videoUrl": ""
+	},
+	{
             "contentId": "asur_hi_show",
             "image": "https://v3img.voot.com/resizeHigh,w_1280,h_720/v3Storage/assets/asur-2_launch-16x9-1685553119881.jpg?imformat=chrome",
             "title": "Asur Season 2",
@@ -33,15 +42,6 @@
             "description": "World Digital Premiere",
             "type": "Movie",
             "url": "https://sbrapid.com/bllhc3jg97n6.html",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "virupaksha_2023_te",
-            "image": "https://occ-0-2368-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUo4OFXkjEKKAZq4A3dbXr0qvHlEgEJfsNRMg8kACMb_4qdJRNiGQXIFx7Wwu1cLD6AWUCSdJ25AoRGZVmsrOeaG5MrN2UstGw5w.jpg?r=e46",
-            "title": "Virupaksha",
-            "description": "Original Telugu and Hindi Cleaned",
-            "type": "Movie",
-            "url": "https://sbrapid.com/zdatqvear8ez.html",
             "videoUrl": ""
 	},
 	{
