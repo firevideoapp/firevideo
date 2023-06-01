@@ -322,6 +322,17 @@
 	},
 	{
 		"channelCat": "Entertainment",
+		"channelLang": "Kannada, Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"u4ABi/Xvw1a9set0z6RJ0g\",\"kid\":\"B8vhvfP9VB2mENMB7u7Kiw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Sri_Sankara_Kannada.jpeg/revision/latest/scale-to-width-down/250?cb=20191227124657",
+		"channelName": "Sri Sankara TV",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd",
+		"contentId": "srisankarakannada"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
 		"drm": true,
 		"drmType": "clearkey",
@@ -2464,22 +2475,22 @@
 		"channelLang": "Kannada",
 		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"bXBwNtiBxSFEWqCqNZvD7Q\",\"kid\":\"kggkU7CKXhesd7rw6M30PA\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowugg_YyY_CA4wNDMXPR_2J23caL1kpoq8g&usqp=CAU",
-		"channelName": "Kasthuri TV",
-		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_314/output/manifest.mpd",
-		"contentId": "kasthuritv"
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zzG/0IIaw7gq+Q0dQgcnvg\",\"kid\":\"RQt3B3I5QtGKLQ9gs4JQ+g\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",
+		"channelName": "Colors Super",
+		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2109512.mpd",
+		"contentId": "colorssuper"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Kannada",
 		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"u4ABi/Xvw1a9set0z6RJ0g\",\"kid\":\"B8vhvfP9VB2mENMB7u7Kiw\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Sri_Sankara_Kannada.jpeg/revision/latest/scale-to-width-down/250?cb=20191227124657",
-		"channelName": "Sri Sankara TV",
-		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd",
-		"contentId": "srisankarakannada"
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"bXBwNtiBxSFEWqCqNZvD7Q\",\"kid\":\"kggkU7CKXhesd7rw6M30PA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowugg_YyY_CA4wNDMXPR_2J23caL1kpoq8g&usqp=CAU",
+		"channelName": "Kasthuri TV",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_314/output/manifest.mpd",
+		"contentId": "kasthuritv"
 	},
 	{
 		"channelCat": "Music",
@@ -2491,17 +2502,6 @@
 		"channelName": "Public Music",
 		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd",
 		"contentId": "publicmusic_kannada"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Kannada",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zzG/0IIaw7gq+Q0dQgcnvg\",\"kid\":\"RQt3B3I5QtGKLQ9gs4JQ+g\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",
-		"channelName": "Colors Super",
-		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2109512.mpd",
-		"contentId": "colorssuper"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -2520,7 +2520,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"G/cQhnE92HIjihhlumSK6w\",\"kid\":\"FgIquP7sSDW6p0higloeBg\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-241/channel_list/1170x658withlog_1692640342.png",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-241/list_clean/1170x658withlog1713831291.png",
 		"channelName": "Zee Picchar",
 		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/2721311.mpd",
 		"contentId": "zeepicchar"
