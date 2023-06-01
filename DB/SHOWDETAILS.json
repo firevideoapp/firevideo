@@ -11770,6 +11770,21 @@
 			{
 				"Episodes": [
 					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/9jpgse05eddr.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://sbrapid.com/k8tzqlr1djl4.html"
+					}
+				],
+				"title": "Season 2"
+			},
+			{
+				"Episodes": [
+					{
 						"epName": "Complete Season",
 						"epNo": 1,
 						"epUrl": "https://sbrapid.com/36hgnwstnjd5.html"
