@@ -1,5 +1,14 @@
 [
 	{
+            "contentId": "asur_hi_show",
+            "image": "https://v3img.voot.com/resizeHigh,w_1280,h_720/v3Storage/assets/asur-2_launch-16x9-1685553119881.jpg?imformat=chrome",
+            "title": "Asur Season 2",
+            "description": "New Episodes Daily",
+            "type": "Show",
+            "url": "",
+            "videoUrl": ""
+	},
+	{
             "contentId": "ipl23final",
             "image": "https://v3img.voot.com/resizeMedium,w_1280,h_720/v3Storage/assets/csk_lift_tray-1685400863531.jpg?imformat=chrome",
             "title": "Final: CSK vs GT",
@@ -24,15 +33,6 @@
             "description": "World Digital Premiere",
             "type": "Movie",
             "url": "https://sbrapid.com/bllhc3jg97n6.html",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "dasara_2023_te",
-            "image": "https://m.media-amazon.com/images/M/MV5BZmMxODMwMjMtYTQ2Yi00OGM3LTlmNmQtMmFjMGIyZDYxOWU1XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V_SX1280_.jpg",
-            "title": "Dasara",
-            "description": "Watch Nani's Super Performance",
-            "type": "Movie",
-            "url": "https://sbrapid.com/cvuxyiy07m0l.html",
             "videoUrl": ""
 	},
 	{
