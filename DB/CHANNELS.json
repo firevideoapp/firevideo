@@ -255,9 +255,9 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "widevine",
-		"drmLicense": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000935&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDYzNTgyNTE4IiwiaXNlIjp0cnVlLCJqdGkiOiI5NDUxNjk1MS01ZDMwLTQ5YjctYmU0Mi00NDhjNDcxYmJmNzMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjgzNDcyMzM2LCJuYW1lIjoiQW1vbCBWYWRuZXJlIiwiaWF0IjoxNjgzMzg1OTM2LCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxMzY4In1dLCJjc21vIjp7Im1hcyI6IjYiLCJkdCI6InRwbWEiLCJtYXNkIjoiMiJ9LCJpc3MiOiJ0cG1hX3dlYiJ9.ZIj7Iu3CIoESbgKyBx5SCbIcJIqAvJsMwnzpd_cfaOQ",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"NxYeYlvq0sCd7gIfAWvXTg\",\"kid\":\"Z4Pu2QQSSR6JFOr9VpGUkg\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://firevideo.vercel.app/images/goldmines.jpg",
 		"channelName": "Goldmines",
 		"channelUrl": "https://extratvteam.ml.jiotv.shop/1/master.m3u8/?ts=aHR0cDovL2tyZXRhMTAzNi5kZWRpY2F0ZWRwYW5lbC5jb20vc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwP3R5cGU9aXR2JmFjdGlvbj1jcmVhdGVfbGluayZjbWQ9ZmZtcGVnJTIwaHR0cDovL2xvY2FsaG9zdC9jaC8xNDgzNSZKc0h0dHBSZXF1ZXN0PTEteG1s&replay=00:1A:79:69:02:CE",
