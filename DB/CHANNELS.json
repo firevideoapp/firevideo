@@ -2069,7 +2069,7 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
-		"drm": true,
+		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=248",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
@@ -2106,6 +2106,17 @@
 		"channelName": "Zee Talkies HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/914.ts",
 		"contentId": "zeetalkieshd1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"JKLPaZ5GERPNuLnx9NCGYg\",\"kid\":\"wmqeMYGpUR6zprw1Le5wJw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png",
+		"channelName": "Zee Talkies",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd",
+		"contentId": "zeetalkiessd"
 	},
 	{
 		"channelCat": "Movies",
