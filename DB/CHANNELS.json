@@ -772,17 +772,6 @@
 	},
 	{
 		"channelCat": "News",
-		"channelLang": "Bengali",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=102",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
-		"channelName": "ABP Ananda",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/672/jio_tv/index.m3u8",
-		"contentId": "abpbangla"
-	},
-	{
-		"channelCat": "News",
 		"channelLang": "Gujarati",
 		"drm": false,
 		"drmType": "clearkey",
@@ -918,39 +907,6 @@
 		"channelName": "B4U Bhojpuri",
 		"channelUrl": "https://highrisk.select/jiotv/app/live/1296/jio_tv/index.m3u8",
 		"contentId": "b4ubhojpuri"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Bengali",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "fae9f9c9394f544b8529461a76ed5cbc:cb5e719fbdd9daf79ddbca28a4a17185",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",
-		"channelName": "Colors Bangla HD",
-		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Bangla_HD_voot_MOB/output/index.mpd",
-		"contentId": "colorsbanglahd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Bengali",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=26",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla.png",
-		"channelName": "Colors Bangla",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1369/jio_tv/index.m3u8",
-		"contentId": "colorsbanglasd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Bengali",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=896",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
-		"channelName": "Colors Bangla Cinema",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1657/jio_tv/index.m3u8",
-		"contentId": "colorsbanglacinema"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1201,17 +1157,6 @@
 		"channelName": "DD Punjabi",
 		"channelUrl": "https://delta32tatasky.akamaized.net/out/i/1739529.mpd",
 		"contentId": "ddpunjabi"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Bengali",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=314",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",
-		"channelName": "DD Bangla",
-		"channelUrl": "https://delta2tatasky.akamaized.net/out/i/4450742.mpd",
-		"contentId": "ddbangla"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -1553,17 +1498,6 @@
 	},
 	{
 		"channelCat": "News",
-		"channelLang": "Bengali",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=23",
-		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bFlW2c3t1uR6BpIcPTdMvrFenJngtyenCA&usqp=CAU",
-		"channelName": "News18Bangla",
-		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3141844.mpd",
-		"contentId": "news18bangla"
-	},
-	{
-		"channelCat": "News",
 		"channelLang": "Gujarati",
 		"drm": false,
 		"drmType": "clearkey",
@@ -1682,17 +1616,6 @@
 	},
 	{
 		"channelCat": "Music",
-		"channelLang": "Bengali",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=215",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",
-		"channelName": "Sangeet Bangla",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2288.ts",
-		"contentId": "sangeetbangla"
-	},
-	{
-		"channelCat": "Music",
 		"channelLang": "Bhojpuri",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",
 		"channelName": "Sangeet Bhojpuri",
@@ -1747,14 +1670,6 @@
 		"channelName": "Sony SAB HD",
 		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD",
 		"contentId": "sonysab_hd_tv"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Bengali",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
-		"channelName": "Sony Aath",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
-		"contentId": "sonyaath_bn_channel"
 	},
 	{
 		"channelCat": "Movies",
@@ -1903,39 +1818,6 @@
 		"channelName": "Star GOLD Select HD",
 		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=48108",
 		"contentId": "stargoldselecthd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Bengali",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"8fvgSbOPXzcqgRkkUVtXGg\",\"kid\":\"UuSQhPTnU0O5CD2wE8DUBA\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h",
-		"channelName": "Star Jalsha HD",
-		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd",
-		"contentId": "starjalshahd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Bengali",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=468",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h",
-		"channelName": "Star Jalsha",
-		"channelUrl": "http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8",
-		"contentId": "starjalsha"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Bengali",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=537",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7404/567404-h",
-		"channelName": "Star Jalsha Movies HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2282.ts",
-		"contentId": "starjalshamovieshd"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -2675,17 +2557,6 @@
 	},
 	{
 		"channelCat": "News",
-		"channelLang": "Bengali",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=873",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png",
-		"channelName": "TV9 Bangla",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1735/jio_tv/index.m3u8",
-		"contentId": "tv9bangla"
-	},
-	{
-		"channelCat": "News",
 		"channelLang": "Gujarati",
 		"drm": false,
 		"drmType": "clearkey",
@@ -2772,12 +2643,34 @@
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=522",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mEaRO6pU+Dn48ZfqB79oZQ\",\"kid\":\"nNu4foPGUleK2UEyLdCqLw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",
+		"channelName": "Colors Bangla HD",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd",
+		"contentId": "colorsbanglahd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"rZQtaMNUKGG0Fe3xdj/wSQ\",\"kid\":\"GkbeJiLnWOahDTLBn5t+HQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla.png",
+		"channelName": "Colors Bangla",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd",
+		"contentId": "colorsbanglasd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"jvvEggZ7HbljmJOZnzU3Rg\",\"kid\":\"RrAo60DMXpSm/pfh8JbKmQ\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
 		"channelName": "Zee Bangla HD",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1977/jio_tv/index.m3u8",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_834/output/manifest.mpd",
 		"contentId": "zeebanglahd"
 	},
 	{
@@ -2789,25 +2682,88 @@
 		"contentId": "zeebangla"
 	},
 	{
-		"channelCat": "News",
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"8fvgSbOPXzcqgRkkUVtXGg\",\"kid\":\"UuSQhPTnU0O5CD2wE8DUBA\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h",
+		"channelName": "Star Jalsha HD",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd",
+		"contentId": "starjalshahd"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Bengali",
 		"drm": false,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=258",
-		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_431/LANDSCAPE_43/OrhmAikO.png",
-		"channelName": "Zee 24 Ghanta",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/464/jio_tv/index.m3u8",
-		"contentId": "zee24ghanta"
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=468",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h",
+		"channelName": "Star Jalsha",
+		"channelUrl": "http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8",
+		"contentId": "starjalsha"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+		"channelName": "Sony Aath",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
+		"contentId": "sonyaath_bn_channel"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"qqdSfK//3z8jc5DO7lPMVw\",\"kid\":\"zmxjCBuUQp6hmCLHCb3pMg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+		"channelName": "Sony Aath +1",
+		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/4326683.mpd",
+		"contentId": "sonyaath1"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"UKkygtkAUESnvm2aj+gFoA\",\"kid\":\"9gEqwt8fSIWQIDeHgqDW0w\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-267-j5j8x17s-v1/imageContent-267-j5j8x17s-m2.png",
+		"channelName": "Aakash Aath",
+		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/2284258.mpd",
+		"contentId": "aakashaath"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"U6P8aw+p4aq1vQYB2wBjuQ\",\"kid\":\"J8cvNwr6Wtmuo/Cr60mNKQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png",
+		"channelName": "Enterr10 Bangla",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/manifest.mpd",
+		"contentId": "enter10bangla"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"udY6BK8JjQ8M50rJClEYig\",\"kid\":\"JbNNbpEoVHezykCXArp1IA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png",
+		"channelName": "Ruposhi Bangla",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_284/output/manifest.mpd",
+		"contentId": "ruposhibangla"
 	},
 	{
 		"channelCat": "Movies",
 		"channelLang": "Bengali",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=254",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"BW4ObbbuZy8v8V1tP82XxA\",\"kid\":\"/r2WC8mGRwCOCfea9DoSWQ\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
 		"channelName": "Zee Bangla Cinema",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/685/jio_tv/index.m3u8",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2834224.mpd",
 		"contentId": "zeebanglacinema"
 	},
 	{
@@ -2820,6 +2776,105 @@
 		"channelName": "Zee Bangla Cinema +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2287.ts",
 		"contentId": "zeebanglacinema1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"spI0h+1SNIEdyd2131RNhw\",\"kid\":\"QIWVtyy6WkW3wK+hQsQdkw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7404/567404-h",
+		"channelName": "Star Jalsha Movies HD",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/manifest.mpd",
+		"contentId": "starjalshamovieshd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"5cPGtv+aXd4+C56pD8mojA\",\"kid\":\"QPMmAve7W4ax5QlNmN1bbQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
+		"channelName": "Colors Bangla Cinema",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1305/output/manifest.mpd",
+		"contentId": "colorsbanglacinema"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"0Af4v+yJgHxrqTHIqGvHKw\",\"kid\":\"Owo9mVOqUHaonr0vxpP//Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png",
+		"channelName": "Khushboo Bangla",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_597/output/manifest.mpd",
+		"contentId": "khushboobangla"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"0gPUO0Fm+rWQtapVaorj9g\",\"kid\":\"w/tYRjStTmGqjNRp6Q6o7Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_431/LANDSCAPE_43/OrhmAikO.png",
+		"channelName": "Zee 24 Ghanta",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903691.mpd",
+		"contentId": "zee24ghanta"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Bengali",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=102",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
+		"channelName": "ABP Ananda",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/7015.ABPAnanda.in.m3u8",
+		"contentId": "abpbangla"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"b4pRZ1iK2Hw/cepewwNTSA\",\"kid\":\"ksoDVutTWN+y3X36xmwsRw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png",
+		"channelName": "TV9 Bangla",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd",
+		"contentId": "tv9bangla"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"j/5DJmNzNPPoRMHTjbQ7RQ\",\"kid\":\"AXph4GwuSTaVTf+hJxtJbA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-22186-jenuxy6g-v2/imageContent-22186-jenuxy6g-m5.png",
+		"channelName": "News18 Bangla",
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3141844.mpd",
+		"contentId": "news18bangla"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"16ea1ApbFv4JcPE6egcDbg\",\"kid\":\"iL1GPIDOSdqipCoyuERDNw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",
+		"channelName": "Sangeet Bangla",
+		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2100231.mpd",
+		"contentId": "sangeetbangla"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"7PIRIUJkt5nWOz/M6BaxHQ\",\"kid\":\"XlHYojWhUo2llDNj1kVJmw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",
+		"channelName": "DD Bangla",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_503/output/manifest.mpd",
+		"contentId": "ddbangla"
 	},
 	{
 		"channelCat": "News",
