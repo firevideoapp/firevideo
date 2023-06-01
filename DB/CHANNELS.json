@@ -1233,17 +1233,6 @@
 		"contentId": "dabanggchannel"
 	},
 	{
-		"channelCat": "News",
-		"channelLang": "Kannada",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=342",
-		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvC77ijIsH2kGghpUkxcnEPbrSKtrzNFbE_w&usqp=CAU",
-		"channelName": "Dighvijay 24x7 News",
-		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903729.mpd",
-		"contentId": "dighvijaykannada"
-	},
-	{
 		"channelCat": "Infotainment",
 		"channelLang": "Hindi, English, Tamil, Telugu, Bengali, Malayalam, Kannada",
 		"drm": false,
@@ -1511,17 +1500,6 @@
 		"contentId": "kalaignar_tv"
 	},
 	{
-		"channelCat": "Entertainment",
-		"channelLang": "Kannada",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=196",
-		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowugg_YyY_CA4wNDMXPR_2J23caL1kpoq8g&usqp=CAU",
-		"channelName": "Kasthuri TV",
-		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/2974809.mpd",
-		"contentId": "kasthuritv"
-	},
-	{
 		"channelCat": "Music",
 		"channelLang": "Punjabi",
 		"drm": false,
@@ -1602,17 +1580,6 @@
 		"channelName": "News18 India",
 		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/4326688.mpd",
 		"contentId": "news18india"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Kannada",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=85",
-		"channelLogo": "https://v3img.voot.com/dimg2/cmsdev/include/upload/si-images/1531815470_News18-Kannada_1_1_500x500.png",
-		"channelName": "News18 Kannada",
-		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/3296932.mpd",
-		"contentId": "news18kn_kn_tv"
 	},
 	{
 		"channelCat": "News",
@@ -1709,17 +1676,6 @@
 		"channelName": "PolimerTV",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2147.ts",
 		"contentId": "polimertv"
-	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Kannada",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=424",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg",
-		"channelName": "PublicMusic",
-		"channelUrl": "https://delta39tatasky.akamaized.net/out/i/2817608.mpd",
-		"contentId": "publicmusic_kannada"
 	},
 	{
 		"channelCat": "Music",
@@ -1884,17 +1840,6 @@
 		"channelName": "Sony Yay",
 		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
 		"contentId": "sonyyay_tv"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Kannada",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=477",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Sri_Sankara_Kannada.jpeg/revision/latest/scale-to-width-down/250?cb=20191227124657",
-		"channelName": "SriSankaraKannada",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2164.ts",
-		"contentId": "srisankarakannada"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -2516,6 +2461,39 @@
 		"channelLang": "Kannada",
 		"drm": true,
 		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"bXBwNtiBxSFEWqCqNZvD7Q\",\"kid\":\"kggkU7CKXhesd7rw6M30PA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowugg_YyY_CA4wNDMXPR_2J23caL1kpoq8g&usqp=CAU",
+		"channelName": "Kasthuri TV",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_314/output/manifest.mpd",
+		"contentId": "kasthuritv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"u4ABi/Xvw1a9set0z6RJ0g\",\"kid\":\"B8vhvfP9VB2mENMB7u7Kiw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Sri_Sankara_Kannada.jpeg/revision/latest/scale-to-width-down/250?cb=20191227124657",
+		"channelName": "Sri Sankara TV",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd",
+		"contentId": "srisankarakannada"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"UWo3hp+YHeh7hlbLtwAFzw\",\"kid\":\"JTMeG8nCViSR2v1QHw7TAg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg",
+		"channelName": "Public Music",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd",
+		"contentId": "publicmusic_kannada"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zzG/0IIaw7gq+Q0dQgcnvg\",\"kid\":\"RQt3B3I5QtGKLQ9gs4JQ+g\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",
 		"channelName": "Colors Super",
@@ -2604,6 +2582,17 @@
 		"channelLang": "Kannada",
 		"drm": true,
 		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"nEpzX/y0goH5q/Huo5gygQ\",\"kid\":\"/PeI+aJiVy6zrisZqbmz2w\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://v3img.voot.com/dimg2/cmsdev/include/upload/si-images/1531815470_News18-Kannada_1_1_500x500.png",
+		"channelName": "News18 Kannada",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/manifest.mpd",
+		"contentId": "news18kn_kn_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"NzsW+yLs8KS2W4/blkqXpQ\",\"kid\":\"4m1FK50lSTm2bA9CU47yWw\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l8hV-xjtwcZdTAHGA3a5gsFWIMzpr9Ctww&usqp=CAU",
 		"channelName": "TV9 Kannada",
@@ -2620,6 +2609,17 @@
 		"channelName": "TV5Kannada",
 		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_863/output/manifest.mpd",
 		"contentId": "tv5kannada"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Kannada",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"wzfD4H77Ldb+/yTNTKxPRw\",\"kid\":\"lOFUSwwfTdy+lvPMAXKpsw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvC77ijIsH2kGghpUkxcnEPbrSKtrzNFbE_w&usqp=CAU",
+		"channelName": "Dighvijay 24x7 News",
+		"channelUrl": "https://delta16tatasky.akamaized.net/out/i/2903729.mpd",
+		"contentId": "dighvijaykannada"
 	},
 	{
 		"channelCat": "News",
