@@ -336,6 +336,28 @@
 		"channelLang": "Telugu",
 		"drm": true,
 		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"E4R9H/kCHJtKWRK1rwCQMw\",\"kid\":\"Z+ObnuoYX/2Q4V6DB/tTKg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
+		"channelName": "Zee Telugu HD",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd",
+		"contentId": "zeetelugu_hd_channel"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"jkcIL2ZUdKtsxGAUsmgLKw\",\"kid\":\"LN3rUVpjU0W6Ifq5lmU62g\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list_clean/1170x658withlogo913f0f8f0f344fe9acd59e7ba101b15c.png",
+		"channelName": "Zee Telugu",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd",
+		"contentId": "zeetelugusd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zZ8HpD6Jsyvzrxv8fmyEsg\",\"kid\":\"DQMXtXwEWEKnAEg6RvEhLg\"}]}",
 		"channelLogo": "https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg",
 		"channelName": "Gemini TV HD",
@@ -347,22 +369,44 @@
 		"channelLang": "Telugu",
 		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ubxF47Hp+pGtNiQ1iPgMng\",\"kid\":\"4WZ3OzDFXdOIcspNYhBHKQ\"}]}",
-		"channelLogo": "https://sund-images.sunnxt.com/26570/1000x1500_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg",
-		"channelName": "Gemini Movies HD",
-		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd",
-		"contentId": "geminimovieshd"
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"SaSP0x5J1zUje8cht81Y7w\",\"kid\":\"sunyHzaHXqe8XSguU//cIg\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7418/567418-h",
+		"channelName": "Star Maa HD",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd",
+		"contentId": "starmaahd"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "",
-		"channelLogo": "https://sund-images.sunnxt.com/9027/1000x1500_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg",
-		"channelName": "Gemini Comedy",
-		"channelUrl": "https://google.com",
-		"contentId": "geminicomedy"
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"LAugzAQR0NKuYDGUzR5ntA\",\"kid\":\"azHux/3wVUWlJGgolX+dSQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",
+		"channelName": "ETV HD",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd",
+		"contentId": "etvteluguhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"FY9rMmhSwlcrpZzjGarThw\",\"kid\":\"ZeKFfotZXvGaI1ebO+WEYQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://snoidcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
+		"channelName": "ETV Telugu",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd",
+		"contentId": "etvtelugusd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"UWF+tbIhmlsPm9qIcpTnWg\",\"kid\":\"zbOpJOD4XlC2qZSuVGkN/Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://sund-images.sunnxt.com/26572/1000x1500_GeminiLife_26572_5e588a65-6d80-4abe-a788-dd8e43f5fe14.jpg",
+		"channelName": "Gemini Life",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd",
+		"contentId": "geminilife"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -370,65 +414,43 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"nQLLoU3QQQWcQL8wcNfzLg\",\"kid\":\"iYh8w1OXV8SAK7P0sb7ULw\"}]}",
-		"channelLogo": "https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg",
-		"channelName": "Gemini Life",
+		"channelLogo": "https://sund-images.sunnxt.com/26572/1000x1500_GeminiLife_26572_5e588a65-6d80-4abe-a788-dd8e43f5fe14.jpg",
+		"channelName": "Gemini Life +1",
 		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd",
-		"contentId": "geminilife"
-	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Telugu",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"XT5xtCK3zC94LIf2AOWltA\",\"kid\":\"VIwEkQj5XDuB6kvv7lo6rg\"}]}",
-		"channelLogo": "https://sund-images.sunnxt.com/26568/1000x1500_GeminiMusicHD_26568_cbcdc74e-84c6-45a0-b5ed-a5c0059464e1.jpg",
-		"channelName": "Gemini Music HD",
-		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.mpd",
-		"contentId": "geminimusichd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=635",
-		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
-		"channelName": "Zee Telugu HD",
-		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/06589254a501444cae34f76c6afd5c60/Zee_telugu/index.m3u8",
-		"contentId": "zeetelugu_hd_channel"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=635",
-		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
-		"channelName": "Zee Telugu HD +1",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/940.ts",
-		"contentId": "zeetelugu_hd1"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=250",
-		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list_clean/1170x658withlogo913f0f8f0f344fe9acd59e7ba101b15c.png",
-		"channelName": "Zee Telugu",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/638/jio_tv/index.m3u8",
-		"contentId": "zeetelugusd"
+		"contentId": "geminilife1"
 	},
 	{
 		"channelCat": "Entertainment",
 		"channelLang": "Telugu",
 		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"SaSP0x5J1zUje8cht81Y7w\",\"kid\":\"sunyHzaHXqe8XSguU//cIg\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7418/567418-h",
-		"channelName": "Star Maa HD",
-		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd",
-		"contentId": "starmaahd"
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"7SiFGmU5yu9wcrWvuCkE9g\",\"kid\":\"C99SENOuWIC0nzHTmCNCYQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",
+		"channelName": "ETV Plus",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd",
+		"contentId": "etvplus"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Fpac6BmDOGMP4Isas/+Acg\",\"kid\":\"/xmNDmxxXYmL1JCj5bPClQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",
+		"channelName": "Vissa TV",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_820/output/manifest.mpd",
+		"contentId": "vissatv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ubxF47Hp+pGtNiQ1iPgMng\",\"kid\":\"4WZ3OzDFXdOIcspNYhBHKQ\"}]}",
+		"channelLogo": "https://sund-images.sunnxt.com/26570/1000x1500_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg",
+		"channelName": "Gemini Movies HD",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd",
+		"contentId": "geminimovieshd"
 	},
 	{
 		"channelCat": "Movies",
@@ -453,6 +475,171 @@
 		"contentId": "starmaagold"
 	},
 	{
+		"channelCat": "Movies",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"rsP3VTozuszw/gzchPerLw\",\"kid\":\"EyWa1EHRVcatdZ5JJpnAzw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
+		"channelName": "Zee Cinemalu HD",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd",
+		"contentId": "zeecinemaluhd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Telugu",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=636",
+		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
+		"channelName": "Zee Cinemalu HD +1",
+		"channelUrl": "http://watchindia.net:8880/live/84287/78681/941.ts",
+		"contentId": "zeecinemaluhd1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"gJ5UpAVqIcdvZ4/xCMgBSA\",\"kid\":\"FqYCeMyxW5OdbluB89b2hA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://www.indiantvinfo.com/media/2017/07/Zee-Cinemalu-Logo.png",
+		"channelName": "Zee Cinemalu",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd",
+		"contentId": "zeecinemalu"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"HjO2TcMdDubFt0e8HT0kBQ\",\"kid\":\"UK5gcfT9S32rsCxydbM/zg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://etv-win-image.akamaized.net/etvwin/channels/channel/94232/etv-cinema-320x240.png",
+		"channelName": "ETV Cinema",
+		"channelUrl": "https://delta11tatasky.akamaized.net/out/i/2696523.mpd",
+		"contentId": "etvcinema"
+	},
+	{
+		"channelCat": "Infotainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"FkXISAB4Y2WmMl6BcuyncQ\",\"kid\":\"p1G8G6vKWtqKyT/gwVRJDg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",
+		"channelName": "ETV Life",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_538/output/manifest.mpd",
+		"contentId": "etvlife"
+	},
+	{
+		"channelCat": "Lifestyle",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"rjL5JepoXwdAd6aU2XbeDA\",\"kid\":\"IAX1mSnjXqW6ohFpACb4nA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
+		"channelName": "ETV Abhiruchi",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_536/output/manifest.mpd",
+		"contentId": "etvabhiruchi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"MZ9jjq82xK/11sKzyoenwg\",\"kid\":\"0YCs/UtpVP6Cm+S7cBBgng\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12260-j9qv0lz4-v1/imageContent-12260-j9qv0lz4-m1.png",
+		"channelName": "Sakshi TV",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd",
+		"contentId": "sakshitv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"m1zaPuZc+DJjRnGT4or2Aw\",\"kid\":\"Y+wCwbrDS9aP7PzCRWcUhg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",
+		"channelName": "ETV Andhra Pradesh",
+		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/4779620.mpd",
+		"contentId": "etvandhrapradesh"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"RQcgmLf9u/9y7aa3CpkfNw\",\"kid\":\"anGRrVZnUvaNDi6jCdXZsA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",
+		"channelName": "ETV Telangana",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/manifest.mpd",
+		"contentId": "etvtelangana"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"J3vs6vTK/o7OQ+Re6Sp57g\",\"kid\":\"uK37leSRXxOg3aNevEB2Ew\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11329-j9jot000-v2/imageContent-11329-j9jot000-m2.png",
+		"channelName": "TV5Telugu",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_802/output/manifest.mpd",
+		"contentId": "tv5telugu"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"/D7NEOYCjyybmuoTIZ7tkA\",\"kid\":\"DF0K6RLDXYi4jfOs4EyBWA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png",
+		"channelName": "TV9 Telugu",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/manifest.mpd",
+		"contentId": "tv9telugu"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"99Z0G/FtKC2PQlR/DHPPyQ\",\"kid\":\"dJgFP9zgQv6CdR1GAqiizw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-586-j5kz3qkw-v1/imageContent-586-j5kz3qkw-m1.png",
+		"channelName": "NTV Telugu",
+		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/2727384.mpd",
+		"contentId": "ntvtelugu"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"YlKXptAkbbppqeMc79ZZcQ\",\"kid\":\"ybfO79dJWKi3k5cPHuDHCQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",
+		"channelName": "DD Saptagiri",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_523/output/manifest.mpd",
+		"contentId": "ddsaptagiri"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"yghT8bgp8VArKvoriiNRYg\",\"kid\":\"GYK0cjWoVhe5LXzNTH9t0A\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-ddyadagiri/list/ddyadagiri11705141805540104fcfbcc5cb0117dbbc91.jpg",
+		"channelName": "DD Yadagiri",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/manifest.mpd",
+		"contentId": "ddyadagiri"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"XT5xtCK3zC94LIf2AOWltA\",\"kid\":\"VIwEkQj5XDuB6kvv7lo6rg\"}]}",
+		"channelLogo": "https://sund-images.sunnxt.com/26568/1000x1500_GeminiMusicHD_26568_cbcdc74e-84c6-45a0-b5ed-a5c0059464e1.jpg",
+		"channelName": "Gemini Music HD",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.mpd",
+		"contentId": "geminimusichd"
+	},
+	{
 		"channelCat": "Music",
 		"channelLang": "Telugu",
 		"drm": false,
@@ -462,17 +649,6 @@
 		"channelName": "Star Maa Music",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2192.ts",
 		"contentId": "starmaamusic"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zZtGB09S+HT4+NpGeg8rwQ\",\"kid\":\"bCuwvQEZQNySDcDi2vf4GA\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7409/567409-h",
-		"channelName": "Star Vijay HD",
-		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3562165.mpd",
-		"contentId": "starvijayhd"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -497,17 +673,6 @@
 		"contentId": "suntvhd1"
 	},
 	{
-		"channelCat": "Music",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
-		"channelLogo": "https://sund-images.sunnxt.com/9013/250x375_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg",
-		"channelName": "Sun Music HD",
-		"channelUrl": "http://uk1.zecast.com:1935/star-live/smusic/index.m3u8",
-		"contentId": "sunmusichd"
-	},
-	{
 		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
 		"drm": true,
@@ -517,6 +682,28 @@
 		"channelName": "Sun Life",
 		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd",
 		"contentId": "sunlife"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zZtGB09S+HT4+NpGeg8rwQ\",\"kid\":\"bCuwvQEZQNySDcDi2vf4GA\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7409/567409-h",
+		"channelName": "Star Vijay HD",
+		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3562165.mpd",
+		"contentId": "starvijayhd"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Tamil",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
+		"channelLogo": "https://sund-images.sunnxt.com/9013/250x375_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg",
+		"channelName": "Sun Music HD",
+		"channelUrl": "http://uk1.zecast.com:1935/star-live/smusic/index.m3u8",
+		"contentId": "sunmusichd"
 	},
 	{
 		"channelCat": "News",
@@ -1170,17 +1357,6 @@
 		"contentId": "ddnational"
 	},
 	{
-		"channelCat": "News",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=337",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",
-		"channelName": "DD Saptagiri",
-		"channelUrl": "https://delta32tatasky.akamaized.net/out/i/1739517.mpd",
-		"contentId": "ddsaptagiri"
-	},
-	{
 		"channelCat": "Movies",
 		"channelLang": "Bhojpuri",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",
@@ -1253,94 +1429,6 @@
 		"channelName": "Discovery Kids",
 		"channelUrl": "https://delta44tatasky.akamaized.net/out/i/19335.mpd",
 		"contentId": "discoverykids"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=359",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",
-		"channelName": "ETV HD",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/936.ts",
-		"contentId": "etvteluguhd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=145",
-		"channelLogo": "https://snoidcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
-		"channelName": "ETV HD 2",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2203.ts",
-		"contentId": "etvteluguhd2"
-	},
-	{
-		"channelCat": "Infotainment",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=268",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",
-		"channelName": "ETV Life",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/938.ts",
-		"contentId": "etvlife"
-	},
-	{
-		"channelCat": "Lifestyle",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=358",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
-		"channelName": "ETV Abhiruchi",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_536/output/manifest.mpd",
-		"contentId": "etvabhiruchi"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=352",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",
-		"channelName": "ETV Plus",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/937.ts",
-		"contentId": "etvplus"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=146",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",
-		"channelName": "ETV Andhra Pradesh",
-		"channelUrl": "https://delta14tatasky.akamaized.net/out/i/4779620.mpd",
-		"contentId": "etvandhrapradesh"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=83",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",
-		"channelName": "ETV Telangana",
-		"channelUrl": "https://delta47tatasky.akamaized.net/out/i/767.mpd",
-		"contentId": "etvtelangana"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=128",
-		"channelLogo": "https://etv-win-image.akamaized.net/etvwin/channels/channel/94232/etv-cinema-320x240.png",
-		"channelName": "ETV Cinema",
-		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=47985",
-		"contentId": "etvcinema"
 	},
 	{
 		"channelCat": "Infotainment",
@@ -2524,17 +2612,6 @@
 	},
 	{
 		"channelCat": "News",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=320",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png/revision/latest?cb=20190307135451",
-		"channelName": "TV5Telugu",
-		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_802/output/manifest.mpd",
-		"contentId": "tv5telugu"
-	},
-	{
-		"channelCat": "News",
 		"channelLang": "Hindi",
 		"drm": false,
 		"drmType": "clearkey",
@@ -2543,17 +2620,6 @@
 		"channelName": "TV9 Bharatvarsh",
 		"channelUrl": "https://highrisk.select/jiotv/app/live/1251/jio_tv/index.m3u8",
 		"contentId": "tv9bharatvarsh"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=11",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",
-		"channelName": "TV9 Telugu",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/618/jio_tv/index.m3u8",
-		"contentId": "tv9telugu"
 	},
 	{
 		"channelCat": "News",
@@ -2952,39 +3018,6 @@
 		"channelName": "Zee Cinema",
 		"channelUrl": "https://highrisk.select/jiotv/app/live/484/jio_tv/index.m3u8",
 		"contentId": "zeecinema"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=636",
-		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
-		"channelName": "Zee Cinemalu HD",
-		"channelUrl": "https://zii.vishami3.repl.co/?c=0-9-zeecinemalu",
-		"contentId": "zeecinemaluhd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=636",
-		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
-		"channelName": "Zee Cinemalu HD +1",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/941.ts",
-		"contentId": "zeecinemaluhd1"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Telugu",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=252",
-		"channelLogo": "https://yt3.googleusercontent.com/ytc/AL5GRJU5ErI9wT_loUeginp1WMVJq7AwIvD1pWHTHbNpWA=s900-c-k-c0x00ffffff-no-rj",
-		"channelName": "Zee Cinemalu",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/413/jio_tv/index.m3u8",
-		"contentId": "zeecinemalu"
 	},
 	{
 		"channelCat": "News",
