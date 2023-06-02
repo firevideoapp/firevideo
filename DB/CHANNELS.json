@@ -457,11 +457,22 @@
 		"channelLang": "Telugu",
 		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ubxF47Hp+pGtNiQ1iPgMng\",\"kid\":\"4WZ3OzDFXdOIcspNYhBHKQ\"}]}",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"URyGEz8RD5P/Cj4TpNIZsQ\",\"kid\":\"IZUMF1BYUkGexqZIscwlsQ\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://sund-images.sunnxt.com/26570/1000x1500_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg",
 		"channelName": "Gemini Movies HD",
-		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd",
 		"contentId": "geminimovieshd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ubxF47Hp+pGtNiQ1iPgMng\",\"kid\":\"4WZ3OzDFXdOIcspNYhBHKQ\"}]}",
+		"channelLogo": "https://sund-images.sunnxt.com/26570/1000x1500_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg",
+		"channelName": "Gemini Movies HD +1",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd",
+		"contentId": "geminimovieshd1"
 	},
 	{
 		"channelCat": "Movies",
