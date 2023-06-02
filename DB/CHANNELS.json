@@ -963,6 +963,14 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Tamil",
+		"channelLogo": "https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Velicham.png/revision/latest?cb=20191225182426",
+		"channelName": "Velicham",
+		"channelUrl": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
+		"contentId": "velicham_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Tamil",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"SNR1ec/0yCBlFzKcfPvSBQ\",\"kid\":\"v33Gf+9hQeCAvpM3Zjx96Q\"}],\"type\":\"temporary\"}",
@@ -2743,14 +2751,6 @@
 		"channelName": "TravelXP",
 		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd",
 		"contentId": "travelxp"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Tamil",
-		"channelLogo": "https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Velicham.png/revision/latest?cb=20191225182426",
-		"channelName": "Velicham",
-		"channelUrl": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
-		"contentId": "velicham_tv"
 	},
 	{
 		"channelCat": "Movies",
