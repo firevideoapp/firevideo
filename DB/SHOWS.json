@@ -1,5 +1,33 @@
 [
 	{
+        "dateAdded": "02-06-2023-11:15:12 AM",
+        "provider": "nf",
+        "tmdb": "226531",
+        "adult": false,
+        "contentId": "scoop_2023_hi",
+        "showName": "Scoop",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BZDM1ZWY4Y2EtNWQzOC00MTk5LWJjYWQtYjU0ZWI0Y2Q3Mzk2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://occ-0-2368-2164.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUkbKS8fJ8aUPyCPIk39313yxT3Ld86nQkiDEYtckqnsxCwSrIn4lmPFpvnXkS6Nr-Bws6YNhEPziTqaWNi0fCBtXLBG_M58u-t_.jpg?r=f0b",
+        "keywords": "scoop web series, scoop netflix, 2023 web series, karishma tanna, mohammed zeeshan ayyub, prosenjit chatterjee, shikha talsania,",
+        "showGenre": "Biography, Crime, Drama",
+        "showStory": "A journalist's life takes a 360 because of the very system that made her who she is. Will she fight or will she concede?"
+    },
+	{
+        "dateAdded": "02-06-2023-11:00:12 AM",
+        "provider": "leoapp",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "begamkakotha_leo",
+        "showName": "Begam Ka Kotha",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/begamkakotha_leo.jpg",
+        "showArt": "https://firevideo.vercel.app/images/begamkakotha_leo_land.png",
+        "keywords": "begam ka kotha web series, begam ka kotha leo web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Begam Ka Kotha (2023) Leo App Web Series"
+    },
+	{
         "dateAdded": "02-06-2023-10:50:12 AM",
         "provider": "primeshots",
         "tmdb": "",
@@ -499,20 +527,6 @@
         "keywords": "sali ke kaand web series, sali ke kaand flizmovies web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series,",
         "showGenre": "Drama, Romance",
         "showStory": "Sali Ke Kaand (2023) FlizMovies App Web Series"
-    },
-	{
-        "dateAdded": "21-05-2023-11:00:12 AM",
-        "provider": "leoapp",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "begamkakotha_leo",
-        "showName": "Begam Ka Kotha",
-        "showLang": "Hindi",
-        "showImage": "https://firevideo.vercel.app/images/begamkakotha_leo.jpg",
-        "showArt": "https://firevideo.vercel.app/images/begamkakotha_leo_land.png",
-        "keywords": "begam ka kotha web series, begam ka kotha leo web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series,",
-        "showGenre": "Drama, Romance",
-        "showStory": "Begam Ka Kotha (2023) Leo App Web Series"
     },
 	{
         "dateAdded": "20-05-2023-11:50:12 PM",

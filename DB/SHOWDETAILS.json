@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "scoop_2023_hi",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbrapid.com/cjj6qanog3d5.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "schooloflies_2023_hi",
 		"seasons": [
 			{
@@ -373,6 +388,11 @@
 						"epName": "Episode 01",
 						"epNo": 1,
 						"epUrl": "https://sbrapid.com/5m4kh14tbl74.html"
+					},
+					{
+						"epName": "Episode 02 - 04",
+						"epNo": 2,
+						"epUrl": "https://sbrapid.com/yxra6uxgr7yf.html"
 					}
 				],
 				"title": "Season 1"
