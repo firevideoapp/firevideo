@@ -799,7 +799,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"JJHPCLjwxdFQ6WIz6GJGkg\",\"kid\":\"IM02ErIuV4m82vn7rPMSTA\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png",
 		"channelName": "Raj TV",
 		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifest.mpd",
 		"contentId": "rajtv"
@@ -810,7 +810,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Q5+hUzDh5tqNP0lx/8+kXw\",\"kid\":\"QGzXbqF6UcihudO93wEqeA\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png",
 		"channelName": "Raj Digital Plus",
 		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/manifest.mpd",
 		"contentId": "rajdigitalplus"
@@ -821,7 +821,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"hHJ7/zrXSMgMd16+1eImYg\",\"kid\":\"Gic2G2WSUIys47RJgF261A\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://www.seekpng.com/png/detail/432-4329527_tamil-tv-channels-logo-polimer-tv-channel.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11188-j9i480zc-v1/imageContent-11188-j9i480zc-m1.png",
 		"channelName": "Polimer TV",
 		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_674/output/manifest.mpd",
 		"contentId": "polimertv"
@@ -843,7 +843,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"c1A12Ckg4l5Kj1Rc0sZvgA\",\"kid\":\"wAiuTtjTXjG+scwRfx7qtA\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/eba6b320877779.562f2a1f9eca3.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png",
 		"channelName": "Vendhar TV",
 		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_815/output/manifest.mpd",
 		"contentId": "vendhartv"
