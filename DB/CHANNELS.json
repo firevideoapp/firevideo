@@ -358,11 +358,22 @@
 		"channelLang": "Telugu",
 		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zZ8HpD6Jsyvzrxv8fmyEsg\",\"kid\":\"DQMXtXwEWEKnAEg6RvEhLg\"}]}",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"qgeP3etal9gi/rpf3zzWQQ\",\"kid\":\"3Xl4IA7EWVyi2Yk0duW6mQ\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg",
 		"channelName": "Gemini TV HD",
-		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd",
 		"contentId": "geminitvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zZ8HpD6Jsyvzrxv8fmyEsg\",\"kid\":\"DQMXtXwEWEKnAEg6RvEhLg\"}]}",
+		"channelLogo": "https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg",
+		"channelName": "Gemini TV HD +1",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd",
+		"contentId": "geminitvhd1"
 	},
 	{
 		"channelCat": "Entertainment",
