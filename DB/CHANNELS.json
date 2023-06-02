@@ -849,6 +849,22 @@
 		"contentId": "vendhartv"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "https://firevideo.vercel.app/images/vaanavilplus.jpg",
+		"channelName": "Vaanavil Plus",
+		"channelUrl": "https://server.iptelevision.in/hls/vanaviltv.m3u8",
+		"contentId": "vaanavilplus"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "https://firevideo.vercel.app/images/tamilstartv.jpg",
+		"channelName": "Tamil Star TV",
+		"channelUrl": "http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8",
+		"contentId": "tamilstartv"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
 		"drm": true,
@@ -882,17 +898,6 @@
 		"contentId": "zeethirai"
 	},
 	{
-		"channelCat": "Music",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
-		"channelLogo": "https://sund-images.sunnxt.com/9013/250x375_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg",
-		"channelName": "Sun Music HD",
-		"channelUrl": "http://uk1.zecast.com:1935/star-live/smusic/index.m3u8",
-		"contentId": "sunmusichd"
-	},
-	{
 		"channelCat": "News",
 		"channelLang": "Tamil",
 		"drm": true,
@@ -906,10 +911,87 @@
 	{
 		"channelCat": "News",
 		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ea4btBVAzNiUxd5Ghd/plA\",\"kid\":\"ggq3ddGFU7e+uX4e77oXIA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Thanthi_TV.png?raw=true",
+		"channelName": "Thanthi TV",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_778/output/manifest.mpd",
+		"contentId": "thanthitv_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"5gpYO0AiwHWoT7lYppc5wA\",\"kid\":\"2SRjtCW3R5KhPpzLgYizMQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-810-j5m84h14-v1/imageContent-810-j5m84h14-m1.png",
+		"channelName": "Jaya Plus",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd",
+		"contentId": "jayaplus"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"rsVvVfmT3LsbM+inStvpnw\",\"kid\":\"Dm/xv8K7Tva7xPj4RcLoUQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11942-j9lthi34-v1/imageContent-11942-j9lthi34-m1.png",
+		"channelName": "Polimer News",
+		"channelUrl": "https://delta8tatasky.akamaized.net/out/i/2646807.mpd",
+		"contentId": "polimernews"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"/RuNQpbEBwbsu+j6oiv/Rw\",\"kid\":\"y+lgM8MATEK7jJ2rUkSZxA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-192-j5fsr3s0-v1/imageContent-192-j5fsr3s0-m1.png",
+		"channelName": "News 18 Tamil Nadu",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/2455053.mpd",
+		"contentId": "news18tamil"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Tamil",
 		"channelLogo": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
 		"channelName": "IBC Tamil",
 		"channelUrl": "https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8",
 		"contentId": "ibctamil"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"SNR1ec/0yCBlFzKcfPvSBQ\",\"kid\":\"v33Gf+9hQeCAvpM3Zjx96Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11369-j9jpvzjs-v1/imageContent-11369-j9jpvzjs-m1.png",
+		"channelName": "DD Podhigai",
+		"channelUrl": "https://delta15tatasky.akamaized.net/out/i/1454859.mpd",
+		"contentId": "ddpodhigai"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"2U52z/wYxA7Sp9b6Shz2mQ\",\"kid\":\"8Ygx/qDmS/+qMTrEUPRiaQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png",
+		"channelName": "Jaya Max",
+		"channelUrl": "https://delta8tatasky.akamaized.net/out/i/2640682.mpd",
+		"contentId": "jayamax"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Tamil",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=521",
+		"channelLogo": "https://sund-images.sunnxt.com/9013/250x375_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg",
+		"channelName": "Sun Music HD",
+		"channelUrl": "http://uk1.zecast.com:1935/star-live/smusic/index.m3u8",
+		"contentId": "sunmusichd"
 	},
 	{
 		"channelCat": "Devotional",
@@ -918,22 +1000,6 @@
 		"channelName": "SVBC 2",
 		"channelUrl": "http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8",
 		"contentId": "svbc2"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"channelLogo": "https://firevideo.vercel.app/images/vaanavilplus.jpg",
-		"channelName": "Vaanavil Plus",
-		"channelUrl": "https://server.iptelevision.in/hls/vanaviltv.m3u8",
-		"contentId": "vaanavilplus"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"channelLogo": "https://firevideo.vercel.app/images/tamilstartv.jpg",
-		"channelName": "Tamil Star TV",
-		"channelUrl": "http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8",
-		"contentId": "tamilstartv"
 	},
 	{
 		"channelCat": "Movies",
@@ -1618,17 +1684,6 @@
 		"channelName": "Music India",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2293.ts",
 		"contentId": "musicindia_tv"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=58",
-		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodHW1KT5Ox0pXmRDeSJZ_kap2lneZ8soDyg&usqp=CAU",
-		"channelName": "News 18 Tamil Nadu",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/873.ts",
-		"contentId": "news18tamil"
 	},
 	{
 		"channelCat": "News",
@@ -2666,17 +2721,6 @@
 		"channelName": "TV9 Gujarati",
 		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-260",
 		"contentId": "tv9gujarati"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=524",
-		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Thanthi_TV.png?raw=true",
-		"channelName": "Thanthi TV",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/830/jio_tv/index.m3u8",
-		"contentId": "thanthitv_tv"
 	},
 	{
 		"channelCat": "Infotainment",
