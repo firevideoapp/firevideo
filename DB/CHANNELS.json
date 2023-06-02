@@ -750,14 +750,135 @@
 		"contentId": "zeetamil_tv"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"hNI4jdxXqNuTZuh134ToGg\",\"kid\":\"DPhWZjyUUW2HOm/wGLdbrA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",
+		"channelName": "Colors Tamil HD",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd",
+		"contentId": "colorstamilhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ClMEuJRftkdNFbeBB5VPmg\",\"kid\":\"gwvUmgi8R5iZP4jdfEjIOg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+		"channelName": "Colors Tamil",
+		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3562168.mpd",
+		"contentId": "colorstamil"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"dz4/UoORMUjOrV7l3Cwytg\",\"kid\":\"Wk97lUv3UEqnQOcMMMktsA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "http://jayatvnetwork.com/upload/programme/thumb/Sonthangal_small.jpg",
+		"channelName": "Jaya TV HD",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd",
+		"contentId": "jayatvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"8LfOsqg97SBmp0Bg3cPtjQ\",\"kid\":\"BYeby7GEX/61DENQyWiweA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_588/PORTRAIT/2uHeVd1H.png?o=production",
+		"channelName": "Kalaignar TV",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/manifest.mpd",
+		"contentId": "kalaignar_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"JJHPCLjwxdFQ6WIz6GJGkg\",\"kid\":\"IM02ErIuV4m82vn7rPMSTA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552",
+		"channelName": "Raj TV",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifest.mpd",
+		"contentId": "rajtv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Q5+hUzDh5tqNP0lx/8+kXw\",\"kid\":\"QGzXbqF6UcihudO93wEqeA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635",
+		"channelName": "Raj Digital Plus",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/manifest.mpd",
+		"contentId": "rajdigitalplus"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"hHJ7/zrXSMgMd16+1eImYg\",\"kid\":\"Gic2G2WSUIys47RJgF261A\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://www.seekpng.com/png/detail/432-4329527_tamil-tv-channels-logo-polimer-tv-channel.png",
+		"channelName": "Polimer TV",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_674/output/manifest.mpd",
+		"contentId": "polimertv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"4RKD8X+UGIdpKfn71aniUQ\",\"kid\":\"GQyU42xcS0OiCmYSzTF8tA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/eba6b320877779.562f2a1f9eca3.png",
+		"channelName": "Makkal TV",
+		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2107642.mpd",
+		"contentId": "makkaltv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"c1A12Ckg4l5Kj1Rc0sZvgA\",\"kid\":\"wAiuTtjTXjG+scwRfx7qtA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/eba6b320877779.562f2a1f9eca3.png",
+		"channelName": "Vendhar TV",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_815/output/manifest.mpd",
+		"contentId": "vendhartv"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Tamil",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=797",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"sT7kP24Szy998Yd9UKXdGw\",\"kid\":\"85vjye6iTHaeau7KkKEtBw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
+		"channelName": "KTV HD",
+		"channelUrl": "https://delta6tatasky.akamaized.net/out/i/5755140.mpd",
+		"contentId": "ktvhd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"4MoO6duqwpQnU9kouSgkxQ\",\"kid\":\"upv+dQpWUU6cY8RW+tHkKA\"}]}",
+		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
+		"channelName": "KTV HD +1",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/KTV_HD_MOB/WDVLive/index.mpd",
+		"contentId": "ktvhd1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Tamil",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Vq/IPXgfTI2xbqI8+DFpxA\",\"kid\":\"lBs+KQgVQh23pHUvzfMdbg\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png",
 		"channelName": "Zee Thirai",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/2256/jio_tv/index.m3u8",
+		"channelUrl": "https://delta8tatasky.akamaized.net/out/i/2648363.mpd",
 		"contentId": "zeethirai"
 	},
 	{
@@ -781,69 +902,6 @@
 		"channelName": "Sun News",
 		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd",
 		"contentId": "sunnews"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=708",
-		"channelLogo": "http://jayatvnetwork.com/upload/programme/thumb/Sonthangal_small.jpg",
-		"channelName": "Jaya TV HD",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/419/jio_tv/index.m3u8",
-		"contentId": "jayatvhd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Tamil",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"4MoO6duqwpQnU9kouSgkxQ\",\"kid\":\"upv+dQpWUU6cY8RW+tHkKA\"}]}",
-		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
-		"channelName": "KTV HD",
-		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/KTV_HD_MOB/WDVLive/index.mpd",
-		"contentId": "ktvhd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Tamil",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088",
-		"channelLogo": "https://sund-images.sunnxt.com/26566/200x200_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
-		"channelName": "KTV HD +1",
-		"channelUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd",
-		"contentId": "ktvhd1"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=439",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552",
-		"channelName": "Raj TV",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/707/jio_tv/index.m3u8",
-		"contentId": "rajtv"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=426",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635",
-		"channelName": "Raj Digital Plus",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/683/jio_tv/index.m3u8",
-		"contentId": "rajdigitalplus"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"channelLogo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/eba6b320877779.562f2a1f9eca3.png",
-		"channelName": "Makkal TV",
-		"channelUrl": "http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
-		"contentId": "makkaltv"
 	},
 	{
 		"channelCat": "News",
@@ -1272,28 +1330,6 @@
 	},
 	{
 		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",
-		"channelName": "Colors Tamil HD",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/429/jio_tv/index.m3u8",
-		"contentId": "colorstamilhd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=692",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png",
-		"channelName": "Colors Tamil",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1371/jio_tv/index.m3u8",
-		"contentId": "colorstamil"
-	},
-	{
-		"channelCat": "Entertainment",
 		"channelLang": "Odia",
 		"drm": false,
 		"drmType": "clearkey",
@@ -1554,17 +1590,6 @@
 		"contentId": "jiokidshindi"
 	},
 	{
-		"channelCat": "Movies",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=200",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_588/PORTRAIT/2uHeVd1H.png?o=production",
-		"channelName": "KalaignarTV",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2148.ts",
-		"contentId": "kalaignar_tv"
-	},
-	{
 		"channelCat": "Music",
 		"channelLang": "Punjabi",
 		"drm": false,
@@ -1711,17 +1736,6 @@
 		"channelName": "Pogo",
 		"channelUrl": "https://highrisk.select/jiotv/app/live/559/jio_tv/index.m3u8",
 		"contentId": "pogotv"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Tamil",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=272",
-		"channelLogo": "https://www.seekpng.com/png/detail/432-4329527_tamil-tv-channels-logo-polimer-tv-channel.png",
-		"channelName": "PolimerTV",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2147.ts",
-		"contentId": "polimertv"
 	},
 	{
 		"channelCat": "Music",
