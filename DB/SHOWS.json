@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "02-06-2023-07:00:12 PM",
+        "provider": "z5",
+        "tmdb": "220977",
+        "adult": true,
+        "contentId": "taj_2023_hi",
+        "showName": "Taj: Divided by Blood",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BYjhhNGZmYzAtNmM4Mi00NjA4LTgxMGEtYWNjOTRhYzNiM2FlXkEyXkFqcGdeQXVyMTU4ODg1MTk2._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://firevideo.vercel.app/images/taj_2023_hi.png",
+		"keywords": "taj web series, 2023 web series, history web series, historical web series, naseeruddin shah, dharmendra, aditi rao hydari, aashim gulati, taaha shah, rahul bose, shubham kumar mehra, sandhya mridul,",
+        "showGenre": "History",
+        "showStory": "A suburban mother of two takes a fantasy-charged trip down memory lane that sets her very married present on a collision course with her wild-child past."
+    },
+	{
         "dateAdded": "02-06-2023-11:15:12 AM",
         "provider": "nf",
         "tmdb": "226531",
@@ -625,20 +639,6 @@
 		"keywords": "2023 web series, Toni Collette, Halle Bush, Ria Zmitrowicz, Auli'i Cravalho, Toheeb Jimoh, John Leguizamo",
         "showGenre": "Drama, Fantasy",
         "showStory": "Based on the New York Times bestseller, The Power is our world, but for one twist of nature. Suddenly, women develop a mysterious new ability to electrocute at will, leading to an extraordinary global reversal of the power balance"
-    },
-	{
-        "dateAdded": "12-05-2023-12:05:12 PM",
-        "provider": "z5",
-        "tmdb": "220977",
-        "adult": true,
-        "contentId": "taj_2023_hi",
-        "showName": "Taj: Divided by Blood",
-        "showLang": "Hindi",
-        "showImage": "https://m.media-amazon.com/images/M/MV5BYjhhNGZmYzAtNmM4Mi00NjA4LTgxMGEtYWNjOTRhYzNiM2FlXkEyXkFqcGdeQXVyMTU4ODg1MTk2._UY500_UX667_RI_V_TTW_.jpg",
-        "showArt": "https://firevideo.vercel.app/images/taj_2023_hi.png",
-		"keywords": "taj web series, 2023 web series, history web series, historical web series, naseeruddin shah, dharmendra, aditi rao hydari, aashim gulati, taaha shah, rahul bose, shubham kumar mehra, sandhya mridul,",
-        "showGenre": "History",
-        "showStory": "A suburban mother of two takes a fantasy-charged trip down memory lane that sets her very married present on a collision course with her wild-child past."
     },
 	{
         "dateAdded": "12-05-2023-12:00:12 PM",
