@@ -403,7 +403,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"FY9rMmhSwlcrpZzjGarThw\",\"kid\":\"ZeKFfotZXvGaI1ebO+WEYQ\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://snoidcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
 		"channelName": "ETV Telugu",
 		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd",
 		"contentId": "etvtelugusd"
