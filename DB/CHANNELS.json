@@ -337,7 +337,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"E4R9H/kCHJtKWRK1rwCQMw\",\"kid\":\"Z+ObnuoYX/2Q4V6DB/tTKg\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png",
 		"channelName": "Zee Telugu HD",
 		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd",
 		"contentId": "zeetelugu_hd_channel"
@@ -348,7 +348,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"jkcIL2ZUdKtsxGAUsmgLKw\",\"kid\":\"LN3rUVpjU0W6Ifq5lmU62g\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list_clean/1170x658withlogo913f0f8f0f344fe9acd59e7ba101b15c.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png",
 		"channelName": "Zee Telugu",
 		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd",
 		"contentId": "zeetelugusd"
@@ -502,7 +502,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"rsP3VTozuszw/gzchPerLw\",\"kid\":\"EyWa1EHRVcatdZ5JJpnAzw\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png",
 		"channelName": "Zee Cinemalu HD",
 		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd",
 		"contentId": "zeecinemaluhd"
@@ -513,7 +513,7 @@
 		"drm": false,
 		"drmType": "clearkey",
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=636",
-		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png",
 		"channelName": "Zee Cinemalu HD +1",
 		"channelUrl": "http://watchindia.net:8880/live/84287/78681/941.ts",
 		"contentId": "zeecinemaluhd1"
@@ -524,7 +524,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"gJ5UpAVqIcdvZ4/xCMgBSA\",\"kid\":\"FqYCeMyxW5OdbluB89b2hA\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://www.indiantvinfo.com/media/2017/07/Zee-Cinemalu-Logo.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png",
 		"channelName": "Zee Cinemalu",
 		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd",
 		"contentId": "zeecinemalu"
