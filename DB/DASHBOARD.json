@@ -1,11 +1,11 @@
 [
 	{
-            "contentId": "",
-            "image": "https://img.freepik.com/premium-vector/new-update-banner-with-notification-bell-new-update-available-notification_349999-1569.jpg?w=1280",
-            "title": "v14.5 : bit.ly/firevideoapp",
-            "description": "Ignore if already updated",
-            "type": "",
-            "url": "https://bit.ly/firevideoapp",
+            "contentId": "starsports1hindihd",
+            "image": "https://img1.hotstarext.com/image/upload/f_auto,q_100,w_1280/sources/r1/cms/prod/4585/1534585-h-161abf4e8f55",
+            "title": "Final: Australia vs India",
+            "description": "Watch on Star Sports Network",
+            "type": "Channel",
+            "url": "",
             "videoUrl": ""
 	},
 	{
@@ -22,15 +22,6 @@
             "image": "https://v3img.voot.com/resizeHigh,w_1280,h_720/v3Storage/assets/asur-2_launch-16x9-1685553119881.jpg?imformat=chrome",
             "title": "Asur Season 2",
             "description": "All Episodes Now Streaming",
-            "type": "Show",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "ipl23final",
-            "image": "https://v3img.voot.com/resizeMedium,w_1280,h_720/v3Storage/assets/csk_lift_tray-1685400863531.jpg?imformat=chrome",
-            "title": "Final: CSK vs GT",
-            "description": "CSK won the 5th Title",
             "type": "Show",
             "url": "",
             "videoUrl": ""
