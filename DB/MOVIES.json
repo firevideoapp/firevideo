@@ -1,5 +1,20 @@
 [
   {
+    "dateAdded": "09-06-2023-12:40:00 AM",
+    "provider": "jiocinema",
+    "tmdb": "1014390",
+    "adult": false,
+    "id": "bloodydaddy_2023_hi",
+    "name": "Bloody Daddy",
+    "language": "Hindi",
+    "banner": "https://v3img.voot.com/resizeMedium,w_300,h_570/v3Storage/assets/bloodydaddy-3x4-1686242921960.jpg?imformat=chrome",
+    "thumbnail": "https://v3img.voot.com/v3Storage/assets/bloodydaddy-16x9-1686242904707.jpg",
+    "genre": "Action, Drama, Thriller",
+    "keywords": "bloody daddy hindi movie, bloody daddy shahid kapoor movie, jiocinema, 2023 hindi movies, shahid kapoor, ronit roy, diana penty,",
+    "description": "A messed up, tenacious man faces off against cops and crime lords to save the one relationship that matters to him.",
+    "stream": "https://sbsonic.com/p4723uxxvhob.html"
+  },
+  {
     "dateAdded": "07-06-2023-10:40:00 PM",
     "provider": "nf",
     "tmdb": "974025",
