@@ -997,7 +997,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"52Nl5Iv5NxvDynkv0IF+1A\",\"kid\":\"2wNNvB1aQxSDH3owTLC6fw\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-zeehindustan/channel_list/09zeehindustanzeehindustan.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png",
 		"channelName": "Zee Hindustan",
 		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2973727.mpd",
 		"contentId": "zeehindustan"
