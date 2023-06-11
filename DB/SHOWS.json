@@ -296,7 +296,7 @@
         "dateAdded": "27-05-2023-06:20:12 AM",
         "provider": "wow",
         "tmdb": "",
-        "adult": false,
+        "adult": true,
         "contentId": "meresapnokirani_woworgs",
         "showName": "Mere Sapno Ki Rani",
         "showLang": "Hindi",
