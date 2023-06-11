@@ -694,6 +694,131 @@
 		"contentId": "rishteycineplex"
 	},
 	{
+		"channelCat": "Movies",
+		"channelLang": "English",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+		"channelName": "Sony Pix HD",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD",
+		"contentId": "sonypix_hd_channel"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"lvJ9pzMwZKsajkLeout9ow\",\"kid\":\"iUE0eboHWQiTMg+vBaa3/Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+		"channelName": "Sony Pix HD +1",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd",
+		"contentId": "sonypix_hd_channel1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"tKauGz3pZpjedax1wV3GHw\",\"kid\":\"eb1PbY3BXfu/7KhCWXrJ8Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png",
+		"channelName": "Sony Pix",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd",
+		"contentId": "sonypix"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"jAkR35yKmQZAU/hMBi2+EA\",\"kid\":\"SDbR0rMeR2W5sJ4rAKB2Pg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",
+		"channelName": "DD Sports",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd",
+		"contentId": "ddsports"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+		"channelName": "Sony Sports Ten 1 HD",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8?HjFreeTV=TEN1HD",
+		"contentId": "sonyten1_hd_tv"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Cwc3Jt1L+MLpDrVBtsWKpw\",\"kid\":\"NWlIIalcWSOAGrG6O+jdrw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png",
+		"channelName": "Sony Sports Ten 1",
+		"channelUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd",
+		"contentId": "sonyten1"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
+		"channelName": "Sony Sports Ten 2 HD",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8?HjFreeTV=TEN2HD",
+		"contentId": "sonyten2_hd_tv"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ak89C9NJB99Ko8a+cV+Yag\",\"kid\":\"05035z35X6ufN/JSD6JJgg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png",
+		"channelName": "Sony Sports Ten 2",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd",
+		"contentId": "sonyten2"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
+		"channelName": "Sony Sports Ten 3 HD",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8?HjFreeTV=TEN3HD",
+		"contentId": "sonyten3_hd_tv"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"G5Q/xCCiRgl+Y/iMx68RUg\",\"kid\":\"DSYjkRgRUOm7HB+j+G19uA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png",
+		"channelName": "Sony Sports Ten 3",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd",
+		"contentId": "sonyten3"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi, Tamil, Telugu",
+		"channelLogo": "https://images.slivcdn.com/videoasset_images/sony_ten4hd_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp",
+		"channelName": "Sony Sports Ten 4 HD",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8?HjFreeTV=TEN3HD",
+		"contentId": "sonyten4_hd_tv"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi, Tamil, Telugu",
+		"channelLogo": "https://images.slivcdn.com/videoasset_images/sony_ten4hd_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp",
+		"channelName": "Sony Sports Ten 4",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+		"contentId": "sonyten4"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi, Tamil, Telugu",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"4JqejHxzQptO8Lcwd2flaA\",\"kid\":\"Cnf4d4eCSCmSYsyIr3v65A\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png",
+		"channelName": "Sony Sports Ten 5 HD",
+		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/5742257.mpd",
+		"contentId": "sonyten5hd"
+	},
+	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -2096,44 +2221,12 @@
 		"contentId": "sangeetbhojpuri"
 	},
 	{
-		"channelCat": "Movies",
-		"channelLang": "English",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-		"channelName": "Sony Pix HD",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD",
-		"contentId": "sonypix_hd_channel"
-	},
-	{
 		"channelCat": "Sports",
 		"channelLang": "English",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
 		"channelName": "Sony Six HD",
 		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
 		"contentId": "sonysix_hd_tv"
-	},
-	{
-		"channelCat": "Sports",
-		"channelLang": "English",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-		"channelName": "Sony Sports 1 HD",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8?HjFreeTV=TEN1HD",
-		"contentId": "sonyten1_hd_tv"
-	},
-	{
-		"channelCat": "Sports",
-		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
-		"channelName": "Sony Sports 2 HD",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8?HjFreeTV=TEN2HD",
-		"contentId": "sonyten2_hd_tv"
-	},
-	{
-		"channelCat": "Sports",
-		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
-		"channelName": "Sony Sports 3 HD",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8?HjFreeTV=TEN3HD",
-		"contentId": "sonyten3_hd_tv"
 	},
 	{
 		"channelCat": "Kids",
