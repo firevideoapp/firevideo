@@ -612,6 +612,88 @@
 		"contentId": "b4umovies"
 	},
 	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+		"channelName": "Sony Wah",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8",
+		"contentId": "sonywah_tv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"kyhWslLdNnCdvGc3hRPMoQ\",\"kid\":\"0XhBzQPdWQiK1/bP5cxy9g\"}],\"type\":\"temporary\"}",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+		"channelName": "Sony Wah +1",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd",
+		"contentId": "sonywah_tv1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+		"channelName": "Sony MAX 2",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
+		"contentId": "sonymax2_tv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"PyiaVNdWO7432oIIbWB7JQ\",\"kid\":\"ug/MkmnfW0SdlZEc6Y9MHQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+		"channelName": "Sony MAX 2 +1",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd",
+		"contentId": "sonymax2_tv1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"TwrIMexj4m1k0HVMxg92qg\",\"kid\":\"mihFz+78R2yLZvrZ6/hJ3Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
+		"channelName": "Zee Anmol Cinema",
+		"channelUrl": "https://delta11tatasky.akamaized.net/out/i/2700571.mpd",
+		"contentId": "zeeanmolcinema"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"NxYeYlvq0sCd7gIfAWvXTg\",\"kid\":\"Z4Pu2QQSSR6JFOr9VpGUkg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://firevideo.vercel.app/images/goldmines.jpg",
+		"channelName": "Goldmines",
+		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/5025603.mpd",
+		"contentId": "goldminestv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"s7s0SRIlxksfmgOFB7MOOg\",\"kid\":\"V7c9sDJPXEO6b2+ie4G6xg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+		"channelName": "Colors Cineplex Bollywood",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manifest.mpd",
+		"contentId": "colorscineplexbolly"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+		"channelName": "Colors Cineplex Superhits",
+		"channelUrl": "https://madplay.live/jiotv/app/live/1450/null/index.m3u8",
+		"contentId": "rishteycineplex"
+	},
+	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -665,17 +747,6 @@
 		"channelName": "Showbox",
 		"channelUrl": "https://epiconvh.s.llnwi.net/showbox/master.m3u8",
 		"contentId": "showbox_epicon"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"NxYeYlvq0sCd7gIfAWvXTg\",\"kid\":\"Z4Pu2QQSSR6JFOr9VpGUkg\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://firevideo.vercel.app/images/goldmines.jpg",
-		"channelName": "Goldmines",
-		"channelUrl": "https://delta13tatasky.akamaized.net/out/i/5025603.mpd",
-		"contentId": "goldminestv"
 	},
 	{
 		"channelCat": "Devotional",
@@ -1608,28 +1679,6 @@
 		"contentId": "mtvhdplus"
 	},
 	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
-		"channelName": "Colors Cineplex Bollywood",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1763/jio_tv/index.m3u8",
-		"contentId": "colorscineplexbolly"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
-		"channelName": "Rishtey Cineplex",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1450/jio_tv/index.m3u8",
-		"contentId": "rishteycineplex"
-	},
-	{
 		"channelCat": "Entertainment",
 		"channelLang": "Gujarati",
 		"drm": false,
@@ -2048,14 +2097,6 @@
 	},
 	{
 		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
-		"channelName": "Sony MAX 2",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
-		"contentId": "sonymax2_tv"
-	},
-	{
-		"channelCat": "Movies",
 		"channelLang": "English",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
 		"channelName": "Sony Pix HD",
@@ -2093,14 +2134,6 @@
 		"channelName": "Sony Sports 3 HD",
 		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8?HjFreeTV=TEN3HD",
 		"contentId": "sonyten3_hd_tv"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
-		"channelName": "Sony Wah",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8",
-		"contentId": "sonywah_tv"
 	},
 	{
 		"channelCat": "Kids",
@@ -2861,17 +2894,6 @@
 		"channelName": "TravelXP",
 		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd",
 		"contentId": "travelxp"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=64",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
-		"channelName": "Zee Anmol Cinema",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/415/jio_tv/index.m3u8",
-		"contentId": "zeeanmolcinema"
 	},
 	{
 		"channelCat": "Entertainment",
