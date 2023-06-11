@@ -863,6 +863,168 @@
 		"contentId": "1sports_tv"
 	},
 	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"pprxdQ2VEtpgnZtsuaojcQ\",\"kid\":\"qMm06T3gVLC/EFMCd3BWqA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34886-jqc7dybs-v2/imageContent-34886-jqc7dybs-m2.png",
+		"channelName": "DD News HD",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd",
+		"contentId": "ddnewshd"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"vcxktzormPaqFRXNVJtP4Q\",\"kid\":\"va5DHeQxUYyBo8fteQ/5Iw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",
+		"channelName": "DD News",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/manifest.mpd",
+		"contentId": "ddnews"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ae13Vrsa6T2I7OFSuDBSOw\",\"kid\":\"DD7Osm3HS/2mzNB8kAbQAw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
+		"channelName": "ABP News",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/2455131.mpd",
+		"contentId": "abpnews"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"tbuyj0JrdfWYq7iCk8sERQ\",\"kid\":\"pGXWuLRURQarEe9uTFiPkw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",
+		"channelName": "NDTV India",
+		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/5400440.mpd",
+		"contentId": "ndtvindia"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"channelLogo": "https://pbs.twimg.com/profile_images/1074193570712772608/ecNRga9j_400x400.jpg",
+		"channelName": "Aaj Tak HD",
+		"channelUrl": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+		"contentId": "aajtakhd_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ffJP2YP+M4RLLQj/lsxkfg\",\"kid\":\"CKI3SbvsTcm/PbT387t2Sg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",
+		"channelName": "Aaj Tak",
+		"channelUrl": "https://delta11tatasky.akamaized.net/out/i/6620547.mpd",
+		"contentId": "aajtak_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Enc9gvqlIqNqFSkecM2+ng\",\"kid\":\"93qm9Pm8WZ6Xzdsa/m+s8w\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",
+		"channelName": "Zee News",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd",
+		"contentId": "zeenews_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Enc9gvqlIqNqFSkecM2+ng\",\"kid\":\"93qm9Pm8WZ6Xzdsa/m+s8w\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",
+		"channelName": "Zee News +1",
+		"channelUrl": "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8",
+		"contentId": "zeenews_tv1"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"4ScIoKXkcSJ9HuQ499mgiw\",\"kid\":\"iiRiW8W6XaSXp+lVcEiR0w\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",
+		"channelName": "India TV",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd",
+		"contentId": "indiatv_hi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=104",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",
+		"channelName": "India TV +1",
+		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in_480p/index.m3u8",
+		"contentId": "indiatv_hi"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Z8q6PUDBOCJbzNiH40yjww\",\"kid\":\"3z4wC4dyS5uUFIul/dB2/Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News_24.png?raw=true",
+		"channelName": "News 24",
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3145150.mpd",
+		"contentId": "news24_tv"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Qrj9Eok27zneKpKOjIpDkg\",\"kid\":\"dFYD9ReLTjyaF4st9Cn/5A\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/news-1587300049816.jpg",
+		"channelName": "News18 India",
+		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/4326688.mpd",
+		"contentId": "news18india"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"52Nl5Iv5NxvDynkv0IF+1A\",\"kid\":\"2wNNvB1aQxSDH3owTLC6fw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-zeehindustan/channel_list/09zeehindustanzeehindustan.png",
+		"channelName": "Zee Hindustan",
+		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2973727.mpd",
+		"contentId": "zeehindustan"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"xuNS5IlBqiAE+tpNDsI+Gg\",\"kid\":\"4SJV7YwMWS2Far80KgA4Qg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",
+		"channelName": "TV9 Bharatvarsh",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_945/output/manifest.mpd",
+		"contentId": "tv9bharatvarsh"
+	},
+	{
+		"channelCat": "News",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"BEvCMm12L3GLhP6AgtOdDg\",\"kid\":\"rITJw7UTW/+bL/Y/bzIkmA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",
+		"channelName": "Zee Business",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd",
+		"contentId": "zeebusiness"
+	},
+	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -1721,44 +1883,6 @@
 		"contentId": "abpganga"
 	},
 	{
-		"channelCat": "News",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=177",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
-		"channelName": "ABP News",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/177/jio_tv/index.m3u8",
-		"contentId": "abphindi"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=104",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",
-		"channelName": "India TV",
-		"channelUrl": "https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in_480p/index.m3u8",
-		"contentId": "indiatv_hi"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Hindi",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",
-		"channelName": "Aaj Tak",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/173/jio_tv/index.m3u8",
-		"contentId": "aajtak_tv"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Hindi",
-		"channelLogo": "https://pbs.twimg.com/profile_images/1074193570712772608/ecNRga9j_400x400.jpg",
-		"channelName": "Aaj Tak HD",
-		"channelUrl": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
-		"contentId": "aajtakhd_tv"
-	},
-	{
 		"channelCat": "Infotainment",
 		"channelLang": "English, Tamil",
 		"drm": false,
@@ -2159,28 +2283,6 @@
 		"channelName": "News18Gujarati",
 		"channelUrl": "https://delta1tatasky.akamaized.net/out/i/77.mpd",
 		"contentId": "news18gujarati"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=106",
-		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/news-1587300049816.jpg",
-		"channelName": "News18 India",
-		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/4326688.mpd",
-		"contentId": "news18india"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=209",
-		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News_24.png?raw=true",
-		"channelName": "News24",
-		"channelUrl": "https://zee.yashrajmod.online/uyewg/api.php?c=0-9-206",
-		"contentId": "news24_tv"
 	},
 	{
 		"channelCat": "Kids",
@@ -2990,17 +3092,6 @@
 	},
 	{
 		"channelCat": "News",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=706",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",
-		"channelName": "TV9 Bharatvarsh",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1251/jio_tv/index.m3u8",
-		"contentId": "tv9bharatvarsh"
-	},
-	{
-		"channelCat": "News",
 		"channelLang": "Gujarati",
 		"drm": false,
 		"drmType": "clearkey",
@@ -3291,28 +3382,6 @@
 		"contentId": "zee24kalak"
 	},
 	{
-		"channelCat": "News",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=260",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",
-		"channelName": "Zee Business",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/657/jio_tv/index.m3u8",
-		"contentId": "zeebusiness"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=514",
-		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-zeehindustan/channel_list/09zeehindustanzeehindustan.png",
-		"channelName": "Zee Hindustan",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/652/jio_tv/index.m3u8",
-		"contentId": "zeehindustan"
-	},
-	{
 		"channelCat": "Entertainment",
 		"channelLang": "Malayalam",
 		"drm": false,
@@ -3355,17 +3424,6 @@
 		"channelName": "Zee Salaam",
 		"channelUrl": "https://highrisk.select/jiotv/app/live/728/jio_tv/index.m3u8",
 		"contentId": "zeesalaam"
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=259",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",
-		"channelName": "Zee News",
-		"channelUrl": "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8",
-		"contentId": "zeenews_tv"
 	},
 	{
 		"channelCat": "Entertainment",
