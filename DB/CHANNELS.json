@@ -198,6 +198,321 @@
 		"contentId": "iplpunjabi"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"BiTNLoAjrsXatKgrICCq9w\",\"kid\":\"HL4pP9w4XayMDVArBPM45A\"}]}",
+		"channelLogo": "https://yt3.ggpht.com/ytc/AKedOLQrjMuRVX9DRXurDqT_E9bHnH7qn1anSlIM5rSlqAg=s900-c-k-c0x00ffffff-no-rj",
+		"channelName": "Star PLUS HD",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd",
+		"contentId": "starplushd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"o4+UR4t2OmFbO9OTLDsZbA\",\"kid\":\"CD0OIOfjQZCggOceEN0ztg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",
+		"channelName": "DD National",
+		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3569776.mpd",
+		"contentId": "ddnational"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"fTRuPQklz2gzsSlhzXTKgA\",\"kid\":\"u7w2pFx6XsSHjgTEN4U7CQ\"}]}",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310",
+		"channelName": "Star Bharat HD",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd",
+		"contentId": "starbharathd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+		"channelName": "Sony HD",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8",
+		"contentId": "sony_hd_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"5ydvzDmXwCeiZRlavSFIrw\",\"kid\":\"AZEJw4hSVlCIgC0gx0rviQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+		"channelName": "Sony HD + 1",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd",
+		"contentId": "sony_hd_tv1"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mLvw7SC5faKPnIvmWix7NA\",\"kid\":\"COj6+BVJUwKd2xs4dmwmkw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
+		"channelName": "SET",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd",
+		"contentId": "set_sd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+		"channelName": "Sony SAB HD",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD",
+		"contentId": "sonysab_hd_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"c5fwTdQgi7ZevHjWZwb+sw\",\"kid\":\"228dvgwAXCaUkUzKR5H21Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+		"channelName": "Sony SAB HD +1",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd",
+		"contentId": "sonysab_hd_tv1"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"oDPOg1OnE7nc35NpbFtS4Q\",\"kid\":\"/PkBJwRfXtq8XZSpMvXG/g\"}]}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+		"channelName": "Sony SAB",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd",
+		"contentId": "sonysab_sd_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"GDdInmFGIp7BA9ooXls6vw\",\"kid\":\"dOPEp5W5Tpej45x/+R8fsA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
+		"channelName": "&TV HD",
+		"channelUrl": "https://delta5tatasky.akamaized.net/out/i/21.mpd",
+		"contentId": "andtvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"BgiTwWgZYnm+z8Ra2dxI1A\",\"kid\":\"flqPo+xrXTiyp6SCx/Zriw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",
+		"channelName": "&TV",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd",
+		"contentId": "andtv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"tg38a8lDLgly7ys7Sr9DOw\",\"kid\":\"OdzkxgPWW1KEbniKzfdckw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+		"channelName": "Zee TV HD",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd",
+		"contentId": "zeetvhd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"CpB5QD6JlHEV/l9VugVeNA\",\"kid\":\"I0J1O/bxUAKsBgJqIekD8g\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",
+		"channelName": "Zee TV",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd",
+		"contentId": "zeetvsd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"J5pXgMvrxJD/CCgjlcuUTw\",\"kid\":\"J/BxmYZ2W366bEcNPpQIDg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
+		"channelName": "Colors HD",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd",
+		"contentId": "colorshd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "https://aqfadtv.xyz/clearkey/dash-ck/linear/2611/",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
+		"channelName": "Colors HD +1",
+		"channelUrl": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd",
+		"contentId": "colorshd1"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"GP4kCQu7LeTS+y5cO5s1Mg\",\"kid\":\"NVVqtau2WWi/rCCOLjWKQw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png",
+		"channelName": "Colors",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/manifest.mpd",
+		"contentId": "colorssd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"YzV1Uaz1YoIkdKqO7D0VFA\",\"kid\":\"DzUoXRxhQ4q/uYbe1G256Q\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png",
+		"channelName": "UTV Bindass",
+		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3553587.mpd",
+		"contentId": "utvbindass"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"R48SzfC1ADlLZhIBJKWRgQ\",\"kid\":\"Lskd73XwXbm7Op+Psv4NYQ\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7407/567407-h",
+		"channelName": "Star Utsav",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd",
+		"contentId": "starutsav"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"Rr1efL2DGGm5A7yNf0jRsQ\",\"kid\":\"FkwCFKZpVomQcaE6+75uug\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",
+		"channelName": "Zee Anmol",
+		"channelUrl": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd",
+		"contentId": "zeeanmol"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"+x5fGTXb321+vGJFjJEHWw\",\"kid\":\"d/Vn59xmWNat2wBj1zBbDg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",
+		"channelName": "Rishtey",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd",
+		"contentId": "colorsrishtey"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+		"channelName": "Sony Pal",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
+		"contentId": "sonypal_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"aCqTb0kzM2qkLet2IDpueA\",\"kid\":\"C5mZHYN6XFeHorOYSnuSyQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+		"channelName": "Sony Pal +1",
+		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd",
+		"contentId": "sonypal_tv1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"86s9DyvPSvwJk0JJXdWL1Q\",\"kid\":\"Sz1NqJAvT3yuTHdPvfQgKQ\"}]}",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
+		"channelName": "Star GOLD HD",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
+		"contentId": "stargoldhd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=245",
+		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
+		"channelName": "Star GOLD HD +1",
+		"channelUrl": "http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test",
+		"contentId": "stargoldhd1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+		"channelName": "Sony Max HD",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
+		"contentId": "sonymax_hd_tv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"2yVvVneaiP8xsnFowLveTg\",\"kid\":\"g/LUFy1fXMC4JylSb8LmJg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+		"channelName": "Sony Max HD +1",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd",
+		"contentId": "sonymax_hd_tv1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"channelLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png",
+		"channelName": "Sony Max",
+		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8?HjFreeTV=MAXSD",
+		"contentId": "sonymax_sd_tv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"vzbIvDl5HGVoEeZgXZyzsA\",\"kid\":\"JHbm6/7tTaumPNt7SPHHGw\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png",
+		"channelName": "Sony Max +1",
+		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3145102.mpd",
+		"contentId": "sonymax_sd_tv1"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"YA+z5E4qKhi4sCtFkwsykg\",\"kid\":\"hXbFFzAcXpOIWVNg2uiwhg\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+		"channelName": "Zee Cinema HD",
+		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd",
+		"contentId": "zeecinemahd"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"+oGlJAFXs6kT1frwpjiccA\",\"kid\":\"WwWTFziXQ02HnZn07MfFIQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",
+		"channelName": "Zee Cinema",
+		"channelUrl": "https://delta8tatasky.akamaized.net/out/i/2648345.mpd",
+		"contentId": "zeecinema"
+	},
+	{
 		"channelCat": "Kids",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -1043,39 +1358,6 @@
 		"contentId": "andpictures"
 	},
 	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=40",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
-		"channelName": "&TV HD",
-		"channelUrl": "https://news-live-cfgroup.zee5.com/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8",
-		"contentId": "andtvhd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=40",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
-		"channelName": "&TV HD +1",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/472/jio_tv/index.m3u8",
-		"contentId": "andtvhd1"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=578",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",
-		"channelName": "&TV",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/2024/jio_tv/index.m3u8",
-		"contentId": "andtv"
-	},
-	{
 		"channelCat": "Music",
 		"channelLang": "Punjabi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",
@@ -1249,17 +1531,6 @@
 		"contentId": "b4ubhojpuri"
 	},
 	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=142",
-		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png",
-		"channelName": "UTV Bindass",
-		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3553587.mpd",
-		"contentId": "utvbindass"
-	},
-	{
 		"channelCat": "Music",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -1291,50 +1562,6 @@
 		"channelName": "MTV HD+",
 		"channelUrl": "https://highrisk.select/jiotv/app/live/1145/jio_tv/index.m3u8",
 		"contentId": "mtvhdplus"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://aqfadtv.xyz/clearkey/dash-ck/linear/2611/",
-		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
-		"channelName": "Colors HD",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/144/jio_tv/index.m3u8",
-		"contentId": "colorshd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "https://aqfadtv.xyz/clearkey/dash-ck/linear/2611/",
-		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
-		"channelName": "Colors HD +1",
-		"channelUrl": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd",
-		"contentId": "colorshd1"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
-		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png",
-		"channelName": "Colors",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1368/jio_tv/index.m3u8",
-		"contentId": "colorssd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=543",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",
-		"channelName": "Rishtey",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/279/jio_tv/index.m3u8",
-		"contentId": "colorsrishtey"
 	},
 	{
 		"channelCat": "Movies",
@@ -1475,17 +1702,6 @@
 		"channelName": "DD Punjabi",
 		"channelUrl": "https://delta32tatasky.akamaized.net/out/i/1739529.mpd",
 		"contentId": "ddpunjabi"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=191",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",
-		"channelName": "DD National",
-		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3569776.mpd",
-		"contentId": "ddnational"
 	},
 	{
 		"channelCat": "Movies",
@@ -1809,85 +2025,12 @@
 		"contentId": "sangeetbhojpuri"
 	},
 	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
-		"channelName": "Sony HD",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8",
-		"contentId": "sony_hd_tv"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=15",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
-		"channelName": "Sony HD + 1",
-		"channelUrl": "http://watchindia.net:8880/live/84287/78681/2141.ts",
-		"contentId": "sony_hd_tv1"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=556",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
-		"channelName": "SET",
-		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd",
-		"contentId": "set_sd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"oDPOg1OnE7nc35NpbFtS4Q\",\"kid\":\"/PkBJwRfXtq8XZSpMvXG/g\"}]}",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
-		"channelName": "Sony SAB",
-		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd",
-		"contentId": "sonysab_sd_tv"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-		"channelName": "Sony SAB HD",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD",
-		"contentId": "sonysab_hd_tv"
-	},
-	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
 		"channelName": "Sony MAX 2",
 		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
 		"contentId": "sonymax2_tv"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"channelLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png",
-		"channelName": "Sony Max",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8?HjFreeTV=MAXSD",
-		"contentId": "sonymax_sd_tv"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-		"channelName": "Sony Max HD",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
-		"contentId": "sonymax_hd_tv"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
-		"channelName": "Sony Pal",
-		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
-		"contentId": "sonypal_tv"
 	},
 	{
 		"channelCat": "Movies",
@@ -1946,39 +2089,6 @@
 		"contentId": "sonyyay_tv"
 	},
 	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"fTRuPQklz2gzsSlhzXTKgA\",\"kid\":\"u7w2pFx6XsSHjgTEN4U7CQ\"}]}",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310",
-		"channelName": "Star Bharat HD",
-		"channelUrl": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd",
-		"contentId": "starbharathd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"86s9DyvPSvwJk0JJXdWL1Q\",\"kid\":\"Sz1NqJAvT3yuTHdPvfQgKQ\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
-		"channelName": "Star GOLD HD",
-		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
-		"contentId": "stargoldhd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=245",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
-		"channelName": "Star GOLD HD +1",
-		"channelUrl": "http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test",
-		"contentId": "stargoldhd1"
-	},
-	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -2004,28 +2114,6 @@
 		"channelName": "Star GOLD Select HD",
 		"channelUrl": "https://rana-pk.xyz/STARZyy/app/play.m3u8?id=48108",
 		"contentId": "stargoldselecthd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"BiTNLoAjrsXatKgrICCq9w\",\"kid\":\"HL4pP9w4XayMDVArBPM45A\"}]}",
-		"channelLogo": "https://yt3.ggpht.com/ytc/AKedOLQrjMuRVX9DRXurDqT_E9bHnH7qn1anSlIM5rSlqAg=s900-c-k-c0x00ffffff-no-rj",
-		"channelName": "Star PLUS HD",
-		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd",
-		"contentId": "starplushd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": true,
-		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"R48SzfC1ADlLZhIBJKWRgQ\",\"kid\":\"Lskd73XwXbm7Op+Psv4NYQ\"}]}",
-		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7407/567407-h",
-		"channelName": "Star Utsav",
-		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd",
-		"contentId": "starutsav"
 	},
 	{
 		"channelCat": "Entertainment",
@@ -2764,17 +2852,6 @@
 		"contentId": "zeeaction"
 	},
 	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=523",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",
-		"channelName": "Zee Anmol",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/473/jio_tv/index.m3u8",
-		"contentId": "zeeanmol"
-	},
-	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -3077,28 +3154,6 @@
 		"contentId": "zeebusiness"
 	},
 	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=503",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-		"channelName": "Zee Cinema HD",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/165/jio_tv/index.m3u8",
-		"contentId": "zeecinemahd"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=123",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",
-		"channelName": "Zee Cinema",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/484/jio_tv/index.m3u8",
-		"contentId": "zeecinema"
-	},
-	{
 		"channelCat": "News",
 		"channelLang": "Hindi",
 		"drm": false,
@@ -3207,28 +3262,6 @@
 		"channelName": "Zee Uttar Pradesh Uttarakhand",
 		"channelUrl": "https://highrisk.select/jiotv/app/live/572/jio_tv/index.m3u8",
 		"contentId": "zeeupuk"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=63",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
-		"channelName": "Zee TV HD",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/167/jio_tv/index.m3u8",
-		"contentId": "zeetvhd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"drm": false,
-		"drmType": "clearkey",
-		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=557",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",
-		"channelName": "Zee TV",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1351/jio_tv/index.m3u8",
-		"contentId": "zeetvsd"
 	},
 	{
 		"channelCat": "Entertainment",
