@@ -737,7 +737,7 @@
 	{
 		"channelCat": "Sports",
 		"channelLang": "English",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png",
 		"channelName": "Sony Sports Ten 1 HD",
 		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8?HjFreeTV=TEN1HD",
 		"contentId": "sonyten1_hd_tv"
@@ -756,7 +756,7 @@
 	{
 		"channelCat": "Sports",
 		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png",
 		"channelName": "Sony Sports Ten 2 HD",
 		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8?HjFreeTV=TEN2HD",
 		"contentId": "sonyten2_hd_tv"
@@ -775,7 +775,7 @@
 	{
 		"channelCat": "Sports",
 		"channelLang": "Hindi",
-		"channelLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png",
 		"channelName": "Sony Sports Ten 3 HD",
 		"channelUrl": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8?HjFreeTV=TEN3HD",
 		"contentId": "sonyten3_hd_tv"
@@ -809,7 +809,7 @@
 	},
 	{
 		"channelCat": "Sports",
-		"channelLang": "Hindi, Tamil, Telugu",
+		"channelLang": "English",
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"4JqejHxzQptO8Lcwd2flaA\",\"kid\":\"Cnf4d4eCSCmSYsyIr3v65A\"}],\"type\":\"temporary\"}",
@@ -817,6 +817,50 @@
 		"channelName": "Sony Sports Ten 5 HD",
 		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/5742257.mpd",
 		"contentId": "sonyten5hd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"jkYq/WFfsIzeuoraGm0deA\",\"kid\":\"GS3V8HedWYOjqhgnap+3GQ\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",
+		"channelName": "Sports 18 - 1 HD",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd",
+		"contentId": "sports18_1hd"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"RNaG6xucnR8YwMaI7zHVqw\",\"kid\":\"GyFAhdjsVIaPZib3DLl0XA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",
+		"channelName": "Sports 18 - 1",
+		"channelUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd",
+		"contentId": "sports18_1"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"hm79+lyFduj0lgGDQCVXPg\",\"kid\":\"fkjQWFunRauRphGzqdOa0g\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",
+		"channelName": "Eurosport",
+		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/4326706.mpd",
+		"contentId": "eurosport_tv"
+	},
+	{
+		"channelCat": "Sports",
+		"channelLang": "English",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"rLvb5Bcb/toaBamKcymQmg\",\"kid\":\"cRGJZXxjQKa5he0NeOuyNA\"}],\"type\":\"temporary\"}",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52856-k984c4vc-v1/imageContent-52856-k984c4vc-m1.png",
+		"channelName": "1 Sports",
+		"channelUrl": "https://delta7tatasky.akamaized.net/out/i/4326721.mpd",
+		"contentId": "1sports_tv"
 	},
 	{
 		"channelCat": "Kids",
