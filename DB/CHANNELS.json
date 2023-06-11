@@ -529,7 +529,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"IeoRWP5LQsV8xxrnRUbx6g\",\"kid\":\"2AG8aWL9Q8e0RRbbMYr8rQ\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-176/list/1170x658withlogo_673971588.jpg",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png",
 		"channelName": "Zee Classic",
 		"channelUrl": "https://delta4tatasky.akamaized.net/out/i/3771185.mpd",
 		"contentId": "zeeclassic"
@@ -559,7 +559,7 @@
 	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
-		"drm": false,
+		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"2tJ+E5KM1pr1Gp0sLrAigQ\",\"kid\":\"EeF1mRNQRmKEnSgstb8a/w\"}],\"type\":\"temporary\"}",
 		"channelLogo": "http://v3img.voot.com/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",
