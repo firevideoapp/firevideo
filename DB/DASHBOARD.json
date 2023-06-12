@@ -1,20 +1,20 @@
 [
 	{
-            "contentId": "starsports1hindihd",
-            "image": "https://img1.hotstarext.com/image/upload/f_auto,q_100,w_1280/sources/r1/cms/prod/4585/1534585-h-161abf4e8f55",
-            "title": "Final: Australia vs India",
-            "description": "Watch on Star Sports Network",
-            "type": "Channel",
+            "contentId": "badtameezdil_2023_minitv",
+            "image": "https://m.media-amazon.com/images/S/pv-target-images/4bd6cfd18da498c18ef5d090e0cfb0b445196e137f83e78435a72307476a042c._SX1280_.jpg",
+            "title": "Badtameez Dil",
+            "description": "MiniTV Series",
+            "type": "Show",
             "url": "",
             "videoUrl": ""
 	},
 	{
-            "contentId": "mumbaikar_2023_hi",
-            "image": "https://v3img.voot.com/resizeHigh,w_1280,h_720/v3Storage/assets/mumbaikar-16x9-1685618805916.jpg?imformat=chrome",
-            "title": "Mumbaikar",
-            "description": "Exclusive World Premiere",
+            "contentId": "ponniyinselvan2_ta",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/et00348725-plkmgwcgst-landscape.jpg",
+            "title": "Ponniyin Selvan: Part II",
+            "description": "Available in Tamil and Hindi",
             "type": "Movie",
-            "url": "https://sbrapid.com/i71dop3q5hpl.html",
+            "url": "https://ahvsh.com/e/qc2zba2yfj3l",
             "videoUrl": ""
 	},
 	{
@@ -22,33 +22,6 @@
             "image": "https://v3img.voot.com/resizeHigh,w_1280,h_720/v3Storage/assets/asur-2_launch-16x9-1685553119881.jpg?imformat=chrome",
             "title": "Asur Season 2",
             "description": "All Episodes Now Streaming",
-            "type": "Show",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "cityofdreams_hi",
-            "image": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/8868/1528868-i-56fe6093c152",
-            "title": "City of Dreams Season 3",
-            "description": "New Season - Hotstar Specials",
-            "type": "Show",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "bhediya_hi",
-            "image": "https://m.media-amazon.com/images/M/MV5BNDdjYTFiZGEtYmU5MC00MzY2LTg3NDEtY2JkZTgzOGE2YzA0XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V_SX1280_.jpg",
-            "title": "Bhediya",
-            "description": "World Digital Premiere",
-            "type": "Movie",
-            "url": "https://sbrapid.com/bllhc3jg97n6.html",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "citadel_2023_en",
-            "image": "https://m.media-amazon.com/images/S/pv-target-images/dfa539717409b2ec7800839cf0a0265a9376378eff070f3f60e765c9ea8f2c64._V_SX1280_.png",
-            "title": "Citadel",
-            "description": "Amazon Original",
             "type": "Show",
             "url": "",
             "videoUrl": ""
