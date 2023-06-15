@@ -5,7 +5,7 @@
 		"drm": true,
 		"drmType": "clearkey",
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"jAkR35yKmQZAU/hMBi2+EA\",\"kid\":\"SDbR0rMeR2W5sJ4rAKB2Pg\"}],\"type\":\"temporary\"}",
-		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",
+		"channelLogo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png",
 		"channelName": "DD Sports",
 		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2112645.mpd",
 		"contentId": "ddsports"
