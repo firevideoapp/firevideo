@@ -731,7 +731,7 @@
 		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"jAkR35yKmQZAU/hMBi2+EA\",\"kid\":\"SDbR0rMeR2W5sJ4rAKB2Pg\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",
 		"channelName": "DD Sports",
-		"channelUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd",
+		"channelUrl": "https://delta9tatasky.akamaized.net/out/i/2112645.mpd",
 		"contentId": "ddsports"
 	},
 	{
