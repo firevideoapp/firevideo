@@ -1,5 +1,33 @@
 [
 	{
+        "dateAdded": "15-06-2023-10:45:12 AM",
+        "provider": "wow",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "yeashiqui_woworgs",
+        "showName": "Ye Ashiqui",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/yeashiqui_woworgs.png",
+        "showArt": "https://firevideo.vercel.app/images/yeashiqui_woworgs_land.png",
+        "keywords": "ye ashiqui wow web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, sanjay bharadwaj, khushbu, hiral radadiya,",
+        "showGenre": "Romance, Drama",
+        "showStory": "Talking about the story of this web series, the story is very good and you are going to see good scenes in this web series and this web series is full of romance. Popular actress is going to be seen in this web series."
+    },
+	{
+        "dateAdded": "15-06-2023-10:40:12 AM",
+        "provider": "primevideo",
+        "tmdb": "227807",
+        "adult": true,
+        "contentId": "jeekarda_2023_hi",
+        "showName": "Jee Karda",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BYjY5NGUyMjAtMWQwYi00ZjA2LWE4ZjktNWM4NDAxZWYyMzg5XkEyXkFqcGdeQXVyMTIxMDk2NDE4._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/848c4fb468b485133115db1e96963fc7e5d10cf04e79c9789128c4ce9e3aeffb._V_SX1920_.jpg",
+        "keywords": "jee karda prime video web series, 2023 web series, tamannaah bhatia, suhail nayyar, aashim gulati, anya singh, hussain dalal, samvedna suwalka,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Revolves around seven childhood friends who discover that life at 30 is definitely not what they had imagined while growing up."
+    },
+	{
         "dateAdded": "15-06-2023-10:20:12 AM",
         "provider": "primeshots",
         "tmdb": "",
