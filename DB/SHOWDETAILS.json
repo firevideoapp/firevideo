@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "mastix_2023_moodx",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://ahvsh.com/e/f0e5ulh8y2l7"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "siskiyaans4p1",
 		"seasons": [
 			{
