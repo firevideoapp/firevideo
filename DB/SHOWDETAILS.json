@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "adlabadli_wowenter",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 02",
+						"epNo": 1,
+						"epUrl": "https://sblona.com/d0yze35t30b3.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "mastix_2023_moodx",
 		"seasons": [
 			{
