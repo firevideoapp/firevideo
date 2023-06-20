@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "20-06-2023-07:50:12 PM",
+        "provider": "jiocinema",
+        "tmdb": "130780",
+        "adult": false,
+        "contentId": "biggbossott_hi",
+        "showName": "Bigg Boss OTT",
+        "showLang": "Hindi",
+        "showImage": "https://v3img.voot.com/resizeMedium,w_300,h_570/v3Storage/assets/3x4-1687168088899.jpg?imformat=chrome",
+        "showArt": "https://v3img.voot.com/v3Storage/assets/bbo-episode-stream-16x9-1687168050669.jpg",
+        "keywords": "bigg boss ott, bigg boss ott season 2, jiocinema,",
+        "showGenre": "Reality",
+        "showStory": "This time, Janta is the ASLI BOSS! High-octane multi-camera 24 hours LIVE channel, action-packed latest episodes and get to make crucial decisions for the housemates – all this and more on this season of Bigg Boss OTT. Get ready to experience Bigg Boss OTT Like Never Before!"
+    },
+	{
         "dateAdded": "20-06-2023-03:40:12 PM",
         "provider": "primeshots",
         "tmdb": "",
