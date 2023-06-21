@@ -1,5 +1,47 @@
 [
 	{
+        "dateAdded": "21-06-2023-07:22:12 AM",
+        "provider": "primeshots",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "akeli_2023_primeshots",
+        "showName": "Akeli",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/akeli_primeshots.png",
+        "showArt": "https://firevideo.vercel.app/images/akeli_primeshots_land.png",
+        "keywords": "akeli series, akeli primeshots, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, jinnie jaaz, jinni jaaz,",
+        "showGenre": "Drama, Romance",
+        "showStory": "A girl lives alone in her flat. One day, a boy goes to her flat and makes a physical relationship with her. The girl starts liking the boy and makes him her boyfriend. What will happen next?"
+    },
+	{
+        "dateAdded": "21-06-2023-07:20:12 AM",
+        "provider": "wowenter",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "ladiestailor_wowenter",
+        "showName": "Ladies Tailor",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/ladiestailor_wowent.png",
+        "showArt": "https://firevideo.vercel.app/images/ladiestailor_wowent_land.png",
+        "keywords": "ladies tailor, ladies tailor wow series, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, leena singh, mahi kaur, sana sundi,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Apne Gaon ka sabse Mashoor Ladies Tailor Girdhari Lal apni dukaan par apne hi dost ke bete Mohan ko ladies kapdon ki silaayi ke liye kaam par rakhta hai. Ab Jaise hi Mohan apne kaam ke dauraan Girdhari Lal ki beti Gulaabo ko Pehli baar dekhta hai ussi waqt uski khubsurati ko dekhkar apna dil haar baithta hai aur uske khubsurat badan ka maza lene ka khawab dekhne lagta hai. Lekin ek din Mohan ke saamne uski Chulbuli Gulaabo ka aisa Raaz aata hai Jo uske hosh uda deta hai."
+    },
+	{
+        "dateAdded": "21-06-2023-06:40:12 AM",
+        "provider": "moodx",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "mastix_2023_moodx",
+        "showName": "Masti X",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/mastix_moodx.png",
+        "showArt": "https://firevideo.vercel.app/images/mastix_moodx_land.png",
+        "keywords": "masti x web series, masti x moodx web series, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, shakespeare, pihu sharma,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Masti X (2023) MoodX Web Series."
+    },
+	{
         "dateAdded": "20-06-2023-07:50:12 PM",
         "provider": "jiocinema",
         "tmdb": "130780",
@@ -12,20 +54,6 @@
         "keywords": "bigg boss ott, bigg boss ott season 2, jiocinema,",
         "showGenre": "Reality",
         "showStory": "This time, Janta is the ASLI BOSS! High-octane multi-camera 24 hours LIVE channel, action-packed latest episodes and get to make crucial decisions for the housemates – all this and more on this season of Bigg Boss OTT. Get ready to experience Bigg Boss OTT Like Never Before!"
-    },
-	{
-        "dateAdded": "20-06-2023-03:40:12 PM",
-        "provider": "primeshots",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "akeli_2023_primeshots",
-        "showName": "Akeli",
-        "showLang": "Hindi",
-        "showImage": "https://firevideo.vercel.app/images/akeli_primeshots.png",
-        "showArt": "https://firevideo.vercel.app/images/akeli_primeshots_land.png",
-        "keywords": "akeli series, akeli primeshots, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, jinnie jaaz, jinni jaaz,",
-        "showGenre": "Drama, Romance",
-        "showStory": "A girl lives alone in her flat. One day, a boy goes to her flat and makes a physical relationship with her. The girl starts liking the boy and makes him her boyfriend. What will happen next?"
     },
 	{
         "dateAdded": "20-06-2023-12:00:12 AM",
@@ -68,20 +96,6 @@
         "keywords": "adla badli, adla badli wow series, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, pooja poddar, sana asundi, soni jha,",
         "showGenre": "Drama, Romance",
         "showStory": "Shaweta apne Husband Dheeraj ke sath achi khasi married life Jee rahi hoti hai. Lekin Dusri traf Uske Husband Dheeraj Ko uski Shadi Shuda Zindagi achanak se bore lagne lagti hai. Ab Woh apni Shadi Shuda Zindagi ko interesting banane ke liye kuch aisa karna chahta hai Jo usne Aaj Tak na kiya ho. Tabhi Uska Purana dost Ranjan usko apni Shadi Shuda Zindagi interesting banane ke liye aisa raasta batata hai Jo"
-    },
-	{
-        "dateAdded": "16-06-2023-11:50:12 PM",
-        "provider": "moodx",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "mastix_2023_moodx",
-        "showName": "Masti X",
-        "showLang": "Hindi",
-        "showImage": "https://firevideo.vercel.app/images/mastix_moodx.png",
-        "showArt": "https://firevideo.vercel.app/images/mastix_moodx_land.png",
-        "keywords": "masti x web series, masti x moodx web series, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, shakespeare, pihu sharma,",
-        "showGenre": "Drama, Romance",
-        "showStory": "Masti X (2023) MoodX Web Series."
     },
 	{
         "dateAdded": "16-06-2023-12:00:12 AM",
@@ -138,20 +152,6 @@
         "keywords": "mr teacher series, mr teacher primeshots, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, shayna khatri, zoey thakur,",
         "showGenre": "Drama, Romance",
         "showStory": "This is the story of a married couple who live in a house. The husband doesn’t fully satisfy his wife, and because of this, the wife has an affair."
-    },
-	{
-        "dateAdded": "14-06-2023-11:20:12 AM",
-        "provider": "wowenter",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "ladiestailor_wowenter",
-        "showName": "Ladies Tailor",
-        "showLang": "Hindi",
-        "showImage": "https://firevideo.vercel.app/images/ladiestailor_wowent.png",
-        "showArt": "https://firevideo.vercel.app/images/ladiestailor_wowent_land.png",
-        "keywords": "ladies tailor, ladies tailor wow series, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, leena singh, mahi kaur, sana sundi,",
-        "showGenre": "Drama, Romance",
-        "showStory": "Apne Gaon ka sabse Mashoor Ladies Tailor Girdhari Lal apni dukaan par apne hi dost ke bete Mohan ko ladies kapdon ki silaayi ke liye kaam par rakhta hai. Ab Jaise hi Mohan apne kaam ke dauraan Girdhari Lal ki beti Gulaabo ko Pehli baar dekhta hai ussi waqt uski khubsurati ko dekhkar apna dil haar baithta hai aur uske khubsurat badan ka maza lene ka khawab dekhne lagta hai. Lekin ek din Mohan ke saamne uski Chulbuli Gulaabo ka aisa Raaz aata hai Jo uske hosh uda deta hai."
     },
 	{
         "dateAdded": "13-06-2023-07:00:12 PM",
