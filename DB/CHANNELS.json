@@ -1,5 +1,16 @@
 [
 	{
+		"channelCat": "Music",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "",
+		"channelLogo": "",
+		"channelName": "FireMusic Test",
+		"channelUrl": "https://f53112b70bc31005.mediapackage.ap-south-1.amazonaws.com/out/v1/7ab7f556e958416bbd1200bf3e243a90/index.m3u8",
+		"contentId": "firemusic"
+	},
+	{
 		"channelCat": "Sports",
 		"channelLang": "Hindi",
 		"drm": true,
