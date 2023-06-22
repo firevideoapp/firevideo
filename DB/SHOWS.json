@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "22-06-2023-04:50:12 PM",
+        "provider": "primevideo",
+        "tmdb": "132117",
+        "adult": false,
+        "contentId": "farzi_prime_2023",
+        "showName": "Farzi",
+        "showLang": "Hindi, Tamil, Telugu, Kannada, Malayalam",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BNThlNGZjZDQtYzJjMi00MzM4LWFkNjctNDMwZmFjNWJkM2I4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8aed532f0875925f72c4012aab688ed409773ecbfb3b18e1a39cd9ad1a4dd485._V_SX1920_.jpg",
+        "keywords": "farzi prime video web series, farzi shahid kapoor series, farzi vijay sethupathi series, prime web series, crime web series, thriller web series, thrilling web series, crime thriller series, 2023 web series, vijay sethupathi, shahid kapoor, raashi khanna, raashii khanna, kay kay menon, regina cassandra, zakir hussain, bhuvan arora, amol palekar, kubbra sait, raj and dk web series,",
+        "showGenre": "Crime, Thriller",
+        "showStory": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller."
+    },
+	{
         "dateAdded": "21-06-2023-07:40:12 AM",
         "provider": "jiocinema",
         "tmdb": "130780",
@@ -1871,20 +1885,6 @@
         "keywords": "bigg boss season 16, bigg boss finale season 16, mc stan, salman khan, shiv thakare, tv shows,",
         "showGenre": "Reality",
         "showStory": "Bigg Boss 16 starts with a bang! Popular celebrities, 100 + Cameras and 100 days of non-stop entertainment! Salman Khan brings the brand new season of Bigg Boss where the contestants are in for a wild ride. Get ready for the high-octane fights and uncut drama, but remember there can only be one King of this jungle!"
-    },
-	{
-        "dateAdded": "10-02-2023-04:00:12 PM",
-        "provider": "primevideo",
-        "tmdb": "132117",
-        "adult": false,
-        "contentId": "farzi_prime_2023",
-        "showName": "Farzi",
-        "showLang": "Hindi, Tamil, Telugu, Kannada, Malayalam",
-        "showImage": "https://m.media-amazon.com/images/M/MV5BNThlNGZjZDQtYzJjMi00MzM4LWFkNjctNDMwZmFjNWJkM2I4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._UY500_UX667_RI_V_TTW_.jpg",
-        "showArt": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8aed532f0875925f72c4012aab688ed409773ecbfb3b18e1a39cd9ad1a4dd485._V_SX1920_.jpg",
-        "keywords": "farzi prime video web series, farzi shahid kapoor series, farzi vijay sethupathi series, prime web series, crime web series, thriller web series, thrilling web series, crime thriller series, 2023 web series, vijay sethupathi, shahid kapoor, raashi khanna, raashii khanna, kay kay menon, regina cassandra, zakir hussain, bhuvan arora, amol palekar, kubbra sait, raj and dk web series,",
-        "showGenre": "Crime, Thriller",
-        "showStory": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller."
     },
 	{
         "dateAdded": "10-02-2023-03:00:12 PM",
