@@ -1,5 +1,35 @@
 [
   {
+    "dateAdded": "24-06-2023-12:30:00 PM",
+    "provider": "primevideo, voot, epicon, appletv",
+    "tmdb": "325892",
+    "adult": true,
+    "id": "hunterr_hi",
+    "name": "Hunterrr",
+    "language": "Hindi",
+    "banner": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/hunterrr-et00027635-18-01-2021-03-14-21.jpg",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/97816a49b3f6c0c8fb997459359a4a90dc9011c3fbca15a094ca3f411ffeb4a8._SX1080_.jpg",
+    "genre": "Drama, Romance",
+    "keywords": "hunterr movie, hunter movie, hunterr hindi movie, romantic movies, romance movies, 2015 hindi movies, adult movies, gulshan devaiah, radhika apte movies, sai tamhankar movies, sagar deshmukh, vaibhav tatwawadi movies, suraj jagan, kiran khoje,",
+    "description": "An ordinary bachelor pursues girls like a hunter, but not with the intention of settling down in life.",
+    "stream": "https://ahvsh.com/e/26thlvmw40m4"
+  },
+  {
+    "dateAdded": "24-06-2023-12:20:51 PM",
+    "provider": "primevideo",
+    "tmdb": "919031",
+    "adult": true,
+    "id": "tikuwedssheru_2023_hi",
+    "name": "Tiku Weds Sheru",
+    "language": "Hindi",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNjEyNWYzYmQtZWE5My00NDhjLThjNTEtN2E5ZWZmN2RmN2NlXkEyXkFqcGdeQXVyODE5NzE3OTE@._UY500_UX667_RI_V_TTW_.jpg",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/dbcfb8a0972db7a2464b28ce88a6444120c9532055337eaf59574461649c1cba._V_SX1920_.jpg",
+    "genre": "Comedy, Drama, Romance",
+    "keywords": "tiku weds sheru hindi movie, 2023 hindi movies, primevideo, prime video, nawazuddin siddiqui, avneet kaur, akshat jain,",
+    "description": "Tiku, who looks at marriage as her escape to Mumbai from a local town to become an actress and Sheru, who has been working as a junior artist in the city for years. They get married and the comedy of errors for this couple starts",
+    "stream": "https://ahvsh.com/e/ykev5nhvn0fj"
+  },
+  {
     "dateAdded": "23-06-2023-11:00:57 PM",
     "provider": "jiocinema",
     "tmdb": "1143431",
@@ -58,21 +88,6 @@
     "keywords": "freaky ali hindi movie, 2016 hindi movies, comedy movies, sport movies, nawazuddin siddiqui, arbaaz khan, amy jackson, nikitin dheer, jas arora, seema biswas, asif basra, karishma kotak, jackie shroff, salman khan, salmaan khan, alam khan,",
     "description": "A debt collector becomes a golfing sensation.",
     "stream": "https://ahvsh.com/e/cutosqvrk31l"
-  },
-  {
-    "dateAdded": "23-06-2023-07:20:51 AM",
-    "provider": "primevideo",
-    "tmdb": "919031",
-    "adult": false,
-    "id": "tikuwedssheru_2023_hi",
-    "name": "Tiku Weds Sheru",
-    "language": "Hindi",
-    "banner": "https://m.media-amazon.com/images/M/MV5BNjEyNWYzYmQtZWE5My00NDhjLThjNTEtN2E5ZWZmN2RmN2NlXkEyXkFqcGdeQXVyODE5NzE3OTE@._UY500_UX667_RI_V_TTW_.jpg",
-    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/dbcfb8a0972db7a2464b28ce88a6444120c9532055337eaf59574461649c1cba._V_SX1920_.jpg",
-    "genre": "Comedy, Drama, Romance",
-    "keywords": "tiku weds sheru hindi movie, 2023 hindi movies, primevideo, prime video, nawazuddin siddiqui, avneet kaur, akshat jain,",
-    "description": "Tiku, who looks at marriage as her escape to Mumbai from a local town to become an actress and Sheru, who has been working as a junior artist in the city for years. They get married and the comedy of errors for this couple starts",
-    "stream": "https://ahvsh.com/e/ykev5nhvn0fj"
   },
   {
     "dateAdded": "23-06-2023-07:20:51 AM",
@@ -9910,21 +9925,6 @@
     "genre": "Drama, Romance",
     "description": "Archi, a local politician’s daughter, and Parshya, a fisherman’s son, fall in love resulting in violence between the families due to the stringent casteism in the village.",
     "stream": "https://sblona.com/nq9frj5crg0s.html"
-  },
-  {
-    "dateAdded": "01-03-2022-07:55:00 PM",
-    "provider": "primevideo, nf",
-    "tmdb": "325892",
-    "adult": true,
-    "id": "hunterr_hi",
-    "name": "Hunterrr",
-    "language": "Hindi",
-    "banner": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/hunterrr-et00027635-18-01-2021-03-14-21.jpg",
-    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/97816a49b3f6c0c8fb997459359a4a90dc9011c3fbca15a094ca3f411ffeb4a8._SX1080_.jpg",
-    "genre": "Drama, Romance",
-    "keywords": "hunterr movie, hunter movie, hunterr hindi movie, romantic movies, romance movies, 2015 hindi movies, adult movies, gulshan devaiah, radhika apte movies, sai tamhankar movies, sagar deshmukh, vaibhav tatwawadi movies, suraj jagan, kiran khoje,",
-    "description": "An ordinary bachelor pursues girls like a hunter, but not with the intention of settling down in life.",
-    "stream": "https://sblona.com/juti6evmni1x.html"
   },
   {
     "dateAdded": "01-03-2022-05:00:06 PM",
