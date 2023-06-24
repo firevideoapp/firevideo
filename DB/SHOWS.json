@@ -1,6 +1,20 @@
 [
 	{
         "dateAdded": "24-06-2023-10:00:12 AM",
+        "provider": "hs",
+        "tmdb": "228658",
+        "adult": false,
+        "contentId": "keralacrimefiles_2023_hi",
+        "showName": "Kerala Crime Files: Shiju, Parayil Veedu, Neendakara",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BMmQ5OGRmNDktMjEyZi00NGUwLWFjYTUtZjM5OTdlZGY3N2MxXkEyXkFqcGdeQXVyMTU4Nzg2MTc4._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/2360/1542360-h-d851485d8e56",
+        "keywords": "kerala crime files, hotstar, 2023 web series, Navas Vallikkunnu, Sudhi Mirash, lal, Aju Varghese, Sanju Sanichen, Devaki Rajendran, Zhinz Shan,",
+        "showGenre": "Crime, Thriller",
+        "showStory": "A gruesome murder that happened at a lodging called Grand Tourist Home."
+    },
+	{
+        "dateAdded": "24-06-2023-10:00:12 AM",
         "provider": "jiocinema",
         "tmdb": "130780",
         "adult": false,
