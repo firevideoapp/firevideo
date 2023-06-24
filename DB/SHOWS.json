@@ -1,5 +1,33 @@
 [
 	{
+        "dateAdded": "24-06-2023-10:00:12 AM",
+        "provider": "jiocinema",
+        "tmdb": "130780",
+        "adult": false,
+        "contentId": "biggbossott_hi",
+        "showName": "Bigg Boss OTT",
+        "showLang": "Hindi",
+        "showImage": "https://v3img.voot.com/resizeMedium,w_300,h_570/v3Storage/assets/3x4-1687168088899.jpg?imformat=chrome",
+        "showArt": "https://v3img.voot.com/v3Storage/assets/bbo-episode-stream-16x9-1687168050669.jpg",
+        "keywords": "bigg boss ott, bigg boss ott season 2, jiocinema,",
+        "showGenre": "Reality",
+        "showStory": "This time, Janta is the ASLI BOSS! High-octane multi-camera 24 hours LIVE channel, action-packed latest episodes and get to make crucial decisions for the housemates – all this and more on this season of Bigg Boss OTT. Get ready to experience Bigg Boss OTT Like Never Before!"
+    },
+	{
+        "dateAdded": "24-06-2023-09:50:12 AM",
+        "provider": "wowenter",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "adlabadli_wowenter",
+        "showName": "Adla Badli",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/adlabadli_wowent.png",
+        "showArt": "https://firevideo.vercel.app/images/adlabadli_wowent_land.png",
+        "keywords": "adla badli, adla badli wow series, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, pooja poddar, sana asundi, soni jha,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Shaweta apne Husband Dheeraj ke sath achi khasi married life Jee rahi hoti hai. Lekin Dusri traf Uske Husband Dheeraj Ko uski Shadi Shuda Zindagi achanak se bore lagne lagti hai. Ab Woh apni Shadi Shuda Zindagi ko interesting banane ke liye kuch aisa karna chahta hai Jo usne Aaj Tak na kiya ho. Tabhi Uska Purana dost Ranjan usko apni Shadi Shuda Zindagi interesting banane ke liye aisa raasta batata hai Jo"
+    },
+	{
         "dateAdded": "21-06-2023-06:40:12 AM",
         "provider": "moodx",
         "tmdb": "",
@@ -12,20 +40,6 @@
         "keywords": "masti x web series, masti x moodx web series, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, shakespeare, pihu sharma,",
         "showGenre": "Drama, Romance",
         "showStory": "Masti X (2023) MoodX Web Series."
-    },
-	{
-        "dateAdded": "21-06-2023-07:40:12 AM",
-        "provider": "jiocinema",
-        "tmdb": "130780",
-        "adult": false,
-        "contentId": "biggbossott_hi",
-        "showName": "Bigg Boss OTT",
-        "showLang": "Hindi",
-        "showImage": "https://v3img.voot.com/resizeMedium,w_300,h_570/v3Storage/assets/3x4-1687168088899.jpg?imformat=chrome",
-        "showArt": "https://v3img.voot.com/v3Storage/assets/bbo-episode-stream-16x9-1687168050669.jpg",
-        "keywords": "bigg boss ott, bigg boss ott season 2, jiocinema,",
-        "showGenre": "Reality",
-        "showStory": "This time, Janta is the ASLI BOSS! High-octane multi-camera 24 hours LIVE channel, action-packed latest episodes and get to make crucial decisions for the housemates – all this and more on this season of Bigg Boss OTT. Get ready to experience Bigg Boss OTT Like Never Before!"
     },
 	{
         "dateAdded": "22-06-2023-11:50:12 PM",
@@ -124,20 +138,6 @@
         "keywords": "tohfa web series, tohfa ullu web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, shayna khatri, leena singh, rishabh srivastava, tarakesh chouhan,",
         "showGenre": "Drama, Romance",
         "showStory": "Montu arrives at the village to deliver a gift to his friend's wife from the city. During the time of Montu's stay at the village, he starts developing feelings for his friend's wife, Renu. Montu is at a crossroad where on one side he has his friendship and on the other, his desires and his sexual longing!"
-    },
-	{
-        "dateAdded": "17-06-2023-11:00:12 AM",
-        "provider": "wowenter",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "adlabadli_wowenter",
-        "showName": "Adla Badli",
-        "showLang": "Hindi",
-        "showImage": "https://firevideo.vercel.app/images/adlabadli_wowent.png",
-        "showArt": "https://firevideo.vercel.app/images/adlabadli_wowent_land.png",
-        "keywords": "adla badli, adla badli wow series, 2023 web series, hot web series, adult web series, sex web series, sexy web series, bold web series, pooja poddar, sana asundi, soni jha,",
-        "showGenre": "Drama, Romance",
-        "showStory": "Shaweta apne Husband Dheeraj ke sath achi khasi married life Jee rahi hoti hai. Lekin Dusri traf Uske Husband Dheeraj Ko uski Shadi Shuda Zindagi achanak se bore lagne lagti hai. Ab Woh apni Shadi Shuda Zindagi ko interesting banane ke liye kuch aisa karna chahta hai Jo usne Aaj Tak na kiya ho. Tabhi Uska Purana dost Ranjan usko apni Shadi Shuda Zindagi interesting banane ke liye aisa raasta batata hai Jo"
     },
 	{
         "dateAdded": "15-06-2023-10:45:12 AM",
