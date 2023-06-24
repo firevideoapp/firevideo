@@ -28,6 +28,13 @@
 		"icon": "/ullu_logo.jpg"
 	},
 	{
+		"id": "vivamax",
+		"name": "Vivamax",
+		"adult": true,
+		"web": "https://vivamax.net",
+		"icon": "/vivamax_logo.jpg"
+	},
+	{
 		"id": "moodx",
 		"name": "MoodX",
 		"adult": true,
