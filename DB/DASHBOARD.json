@@ -9,57 +9,12 @@
             "videoUrl": ""
 	},
 	{
-            "contentId": "ddsports",
-            "image": "https://firevideo.vercel.app/images/mpl2023.jpg",
-            "title": "Maharashtra Premier League",
-            "description": "Watch on DD Sports",
+            "contentId": "sonymax_hd_tv",
+            "image": "https://img.youtube.com/vi/QvBtrItOLzQ/maxresdefault.jpg",
+            "title": "Tonight | 8 PM",
+            "description": "On Sony MAX and MAX HD",
             "type": "Channel",
             "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "iloveyou_2023_hi",
-            "image": "https://v3img.voot.com/v3Storage/assets/ilu-without-cta-16x9-1686826502925.jpg",
-            "title": "I Love You",
-            "description": "New Movie",
-            "type": "Movie",
-            "url": "https://sblona.com/k7id1s3a278c.html",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "badtameezdil_2023_minitv",
-            "image": "https://m.media-amazon.com/images/S/pv-target-images/4bd6cfd18da498c18ef5d090e0cfb0b445196e137f83e78435a72307476a042c._SX1280_.jpg",
-            "title": "Badtameez Dil",
-            "description": "MiniTV Series",
-            "type": "Show",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "ponniyinselvan2_ta",
-            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/et00348725-plkmgwcgst-landscape.jpg",
-            "title": "Ponniyin Selvan: Part II",
-            "description": "Available in Tamil and Hindi",
-            "type": "Movie",
-            "url": "https://ahvsh.com/e/qc2zba2yfj3l",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "asur_hi_show",
-            "image": "https://v3img.voot.com/resizeHigh,w_1280,h_720/v3Storage/assets/asur-2_launch-16x9-1685553119881.jpg?imformat=chrome",
-            "title": "Asur Season 2",
-            "description": "All Episodes Now Streaming",
-            "type": "Show",
-            "url": "",
-            "videoUrl": ""
-	},
-	{
-            "contentId": "thekeralastory_2023",
-            "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/the-kerala-story-et00343918-1683025350.jpg",
-            "title": "The Kerala Story",
-            "description": "UNCOVERING THE TRUTH THAT WAS KEPT HIDDEN",
-            "type": "Movie",
-            "url": "https://sblona.com/05yjhqeopehe.html",
             "videoUrl": ""
 	}
 ]
