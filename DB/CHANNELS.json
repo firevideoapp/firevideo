@@ -1946,7 +1946,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=405",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
 		"channelName": "MTV Beats HD",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/753/jio_tv/index.m3u8",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8",
 		"contentId": "mtvbeatshd"
 	},
 	{
@@ -1957,7 +1957,7 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=236",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",
 		"channelName": "MTV Beats",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1400/jio_tv/index.m3u8",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8",
 		"contentId": "mtvbeatssd"
 	},
 	{
@@ -1968,8 +1968,19 @@
 		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=236",
 		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
 		"channelName": "MTV HD+",
-		"channelUrl": "https://highrisk.select/jiotv/app/live/1145/jio_tv/index.m3u8",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8",
 		"contentId": "mtvhdplus"
+	},
+	{
+		"channelCat": "Music",
+		"channelLang": "Hindi",
+		"drm": false,
+		"drmType": "clearkey",
+		"drmLicense": "https://techiesneh-auth-rocks.vercel.app/api/tsauth?id=236",
+		"channelLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
+		"channelName": "MTV",
+		"channelUrl": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_voot_MOB/Fallback/index.m3u8",
+		"contentId": "mtv"
 	},
 	{
 		"channelCat": "Entertainment",
