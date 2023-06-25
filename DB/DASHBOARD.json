@@ -16,14 +16,5 @@
             "type": "Channel",
             "url": "",
             "videoUrl": ""
-	},
-	{
-            "contentId": "goldminestv",
-            "image": "https://img.youtube.com/vi/uHd3BHUNzMg/maxresdefault.jpg",
-            "title": "Tune in Now",
-            "description": "Goldmines",
-            "type": "Channel",
-            "url": "",
-            "videoUrl": ""
 	}
 ]
