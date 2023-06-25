@@ -1,5 +1,20 @@
 [
   {
+    "dateAdded": "25-06-2023-09:00:00 PM",
+    "provider": "nf",
+    "tmdb": "918864",
+    "adult": false,
+    "id": "vaathi_2023_hi",
+    "name": "Sir (Vaathi) Hindi Dubbed",
+    "language": "Hindi",
+    "banner": "https://m.media-amazon.com/images/M/MV5BOTA0OTkxZjEtNTgwZC00NDgwLTljNDAtODhlMDBmMzU0N2EzXkEyXkFqcGdeQXVyMTMzNzIyNDc1._UY500_UX667_RI_V_TTW_.jpg",
+    "thumbnail": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/vaathi-et00335415-1663587908.jpg",
+    "genre": "Action, Drama",
+    "keywords": "vaathi in hindi, vaathi hindi dubbed movie, dhanush vaathi movie, 2023 hindi movies, 2023 hindi dubbed movies, action movies, drama movies, dhanush, samyuktha menon, sai kumar, samuthirakani, tanikella bharani, thotapalli madhu, narra srinu, pammi sai, hyper adhi, shah ra, adukalam naren, ilavarasu, rajendran, hareesh peradi, praveena,",
+    "description": "The life of a young man and his struggles against the privatization of education.",
+    "stream": "https://ahvsh.com/e/4rfb06jbp5su"
+  },
+  {
     "dateAdded": "25-06-2023-07:40:57 PM",
     "provider": "nf",
     "tmdb": "611359",
@@ -2490,23 +2505,8 @@
     "stream": "https://sblona.com/e9i0zj5rxxs3.html"
   },
   {
-    "dateAdded": "18-03-2023-02:05:00 PM",
-    "provider": "",
-    "tmdb": "918864",
-    "adult": false,
-    "id": "vaathi_2023_hi",
-    "name": "Vaathi",
-    "language": "Hindi",
-    "banner": "https://m.media-amazon.com/images/M/MV5BOTA0OTkxZjEtNTgwZC00NDgwLTljNDAtODhlMDBmMzU0N2EzXkEyXkFqcGdeQXVyMTMzNzIyNDc1._UY500_UX667_RI_V_TTW_.jpg",
-    "thumbnail": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/vaathi-et00335415-1663587908.jpg",
-    "genre": "Action, Drama",
-    "keywords": "vaathi in hindi, vaathi hindi dubbed movie, dhanush vaathi movie, 2023 hindi movies, 2023 hindi dubbed movies, action movies, drama movies, dhanush, samyuktha menon, sai kumar, samuthirakani, tanikella bharani, thotapalli madhu, narra srinu, pammi sai, hyper adhi, shah ra, adukalam naren, ilavarasu, rajendran, hareesh peradi, praveena,",
-    "description": "The life of a young man and his struggles against the privatization of education.",
-    "stream": "https://sblona.com/82eobdbb573d.html"
-  },
-  {
     "dateAdded": "18-03-2023-02:00:00 PM",
-    "provider": "",
+    "provider": "nf",
     "tmdb": "918864",
     "adult": false,
     "id": "vaathi_2023_ta",
