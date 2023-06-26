@@ -1,5 +1,25 @@
 [
 	{
+		"contentId": "bikaus1p1",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://ahvsh.com/e/lcfgyyfmhmwk"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://ahvsh.com/e/34q0235jn48f"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "keralacrimefiles_2023_hi",
 		"seasons": [
 			{
