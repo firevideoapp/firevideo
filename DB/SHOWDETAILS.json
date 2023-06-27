@@ -110,7 +110,8 @@
 						"epUrl": "https://ahvsh.com/e/xyfzlhlrh7i1"
 					}
 				],
-				"title": "Season 2"
+				"reverse": true,
+				"title": "Season 2",
 			}
 		]
 	},
