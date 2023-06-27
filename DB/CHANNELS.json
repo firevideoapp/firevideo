@@ -1,5 +1,16 @@
 [
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Marathi",
+		"drm": true,
+		"drmType": "clearkey",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"ubxF47Hp+pGtNiQ1iPgMng\",\"kid\":\"4WZ3OzDFXdOIcspNYhBHKQ\"}]}",
+		"channelLogo": "https://sund-images.sunnxt.com/125944/250x375_SUNMarathi_125944_04087179-6600-4344-8b68-47a3d57eab6b.jpg",
+		"channelName": "Sun Marathi",
+		"channelUrl": "https://jiolivestreaming.akamaized.net/bpk-tv/Sun_Marathi_MOB/WDVLive/index.mpd",
+		"contentId": "sunmarathi"
+	},
+	{
 		"channelCat": "Sports",
 		"channelLang": "Hindi",
 		"drm": true,
