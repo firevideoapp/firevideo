@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "nazuk_2023_primeshots",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://ahvsh.com/e/lqw27o55kwdy"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "bikaus1p1",
 		"seasons": [
 			{
