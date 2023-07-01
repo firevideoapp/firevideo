@@ -1,6 +1,20 @@
 [
 	{
         "dateAdded": "01-07-2023-06:40:12 PM",
+        "provider": "wowenter",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "mytuitionteacher_wowenter",
+        "showName": "My Tuition Teacher",
+        "showLang": "Hindi",
+        "showImage": "https://firevideo.vercel.app/images/mytuitionteacher_wowent.png",
+        "showArt": "https://firevideo.vercel.app/images/mytuitionteacher_wowent_land.jpeg",
+        "keywords": "my tuition teacher wow web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, urmi,",
+        "showGenre": "Romance, Drama",
+        "showStory": "Zaruri nahi kee aap jaisa sochte ho waisa hi ho.. Kabhi kabhi wasna jab had ko paar hoti hai.. To had ho jati hai.. Ek shaadi shuda teacher apni student ke romance me aisa duba kee usey ahsass hi nahi hua kee uski kismat us se ek khel khelne wali hai."
+    },
+	{
+        "dateAdded": "01-07-2023-06:40:12 PM",
         "provider": "wow",
         "tmdb": "",
         "adult": true,
