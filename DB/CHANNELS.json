@@ -446,10 +446,10 @@
 		"channelLang": "Hindi",
 		"drm": true,
 		"drmType": "clearkey",
-		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"86s9DyvPSvwJk0JJXdWL1Q\",\"kid\":\"Sz1NqJAvT3yuTHdPvfQgKQ\"}]}",
+		"drmLicense": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"86s9DyvPSvwJk0JJXdWL1Q\",\"kid\":\"Sz1NqJAvT3yuTHdPvfQgKQ\"}],\"type\":\"temporary\"}",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
 		"channelName": "Star GOLD HD",
-		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6298912.mpd",
+		"channelUrl": "https://delta10tatasky.akamaized.net/out/i/6575549.mpd",
 		"contentId": "stargoldhd"
 	},
 	{
