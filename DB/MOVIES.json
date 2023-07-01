@@ -1,6 +1,22 @@
 [
   {
     "dateAdded": "30-06-2023-11:30:00 PM",
+    "provider": "primevideo, hungamaplay",
+    "tmdb": "120101",
+    "adult": false,
+    "id": "kyaasuperkoolhainhum_2012_hi",
+    "name": "Kyaa Super Kool Hain Hum",
+    "language": "Hindi",
+    "banner": "https://m.media-amazon.com/images/M/MV5BN2JlZGYzY2EtYWUzNC00OWMwLWEyZjktNmZkNGM4Mjg4ZDdlXkEyXkFqcGdeQXVyODE5NzE3OTE@._UY500_UX667_RI_V_TTW_.jpg",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ed0d4a7020958c8a78c92eb7c2d51904658618a83c1200a373e02995948f7f73._V_SX1920_.png",
+	"thumbCenter": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5e90b4b86850e2d9bc12b29c200568bec7098549a69c889e1e31c1a6f2617a81._V_SX1920_.jpg",
+    "genre": "Comedy",
+	"keywords": "kyaa super kool hain hum, 2012 hindi movies, tusshar kapoor, ritesh deshmukh, sarah-jane dias, anupam kher, neha sharma,",
+    "description": "Adi and Sid want to make big but always run out of luck and series of confusion start taking place when they reach Goa.",
+    "stream": "https://ahvsh.com/e/z79909a2wufw"
+  },
+  {
+    "dateAdded": "30-06-2023-11:30:00 PM",
     "provider": "",
     "tmdb": "1146339",
     "adult": false,
