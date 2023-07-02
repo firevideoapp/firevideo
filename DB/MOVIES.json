@@ -1,5 +1,35 @@
 [
   {
+    "dateAdded": "02-07-2023-09:45:00 AM",
+    "provider": "vivamax",
+    "tmdb": "1135718",
+    "adult": true,
+    "id": "bugaw_tagalog",
+    "name": "Bugaw",
+    "language": "Tagalog",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMGQ0ZmIxZTItMDZlOC00OGZjLTk3ZDQtZGRmNmVkYzQ0N2IyXkEyXkFqcGdeQXVyNDQ4NjgyNzg@._UY500_UX667_RI_V_TTW_.jpg",
+    "thumbnail": "https://d1qfpvemzhsbpm.cloudfront.net/images/C00269_KA_MAIN_HORIZ_LM_BUGAW.720.jpg",
+    "genre": "Drama, Romance",
+    "keywords": "bugaw tagalog movie, vivamax, tagalog movies, Alexa Ocampo, Clifford Pusing, Jay Manalo, MJ Cayabyab, Manu Respall, Gwen Garci, Ataska Mercado, Shiena Yu, Clarence Sesbreño,",
+    "description": "A 1950s housewife Bugaw Movie with her husband in a utopian experimental community begins to worry that his glamorous company could be hiding disturbing secrets.",
+    "stream": "https://ahvsh.com/e/txpq6ys4ennd"
+  },
+  {
+    "dateAdded": "02-07-2023-09:40:00 AM",
+    "provider": "jiocinema",
+    "tmdb": "",
+    "adult": false,
+    "id": "sajanrejhoothmatbolo_2023_bhoj",
+    "name": "Sajan Re Jhooth Mat Bolo",
+    "language": "Bhojpuri",
+    "banner": "https://v3img.voot.com/resizeMedium,w_300,h_570/v3Storage/assets/3x4-1688124584335.jpg?imformat=chrome",
+    "thumbnail": "https://v3img.voot.com/resizeMedium,w_1080,h_720/jioimage/newcpp/649e7f8d97d3c867e351e342/649e7f8d97d3c867e351e342_1688109985038_aa.jpg",
+    "genre": "Comedy, Romance",
+	"keywords": "sajan re jhooth mat bolo bhojpuri movie, 2023 bhojpuri movies, pradeep pandey, harshika poonacha,",
+    "description": "Satya, his village's popular liar, gets into a difficult situation when his friends challenge him to get a girl named Lovely fall in love with him. Further, he makes up a false reason to get rid of the situation. What did he plan this time?",
+    "stream": "https://ahvsh.com/e/e8e3q53ywntr"
+  },
+  {
     "dateAdded": "01-07-2023-06:40:00 PM",
     "provider": "primevideo, hungamaplay",
     "tmdb": "120101",
