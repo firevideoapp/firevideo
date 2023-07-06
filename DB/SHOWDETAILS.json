@@ -1,5 +1,25 @@
 [
 	{
+		"contentId": "lovegurus3p2",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://ahvsh.com/e/nza8k6fyt00n"
+					},
+					{
+						"epName": "Episode 04",
+						"epNo": 4,
+						"epUrl": "https://ahvsh.com/e/dlnvmxono3e4"
+					}
+				],
+				"title": "Season 3"
+			}
+		]
+	},
+	{
 		"contentId": "bikaus1p2",
 		"seasons": [
 			{
@@ -72,12 +92,12 @@
 					{
 						"epName": "Episode 01",
 						"epNo": 1,
-						"epUrl": "https://ahvsh.com/e/csdw3k8quakl"
+						"epUrl": "https://ahvsh.com/w/p3r1c0v9fk76"
 					},
 					{
 						"epName": "Episode 02",
 						"epNo": 2,
-						"epUrl": "https://ahvsh.com/e/1vvuy3h5g31e"
+						"epUrl": "https://ahvsh.com/w/v7u604kcmc49"
 					}
 				],
 				"title": "Season 3"
