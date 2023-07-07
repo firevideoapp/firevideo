@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "07-07-2023-11:20:12 AM",
+        "provider": "jiocinema",
+        "tmdb": "130780",
+        "adult": false,
+        "contentId": "biggbossott_hi",
+        "showName": "Bigg Boss OTT",
+        "showLang": "Hindi",
+        "showImage": "https://v3img.voot.com/resizeMedium,w_300,h_570/v3Storage/assets/3x4-1687168088899.jpg?imformat=chrome",
+        "showArt": "https://v3img.voot.com/v3Storage/assets/bbo-episode-stream-16x9-1687168050669.jpg",
+        "keywords": "bigg boss ott, bigg boss ott season 2, jiocinema,",
+        "showGenre": "Reality",
+        "showStory": "This time, Janta is the ASLI BOSS! High-octane multi-camera 24 hours LIVE channel, action-packed latest episodes and get to make crucial decisions for the housemates – all this and more on this season of Bigg Boss OTT. Get ready to experience Bigg Boss OTT Like Never Before!"
+    },
+	{
         "dateAdded": "07-07-2023-12:10:12 AM",
         "provider": "voovi",
         "tmdb": "",
@@ -40,20 +54,6 @@
         "keywords": "love guru 3 web series, love guru ullu web series, ullu web series, hindi web series, bold web series,hot web series, smita paul, suhana khan,",
         "showGenre": "Drama, Romance",
         "showStory": "Mini, a young college student faces difficulty in the matters of heart as she starts developing feelings for her professor, Varun. She calls Love Guru seeking advice on how to exhibit her feelings for Varun and Love Guru plays cupid as he brings the two together!"
-    },
-	{
-        "dateAdded": "06-07-2023-11:15:12 AM",
-        "provider": "jiocinema",
-        "tmdb": "130780",
-        "adult": false,
-        "contentId": "biggbossott_hi",
-        "showName": "Bigg Boss OTT",
-        "showLang": "Hindi",
-        "showImage": "https://v3img.voot.com/resizeMedium,w_300,h_570/v3Storage/assets/3x4-1687168088899.jpg?imformat=chrome",
-        "showArt": "https://v3img.voot.com/v3Storage/assets/bbo-episode-stream-16x9-1687168050669.jpg",
-        "keywords": "bigg boss ott, bigg boss ott season 2, jiocinema,",
-        "showGenre": "Reality",
-        "showStory": "This time, Janta is the ASLI BOSS! High-octane multi-camera 24 hours LIVE channel, action-packed latest episodes and get to make crucial decisions for the housemates – all this and more on this season of Bigg Boss OTT. Get ready to experience Bigg Boss OTT Like Never Before!"
     },
 	{
         "dateAdded": "05-07-2023-11:10:12 AM",
