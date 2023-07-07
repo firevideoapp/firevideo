@@ -7,14 +7,5 @@
             "type": "Movie",
             "url": "",
             "videoUrl": ""
-	},
-	{
-            "contentId": "biggbossott_hi",
-            "image": "https://v3img.voot.com/v3Storage/assets/bbo-episode-stream-16x9-1687168050669.jpg",
-            "title": "Bigg Boss OTT",
-            "description": "Everyday New Episode",
-            "type": "Show",
-            "url": "",
-            "videoUrl": ""
 	}
 ]
