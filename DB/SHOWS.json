@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "07-07-2023-11:10:12 PM",
+        "provider": "primevideo",
+        "tmdb": "201085",
+        "adult": true,
+        "contentId": "adhura_2023_hi",
+        "showName": "Adhura",
+        "showLang": "Hindi",
+        "showImage": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c7343b20d63328d8407004688f675715e1eff3e910796ecc3fd36663a9094327._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/936d83884cf1da359845a28ed9420ebcf053cf1af52fae0f3801c47497b5345c._V_SX1920_.jpg",
+        "keywords": "adhura prime series, adhura 2023 series, 2023 web series, rasika dugal, ishwak singh, rahul dev, zoa morani, priya banerjee,",
+        "showGenre": "Horror, Thriller",
+        "showStory": "Strange events take place in the Nilgiri Valley School that seem to be connected to Vedant, a 10-year-old new student. When the batch of 2007 returns for its reunion, Adhiraj Jaisingh, an ex-student must face what he did fifteen years ago. But things take a horrifying turn when Vedant and Adhiraj's paths collide. A dark secret begins to reveal itself threatening the lives of everyone on campus."
+    },
+	{
         "dateAdded": "07-07-2023-11:20:12 AM",
         "provider": "jiocinema",
         "tmdb": "130780",
