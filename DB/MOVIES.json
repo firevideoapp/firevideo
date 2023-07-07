@@ -1,6 +1,21 @@
 [
   {
-    "dateAdded": "08-03-2021-02:31:42 PM",
+    "dateAdded": "07-07-2023-05:50:42 PM",
+    "provider": "z5",
+    "tmdb": "964845",
+    "adult": false,
+    "id": "tarla_2023_hi",
+    "name": "Tarla",
+    "language": "Hindi",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMzFhMDI2MzQtMmIxYy00YzMxLTkwNzctMTRlMWIzMTYzYWUzXkEyXkFqcGdeQXVyMTI2MTUzNjA3._UY500_UX667_RI_V_TTW_.jpg",
+    "thumbnail": "https://images.ottplay.com/images/ia-767.jpg?impolicy=ottplay-20210210&width=1920&height=1080",
+    "genre": "Biography, Drama",
+	"keywords": "tarla, 2023 hindi movies, huma qureshi, sharib hashmi, bharati achrekar,",
+    "description": "The life of famous chef Tarla Dalal.",
+    "stream": "https://ahvsh.com/e/1p6t8bxifrh7"
+  },
+  {
+    "dateAdded": "07-07-2023-05:40:42 PM",
     "provider": "primevideo, appletv",
     "tmdb": "82698",
     "adult": false,
