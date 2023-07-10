@@ -1,5 +1,33 @@
 [
 	{
+        "dateAdded": "11-07-2023-12:00:12 AM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "anaris1p1",
+        "showName": "Anari Part 1",
+        "showLang": "Hindi, Tamil, Telugu",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/64ac2ff6a8889e0be346f163",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/64ac2ff1bcfbc80bd797abcb",
+        "keywords": "anari web series, anari ullu web series, ullu web series, hindi web series, bold web series,hot web series, anita jaiswal, priya gamre, muskan agarwal,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Raja, a special child living in a village gets married to Naina. Naina's newlywed dreams shatters as she realizes that Raja is unable to satisfy her libidos. Raja's friend take advantage of his dumb wittedness and gets physical with his wife, Naina."
+    },
+	{
+        "dateAdded": "10-07-2023-11:50:12 AM",
+        "provider": "jiocinema",
+        "tmdb": "130780",
+        "adult": false,
+        "contentId": "biggbossott_hi",
+        "showName": "Bigg Boss OTT",
+        "showLang": "Hindi",
+        "showImage": "https://v3img.voot.com/resizeMedium,w_300,h_570/v3Storage/assets/3x4-1687168088899.jpg?imformat=chrome",
+        "showArt": "https://v3img.voot.com/v3Storage/assets/bbo-episode-stream-16x9-1687168050669.jpg",
+        "keywords": "bigg boss ott, bigg boss ott season 2, jiocinema,",
+        "showGenre": "Reality",
+        "showStory": "This time, Janta is the ASLI BOSS! High-octane multi-camera 24 hours LIVE channel, action-packed latest episodes and get to make crucial decisions for the housemates – all this and more on this season of Bigg Boss OTT. Get ready to experience Bigg Boss OTT Like Never Before!"
+    },
+	{
         "dateAdded": "01-07-2023-06:40:12 PM",
         "provider": "wowenter",
         "tmdb": "",
@@ -12,20 +40,6 @@
         "keywords": "my tuition teacher wow web series, romance web series, romantic web series, hot web series, bold web series, adult web series, sexy web series, urmi,",
         "showGenre": "Romance, Drama",
         "showStory": "Zaruri nahi kee aap jaisa sochte ho waisa hi ho.. Kabhi kabhi wasna jab had ko paar hoti hai.. To had ho jati hai.. Ek shaadi shuda teacher apni student ke romance me aisa duba kee usey ahsass hi nahi hua kee uski kismat us se ek khel khelne wali hai."
-    },
-	{
-        "dateAdded": "08-07-2023-11:00:12 AM",
-        "provider": "jiocinema",
-        "tmdb": "130780",
-        "adult": false,
-        "contentId": "biggbossott_hi",
-        "showName": "Bigg Boss OTT",
-        "showLang": "Hindi",
-        "showImage": "https://v3img.voot.com/resizeMedium,w_300,h_570/v3Storage/assets/3x4-1687168088899.jpg?imformat=chrome",
-        "showArt": "https://v3img.voot.com/v3Storage/assets/bbo-episode-stream-16x9-1687168050669.jpg",
-        "keywords": "bigg boss ott, bigg boss ott season 2, jiocinema,",
-        "showGenre": "Reality",
-        "showStory": "This time, Janta is the ASLI BOSS! High-octane multi-camera 24 hours LIVE channel, action-packed latest episodes and get to make crucial decisions for the housemates – all this and more on this season of Bigg Boss OTT. Get ready to experience Bigg Boss OTT Like Never Before!"
     },
 	{
         "dateAdded": "07-07-2023-11:10:12 PM",

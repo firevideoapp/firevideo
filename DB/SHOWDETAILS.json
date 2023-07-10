@@ -1,5 +1,30 @@
 [
 	{
+		"contentId": "anaris1p1",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://ahvsh.com/e/s80lfqtjgc6q"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://ahvsh.com/e/vztw8enf01is"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://ahvsh.com/e/vf01jcxx0ndd"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "adhura_2023_hi",
 		"seasons": [
 			{
@@ -398,6 +423,11 @@
 						"epName": "22: Salman Ka Vaar",
 						"epNo": 22,
 						"epUrl": "https://ahvsh.com/e/zvnh6jkmypsl"
+					},
+					{
+						"epName": "23: A New War In The House?",
+						"epNo": 23,
+						"epUrl": "https://ahvsh.com/e/zw02oolxscgz"
 					}
 				],
 				"reverse": true,
