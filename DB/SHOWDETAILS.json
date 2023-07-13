@@ -8,6 +8,16 @@
 						"epName": "Episode 01",
 						"epNo": 1,
 						"epUrl": "https://ahvsh.com/e/enw3aclx1nol"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://ahvsh.com/e/yr3osyekduqk"
+					}
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://ahvsh.com/e/oba98sl0nr4a"
 					}
 				],
 				"title": "Season 1"
@@ -468,6 +478,11 @@
 						"epName": "25: Falaq's Ultimate Sacrifice",
 						"epNo": 25,
 						"epUrl": "https://ahvsh.com/e/gxoy74jabtx3"
+					},
+					{
+						"epName": "26: Pyaar ki Paathshala?",
+						"epNo": 26,
+						"epUrl": "https://ahvsh.com/e/00i5dkxearb8"
 					}
 				],
 				"reverse": true,
